@@ -17,6 +17,15 @@ npm run screenshots  # writes screenshots/*.png (preview must be running)
 ```
 Smoke/screenshots use `playwright-core` with system Chrome (`CHROME_PATH`, default `/usr/bin/google-chrome`) and `SMOKE_URL` (default preview URL).
 
+## v2 (North America / US focus)
+- Scroll-driven story landing (globe → continental hotspots → regional corridor → storm environment), animated reveal panels, progress dots, loading splash
+- Map constrained to North America (maxBounds) with CONUS default; areas outside the US dimmed
+- 7 synthetic US corridors (Plains, Midwest, Illinois, Dixie) on a fictional Day 3 → Day 0 system; pulsing polygons, hover tooltips, pitched fly-to
+- 7-tab evidence card: animated gauges, synthetic Skew-T + hodograph (SVG), WHIRL timeline chart across models, model table (WHIRL/STCI/STP), SPC, analogs, chase plan
+- WHIRL Playground with presets (Classic Plains, HSLC Dixie, Illinois warm front, Hail-only CAPE bust): WHIRL vs STCI vs STP + live narrative
+- Smooth play mode; light haptics (navigator.vibrate) on supported phones
+- Pages: `npx vite build -c vite.single.config.ts && cp /tmp/single/index.html docs/index.html`
+
 ## Features
 - Cinematic spinning globe landing → smooth `flyTo` into US regional map
 - Layer manager: toggle, opacity, legend, source, last-updated / error per layer

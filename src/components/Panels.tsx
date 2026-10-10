@@ -2,12 +2,9 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import * as maplibregl from 'maplibre-gl';
 import type { Map as MLMap, GeoJSONSource } from 'maplibre-gl';
 import type { FeatureCollection } from 'geojson';
-import { LAYER_META, LayerId, LayerState } from '../lib/layers';
+import { LAYER_META, type LayerId, type LayerState } from '../lib/layers';
 import { fmtTime, highestCategory, spcTimes } from '../lib/feeds';
-import { computeWhirl, WHIRL_VERSION, WhirlInputs, StormMode } from '../lib/whirl';
-import { DEMO_LABEL, DEMO_RUN_INIT, HotspotDetail, ModelId } from '../data/demo';
-import { labelsAt } from '../lib/geo';
-import { STCI_VERSION, STCI_WEIGHTS } from '../lib/stci';
+import { DEMO_LABEL, DEMO_RUN_INIT, type ModelId } from '../data/demo';
 import { baseStyle, isCig } from './mapStyle';
 
 export interface FeedStatus { loading: boolean; error: string | null; fetchedAt: Date; lastModified: string | null; via: string; count?: number }
@@ -43,63 +40,6 @@ export function LayerPanel({ layers, setLayer, status, model }: {
           </div>
         );
       })}
-    </div>
-  );
-}
-
-const fmt = (n: number, d = 2) => (Number.isFinite(n) ? n.toFixed(d) : '—');
-
-export function HotspotCard({ d, spcCat, spcTorn, onClose, fhrLabel }: {
-  d: HotspotDetail; spcCat: FeatureCollection | null; spcTorn: FeatureCollection | null; onClose: () => void; fhrLabel: string;
-}) {
-  const { def, result, inputs, perModel, spreadPct, stci, stciInputs } = d;
-  const [formula, setFormula] = useState<'whirl' | 'stci'>('whirl');
-  const liveCat = labelsAt(def.center, spcCat); const liveTorn = labelsAt(def.center, spcTorn);
-  const maxS = Math.max(...perModel.map((p) => p.score), 0.01);
-  const rows: [string, string, number][] = [
-    ['0–500 m SRH', `${fmt(inputs.srh500, 0)} m²/s²`, result.terms.srhTerm], ['Eff. bulk shear', `${fmt(inputs.effShearKt, 0)} kt`, result.terms.sShear],
-    ['MLCAPE', `${fmt(inputs.mlcape, 0)} J/kg`, result.terms.sCape], ['ML LCL', `${fmt(inputs.mllclM, 0)} m`, result.terms.sLcl],
-    ['MLCIN', `${fmt(inputs.mlcin, 0)} J/kg`, result.terms.sCin], ['Storm mode', inputs.mode, result.terms.mMode], ['Boundary', inputs.boundary ? 'active' : 'none', result.terms.mBoundary],
-  ];
-  return (
-    <div className="card" role="dialog" aria-label={`${def.name} evidence card`} data-testid="hotspot-card">
-      <div className="card-head">
-        <div><div className="eyebrow">WHIRL-E environmental favorability <DemoBadge small /></div><h2>{def.name}</h2></div>
-        <button className="icon" onClick={onClose} aria-label="Close card">✕</button>
-      </div>
-      <div className="seg" role="tablist" aria-label="Formula">
-        <button role="tab" aria-selected={formula === 'whirl'} className={formula === 'whirl' ? 'on' : ''} onClick={() => setFormula('whirl')}>WHIRL v0.1</button>
-        <button role="tab" aria-selected={formula === 'stci'} className={formula === 'stci' ? 'on' : ''} onClick={() => setFormula('stci')}>STCI (exp.)</button>
-      </div>
-      {formula === 'whirl' ? (<>
-      <div className={`score cat-${result.category}`}><b>{fmt(result.score)}</b><span>{result.category}<br /><small>{WHIRL_VERSION} · {fhrLabel}</small></span></div>
-      <p className="disclaimer">Synthetic demonstration region — an environmental favorability area, <b>not a tornado path</b>, not a warning, not a calibrated probability.</p>
-      <section><h4>Ingredients</h4>
-        <table className="ing"><tbody>{rows.map(([k, v, t]) => <tr key={k}><td>{k}</td><td>{v}</td><td className="term">×{fmt(t)}</td></tr>)}</tbody></table>
-      </section>
-      </>) : (<>
-      <div className="score"><b>{fmt(stci.score)}</b><span>/ 10<br /><small>{STCI_VERSION} · {fhrLabel}</small></span></div>
-      <p className="disclaimer">STCI weights, midpoints and gates are <b>unverified hypotheses</b>. Synthetic demo inputs; not a tornado path or probability.</p>
-      <section><h4>Weighted sub-indices</h4>
-        <table className="ing"><tbody>
-          {([['0–500 m SRH', `${fmt(stciInputs.srh500, 0)} m²/s²`, 'srh500'], ['Streamwise frac 0–500 m', fmt(stciInputs.streamwiseFrac500), 'streamwise'], ['0–3 km CAPE', `${fmt(stciInputs.cape03, 0)} J/kg`, 'cape03'],
-            ['ML LCL', `${fmt(stciInputs.mllclM, 0)} m`, 'lcl'], ['Sfc–850 Td dep.', `${fmt(stciInputs.sfc850TdDep, 1)} °C`, 'tdDep'], ['Boundary θv grad', `${fmt(stciInputs.thetaVGrad, 1)} K/10km`, 'thetaV']] as const)
-            .map(([k, v, key]) => <tr key={k}><td>{k}</td><td>{v}</td><td className="term">{fmt(stci.sub[key])} × w{STCI_WEIGHTS[key]}</td></tr>)}
-        </tbody></table>
-      </section>
-      <section><h4>Gates</h4><p>EIL ×{fmt(stci.gates.eil)} · BWD {fmt(stciInputs.bwdMs, 1)} m/s ×{fmt(stci.gates.bwd)} · CIN ×{fmt(stci.gates.cin)}</p></section>
-      </>)}
-      <section><h4>Timing</h4><p>{def.timing}</p></section>
-      <section><h4>Model disagreement <small>spread {fmt(spreadPct, 0)}%</small></h4>
-        {perModel.map((p) => <div key={p.model} className="bar"><span>{p.model}</span><i style={{ width: `${(p.score / maxS) * 100}%` }} /><b>{fmt(p.score)}</b></div>)}
-      </section>
-      <section><h4>SPC comparison</h4>
-        <p><b>Live SPC Day 1 at hotspot center:</b> {spcCat ? (liveCat.length ? liveCat.join(', ') : 'outside all categorical areas') : 'unavailable'}
-          {spcTorn ? ` · tornado: ${liveTorn.length ? liveTorn.join(', ') : 'none'}` : ''}</p>
-        <p className="muted">Note: live SPC is for today; demo hotspot is a synthetic case day, so mismatch is expected. Demo narrative: {def.spcContext}</p>
-      </section>
-      <section><h4>Analogs <DemoBadge small /></h4><ul>{def.analogs.map((a) => <li key={a.date}><b>{a.date}</b> — {a.note}</li>)}</ul></section>
-      <section><p className="muted">{def.notes}</p></section>
     </div>
   );
 }
@@ -155,26 +95,3 @@ export function SpcPanel({ spcCat, spcTorn, catStatus, tornStatus, mainMap, hots
   );
 }
 
-const DEFAULT_CALC: WhirlInputs = { srh500: 200, effShearKt: 50, mlcape: 1500, mllclM: 900, mlcin: -30, mode: 'discrete', boundary: false };
-export function CalculatorPanel() {
-  const [v, setV] = useState<WhirlInputs>(DEFAULT_CALC);
-  const r = computeWhirl(v);
-  const num = (k: keyof WhirlInputs, label: string, min: number, max: number, step: number, unit: string) => (
-    <label className="calc-row"><span>{label}</span>
-      <input type="range" min={min} max={max} step={step} value={v[k] as number} onChange={(e) => setV({ ...v, [k]: Number(e.target.value) })} />
-      <b>{v[k] as number} {unit}</b></label>
-  );
-  return (
-    <div className="panel-body">
-      <h3>WHIRL {WHIRL_VERSION} calculator</h3>
-      <p className="muted">WHIRL = SRH500/75 × S<sub>shear</sub> × S<sub>CAPE</sub> × S<sub>LCL</sub> × S<sub>CIN</sub> × M<sub>mode</sub> × M<sub>boundary</sub>. Weights are untuned hypotheses.</p>
-      {num('srh500', '0–500 m SRH', 0, 600, 5, 'm²/s²')}{num('effShearKt', 'Eff. shear', 0, 90, 1, 'kt')}
-      {num('mlcape', 'MLCAPE', 0, 5000, 50, 'J/kg')}{num('mllclM', 'ML LCL', 200, 2500, 25, 'm')}{num('mlcin', 'MLCIN', -300, 0, 5, 'J/kg')}
-      <label className="calc-row"><span>Storm mode</span>
-        <select value={v.mode} onChange={(e) => setV({ ...v, mode: e.target.value as StormMode })}><option value="linear">likely linear ×0.5</option><option value="mixed">mixed ×1.0</option><option value="discrete">likely discrete ×1.25</option></select></label>
-      <label className="calc-row"><span>Boundary</span><input type="checkbox" checked={v.boundary} onChange={(e) => setV({ ...v, boundary: e.target.checked })} /><b>{v.boundary ? '×1.2' : '×1.0'}</b></label>
-      <div className={`score cat-${r.category}`}><b>{r.score.toFixed(2)}</b><span>{r.category}</span></div>
-      <p className="muted">Draft scale: &lt;1 low-odds · 1–3 chaseable · 3+ high-end. Not a tornado probability.</p>
-    </div>
-  );
-}
