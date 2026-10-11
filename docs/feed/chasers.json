@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-11T01:47:24.275Z",
+  "updated_utc": "2026-10-11T03:42:57.547Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2109119797028155679",
+          "text": "NEW VIDEO - 120 mph wind gusts hammer Team Dominator in Hurricane Isaias - WATCH:\nhttps://t.co/KMkyYgwzBu https://t.co/I3xjeWx7TI",
+          "created_at": "2026-10-11T03:11:59.000Z",
+          "url": "https://x.com/i/status/2109119797028155679",
+          "media_url": "https://pbs.twimg.com/media/HUUZRu6W0AAfFUz.jpg"
+        },
         {
           "id": "2109064833576407103",
           "text": "BOOMER SOONER IS BACK",
@@ -31,13 +38,6 @@
           "created_at": "2026-10-10T03:04:43.000Z",
           "url": "https://x.com/i/status/2108755579623637476",
           "media_url": "https://pbs.twimg.com/media/HUPOBbvWkAAs6Mj.jpg"
-        },
-        {
-          "id": "2108724044254122095",
-          "text": "Hurricane Isaias very powerful 100+ mph winds hammering Fort Walton Beach to Destin, Florida https://t.co/48fEzX5BVo",
-          "created_at": "2026-10-10T00:59:25.000Z",
-          "url": "https://x.com/i/status/2108724044254122095",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2108723754507399169/img/1CQvwzzt-Id5rXKN.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2109115282908192967",
+          "text": "Heavy rainfall is triggering rapid river rises across the North and South Carolina mountains tonight, with widespread flood alerts now active across the region...\n\nThe Rocky Broad River at Bat Cave has already exceeded minor flood stage and continues to rise, while the Broad https://t.co/pUApz5kCVS",
+          "created_at": "2026-10-11T02:54:03.000Z",
+          "url": "https://x.com/i/status/2109115282908192967",
+          "media_url": "https://pbs.twimg.com/media/HUUVK3aWsAAmnnK.jpg"
+        },
+        {
           "id": "2109075042852049154",
           "text": "Hurricane Simon is yet another powerhouse in what has been a remarkably active Eastern Pacific season...\n\nUnfortunately, its slow crawl toward southwestern Mexico will lead to a destructive landfall, with significant flash flooding and mudslides expected in the coming days... https://t.co/COdTq4oj1e",
           "created_at": "2026-10-11T00:14:09.000Z",
@@ -113,12 +120,6 @@
           "created_at": "2026-10-10T20:24:18.000Z",
           "url": "https://x.com/i/status/2109017199327211557",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109016691434786817/pu/img/XgZxasjBovyEnr3E.jpg"
-        },
-        {
-          "id": "2109012411537621403",
-          "text": "The death toll from Hurricane Isaias has sadly reached four, with at least six additional people hospitalized due to storm-related incidents. \n\nIn Florida, Escambia County has reported two fatalities from a fallen tree and carbon monoxide poisoning, the latter of which also left",
-          "created_at": "2026-10-10T20:05:17.000Z",
-          "url": "https://x.com/i/status/2109012411537621403"
         }
       ]
     },
@@ -168,6 +169,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2109113098233647239",
+          "text": "National High/Low temps for Saturday October 10, 2026: 98 at Needles, CA, 4 miles northwest of Topock, AZ, 3 miles west-southwest of Parker, AZ; 18 at Mount Washington, NH #cawx #azwx #azwx #nhwx",
+          "created_at": "2026-10-11T02:45:22.000Z",
+          "url": "https://x.com/i/status/2109113098233647239"
+        },
+        {
           "id": "2109071238714871890",
           "text": "#WPC_MD 1474 affecting Southern CA...Western AZ...Far Southern NV, #azwx #nvwx #cawx, https://t.co/2AvuClsxTl https://t.co/W10lEmpB4l",
           "created_at": "2026-10-10T23:59:02.000Z",
@@ -194,13 +201,6 @@
           "created_at": "2026-10-10T20:01:22.000Z",
           "url": "https://x.com/i/status/2109011428032074192",
           "media_url": "https://pbs.twimg.com/media/HUS2t-eWEAAxU8Z.jpg"
-        },
-        {
-          "id": "2108984008541458886",
-          "text": "#WPC_MD 1472 affecting Southwest U.S., #cowx #nmwx #utwx #azwx #nvwx #cawx, https://t.co/TZs8aEUDdn https://t.co/u2wOgyCXqo",
-          "created_at": "2026-10-10T18:12:25.000Z",
-          "url": "https://x.com/i/status/2108984008541458886",
-          "media_url": "https://pbs.twimg.com/media/HUSdx-WXUAA6sPK.jpg"
         }
       ]
     }
