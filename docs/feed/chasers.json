@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T00:36:52.497Z",
+  "updated_utc": "2026-10-11T01:47:24.275Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2109097179327435006",
+          "text": "A full day after landfall, what's left of Isaias did this. The red streak is the storm's rotation on radar, the blue dots are WeatherWise storm chasers, and a tornado was confirmed along it again and again for three and a half hours. https://t.co/Q8KibCHT9E",
+          "created_at": "2026-10-11T01:42:07.000Z",
+          "url": "https://x.com/i/status/2109097179327435006",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109097124923101184/pu/img/xkYXKkDocy6a7GpC.jpg"
+        },
+        {
           "id": "2109029799637229947",
           "text": "WOW large tornado in front of Freddy moments ago\n\nVideo: Freddy McKinney (@FreddyMcKinneyR) https://t.co/R4JJDomFOC",
           "created_at": "2026-10-10T21:14:22.000Z",
@@ -72,13 +79,6 @@
           "created_at": "2026-10-10T15:13:59.000Z",
           "url": "https://x.com/i/status/2108939104444453266",
           "media_url": "https://pbs.twimg.com/media/HUR08IaWoAAUHgI.jpg"
-        },
-        {
-          "id": "2108924593582776348",
-          "text": "Find your city. This is the rain forecast from what's left of Isaias through Monday morning: about an inch for most of Tennessee, Kentucky and Ohio, and up to 9 in the North Carolina mountains.\n\nThe tornado risk today is in eastern Georgia and South Carolina, mainly this evening. https://t.co/NAbYfwmmB3",
-          "created_at": "2026-10-10T14:16:19.000Z",
-          "url": "https://x.com/i/status/2108924593582776348",
-          "media_url": "https://pbs.twimg.com/media/HURnvauWIAAdoz1.jpg"
         }
       ]
     },
