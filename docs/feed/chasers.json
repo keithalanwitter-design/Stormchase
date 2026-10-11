@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T17:50:49.045Z",
+  "updated_utc": "2026-10-11T18:49:11.109Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2109352395620642945",
+          "text": "Sir, please put the lawn mower away.\n\nA viewer in Beulaville, North Carolina checked in on the app mid-tornado warning complaining that their yard work got interrupted. https://t.co/JBaSw22PGP",
+          "created_at": "2026-10-11T18:36:15.000Z",
+          "url": "https://x.com/i/status/2109352395620642945",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109352370207436800/pu/img/nocx8AKRRXjf3CYD.jpg"
+        },
+        {
+          "id": "2109346159361663139",
+          "text": "This Duplin/Jones/Lenoir/Onslow County tornado is still on the ground and still large. It's pushing past Beulaville and Potters Hill toward Pleasant Hill, and the warning runs until 2:45 PM. If you're in Pink Hill, Hargetts Crossroads, or Sarecta, get to the lowest floor, https://t.co/JJ9jl6W8mS",
+          "created_at": "2026-10-11T18:11:28.000Z",
+          "url": "https://x.com/i/status/2109346159361663139",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109346132841127936/pu/img/3D7jsBGDaHp_wupA.jpg"
+        },
+        {
           "id": "2109334984775332296",
           "text": "A confirmed, large tornado is on the ground near Wake Forest, moving northeast at 30 mph toward Rolesville and Youngsville. This is PDS level, so get to an interior room on the lowest floor now, away from windows. Warning's active until 2 PM. https://t.co/yjKY6YQJXN",
           "created_at": "2026-10-11T17:27:04.000Z",
@@ -65,20 +79,6 @@
           "created_at": "2026-10-11T11:15:23.000Z",
           "url": "https://x.com/i/status/2109241448948252767",
           "media_url": "https://pbs.twimg.com/media/HUWH610XQAApUXN.jpg"
-        },
-        {
-          "id": "2109097179327435006",
-          "text": "A full day after landfall, what's left of Isaias did this. The red streak is the storm's rotation on radar, the blue dots are WeatherWise storm chasers, and a tornado was confirmed along it again and again for three and a half hours. https://t.co/Q8KibCHT9E",
-          "created_at": "2026-10-11T01:42:07.000Z",
-          "url": "https://x.com/i/status/2109097179327435006",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109097124923101184/pu/img/xkYXKkDocy6a7GpC.jpg"
-        },
-        {
-          "id": "2109029799637229947",
-          "text": "WOW large tornado in front of Freddy moments ago\n\nVideo: Freddy McKinney (@FreddyMcKinneyR) https://t.co/R4JJDomFOC",
-          "created_at": "2026-10-10T21:14:22.000Z",
-          "url": "https://x.com/i/status/2109029799637229947",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109029727365132288/pu/img/QflcwjOA-x-GKnct.jpg"
         }
       ]
     },
@@ -86,6 +86,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2109346209131348267",
+          "text": "PDS TORNADO WARNING for Beulaville, North Carolina!\n\nSeek shelter if you are in this warning! https://t.co/O3npw9VqrF",
+          "created_at": "2026-10-11T18:11:40.000Z",
+          "url": "https://x.com/i/status/2109346209131348267",
+          "media_url": "https://pbs.twimg.com/media/HUXnMriWMAAbzvG.jpg"
+        },
+        {
+          "id": "2109345391837622287",
+          "text": "STRONG TORNADO IN PROGRESS near Beulaville, North Carolina!\n\nSeek shelter IMMEDIATELY if you are in this warning! https://t.co/txD7xZX20D",
+          "created_at": "2026-10-11T18:08:25.000Z",
+          "url": "https://x.com/i/status/2109345391837622287",
+          "media_url": "https://pbs.twimg.com/media/HUXmdIsXEAAS0Lc.jpg"
+        },
         {
           "id": "2109340169690136836",
           "text": "LIKELY STRONG TORNADO moving into Louisburg, North Carolina!\n\nSeek shelter IMMEDIATELY if you are in this area! https://t.co/RZICuCxa7p",
@@ -106,20 +120,6 @@
           "created_at": "2026-10-11T17:25:07.000Z",
           "url": "https://x.com/i/status/2109334493949489364",
           "media_url": "https://pbs.twimg.com/media/HUXciyKW4AAmVrm.jpg"
-        },
-        {
-          "id": "2109333513052844444",
-          "text": "OBSERVED TORNADO WARNING for Rolesville, North Carolina!\n\nSeek shelter IMMEDIATELY if you are in this warning! https://t.co/XclEL5uQI5",
-          "created_at": "2026-10-11T17:21:13.000Z",
-          "url": "https://x.com/i/status/2109333513052844444",
-          "media_url": "https://pbs.twimg.com/media/HUXbpp1XgAASIey.jpg"
-        },
-        {
-          "id": "2109331770445295662",
-          "text": "TORNADO WARNING including areas east of Raleigh, North Carolina!\n\nSeek shelter if you are in this warning! https://t.co/3P6kGzLIdw",
-          "created_at": "2026-10-11T17:14:18.000Z",
-          "url": "https://x.com/i/status/2109331770445295662",
-          "media_url": "https://pbs.twimg.com/media/HUXaEHtXYAANSu2.jpg"
         }
       ]
     },
@@ -169,6 +169,20 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2109350155442893257",
+          "text": "Below are some of the preliminary observed rainfall reports associated with Isaias over the last two days. https://t.co/0iGiM9ybZm",
+          "created_at": "2026-10-11T18:27:21.000Z",
+          "url": "https://x.com/i/status/2109350155442893257",
+          "media_url": "https://pbs.twimg.com/media/HUXqeHDW0AAbFrx.jpg"
+        },
+        {
+          "id": "2109342376648978591",
+          "text": "#WPC_MD 1481 affecting Intermountain West, #utwx #wywx #idwx #nvwx, https://t.co/amIV8aqKRp https://t.co/JZixcI1DrI",
+          "created_at": "2026-10-11T17:56:26.000Z",
+          "url": "https://x.com/i/status/2109342376648978591",
+          "media_url": "https://pbs.twimg.com/media/HUXjtvqWYAAb4Fp.jpg"
+        },
+        {
           "id": "2109328304603844674",
           "text": "#WPC_MD 1480 affecting Southern UT...Northern AZ...Southeast CA...Southern NV, #utwx #azwx #nvwx #cawx, https://t.co/kZZGq9l7Bw https://t.co/0LAh5jfwCM",
           "created_at": "2026-10-11T17:00:31.000Z",
@@ -188,18 +202,6 @@
           "created_at": "2026-10-11T15:56:14.000Z",
           "url": "https://x.com/i/status/2109312125831184528",
           "media_url": "https://pbs.twimg.com/media/HUXIM6ZX0AAdEMn.jpg"
-        },
-        {
-          "id": "2109254016702034204",
-          "text": "First winter storm of the season forecast for the Northern Rockies this weekend https://t.co/kPv4k077nv",
-          "created_at": "2026-10-11T12:05:20.000Z",
-          "url": "https://x.com/i/status/2109254016702034204"
-        },
-        {
-          "id": "2109254015343108495",
-          "text": "Post-Tropical Cyclone Isaias brings widespread rainfall across the Eastern states https://t.co/kPv4k077nv",
-          "created_at": "2026-10-11T12:05:19.000Z",
-          "url": "https://x.com/i/status/2109254015343108495"
         }
       ]
     }
