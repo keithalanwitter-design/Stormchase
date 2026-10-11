@@ -7,7 +7,7 @@ P0 = next session. Milestones per handoff (M1–M2 delivered as this demo shell)
 | 1 | P0 | M3 | Move feed proxy to a Cloudflare Worker with caching + UA header; keep dev proxy |
 | 2 | P0 | M3 | NWS alerts: per-event popups, expires/issued, filter UI, polygon-less alerts via zone geometry |
 | 3 | P0 | M3 | SPC Day 2/3 + hatched sig-tor (CIG) rendering with pattern fill; MD/watch overlays |
-| 4 | P0 | — | Push repo to GitHub (source of truth) + CI: lint, test, build, smoke |
+| 4 | done | — | Push repo to GitHub + CI (landed 2026-10-10: origin/main synced, CI green, Pages live) |
 | 5 | P1 | M5 | HRRR extraction with Herbie + MetPy → vertical_profiles (SRH500, streamwise frac, CAPE0–3 …) |
 | 6 | P1 | M5 | Environmental layer tiles (raster/vector) from HRRR/RAP; replace synthetic inputs per model/fhr |
 | 7 | P1 | M4 | Apply/validate db/schema.sql (diff vs Keith's original); load SPC actual tracks + NCEI |

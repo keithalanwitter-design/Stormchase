@@ -4,6 +4,8 @@ import MapView from './components/MapView';
 import { LayerPanel, SpcPanel, DemoBadge, type FeedStatus } from './components/Panels';
 import EvidenceCard from './components/EvidenceCard';
 import Playground from './components/Playground';
+import ChaserFeed from './components/ChaserFeed';
+import { CHASERS } from './lib/chasers';
 import Story, { STORY_STEPS } from './components/Story';
 import { haptic } from './components/Viz';
 import { DEFAULT_LAYERS, searchPlaces, type LayerId, type LayerState } from './lib/layers';
@@ -11,8 +13,8 @@ import { NWS_ALERTS_URL, SPC_CAT_URL, SPC_TORN_URL, filterSevereAlerts, fmtTime 
 import { DEMO_LABEL, HOTSPOT_DEFS, MODELS, MAX_FHR, demoHotspots, peakHotspots, hotspotDetail, validTime, dayLabel, NORTH_AMERICA_BOUNDS, CONUS_VIEW, type ModelId } from './data/demo';
 import { useFeed, useIsMobile } from './hooks';
 
-type Panel = 'layers' | 'spc' | 'play' | null;
-export const APP_BUILD_MARKER = 'stormchase-na-v2';
+type Panel = 'layers' | 'spc' | 'play' | 'chasers' | null;
+export const APP_BUILD_MARKER = 'stormchase-na-v3-chasers';
 
 export default function App() {
   const mobile = useIsMobile();
@@ -109,8 +111,8 @@ export default function App() {
             <li key={r.name}><button onClick={() => { haptic(); setQ(''); map?.flyTo({ center: [r.lon, r.lat], zoom: 7.5, pitch: 40 }); }}>{r.name}</button></li>))}</ul>}
         </div>}
         <nav className="tabs">
-          {story ? <button onClick={enter}>Skip tour →</button> : (['layers', 'spc', 'play'] as const).map((p) => (
-            <button key={p} className={panel === p ? 'on' : ''} onClick={() => togglePanel(p)}>{p === 'layers' ? 'Layers' : p === 'spc' ? 'SPC' : 'Playground'}</button>))}
+          {story ? <button onClick={enter}>Skip tour →</button> : (['layers', 'spc', 'play', 'chasers'] as const).map((p) => (
+            <button key={p} className={panel === p ? 'on' : ''} onClick={() => togglePanel(p)}>{p === 'layers' ? 'Layers' : p === 'spc' ? 'SPC' : p === 'play' ? 'Playground' : 'Chasers'}</button>))}
         </nav>
       </header>
 
@@ -123,6 +125,7 @@ export default function App() {
           {panel === 'layers' && <LayerPanel layers={layers} setLayer={setLayer} status={status} model={model} />}
           {panel === 'spc' && <SpcPanel spcCat={spcCat.data} spcTorn={spcTorn.data} catStatus={st(spcCat)} tornStatus={st(spcTorn)} mainMap={map} hotspots={hotspots} reload={() => { void spcCat.reload(); void spcTorn.reload(); }} />}
           {panel === 'play' && <Playground />}
+          {panel === 'chasers' && <ChaserFeed />}
         </aside>
       )}
 
@@ -132,6 +135,9 @@ export default function App() {
             {hotspots.features.length ? [...hotspots.features].sort((a, b) => b.properties.score - a.properties.score).map((f) => (
               <button key={f.properties.id} className="hs-row" onClick={() => select(f.properties.id)}><span>{f.properties.name}<small>{f.properties.region}</small></span><b className={`cat-${f.properties.category}`}>{f.properties.score.toFixed(2)}</b></button>
             )) : <p className="muted">No favorable demo environment at this hour — press ▶ or scrub the timeline.</p>}
+          </div>
+          <div className="mini-card"><div className="eyebrow">Chaser Feed <span className="third-badge">3RD-PARTY</span></div>
+            {CHASERS.map((c) => <button key={c.id} className="hs-row" onClick={() => togglePanel('chasers')}><span>{c.name}<small>@{c.xHandle} · X / live</small></span><b>↗</b></button>)}
           </div>
         </aside>
       )}

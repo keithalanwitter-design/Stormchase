@@ -21,6 +21,13 @@ await page.waitForSelector('svg.tchart, .chase');
 await page.click('.tabs >> text=Playground');
 await page.click('.presets >> text=Hail-only CAPE bust');
 const narr = await page.textContent('.playground .narr');
+await page.click('.tabs >> text=Chasers');
+await page.waitForSelector('[data-testid="chaser-reed-timmer"]');
+await page.waitForFunction(() => document.querySelector('[data-testid="chaser-reed-timmer"]')?.dataset.embedState !== 'loading', null, { timeout: 15000 });
+const embedState = await page.getAttribute('[data-testid="chaser-reed-timmer"]', 'data-embed-state');
+const xHref = await page.getAttribute('.chaser-links a', 'href');
+if (xHref !== 'https://x.com/ReedTimmerUSA') { console.error('Open on X link wrong'); process.exit(1); }
+console.log(`Chaser Feed embed state: ${embedState}`);
 await browser.close();
 if (errors.length) { console.error('Page errors:', errors); process.exit(1); }
 if (!/chasing CAPE/.test(narr ?? '')) { console.error('Playground narrative did not update'); process.exit(1); }
