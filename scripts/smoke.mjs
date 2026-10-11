@@ -52,7 +52,33 @@ if (!/chasing CAPE/.test(narr ?? '')) fail('Playground narrative did not update'
 await page.click('.tabs >> text=Chasers');
 await page.waitForSelector('[data-testid="post-card"]', { timeout: 15000 });
 const posts = await page.locator('[data-testid="post-card"]').count();
+// 6. Mobile: page scrolls past the map (wheel and one-finger touch swipe) to reach the FAQ
+await page.close();
+const mp = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, isMobile: true, hasTouch: true });
+await mp.bringToFront();
+mp.on('pageerror', (e) => errors.push('mobile: ' + e.message));
+await mp.goto(URL); await mp.waitForSelector('.splash.gone', { timeout: 30000 });
+await mp.waitForSelector('[data-testid="peek"]');
+const cdp = await mp.context().newCDPSession(mp);
+const T = (o) => Promise.race([cdp.send('Input.dispatchTouchEvent', o), new Promise((r) => setTimeout(r, 3000))]);
+for (let s = 0; s < 4; s++) { // one-finger swipes that start ON the map
+  await T({ type: 'touchStart', touchPoints: [{ x: 195, y: 450 }] });
+  for (let y = 450; y >= 100; y -= 70) await T({ type: 'touchMove', touchPoints: [{ x: 195, y }] });
+  await T({ type: 'touchEnd', touchPoints: [] }); await mp.waitForTimeout(300);
+}
+const touchY = await mp.evaluate(() => window.scrollY);
+if (touchY < 600) fail(`one-finger swipe did not scroll the page (scrollY=${touchY})`);
+await mp.evaluate(() => window.scrollTo(0, 0)); await mp.waitForTimeout(300);
+await mp.mouse.move(195, 400);
+for (let i = 0; i < 12; i++) { await mp.mouse.wheel(0, 500); await mp.waitForTimeout(120); }
+const wheelY = await mp.evaluate(() => window.scrollY);
+if (wheelY < 600) fail(`mobile wheel did not scroll the page (scrollY=${wheelY})`);
+await mp.evaluate(() => window.scrollTo(0, 0)); await mp.click('[data-testid="how-link"]'); await mp.waitForTimeout(1200);
+const faqVisible = await mp.evaluate(() => { const r = document.querySelector('[data-testid="faq"]').getBoundingClientRect(); return window.scrollY > 400 && r.top < window.innerHeight * 3; });
+if (!faqVisible) fail('mobile How it works button did not scroll to the section');
+await mp.locator('[data-testid="faq"]').scrollIntoViewIfNeeded(); await mp.click('[data-testid="faq"] details:nth-child(1) summary');
 await browser.close();
+console.log(`Mobile scroll: wheel→${wheelY}px, touch→${touchY}px, FAQ reachable`);
 if (errors.length) fail('Page errors: ' + errors.join(' | '));
 console.log(`Live: ${radarText} | ${liveText.slice(0, 160)}`);
 console.log(`SMOKE OK (${marker}): live-first load, FAQ (${faqCount} Qs), demo walkthrough ${steps} steps → back to live, hotspot tabs, Playground, Chaser Feed (${posts} posts)`);

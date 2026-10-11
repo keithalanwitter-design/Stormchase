@@ -14,11 +14,11 @@ export const FAQ: { q: string; a: string }[] = [
   { q: 'Does the site use my location?', a: 'No. There is no geolocation, and place search uses a small built-in list.' },
 ];
 
-export default function InfoPage({ onClose, onDemo, onPlayground }: { onClose: () => void; onDemo: () => void; onPlayground: () => void }) {
+export default function InfoPage({ onClose, onDemo, onPlayground, embedded }: { embedded?: boolean; onClose: () => void; onDemo: () => void; onPlayground: () => void }) {
   return (
-    <div className="info-page slide-up" data-testid="info-page" role="dialog" aria-label="How it works">
+    <div className={embedded ? 'info-page embedded' : 'info-page slide-up'} data-testid="info-page" role={embedded ? 'region' : 'dialog'} aria-label="How it works">
       <div className="info-inner">
-        <div className="info-top"><h1>How StormChase works</h1><button className="icon" onClick={onClose} aria-label="Close">✕</button></div>
+        <div className="info-top"><h1>How StormChase works</h1><button className="icon" onClick={onClose} aria-label={embedded ? 'Back to map' : 'Close'}>{embedded ? '↑ Map' : '✕'}</button></div>
         <div className="cta-cards">
           <button className="cta-card" onClick={() => { haptic(12); onDemo(); }} data-testid="info-demo"><span className="demo-badge">DEMO</span><b>Try a demo chase day</b><small>Guided 5-step walkthrough of a synthetic outbreak</small></button>
           <button className="cta-card" onClick={() => { haptic(12); onPlayground(); }}><span className="third-badge">LAB</span><b>WHIRL Playground</b><small>Drag ingredients and compare WHIRL, STCI and STP</small></button>

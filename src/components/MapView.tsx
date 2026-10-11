@@ -13,7 +13,7 @@ export interface MapViewProps {
   layers: Record<LayerId, LayerState>; selectedId: string | null; onSelect: (id: string | null) => void;
   onReady?: (m: MLMap) => void; spin: boolean; marker: [number, number] | null;
   sigtorn: FeatureCollection | null; spcD2: FeatureCollection | null; spcD3: FeatureCollection | null; md: FeatureCollection | null; nhc: FeatureCollection | null;
-  radarFrames: RadarFrame[]; radarIndex: number;
+  radarFrames: RadarFrame[]; radarIndex: number; onRadarReady?: (times: number[]) => void;
 }
 const EMPTY: FeatureCollection = { type: 'FeatureCollection', features: [] };
 const LAYER_IDS: Record<LayerId, { id: string; prop: string; k: number }[]> = {
@@ -41,6 +41,9 @@ export default function MapView(p: MapViewProps) {
       attributionControl: { compact: true }, maxPitch: 65,
     });
     mapRef.current = map;
+    map.on('sourcedata', (e) => { if (String(e.sourceId ?? '').startsWith('radar-')) reportReady(); });
+    map.on('idle', reportReady);
+    map.on('error', (e) => { const sid = String((e as unknown as { sourceId?: string }).sourceId ?? ''); if (sid.startsWith('radar-')) onRadarError(sid); });
     map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'top-right');
     // NOTE: no GeolocateControl — location access is off by default by design.
     const tip = new maplibregl.Popup({ closeButton: false, closeOnClick: false, className: 'hs-tip', offset: 12 });
@@ -148,29 +151,73 @@ export default function MapView(p: MapViewProps) {
     });
     c.hotspots.features.forEach((f) => map.setFeatureState({ source: 'whirl', id: f.id as string }, { selected: f.id === c.selectedId }));
   };
-  // Radar loop: one raster layer per frame; only the current frame is opaque (no tile reload flicker).
+  // Radar loop: every frame is its own raster source/layer, preloaded at opacity 0 (staggered so
+  // RainViewer isn't burst). Frames crossfade: the new one fades in, then the old one fades out,
+  // so there is never a moment with no radar painted. Only fully-loaded frames are reported ready.
   const radarIds = useRef<string[]>([]);
+  const radarPrev = useRef(-1);
+  const radarAnim = useRef(0);
+  const radarTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const readyKey = useRef('');
+  // Frames with any failed tile (e.g. rate limited) are excluded, then dropped and re-queued later.
+  const radarErr = useRef(new Set<string>());
+  const onRadarError = (id: string) => {
+    if (radarErr.current.has(id)) return; radarErr.current.add(id); reportReady();
+    setTimeout(() => { const m = mapRef.current; radarErr.current.delete(id); if (!m) return;
+      if (props.current.radarIndex >= 0 && `radar-${props.current.radarFrames[props.current.radarIndex]?.time}` === id) return;
+      if (m.getLayer(id)) m.removeLayer(id); if (m.getSource(id)) m.removeSource(id);
+      radarIds.current = radarIds.current.filter((x) => x !== id); syncRadar(); }, 20000);
+  };
+  const reportReady = () => {
+    const map = mapRef.current; if (!map) return;
+    const times = props.current.radarFrames.filter((f) => { const id = `radar-${f.time}`; return !!map.getSource(id) && !radarErr.current.has(id) && map.isSourceLoaded(id); }).map((f) => f.time);
+    const k = times.join(','); if (k !== readyKey.current) { readyKey.current = k; props.current.onRadarReady?.(times); }
+  };
   const syncRadar = () => {
     const map = mapRef.current; const c = props.current;
     if (!map || !ready.current) return;
     const want = c.radarFrames.map((f) => `radar-${f.time}`);
     radarIds.current.filter((id) => !want.includes(id)).forEach((id) => { if (map.getLayer(id)) map.removeLayer(id); if (map.getSource(id)) map.removeSource(id); });
-    c.radarFrames.forEach((f, i) => {
-      const id = want[i];
-      if (!map.getSource(id)) map.addSource(id, { type: 'raster', tiles: [f.url], tileSize: 256, maxzoom: RADAR_MAX_ZOOM, attribution: '<a href="https://www.rainviewer.com/" target="_blank">RainViewer</a>' });
-      if (!map.getLayer(id)) map.addLayer({ id, type: 'raster', source: id, paint: { 'raster-opacity': 0, 'raster-fade-duration': 0 } }, 'spccat-fill');
-    });
-    radarIds.current = want;
-    const st = c.layers.radar;
-    const n = want.length;
+    radarIds.current = radarIds.current.filter((id) => want.includes(id));
+    // Stagger preload: add one missing frame at a time, newest first.
+    const missing = c.radarFrames.map((f, i) => ({ f, i, id: want[i] })).filter((x) => !map.getSource(x.id)).reverse();
+    if (missing.length && !radarTimer.current) {
+      radarTimer.current = setTimeout(() => {
+        radarTimer.current = null; const m = mapRef.current; const x = missing[0];
+        if (m && !m.getSource(x.id) && props.current.radarFrames.some((f) => `radar-${f.time}` === x.id)) {
+          m.addSource(x.id, { type: 'raster', tiles: [x.f.url], tileSize: 512, maxzoom: RADAR_MAX_ZOOM, attribution: '<a href="https://www.rainviewer.com/" target="_blank">RainViewer</a>' });
+          m.addLayer({ id: x.id, type: 'raster', source: x.id, paint: { 'raster-opacity': 0, 'raster-fade-duration': 0 } }, 'spccat-fill');
+          radarIds.current.push(x.id); radarPrev.current = -1;
+        }
+        syncRadar();
+      }, radarIds.current.length ? 700 : 0);
+    }
+    const st = c.layers.radar; const cur = c.radarIndex; const prev = radarPrev.current;
+    const changed = prev !== cur && prev >= 0 && !!map.getLayer(want[prev] ?? '') && !!map.getLayer(want[cur] ?? '');
+    cancelAnimationFrame(radarAnim.current);
     want.forEach((id, i) => {
-      // Only the current and next frame are "visible" (requested) to avoid bursting RainViewer's rate limit.
-      const near = i === c.radarIndex || i === (c.radarIndex + 1) % n;
-      map.setLayoutProperty(id, 'visibility', st.visible && near ? 'visible' : 'none');
-      map.setPaintProperty(id, 'raster-opacity', i === c.radarIndex ? st.opacity : 0);
+      if (!map.getLayer(id)) return;
+      map.setLayoutProperty(id, 'visibility', st.visible ? 'visible' : 'none');
+      map.setPaintProperty(id, 'raster-opacity-transition', { duration: 0, delay: 0 });
+      // During a crossfade the outgoing frame stays fully opaque underneath until the new one is in.
+      map.setPaintProperty(id, 'raster-opacity', i === cur ? (changed ? 0.01 : st.opacity) : i === prev && changed ? st.opacity : 0);
     });
+    if (changed) {
+      const inId = want[cur], outId = want[prev]; const t0 = performance.now(); const D = 350;
+      const step = (now: number) => {
+        const m = mapRef.current; if (!m || !m.getLayer(inId)) return;
+        const k = Math.min(1, (now - t0) / D);
+        m.setPaintProperty(inId, 'raster-opacity', Math.max(0.01, st.opacity * k));
+        if (k < 1) radarAnim.current = requestAnimationFrame(step);
+        else if (m.getLayer(outId)) m.setPaintProperty(outId, 'raster-opacity', 0);
+      };
+      radarAnim.current = requestAnimationFrame(step);
+    }
+    radarPrev.current = cur;
   };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(sync, [p.hotspots, p.spcCat, p.spcTorn, p.nws, p.layers, p.selectedId, p.sigtorn, p.spcD2, p.spcD3, p.md, p.nhc, p.radarFrames]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(syncRadar, [p.radarIndex]);
 
   useEffect(() => {

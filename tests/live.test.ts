@@ -7,7 +7,7 @@ describe('RainViewer frames', () => {
   it('builds sorted tile templates and rejects bad input', () => {
     const fr = rainviewerFrames({ host: 'https://tilecache.rainviewer.com', radar: { past: [{ time: 20, path: '/v2/radar/b' }, { time: 10, path: '/v2/radar/a' }, { time: 30, path: '/../evil"' }] } });
     expect(fr.map((f) => f.time)).toEqual([10, 20]);
-    expect(fr[0].url).toBe('https://tilecache.rainviewer.com/v2/radar/a/256/{z}/{x}/{y}/4/1_1.png');
+    expect(fr[0].url).toBe('https://tilecache.rainviewer.com/v2/radar/a/512/{z}/{x}/{y}/4/1_1.png');
     expect(rainviewerFrames({ host: 'http://x', radar: { past: [] } })).toEqual([]);
     expect(rainviewerFrames(null)).toEqual([]);
   });

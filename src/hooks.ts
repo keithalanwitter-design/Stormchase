@@ -26,7 +26,7 @@ export function useIsMobile(bp = 820) {
   return m;
 }
 
-import { RAINVIEWER_API, RADAR_REFRESH_MS, rainviewerFrames, NHC_MAPSERVER, nhcLayerIds, type RadarFrame } from './lib/live';
+import { RAINVIEWER_API, RADAR_REFRESH_MS, RADAR_MAX_FRAMES, rainviewerFrames, NHC_MAPSERVER, nhcLayerIds, type RadarFrame } from './lib/live';
 import type { FeatureCollection, Feature } from 'geojson';
 
 export function useRadarFrames(enabled = true) {
@@ -37,7 +37,7 @@ export function useRadarFrames(enabled = true) {
     if (!enabled) return;
     let alive = true;
     const load = async () => {
-      try { const r = await fetch(RAINVIEWER_API, { cache: 'no-store' }); if (!r.ok) throw new Error(`HTTP ${r.status}`); const f = rainviewerFrames(await r.json()); if (!f.length) throw new Error('no frames');
+      try { const r = await fetch(RAINVIEWER_API, { cache: 'no-store' }); if (!r.ok) throw new Error(`HTTP ${r.status}`); const f = rainviewerFrames(await r.json()).slice(-RADAR_MAX_FRAMES); if (!f.length) throw new Error('no frames');
         if (alive) { setFrames(f); setError(null); setFetchedAt(new Date()); } }
       catch (e) { if (alive) setError((e as Error).message); }
     };

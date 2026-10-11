@@ -12,6 +12,14 @@ import type { Feature, FeatureCollection } from 'geojson';
 
 export const RAINVIEWER_API = 'https://api.rainviewer.com/public/weather-maps.json';
 export const RADAR_REFRESH_MS = 5 * 60_000;
+export const RADAR_MAX_FRAMES = 10; // cap preload volume for RainViewer's rate limit
+export const RADAR_SPEEDS = { slow: 1100, normal: 700, fast: 400 } as const;
+export const RADAR_LATEST_HOLD_MS = 2000;
+/** Next frame index to show, skipping frames whose tiles aren't loaded yet. */
+export function nextReadyFrame(cur: number, n: number, ready: (i: number) => boolean): number {
+  for (let k = 1; k <= n; k++) { const i = (cur + k) % n; if (ready(i)) return i; }
+  return cur;
+}
 export const RADAR_MAX_ZOOM = 7; // RainViewer free tiles are limited to z ≤ 7
 export const RADAR_COLOR = 4; // The Weather Channel-style palette
 export const SPC_D1_SIGTORN = 'https://www.spc.noaa.gov/products/outlook/day1otlk_sigtorn.lyr.geojson';
@@ -36,7 +44,7 @@ export function rainviewerFrames(j: unknown, color = RADAR_COLOR): RadarFrame[] 
   if (!r?.host || !/^https:\/\//.test(r.host) || !Array.isArray(r.radar?.past)) return [];
   return r.radar!.past!.filter((f) => typeof f.time === 'number' && typeof f.path === 'string' && /^\/[\w/]+$/.test(f.path))
     .sort((a, b) => a.time - b.time)
-    .map((f) => ({ time: f.time, url: `${r.host}${f.path}/256/{z}/{x}/{y}/${color}/1_1.png` }));
+    .map((f) => ({ time: f.time, url: `${r.host}${f.path}/512/{z}/{x}/{y}/${color}/1_1.png` }));
 }
 
 export interface LiveSummary {

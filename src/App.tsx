@@ -14,10 +14,10 @@ import { DEFAULT_LAYERS, searchPlaces, type LayerId, type LayerState } from './l
 import { SPC_CAT_URL, SPC_TORN_URL, fmtTime } from './lib/feeds';
 import { DEMO_LABEL, HOTSPOT_DEFS, MODELS, MAX_FHR, demoHotspots, hotspotDetail, validTime, dayLabel, NORTH_AMERICA_BOUNDS, CONUS_VIEW, type ModelId } from './data/demo';
 import { useFeed, useIsMobile, useRadarFrames, useNhc } from './hooks';
-import { ALERT_COUNT_URL, SPC_D1_SIGTORN, SPC_D2_CAT, SPC_D3_CAT, SPC_MD_URL, wwaUrl, liveSummary, activeMds } from './lib/live';
+import { ALERT_COUNT_URL, SPC_D1_SIGTORN, SPC_D2_CAT, SPC_D3_CAT, SPC_MD_URL, wwaUrl, liveSummary, activeMds, RADAR_SPEEDS, RADAR_LATEST_HOLD_MS, nextReadyFrame } from './lib/live';
 
 type Panel = 'layers' | 'spc' | 'play' | 'chasers' | null;
-export const APP_BUILD_MARKER = 'stormchase-v6-livefirst';
+export const APP_BUILD_MARKER = 'stormchase-v7-radar-scroll';
 
 export default function App() {
   const mobile = useIsMobile();
@@ -55,11 +55,15 @@ export default function App() {
   const summary = useMemo(() => liveSummary(nwsRaw.data, spcTorn.data, sigtorn.data, md.data), [nwsRaw.data, spcTorn.data, sigtorn.data, md.data]);
   const nFrames = radar.frames.length;
   const rIdx = radarIdx < 0 || radarIdx >= nFrames ? nFrames - 1 : radarIdx;
+  const [radarSpeed, setRadarSpeed] = useState<keyof typeof RADAR_SPEEDS>('normal');
+  const [radarReady, setRadarReady] = useState<number[]>([]);
+  const readyCount = radar.frames.filter((f) => radarReady.includes(f.time)).length;
   useEffect(() => {
-    if (!radarPlay || nFrames < 2) return;
-    const t = setInterval(() => setRadarIdx((i) => { const cur = i < 0 || i >= nFrames ? nFrames - 1 : i; return cur >= nFrames - 1 ? 0 : cur + 1; }), 600);
-    return () => clearInterval(t);
-  }, [radarPlay, nFrames]);
+    if (!radarPlay || nFrames < 2 || readyCount < 2) return;
+    const t = setTimeout(() => setRadarIdx(nextReadyFrame(rIdx, nFrames, (i) => radarReady.includes(radar.frames[i].time))),
+      rIdx === nFrames - 1 ? RADAR_LATEST_HOLD_MS : RADAR_SPEEDS[radarSpeed]);
+    return () => clearTimeout(t);
+  }, [radarPlay, nFrames, rIdx, radarSpeed, radarReady, readyCount, radar.frames]);
   const liveMode = live;
   const effLayers = useMemo(() => ({ ...layers, whirl: { ...layers.whirl, visible: layers.whirl.visible && !liveMode } }), [layers, liveMode]);
 
@@ -67,6 +71,9 @@ export default function App() {
   const detail = useMemo(() => { const def = HOTSPOT_DEFS.find((d) => d.id === selectedId); return def ? hotspotDetail(def, model, fhr) : null; }, [selectedId, model, fhr]);
 
   useEffect(() => { if (!map) return; const t = setTimeout(() => setBooted(true), 700); return () => clearTimeout(t); }, [map]);
+  useEffect(() => { document.documentElement.classList.toggle('doc-scroll', mobile); }, [mobile]);
+  useEffect(() => { if (!map) return; const g = (map as unknown as { cooperativeGestures?: { enable(): void; disable(): void } }).cooperativeGestures; if (mobile) g?.enable(); else g?.disable(); }, [map, mobile]);
+  const scrollToHow = () => document.getElementById('how')?.scrollIntoView({ behavior: 'smooth' });
   // Quick globe → US fly-in on load, then lock the view to North America.
   const flown = useRef(false);
   useEffect(() => {
@@ -126,9 +133,10 @@ export default function App() {
   const togglePanel = (p: Panel) => { haptic(); setPanel(panel === p ? null : p); if (mobile && p) setSelectedId(null); };
 
   return (
+    <>
     <div className={`app ${mobile ? 'mobile' : 'desktop'} is-center ${live ? 'is-live' : 'is-demo'}`} data-build={APP_BUILD_MARKER}>
       <div className="stars" aria-hidden />
-      <MapView hotspots={hotspots} spcCat={spcCat.data} spcTorn={spcTorn.data} nws={nws} layers={effLayers} sigtorn={sigtorn.data} spcD2={spcD2.data} spcD3={spcD3.data} md={md.data} nhc={nhc.data} radarFrames={radar.frames} radarIndex={rIdx} selectedId={selectedId} onSelect={select} onReady={setMap} spin={false} marker={marker} />
+      <MapView hotspots={hotspots} spcCat={spcCat.data} spcTorn={spcTorn.data} nws={nws} layers={effLayers} sigtorn={sigtorn.data} spcD2={spcD2.data} spcD3={spcD3.data} md={md.data} nhc={nhc.data} radarFrames={radar.frames} radarIndex={rIdx} onRadarReady={setRadarReady} selectedId={selectedId} onSelect={select} onReady={setMap} spin={false} marker={marker} />
 
       <div className={`splash ${booted ? 'gone' : ''}`} aria-hidden={booted}>
         <div className="vortex"><i /><i /><i /></div>
@@ -149,7 +157,7 @@ export default function App() {
         <nav className="tabs">
           {((live ? ['layers', 'spc', 'chasers'] : ['layers', 'spc', 'play', 'chasers']) as Panel[]).map((p) => (
             <button key={p} className={panel === p ? 'on' : ''} onClick={() => togglePanel(p)}>{p === 'layers' ? 'Layers' : p === 'spc' ? 'SPC' : p === 'play' ? 'Playground' : 'Chasers'}</button>))}
-          <button className={info ? 'on' : ''} onClick={() => { haptic(); setInfo(!info); }} data-testid="how-link">How it works</button>
+          <button className={info ? 'on' : ''} onClick={() => { haptic(); if (mobile) scrollToHow(); else setInfo(!info); }} data-testid="how-link">How it works</button>
         </nav>
       </header>
 
@@ -199,8 +207,9 @@ export default function App() {
         <footer className="timebar radarbar" data-testid="radar-bar">
           <span className="live-badge">LIVE</span>
           <button className={`play ${radarPlay ? 'on' : ''}`} onClick={() => { haptic(12); setRadarPlay(!radarPlay); }} aria-label={radarPlay ? 'Pause radar loop' : 'Play radar loop'}>{radarPlay ? '❚❚' : '▶'}</button>
+          <button className="speed" data-testid="radar-speed" onClick={() => { haptic(); setRadarSpeed(radarSpeed === 'slow' ? 'normal' : radarSpeed === 'normal' ? 'fast' : 'slow'); }} aria-label="Loop speed">{radarSpeed === 'slow' ? '0.5×' : radarSpeed === 'normal' ? '1×' : '2×'}</button>
           <div className="slider-wrap"><input type="range" min={0} max={Math.max(0, nFrames - 1)} value={Math.max(0, rIdx)} onChange={(e) => { setRadarPlay(false); setRadarIdx(Number(e.target.value)); }} aria-label="Radar frame" /></div>
-          <div className="time"><b>{nFrames ? `Radar ${fmtTime(new Date(radar.frames[rIdx].time * 1000))}` : radar.error ? 'Radar unavailable' : 'Loading radar…'}</b><small>RainViewer mosaic · {rIdx === nFrames - 1 ? 'latest' : `${nFrames - 1 - rIdx} frames ago`}</small></div>
+          <div className="time"><b>{nFrames ? `Radar ${fmtTime(new Date(radar.frames[rIdx].time * 1000))}` : radar.error ? 'Radar unavailable' : 'Loading radar…'}</b><small>RainViewer mosaic · {rIdx === nFrames - 1 ? 'latest' : `${nFrames - 1 - rIdx} frames ago`} · {readyCount}/{nFrames} loaded</small></div>
         </footer>)}
       {!liveMode && (
         <footer className="timebar">
@@ -229,9 +238,14 @@ export default function App() {
           </div>
           <button className="tour-exit" onClick={backToLive}>Exit demo</button>
         </aside>); })()}
-      {info && <InfoPage onClose={() => setInfo(false)} onDemo={startTour} onPlayground={() => { setInfo(false); setLive(false); setPanel('play'); }} />}
-      {!info && tour === null && <button className="pull-tab" onClick={() => { haptic(); setInfo(true); }} onWheel={(e) => { if (e.deltaY > 0) setInfo(true); }}>How it works · demo · FAQ ↑</button>}
+      {info && !mobile && <InfoPage onClose={() => setInfo(false)} onDemo={startTour} onPlayground={() => { setInfo(false); setLive(false); setPanel('play'); }} />}
+      {!mobile && !info && tour === null && <button className="pull-tab" onClick={() => { haptic(); setInfo(true); }} onWheel={(e) => { if (e.deltaY > 0) setInfo(true); }}>How it works · demo · FAQ ↑</button>}
       <div className={`demo-ribbon ${liveMode ? 'live' : ''}`} title={DEMO_LABEL}>{liveMode ? 'LIVE · official NWS/SPC/NHC data + RainViewer radar · demo hotspots hidden · always follow NWS warnings' : 'DEMO · synthetic hotspots · WHIRL is experimental · defer to NWS/SPC'}</div>
     </div>
+    {mobile && <section className="below" id="how-wrap">
+      <button className="peek" onClick={scrollToHow} data-testid="peek"><span className="chev">⌄</span><b>How it works, demo & FAQ</b><small>Swipe up with one finger · use two fingers to move the map</small></button>
+      <div id="how"><InfoPage embedded onClose={() => window.scrollTo({ top: 0, behavior: 'smooth' })} onDemo={() => { window.scrollTo({ top: 0, behavior: 'smooth' }); startTour(); }} onPlayground={() => { window.scrollTo({ top: 0, behavior: 'smooth' }); setLive(false); setPanel('play'); }} /></div>
+    </section>}
+    </>
   );
 }
