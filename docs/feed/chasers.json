@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-11T20:49:49.031Z",
+  "updated_utc": "2026-10-11T21:49:04.505Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2109394830799548841",
+          "text": "HUGE SCIENCE MISSION WIN with Dominator weather balloon sampling the eye and sting jet of Hurricane Isaias as it interacted with an upper low to the west. This is a trajectory with wind and thermodynamics attached. Extreme engineer @WillClay25 overnight science mission https://t.co/biHiReUctC",
+          "created_at": "2026-10-11T21:24:52.000Z",
+          "url": "https://x.com/i/status/2109394830799548841",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2109394766416801794/img/0kcjuR5L40h6iv6Y.jpg"
+        },
         {
           "id": "2109328532669419870",
           "text": "My first walking stick insect I have seen in a long time https://t.co/CD6K4xYg6h",
@@ -31,13 +38,6 @@
           "created_at": "2026-10-10T18:03:33.000Z",
           "url": "https://x.com/i/status/2108981777377239441",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2108981460464005122/img/KefpdMyEaBTBQ7vL.jpg"
-        },
-        {
-          "id": "2108788133307482386",
-          "text": "Floating pontoon boats from the flash flood emergency in Fort Walton Beach, Florida https://t.co/GQUwJZGkFK",
-          "created_at": "2026-10-10T05:14:05.000Z",
-          "url": "https://x.com/i/status/2108788133307482386",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2108787846697947136/img/dh3RDDkXcHrQ4b4D.jpg"
         }
       ]
     },
