@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T21:49:04.505Z",
+  "updated_utc": "2026-10-11T23:42:15.024Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -169,6 +169,20 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2109427013077352619",
+          "text": "#WPC_MD 1483 affecting Northern AZ...Southern UT...Southeast NV...Southwest CO, #cowx #utwx #azwx #nvwx, https://t.co/LJFtxCox8h https://t.co/XO1agtfhIu",
+          "created_at": "2026-10-11T23:32:45.000Z",
+          "url": "https://x.com/i/status/2109427013077352619",
+          "media_url": "https://pbs.twimg.com/media/HUYwsO5WgAAo2P2.jpg"
+        },
+        {
+          "id": "2109415043695603926",
+          "text": "#WPC_MD 1482 affecting Ohio Valley...Central Appalachians...Mid-Atlantic, #njwx #pawx #dewx #mdwx #vawx #dcwx #wvwx #ohwx, https://t.co/2Nvh6yWDMG https://t.co/xc3P5RaFm3",
+          "created_at": "2026-10-11T22:45:12.000Z",
+          "url": "https://x.com/i/status/2109415043695603926",
+          "media_url": "https://pbs.twimg.com/media/HUYlzhOXwAAzgc5.jpg"
+        },
+        {
           "id": "2109350155442893257",
           "text": "Below are some of the preliminary observed rainfall reports associated with Isaias over the last two days. https://t.co/0iGiM9ybZm",
           "created_at": "2026-10-11T18:27:21.000Z",
@@ -188,20 +202,6 @@
           "created_at": "2026-10-11T17:00:31.000Z",
           "url": "https://x.com/i/status/2109328304603844674",
           "media_url": "https://pbs.twimg.com/media/HUXW6pKWUAAPlvz.jpg"
-        },
-        {
-          "id": "2109315975287861270",
-          "text": "#WPC_MD 1479 affecting South-Central to Southeast OH...Northeast KY...Central and Western WV...Southwest PA, #pawx #mdwx #wvwx #ohwx #vawx #kywx, https://t.co/D5kp7ZRW1f https://t.co/wQBH0Zc873",
-          "created_at": "2026-10-11T16:11:32.000Z",
-          "url": "https://x.com/i/status/2109315975287861270",
-          "media_url": "https://pbs.twimg.com/media/HUXLs-CXAAEGlxy.jpg"
-        },
-        {
-          "id": "2109312125831184528",
-          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/eeIlUmNy5Z",
-          "created_at": "2026-10-11T15:56:14.000Z",
-          "url": "https://x.com/i/status/2109312125831184528",
-          "media_url": "https://pbs.twimg.com/media/HUXIM6ZX0AAdEMn.jpg"
         }
       ]
     }
