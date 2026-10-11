@@ -197,3 +197,20 @@ button:active { transform: scale(.94); }
 .post-link { font-size:11.5px; color: var(--accent); text-decoration:none; display:inline-block; margin-top:6px; }
 .avatar.sm { width:30px; height:30px; font-size:11px; }
 .embed-opt { margin-top:10px; } .embed-opt > .ghost { font-size:12px; padding:8px 12px; }
+/* live mode */
+.mode-toggle { display:flex; border:1px solid var(--line); border-radius:9px; overflow:hidden; }
+.mode-toggle button { background:none; border:0; padding:5px 10px; font-size:11px; font-weight:800; letter-spacing:.08em; cursor:pointer; color: var(--muted); }
+.mode-toggle button.on { background: rgba(255,176,0,.25); color:#ffd27a; } .mode-toggle button.on.live { background: rgba(46,232,107,.2); color:#7dffaa; }
+.live-chip { position:absolute; z-index:5; top:62px; left:50%; transform:translateX(-50%); padding:8px 14px; border-radius:99px; border:1px solid rgba(46,232,107,.4); background: rgba(6,20,14,.85); backdrop-filter: blur(8px); font-size:12.5px; cursor:pointer; white-space:nowrap; box-shadow: 0 10px 30px rgba(0,0,0,.4); }
+.live-chip b { color:#7dffaa; } .live-chip .dot { display:inline-block; width:8px; height:8px; border-radius:50%; background:#2ee86b; margin-right:6px; animation: ping 1.6s infinite; }
+.live-chip.alarm { border-color:#ff1f3d; background: rgba(40,4,10,.9); } .live-chip.alarm b { color:#ff6b81; } .live-chip.alarm .dot { background:#ff1f3d; }
+.live-detail { position:absolute; z-index:5; top:104px; left:50%; transform:translateX(-50%); width:min(520px, calc(100vw - 20px)); background: var(--panel); border:1px solid var(--line); border-radius:14px; padding:12px 14px; font-size:12.5px; backdrop-filter: blur(10px); }
+.live-detail ul { margin:6px 0; padding-left:16px; } .live-detail li { margin:3px 0; }
+.alert-pop .maplibregl-popup-content { background: rgba(10,15,28,.96); color: var(--text); border:1px solid var(--line); border-radius:10px; font-size:12px; max-height:300px; overflow:auto; }
+.alert-pop .maplibregl-popup-tip { border-top-color: rgba(10,15,28,.96); } .alert-pop .maplibregl-popup-close-button { color:#fff; font-size:18px; }
+.pp-type { font-size:13.5px; } .pp-exp { color:#ffd27a; margin:3px 0; } .pp-head { font-weight:600; margin:5px 0; } .pp-desc { white-space:pre-wrap; color:#cdd6ee; } .pp-src { margin-top:6px; font-size:10px; color: var(--muted); }
+.radarbar .live-badge { font-size:10px; }
+.demo-ribbon.live { background: rgba(46,232,107,.12); color:#9dffbe; border-top-color: rgba(46,232,107,.35); }
+.mobile .live-chip { top:104px; font-size:11px; padding:6px 10px; max-width: calc(100vw - 16px); overflow:hidden; text-overflow:ellipsis; }
+.mobile .live-detail { top:140px; }
+.mobile .mode-toggle button { padding:4px 7px; }

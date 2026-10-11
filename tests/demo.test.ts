@@ -57,7 +57,7 @@ describe('demo hotspots', () => {
 
 describe('layers', () => {
   it('search is local and case-insensitive', () => { expect(searchPlaces('peoria')[0].name).toBe('Peoria, IL'); expect(searchPlaces('')).toEqual([]); });
-  it('only the WHIRL layer is demo', () => { expect(LAYER_META.filter((l) => l.demo).map((l) => l.id)).toEqual(['whirl']); expect(Object.keys(DEFAULT_LAYERS)).toHaveLength(4); });
+  it('only the WHIRL layer is demo', () => { expect(LAYER_META.filter((l) => l.demo).map((l) => l.id)).toEqual(['whirl']); expect(Object.keys(DEFAULT_LAYERS).sort()).toEqual(LAYER_META.map((l) => l.id).sort()); });
 });
 import { peakHotspots } from '../src/data/demo';
 describe('peakHotspots', () => { it('shows every corridor once', () => { expect(peakHotspots('HRRR').features.map((f) => f.id).sort()).toEqual(HOTSPOT_DEFS.map((d) => d.id).sort()); }); });

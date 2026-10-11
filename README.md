@@ -47,3 +47,11 @@ The panel reads `./feed/chasers.json` relative to the page (`docs/feed/chasers.j
 2. For each user id: `x.get_users_posts({id, max_results:5, exclude:"replies,retweets", "post.fields":"created_at,attachments", expansions:"attachments.media_keys", "media.fields":"url,preview_image_url,type"})` → save to `.feed-raw/<handle>.json`
 3. `node scripts/update-feed.mjs --commit`. It writes `docs/feed/chasers.json` and commits and pushes only when posts changed. It exits 0 when it changed the file, 3 when unchanged, and 1 on error.
 To add an account, add it to `CHASERS` in `src/lib/chasers.ts` and to `HANDLES` in `scripts/update-feed.mjs`.
+
+## Live mode (default in the Forecast Center)
+Header toggle `● LIVE / DEMO`. LIVE hides the demo hotspots and shows only real data:
+- RainViewer radar mosaic loop (13 × 10-min frames, refresh 5 min; only the current and next frames are requested to stay under rate limits; tiles z ≤ 7)
+- SPC Day 1 categorical + tornado %, hatched CIG/sig (pattern fill), Day 2/3 categorical outlines (toggle in Layers), SPC Mesoscale Discussions
+- NWS watch/warning polygons (mapservices WWA, including zone-based watches). Tap one for the headline, expiry in CT and description from api.weather.gov
+- NHC forecast cone/track for all active storms (NWS mapservices)
+- "Live now" chip: tornado warning/watch counts (api.weather.gov), SPC max tornado %, CIG/hatched flag, MD count

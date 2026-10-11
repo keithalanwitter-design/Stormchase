@@ -25,3 +25,45 @@ export function useIsMobile(bp = 820) {
   useEffect(() => { const f = () => setM(window.innerWidth < bp); window.addEventListener('resize', f); return () => window.removeEventListener('resize', f); }, [bp]);
   return m;
 }
+
+import { RAINVIEWER_API, RADAR_REFRESH_MS, rainviewerFrames, NHC_MAPSERVER, nhcLayerIds, type RadarFrame } from './lib/live';
+import type { FeatureCollection, Feature } from 'geojson';
+
+export function useRadarFrames(enabled = true) {
+  const [frames, setFrames] = useState<RadarFrame[]>([]);
+  const [error, setError] = useState<string | null>(null);
+  const [fetchedAt, setFetchedAt] = useState<Date | null>(null);
+  useEffect(() => {
+    if (!enabled) return;
+    let alive = true;
+    const load = async () => {
+      try { const r = await fetch(RAINVIEWER_API, { cache: 'no-store' }); if (!r.ok) throw new Error(`HTTP ${r.status}`); const f = rainviewerFrames(await r.json()); if (!f.length) throw new Error('no frames');
+        if (alive) { setFrames(f); setError(null); setFetchedAt(new Date()); } }
+      catch (e) { if (alive) setError((e as Error).message); }
+    };
+    void load(); const t = setInterval(load, RADAR_REFRESH_MS);
+    return () => { alive = false; clearInterval(t); };
+  }, [enabled]);
+  return { frames, error, fetchedAt };
+}
+
+/** NHC forecast cones/tracks for all active storms (empty collection when none). */
+export function useNhc(enabled = true, intervalMs = 30 * 60_000) {
+  const [data, setData] = useState<FeatureCollection | null>(null);
+  const [error, setError] = useState<string | null>(null);
+  useEffect(() => {
+    if (!enabled) return;
+    let alive = true;
+    const load = async () => {
+      try {
+        const ids = nhcLayerIds(await (await fetch(`${NHC_MAPSERVER}?f=json`)).json());
+        const parts = await Promise.all(ids.map((id) => fetch(`${NHC_MAPSERVER}/${id}/query?where=1%3D1&outFields=*&f=geojson`).then((r) => r.json()).catch(() => null)));
+        const features = parts.flatMap((p) => (p?.features ?? []) as Feature[]);
+        if (alive) { setData({ type: 'FeatureCollection', features }); setError(null); }
+      } catch (e) { if (alive) setError((e as Error).message); }
+    };
+    void load(); const t = setInterval(load, intervalMs);
+    return () => { alive = false; clearInterval(t); };
+  }, [enabled, intervalMs]);
+  return { data, error };
+}

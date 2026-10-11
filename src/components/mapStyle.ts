@@ -16,8 +16,9 @@ export const baseStyle = (globe: boolean): StyleSpecification => ({
 
 export const whirlColor: ExpressionSpecification = ['interpolate', ['linear'], ['get', 'score'], 0.5, '#f7c948', 1, '#ff9a1a', 3, '#ff2d6f', 6, '#d61aff'];
 
-export const nwsColor: ExpressionSpecification = ['match', ['get', 'event'],
-  'Tornado Warning', '#ff1f3d', 'Severe Thunderstorm Warning', '#ffb000', 'Tornado Watch', '#ffff55',
-  'Severe Thunderstorm Watch', '#db7093', 'Flash Flood Warning', '#2ee86b', '#7fd6ff'];
+export const nwsColor: ExpressionSpecification = ['match', ['coalesce', ['get', 'prod_type'], ['get', 'event'], ''],
+  'Tornado Warning', '#ff1f3d', 'Severe Thunderstorm Warning', '#ffa500', 'Tornado Watch', '#ffd400',
+  'Severe Thunderstorm Watch', '#db7093', 'Flash Flood Warning', '#2ee86b', 'Hurricane Warning', '#dc143c', 'Hurricane Watch', '#ff69b4',
+  'Tropical Storm Warning', '#1e90ff', 'Tropical Storm Watch', '#40e0d0', '#7fd6ff'];
 
 export const isCig: ExpressionSpecification = ['==', ['slice', ['to-string', ['get', 'LABEL']], 0, 3], 'CIG'];

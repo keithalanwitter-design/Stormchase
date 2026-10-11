@@ -9,12 +9,13 @@ import { CHASERS } from './lib/chasers';
 import Story, { STORY_STEPS } from './components/Story';
 import { haptic } from './components/Viz';
 import { DEFAULT_LAYERS, searchPlaces, type LayerId, type LayerState } from './lib/layers';
-import { NWS_ALERTS_URL, SPC_CAT_URL, SPC_TORN_URL, filterSevereAlerts, fmtTime } from './lib/feeds';
+import { SPC_CAT_URL, SPC_TORN_URL, fmtTime } from './lib/feeds';
 import { DEMO_LABEL, HOTSPOT_DEFS, MODELS, MAX_FHR, demoHotspots, peakHotspots, hotspotDetail, validTime, dayLabel, NORTH_AMERICA_BOUNDS, CONUS_VIEW, type ModelId } from './data/demo';
-import { useFeed, useIsMobile } from './hooks';
+import { useFeed, useIsMobile, useRadarFrames, useNhc } from './hooks';
+import { ALERT_COUNT_URL, SPC_D1_SIGTORN, SPC_D2_CAT, SPC_D3_CAT, SPC_MD_URL, wwaUrl, liveSummary, activeMds } from './lib/live';
 
 type Panel = 'layers' | 'spc' | 'play' | 'chasers' | null;
-export const APP_BUILD_MARKER = 'stormchase-na-v4-feed';
+export const APP_BUILD_MARKER = 'stormchase-na-v5-live';
 
 export default function App() {
   const mobile = useIsMobile();
@@ -34,8 +35,30 @@ export default function App() {
 
   const spcCat = useFeed(SPC_CAT_URL, 10 * 60_000);
   const spcTorn = useFeed(SPC_TORN_URL, 10 * 60_000);
-  const nwsRaw = useFeed(NWS_ALERTS_URL, 2 * 60_000);
-  const nws = useMemo(() => filterSevereAlerts(nwsRaw.data), [nwsRaw.data]);
+  const nwsRaw = useFeed(ALERT_COUNT_URL, 2 * 60_000);
+  const wwa = useFeed(wwaUrl(), 2 * 60_000);
+  const nws = useMemo(() => wwa.data ?? { type: 'FeatureCollection' as const, features: [] }, [wwa.data]);
+  const sigtorn = useFeed(SPC_D1_SIGTORN, 10 * 60_000);
+  const spcD2 = useFeed(SPC_D2_CAT, 30 * 60_000);
+  const spcD3 = useFeed(SPC_D3_CAT, 30 * 60_000);
+  const mdRaw = useFeed(SPC_MD_URL, 5 * 60_000);
+  const md = useMemo(() => ({ ...mdRaw, data: activeMds(mdRaw.data) }), [mdRaw]);
+  const nhc = useNhc();
+  const radar = useRadarFrames();
+  const [live, setLive] = useState(true);
+  const [radarIdx, setRadarIdx] = useState(-1);
+  const [radarPlay, setRadarPlay] = useState(true);
+  const [showSummary, setShowSummary] = useState(false);
+  const summary = useMemo(() => liveSummary(nwsRaw.data, spcTorn.data, sigtorn.data, md.data), [nwsRaw.data, spcTorn.data, sigtorn.data, md.data]);
+  const nFrames = radar.frames.length;
+  const rIdx = radarIdx < 0 || radarIdx >= nFrames ? nFrames - 1 : radarIdx;
+  useEffect(() => {
+    if (!radarPlay || nFrames < 2) return;
+    const t = setInterval(() => setRadarIdx((i) => { const cur = i < 0 || i >= nFrames ? nFrames - 1 : i; return cur >= nFrames - 1 ? 0 : cur + 1; }), 600);
+    return () => clearInterval(t);
+  }, [radarPlay, nFrames]);
+  const liveMode = live && !story;
+  const effLayers = useMemo(() => ({ ...layers, whirl: { ...layers.whirl, visible: layers.whirl.visible && !liveMode } }), [layers, liveMode]);
 
   const showPeaks = story && step === 1;
   const hotspots = useMemo(() => (showPeaks ? peakHotspots(model) : demoHotspots(model, fhr)), [model, fhr, showPeaks]);
@@ -70,7 +93,7 @@ export default function App() {
     if (map) { map.setMaxBounds(null); map.setMinZoom(1.2); map.flyTo({ ...STORY_STEPS[0].camera, speed: 0.8 }); } };
 
   const select = useCallback((id: string | null) => {
-    if (id) haptic(14);
+    if (id) { haptic(14); setLive(false); }
     setSelectedId(id); setMarker(null); setExpanded(false);
     if (story && id) { setStory(false); map?.setMaxBounds(NORTH_AMERICA_BOUNDS); map?.setMinZoom(2.6); }
     const def = HOTSPOT_DEFS.find((d) => d.id === id);
@@ -80,11 +103,13 @@ export default function App() {
 
   const flyTarget = (ll: [number, number]) => { setMarker(ll); map?.flyTo({ center: ll, zoom: 8.5, pitch: 55, speed: 0.9 }); if (mobile) setExpanded(false); };
 
-  useEffect(() => { (window as unknown as Record<string, unknown>).__stormchase = { enter, select, map, marker: APP_BUILD_MARKER, openPanel: setPanel, setFhr, hotspots: hotspots.features.length }; }, [enter, select, map, hotspots]);
+  useEffect(() => { (window as unknown as Record<string, unknown>).__stormchase = { setLive, enter, select, map, marker: APP_BUILD_MARKER, openPanel: setPanel, setFhr, hotspots: hotspots.features.length }; }, [enter, select, map, hotspots]);
 
   const setLayer = (id: LayerId, s: Partial<LayerState>) => setLayers((L) => ({ ...L, [id]: { ...L[id], ...s } }));
   const st = (f: typeof spcCat, count?: number): FeedStatus => ({ loading: f.loading, error: f.error, fetchedAt: f.fetchedAt, lastModified: f.lastModified, via: f.via, count });
-  const status = { whirl: null, spcCat: st(spcCat, spcCat.data?.features.length), spcTorn: st(spcTorn, spcTorn.data?.features.length), nws: st(nwsRaw, nws.features.length) };
+  const radarStatus: FeedStatus = { loading: !radar.fetchedAt && !radar.error, error: radar.error, fetchedAt: radar.fetchedAt ?? new Date(0), lastModified: nFrames ? new Date(radar.frames[nFrames - 1].time * 1000).toUTCString() : null, via: 'direct', count: nFrames };
+  const status = { radar: radarStatus, whirl: null, spcCat: st(spcCat, spcCat.data?.features.length), spcTorn: st(spcTorn, spcTorn.data?.features.length), spcD2: st(spcD2, spcD2.data?.features.length), spcD3: st(spcD3, spcD3.data?.features.length),
+    md: st(md, md.data?.features.length), nws: st(wwa, nws.features.length), nhc: { loading: !nhc.data && !nhc.error, error: nhc.error, fetchedAt: new Date(), lastModified: null, via: 'direct', count: nhc.data?.features.length } };
   const results = searchPlaces(q);
   const fr = Math.round(fhr);
   const valid = validTime(fr);
@@ -94,7 +119,7 @@ export default function App() {
   return (
     <div className={`app ${mobile ? 'mobile' : 'desktop'} ${story ? 'is-story' : 'is-center'}`} data-build={APP_BUILD_MARKER}>
       <div className="stars" aria-hidden />
-      <MapView hotspots={hotspots} spcCat={spcCat.data} spcTorn={spcTorn.data} nws={nws} layers={layers} selectedId={selectedId} onSelect={select} onReady={setMap} spin={story && step === 0} marker={marker} />
+      <MapView hotspots={hotspots} spcCat={spcCat.data} spcTorn={spcTorn.data} nws={nws} layers={effLayers} sigtorn={sigtorn.data} spcD2={spcD2.data} spcD3={spcD3.data} md={md.data} nhc={nhc.data} radarFrames={radar.frames} radarIndex={rIdx} selectedId={selectedId} onSelect={select} onReady={setMap} spin={story && step === 0} marker={marker} />
 
       <div className={`splash ${booted ? 'gone' : ''}`} aria-hidden={booted}>
         <div className="vortex"><i /><i /><i /></div>
@@ -104,7 +129,11 @@ export default function App() {
       <header className="topbar">
         <button className="brand" onClick={toStory} aria-label="Back to story"><span className="logo">◎</span><span>STORM<b>CHASE</b></span></button>
         <span className="mode-pill">{story ? 'Tour' : 'Forecast Center · US'}</span>
-        <DemoBadge />
+        {story ? <DemoBadge /> : (
+          <div className="mode-toggle" role="group" aria-label="Data mode">
+            <button className={live ? 'on live' : ''} onClick={() => { haptic(12); setLive(true); setSelectedId(null); }} aria-pressed={live}>● LIVE</button>
+            <button className={!live ? 'on' : ''} onClick={() => { haptic(12); setLive(false); }} aria-pressed={!live}>DEMO</button>
+          </div>)}
         {!story && <div className="search">
           <input placeholder="Search US place…" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Search location" />
           {results.length > 0 && <ul className="search-results">{results.map((r) => (
@@ -129,7 +158,24 @@ export default function App() {
         </aside>
       )}
 
-      {!story && !panel && !selectedId && (
+      {liveMode && (
+        <button className={`live-chip ${summary.tornadoWarnings ? 'alarm' : ''}`} data-testid="live-chip" onClick={() => { haptic(); setShowSummary(!showSummary); }}>
+          <span className="dot" /> Live now · <b>{summary.tornadoWarnings}</b> TOR warn · <b>{summary.tornadoWatches}</b> TOR watch · SPC tor <b>{summary.maxTornPct ? `${summary.maxTornPct}%` : '<2%'}</b>{summary.sigHatched ? ' ▨' : ''}{summary.mds ? ` · ${summary.mds} MD` : ''}
+        </button>)}
+      {liveMode && showSummary && (
+        <div className="live-detail slide-up" data-testid="live-detail">
+          <div className="eyebrow">Official data · live</div>
+          <ul>
+            <li>Tornado warnings: <b>{summary.tornadoWarnings}</b> · watches: <b>{summary.tornadoWatches}</b> · severe T-storm warnings: <b>{summary.severeWarnings}</b> · tropical warnings: <b>{summary.tropicalWarnings}</b></li>
+            <li>SPC Day 1 max tornado probability: <b>{summary.maxTornPct ? `${summary.maxTornPct}%` : 'below 2%'}</b>{summary.conditionalIntensity ? ` · hatched ${summary.conditionalIntensity} (conditional intensity)` : ''}</li>
+            <li>SPC mesoscale discussions active: <b>{summary.mds}</b>{md.data?.features.map((f) => ` · ${String(f.properties?.name ?? '')}`).join('')}</li>
+            <li>NHC cone/track features: <b>{nhc.data?.features.length ?? '…'}</b>{nhc.error ? ` (error: ${nhc.error})` : ''}</li>
+            {summary.tornadoAreas.slice(0, 8).map((a) => <li key={a} className="muted">{a}</li>)}
+          </ul>
+          <p className="muted">Sources: NWS api.weather.gov &amp; mapservices, SPC, NHC, RainViewer. Tap a warning polygon for details.</p>
+        </div>)}
+
+      {!story && !panel && !selectedId && !liveMode && (
         <aside className="side status-cards slide-in">
           <div className="mini-card"><div className="eyebrow">WHIRL-E corridors · {dayLabel(fr)} <DemoBadge small /></div>
             {hotspots.features.length ? [...hotspots.features].sort((a, b) => b.properties.score - a.properties.score).map((f) => (
@@ -144,7 +190,14 @@ export default function App() {
 
       {!story && detail && <aside className="detail slide-up"><EvidenceCard d={detail} model={model} fhr={fr} setFhr={setFhr} spcCat={spcCat.data} spcTorn={spcTorn.data} onClose={() => { haptic(); setSelectedId(null); }} fhrLabel={fhrLabel} expanded={expanded} setExpanded={setExpanded} onFlyTo={flyTarget} /></aside>}
 
-      {!story && (
+      {liveMode && (
+        <footer className="timebar radarbar" data-testid="radar-bar">
+          <span className="live-badge">LIVE</span>
+          <button className={`play ${radarPlay ? 'on' : ''}`} onClick={() => { haptic(12); setRadarPlay(!radarPlay); }} aria-label={radarPlay ? 'Pause radar loop' : 'Play radar loop'}>{radarPlay ? '❚❚' : '▶'}</button>
+          <div className="slider-wrap"><input type="range" min={0} max={Math.max(0, nFrames - 1)} value={Math.max(0, rIdx)} onChange={(e) => { setRadarPlay(false); setRadarIdx(Number(e.target.value)); }} aria-label="Radar frame" /></div>
+          <div className="time"><b>{nFrames ? `Radar ${fmtTime(new Date(radar.frames[rIdx].time * 1000))}` : radar.error ? 'Radar unavailable' : 'Loading radar…'}</b><small>RainViewer mosaic · {rIdx === nFrames - 1 ? 'latest' : `${nFrames - 1 - rIdx} frames ago`}</small></div>
+        </footer>)}
+      {!story && !liveMode && (
         <footer className="timebar">
           <select value={model} onChange={(e) => { haptic(); setModel(e.target.value as ModelId); }} aria-label="Model">{MODELS.map((x) => <option key={x.id} value={x.id}>{x.name}</option>)}</select>
           <button className={`play ${playing ? 'on' : ''}`} onClick={() => { haptic(12); setPlaying(!playing); }} aria-label={playing ? 'Pause' : 'Play'}>{playing ? '❚❚' : '▶'}</button>
@@ -155,7 +208,7 @@ export default function App() {
           <div className="time"><b>{dayLabel(fr)} · F{String(fr).padStart(3, '0')}</b><small>{fmtTime(valid)}</small></div>
         </footer>
       )}
-      <div className="demo-ribbon" title={DEMO_LABEL}>DEMO · synthetic hotspots · WHIRL is experimental · defer to NWS/SPC</div>
+      <div className={`demo-ribbon ${liveMode ? 'live' : ''}`} title={DEMO_LABEL}>{liveMode ? 'LIVE · official NWS/SPC/NHC data + RainViewer radar · demo hotspots hidden · always follow NWS warnings' : 'DEMO · synthetic hotspots · WHIRL is experimental · defer to NWS/SPC'}</div>
     </div>
   );
 }
