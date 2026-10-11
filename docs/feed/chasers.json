@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T03:42:57.547Z",
+  "updated_utc": "2026-10-11T04:42:28.141Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -169,6 +169,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2109127412554289260",
+          "text": "#WPC_MD 1475 affecting Southern Appalachians and Eastern Foothills..., #vawx #ncwx #scwx #gawx, https://t.co/maI75ki3mj https://t.co/DRD4GhpNLu",
+          "created_at": "2026-10-11T03:42:15.000Z",
+          "url": "https://x.com/i/status/2109127412554289260",
+          "media_url": "https://pbs.twimg.com/media/HUUgNMOWsAAtTnk.jpg"
+        },
+        {
           "id": "2109113098233647239",
           "text": "National High/Low temps for Saturday October 10, 2026: 98 at Needles, CA, 4 miles northwest of Topock, AZ, 3 miles west-southwest of Parker, AZ; 18 at Mount Washington, NH #cawx #azwx #azwx #nhwx",
           "created_at": "2026-10-11T02:45:22.000Z",
@@ -194,13 +201,6 @@
           "created_at": "2026-10-10T21:59:13.000Z",
           "url": "https://x.com/i/status/2109041083661312220",
           "media_url": "https://pbs.twimg.com/media/HUTRsLhWkAAmnYg.jpg"
-        },
-        {
-          "id": "2109011428032074192",
-          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/gqa1BoXV51",
-          "created_at": "2026-10-10T20:01:22.000Z",
-          "url": "https://x.com/i/status/2109011428032074192",
-          "media_url": "https://pbs.twimg.com/media/HUS2t-eWEAAxU8Z.jpg"
         }
       ]
     }
