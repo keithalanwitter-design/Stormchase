@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T15:46:38.547Z",
+  "updated_utc": "2026-10-11T16:43:50.651Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -87,6 +87,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2109314151646437461",
+          "text": "The Atlantic is not quieting fully just yet.. https://t.co/QhZ3V6Cwc6",
+          "created_at": "2026-10-11T16:04:17.000Z",
+          "url": "https://x.com/i/status/2109314151646437461",
+          "media_url": "https://pbs.twimg.com/media/HUW8UEDWEAEzE77.jpg"
+        },
+        {
           "id": "2109297038684811449",
           "text": "A widespread flash flood threat is targeting the Great Basin and portions of the Southwest today as the remnants of Rachel push inland...\n\nA Moderate Risk for excessive rainfall is in effect from Southern California into southern Nevada, including the Las Vegas area, as well as https://t.co/JQZtU1lJ6O",
           "created_at": "2026-10-11T14:56:17.000Z",
@@ -106,20 +113,6 @@
           "created_at": "2026-10-11T11:25:18.000Z",
           "url": "https://x.com/i/status/2109243941895729418",
           "media_url": "https://pbs.twimg.com/media/HUWKL8SXAAA12RI.jpg"
-        },
-        {
-          "id": "2109115282908192967",
-          "text": "Heavy rainfall is triggering rapid river rises across the North and South Carolina mountains tonight, with widespread flood alerts now active across the region...\n\nThe Rocky Broad River at Bat Cave has already exceeded minor flood stage and continues to rise, while the Broad https://t.co/pUApz5kCVS",
-          "created_at": "2026-10-11T02:54:03.000Z",
-          "url": "https://x.com/i/status/2109115282908192967",
-          "media_url": "https://pbs.twimg.com/media/HUUVK3aWsAAmnnK.jpg"
-        },
-        {
-          "id": "2109075042852049154",
-          "text": "Hurricane Simon is yet another powerhouse in what has been a remarkably active Eastern Pacific season...\n\nUnfortunately, its slow crawl toward southwestern Mexico will lead to a destructive landfall, with significant flash flooding and mudslides expected in the coming days... https://t.co/COdTq4oj1e",
-          "created_at": "2026-10-11T00:14:09.000Z",
-          "url": "https://x.com/i/status/2109075042852049154",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109074497781248000/pu/img/S57KP4rJAZcYIazv.jpg"
         }
       ]
     },
@@ -169,6 +162,20 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2109315975287861270",
+          "text": "#WPC_MD 1479 affecting South-Central to Southeast OH...Northeast KY...Central and Western WV...Southwest PA, #pawx #mdwx #wvwx #ohwx #vawx #kywx, https://t.co/D5kp7ZRW1f https://t.co/wQBH0Zc873",
+          "created_at": "2026-10-11T16:11:32.000Z",
+          "url": "https://x.com/i/status/2109315975287861270",
+          "media_url": "https://pbs.twimg.com/media/HUXLs-CXAAEGlxy.jpg"
+        },
+        {
+          "id": "2109312125831184528",
+          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/eeIlUmNy5Z",
+          "created_at": "2026-10-11T15:56:14.000Z",
+          "url": "https://x.com/i/status/2109312125831184528",
+          "media_url": "https://pbs.twimg.com/media/HUXIM6ZX0AAdEMn.jpg"
+        },
+        {
           "id": "2109254016702034204",
           "text": "First winter storm of the season forecast for the Northern Rockies this weekend https://t.co/kPv4k077nv",
           "created_at": "2026-10-11T12:05:20.000Z",
@@ -185,20 +192,6 @@
           "text": "Moisture from Post-Tropical Cyclone Rachel brings heavy rain and flash flooding to the southwestern U.S. through Monday https://t.co/kPv4k077nv",
           "created_at": "2026-10-11T12:05:19.000Z",
           "url": "https://x.com/i/status/2109254013652771111"
-        },
-        {
-          "id": "2109241201467535410",
-          "text": "#WPC_MD 1478 affecting Southwest U.S., #utwx #azwx #nvwx #cawx, https://t.co/S3YTUOn5l8 https://t.co/WA0oO7kyKi",
-          "created_at": "2026-10-11T11:14:24.000Z",
-          "url": "https://x.com/i/status/2109241201467535410",
-          "media_url": "https://pbs.twimg.com/media/HUWHsk1WcAAtv8q.jpg"
-        },
-        {
-          "id": "2109209430654885950",
-          "text": "#WPC_MD 1477 affecting Blue Ridge of Virginia, North Carolina and northern South Carolina..., #vawx #wvwx #ncwx #scwx, https://t.co/kimkeDMe1H https://t.co/eefTADfqVJ",
-          "created_at": "2026-10-11T09:08:10.000Z",
-          "url": "https://x.com/i/status/2109209430654885950",
-          "media_url": "https://pbs.twimg.com/media/HUVqzRiW8AE3h62.jpg"
         }
       ]
     }
