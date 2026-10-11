@@ -181,3 +181,19 @@ button:active { transform: scale(.94); }
 .chaser-links a.live { border-color: rgba(255,45,111,.5); } .chaser-links a.live::first-letter { color: var(--hot); }
 .mobile .tabs { flex-wrap:wrap; }
 .mobile .day-ticks { display:none; }
+.feed-status { font-size:11.5px; padding:6px 9px; border-radius:8px; background: rgba(46,232,107,.08); border:1px solid rgba(46,232,107,.25); margin:6px 0 8px; }
+.feed-status.warn { background: rgba(255,176,0,.1); border-color: rgba(255,176,0,.35); color:#ffd27a; }
+.who-chips { display:flex; gap:6px; overflow-x:auto; scrollbar-width:none; padding-bottom:4px; } .who-chips::-webkit-scrollbar { display:none; }
+.who-chips button { flex:0 0 auto; padding:6px 10px; font-size:12px; border-radius:99px; border:1px solid var(--line); background: rgba(255,255,255,.04); cursor:pointer; }
+.who-chips button.on { background: rgba(79,209,255,.2); border-color: var(--accent); }
+.off-dot { display:inline-block; width:7px; height:7px; border-radius:50%; background:#2ee86b; margin-right:5px; }
+.official-badge { margin-left:6px; font-size:9px; font-weight:800; letter-spacing:.06em; padding:1px 5px; border-radius:4px; background: rgba(46,232,107,.18); color:#7dffaa; border:1px solid rgba(46,232,107,.4); }
+.who-head { display:flex; gap:10px; align-items:center; margin:8px 0; } .who-head small { display:block; color: var(--muted); font-size:11px; }
+.posts { display:flex; flex-direction:column; gap:8px; margin-top:8px; }
+.post { border:1px solid var(--line); border-radius:12px; padding:10px; background: rgba(255,255,255,.025); animation: fadeUp .3s ease; }
+.post header { display:flex; gap:8px; align-items:center; } .post header small { display:block; color: var(--muted); font-size:11px; }
+.post p { margin:7px 0; font-size:13px; line-height:1.45; white-space:pre-wrap; word-break:break-word; }
+.post-media img { width:100%; max-height:220px; object-fit:cover; border-radius:9px; display:block; background:#0a0f1c; }
+.post-link { font-size:11.5px; color: var(--accent); text-decoration:none; display:inline-block; margin-top:6px; }
+.avatar.sm { width:30px; height:30px; font-size:11px; }
+.embed-opt { margin-top:10px; } .embed-opt > .ghost { font-size:12px; padding:8px 12px; }

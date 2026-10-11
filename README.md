@@ -38,3 +38,12 @@ Smoke/screenshots use `playwright-core` with system Chrome (`CHROME_PATH`, defau
 ## Layout
 `src/lib/whirl.ts` WHIRL v0.1 · `src/lib/stci.ts` STCI hypothesis · `src/lib/feeds.ts` SPC/NWS fetch · `src/data/demo.ts` synthetic data · `src/components/*` UI · `db/` schema · `pipeline/` Python scaffolding (untested).
 Basemap: Esri World Dark Gray Canvas raster (public tiles; check terms before any public deploy).
+
+## Chaser Feed (static JSON)
+The panel reads `./feed/chasers.json` relative to the page (`docs/feed/chasers.json` on Pages; `public/feed` symlinks to it for dev/preview), with a `?t=` cache-buster and a 2-minute refresh while open. It's third-party content, not WHIRL input. If the JSON is missing or more than 3 h old, the panel shows a warning and direct X / live links. The X embed is an optional extra.
+
+**Scheduled refresh procedure** (≤ 6 X reads per run; limit is 30/min):
+1. `x.get_users_by_usernames({usernames:["ReedTimmerUSA","ryanhallyall","MaxVelocityWX","StormNetWx","NWSWPC"]})` → save the raw result to `.feed-raw/users.json`
+2. For each user id: `x.get_users_posts({id, max_results:5, exclude:"replies,retweets", "post.fields":"created_at,attachments", expansions:"attachments.media_keys", "media.fields":"url,preview_image_url,type"})` → save to `.feed-raw/<handle>.json`
+3. `node scripts/update-feed.mjs --commit`. It writes `docs/feed/chasers.json` and commits and pushes only when posts changed. It exits 0 when it changed the file, 3 when unchanged, and 1 on error.
+To add an account, add it to `CHASERS` in `src/lib/chasers.ts` and to `HANDLES` in `scripts/update-feed.mjs`.

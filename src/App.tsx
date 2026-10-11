@@ -14,7 +14,7 @@ import { DEMO_LABEL, HOTSPOT_DEFS, MODELS, MAX_FHR, demoHotspots, peakHotspots, 
 import { useFeed, useIsMobile } from './hooks';
 
 type Panel = 'layers' | 'spc' | 'play' | 'chasers' | null;
-export const APP_BUILD_MARKER = 'stormchase-na-v3-chasers';
+export const APP_BUILD_MARKER = 'stormchase-na-v4-feed';
 
 export default function App() {
   const mobile = useIsMobile();
@@ -137,7 +137,7 @@ export default function App() {
             )) : <p className="muted">No favorable demo environment at this hour — press ▶ or scrub the timeline.</p>}
           </div>
           <div className="mini-card"><div className="eyebrow">Chaser Feed <span className="third-badge">3RD-PARTY</span></div>
-            {CHASERS.map((c) => <button key={c.id} className="hs-row" onClick={() => togglePanel('chasers')}><span>{c.name}<small>@{c.xHandle} · X / live</small></span><b>↗</b></button>)}
+            <button className="hs-row" onClick={() => togglePanel('chasers')}><span>Latest posts<small>{CHASERS.map((c) => c.name.split(',')[0]).join(' · ')}</small></span><b>↗</b></button>
           </div>
         </aside>
       )}

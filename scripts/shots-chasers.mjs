@@ -6,9 +6,9 @@ for (const [name, opts] of [['desktop', { viewport: { width: 1440, height: 900 }
   await p.goto(URL); await p.waitForSelector('.splash.gone', { timeout: 30000 });
   await p.evaluate(() => window.__stormchase.enter()); await p.waitForTimeout(6000);
   await p.click('.tabs >> text=Chasers');
-  await p.waitForFunction(() => document.querySelector('[data-testid="chaser-reed-timmer"]')?.dataset.embedState !== 'loading', null, { timeout: 15000 });
+  await p.waitForSelector('[data-testid="post-card"]', { timeout: 15000 });
   await p.waitForTimeout(1500);
-  console.log(name, await p.getAttribute('[data-testid="chaser-reed-timmer"]', 'data-embed-state'));
-  await p.screenshot({ path: `screenshots/v3-chaser-feed-${name}.png` });
+  console.log(name, await p.locator('[data-testid="post-card"]').count(), 'cards');
+  await p.screenshot({ path: `screenshots/v4-chaser-feed-${name}.png` });
 }
 await b.close();
