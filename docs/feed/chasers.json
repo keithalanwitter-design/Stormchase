@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T13:14:45.090Z",
+  "updated_utc": "2026-10-11T15:46:38.547Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -87,6 +87,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2109297038684811449",
+          "text": "A widespread flash flood threat is targeting the Great Basin and portions of the Southwest today as the remnants of Rachel push inland...\n\nA Moderate Risk for excessive rainfall is in effect from Southern California into southern Nevada, including the Las Vegas area, as well as https://t.co/JQZtU1lJ6O",
+          "created_at": "2026-10-11T14:56:17.000Z",
+          "url": "https://x.com/i/status/2109297038684811449",
+          "media_url": "https://pbs.twimg.com/media/HUW6enXXMAA8ZeM.jpg"
+        },
+        {
           "id": "2109260796333080908",
           "text": "A few tornadoes are likely today across parts of the Mid-Atlantic and western Arizona, although the best chance will be along the I-95 corridor in central Virginia/North Carolina... https://t.co/OL9qfVQf4j",
           "created_at": "2026-10-11T12:32:16.000Z",
@@ -113,13 +120,6 @@
           "created_at": "2026-10-11T00:14:09.000Z",
           "url": "https://x.com/i/status/2109075042852049154",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109074497781248000/pu/img/S57KP4rJAZcYIazv.jpg"
-        },
-        {
-          "id": "2109042089421938822",
-          "text": "OBSERVED TORNADO WARNING for Oak Grove, South Carolina!\n\nSeek shelter if you are in this warning! https://t.co/YpkdNQ1PMn",
-          "created_at": "2026-10-10T22:03:12.000Z",
-          "url": "https://x.com/i/status/2109042089421938822",
-          "media_url": "https://pbs.twimg.com/media/HUTSmmpWgAA3hN9.jpg"
         }
       ]
     },
