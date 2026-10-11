@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T18:49:11.109Z",
+  "updated_utc": "2026-10-11T19:49:19.336Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2109370474983522626",
+          "text": "The skeleton did not make it. Wake County, North Carolina today.\n\nVideo: Garrett Yates https://t.co/WJCluw9XaI",
+          "created_at": "2026-10-11T19:48:06.000Z",
+          "url": "https://x.com/i/status/2109370474983522626",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109370414212231168/pu/img/TrToOmHChm8dwRoi.jpg"
+        },
+        {
+          "id": "2109360627877654896",
+          "text": "These are the tornado spin tracks across North Carolina so far today. All of it from what's left of the hurricane that hit Florida on Friday. https://t.co/P8jT2vpELX",
+          "created_at": "2026-10-11T19:08:58.000Z",
+          "url": "https://x.com/i/status/2109360627877654896",
+          "media_url": "https://pbs.twimg.com/media/HUX0UCZXwAAHJws.jpg"
+        },
+        {
           "id": "2109352395620642945",
           "text": "Sir, please put the lawn mower away.\n\nA viewer in Beulaville, North Carolina checked in on the app mid-tornado warning complaining that their yard work got interrupted. https://t.co/JBaSw22PGP",
           "created_at": "2026-10-11T18:36:15.000Z",
@@ -65,20 +79,6 @@
           "created_at": "2026-10-11T17:27:04.000Z",
           "url": "https://x.com/i/status/2109334984775332296",
           "media_url": "https://pbs.twimg.com/media/HUXc_Z-WwAArIr9.jpg"
-        },
-        {
-          "id": "2109254774520504467",
-          "text": "It hit 90 in Minneapolis yesterday while it was snowing in Montana. Great Falls got 6 inches, a record for the date. https://t.co/lXFppMJRSa",
-          "created_at": "2026-10-11T12:08:20.000Z",
-          "url": "https://x.com/i/status/2109254774520504467",
-          "media_url": "https://pbs.twimg.com/media/HUWUCdiXsAA29yf.jpg"
-        },
-        {
-          "id": "2109241448948252767",
-          "text": "The nicest weather in the USA today will be in and around Seattle, WA, Portland, OR, and Salem, OR, with clear skies and light wind stretching across the Pacific Northwest. https://t.co/JlO1bEuzWK",
-          "created_at": "2026-10-11T11:15:23.000Z",
-          "url": "https://x.com/i/status/2109241448948252767",
-          "media_url": "https://pbs.twimg.com/media/HUWH610XQAApUXN.jpg"
         }
       ]
     },
@@ -86,6 +86,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2109358264450269349",
+          "text": "OBSERVED TORNADO WARNING for Dover, North Carolina!\n\nSeek shelter if you are in this warning! https://t.co/wteL4vbqKD",
+          "created_at": "2026-10-11T18:59:34.000Z",
+          "url": "https://x.com/i/status/2109358264450269349",
+          "media_url": "https://pbs.twimg.com/media/HUXyKZSXgAAnWo_.jpg"
+        },
         {
           "id": "2109346209131348267",
           "text": "PDS TORNADO WARNING for Beulaville, North Carolina!\n\nSeek shelter if you are in this warning! https://t.co/O3npw9VqrF",
@@ -113,13 +120,6 @@
           "created_at": "2026-10-11T17:38:17.000Z",
           "url": "https://x.com/i/status/2109337808569540669",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109322203548282880/pu/img/16ctGflxh6m-Bvhr.jpg"
-        },
-        {
-          "id": "2109334493949489364",
-          "text": "PDS TORNADO WARNING for Rolesville, North Carolina!\n\nSeek shelter immediately if you are in this warning! https://t.co/bJp2lui706",
-          "created_at": "2026-10-11T17:25:07.000Z",
-          "url": "https://x.com/i/status/2109334493949489364",
-          "media_url": "https://pbs.twimg.com/media/HUXciyKW4AAmVrm.jpg"
         }
       ]
     },
