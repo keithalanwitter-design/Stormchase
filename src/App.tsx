@@ -6,21 +6,24 @@ import EvidenceCard from './components/EvidenceCard';
 import Playground from './components/Playground';
 import ChaserFeed from './components/ChaserFeed';
 import { CHASERS } from './lib/chasers';
-import Story, { STORY_STEPS } from './components/Story';
+import InfoPage from './components/InfoPage';
+import { TOUR_STEPS } from './lib/tour';
+import type { Tab } from './components/EvidenceCard';
 import { haptic } from './components/Viz';
 import { DEFAULT_LAYERS, searchPlaces, type LayerId, type LayerState } from './lib/layers';
 import { SPC_CAT_URL, SPC_TORN_URL, fmtTime } from './lib/feeds';
-import { DEMO_LABEL, HOTSPOT_DEFS, MODELS, MAX_FHR, demoHotspots, peakHotspots, hotspotDetail, validTime, dayLabel, NORTH_AMERICA_BOUNDS, CONUS_VIEW, type ModelId } from './data/demo';
+import { DEMO_LABEL, HOTSPOT_DEFS, MODELS, MAX_FHR, demoHotspots, hotspotDetail, validTime, dayLabel, NORTH_AMERICA_BOUNDS, CONUS_VIEW, type ModelId } from './data/demo';
 import { useFeed, useIsMobile, useRadarFrames, useNhc } from './hooks';
 import { ALERT_COUNT_URL, SPC_D1_SIGTORN, SPC_D2_CAT, SPC_D3_CAT, SPC_MD_URL, wwaUrl, liveSummary, activeMds } from './lib/live';
 
 type Panel = 'layers' | 'spc' | 'play' | 'chasers' | null;
-export const APP_BUILD_MARKER = 'stormchase-na-v5-live';
+export const APP_BUILD_MARKER = 'stormchase-v6-livefirst';
 
 export default function App() {
   const mobile = useIsMobile();
-  const [story, setStory] = useState(true);
-  const [step, setStep] = useState(0);
+  const [tour, setTour] = useState<number | null>(null);
+  const [tourTab, setTourTab] = useState<Tab | undefined>(undefined);
+  const [info, setInfo] = useState(false);
   const [booted, setBooted] = useState(false);
   const [panel, setPanel] = useState<Panel>(null);
   const [layers, setLayers] = useState(DEFAULT_LAYERS);
@@ -57,16 +60,23 @@ export default function App() {
     const t = setInterval(() => setRadarIdx((i) => { const cur = i < 0 || i >= nFrames ? nFrames - 1 : i; return cur >= nFrames - 1 ? 0 : cur + 1; }), 600);
     return () => clearInterval(t);
   }, [radarPlay, nFrames]);
-  const liveMode = live && !story;
+  const liveMode = live;
   const effLayers = useMemo(() => ({ ...layers, whirl: { ...layers.whirl, visible: layers.whirl.visible && !liveMode } }), [layers, liveMode]);
 
-  const showPeaks = story && step === 1;
-  const hotspots = useMemo(() => (showPeaks ? peakHotspots(model) : demoHotspots(model, fhr)), [model, fhr, showPeaks]);
+  const hotspots = useMemo(() => demoHotspots(model, fhr), [model, fhr]);
   const detail = useMemo(() => { const def = HOTSPOT_DEFS.find((d) => d.id === selectedId); return def ? hotspotDetail(def, model, fhr) : null; }, [selectedId, model, fhr]);
 
   useEffect(() => { if (!map) return; const t = setTimeout(() => setBooted(true), 700); return () => clearTimeout(t); }, [map]);
-  // On phones the story cards sit at the bottom, so lift the camera focus into the top half.
-  useEffect(() => { if (map) map.setPadding(story && mobile ? { top: 40, bottom: Math.round(window.innerHeight * 0.5), left: 0, right: 0 } : { top: 0, bottom: 0, left: 0, right: 0 }); }, [map, story, mobile]);
+  // Quick globe → US fly-in on load, then lock the view to North America.
+  const flown = useRef(false);
+  useEffect(() => {
+    if (!map || flown.current) return; flown.current = true;
+    const t = setTimeout(() => {
+      map.once('moveend', () => { map.setMaxBounds(NORTH_AMERICA_BOUNDS); map.setMinZoom(mobile ? 2 : 2.6); });
+      map.flyTo({ ...CONUS_VIEW, zoom: mobile ? 2.55 : CONUS_VIEW.zoom, pitch: 0, bearing: 0, duration: 2200, curve: 1.3, essential: true });
+    }, 350);
+    return () => clearTimeout(t);
+  }, [map, mobile]);
 
   // Smooth play mode: advance in small fractional steps so hotspots grow/shrink fluidly.
   const raf = useRef(0);
@@ -78,32 +88,31 @@ export default function App() {
     return () => cancelAnimationFrame(raf.current);
   }, [playing]);
 
-  const onStep = useCallback((i: number) => {
-    setStep(i);
-    const s = STORY_STEPS[i]; if (!map) return;
-    setFhr(s.fhr); setSelectedId(null);
-    map.flyTo({ ...s.camera, speed: 0.6, curve: 1.5, essential: true });
-  }, [map]);
-
-  const enter = useCallback(() => {
-    haptic(12); setStory(false); setPanel(null); setSelectedId(null);
-    if (map) { map.setMaxBounds(NORTH_AMERICA_BOUNDS); map.setMinZoom(2.6); map.flyTo({ ...CONUS_VIEW, pitch: 0, bearing: 0, speed: 0.8, curve: 1.4, essential: true }); }
-  }, [map]);
-  const toStory = () => { haptic(); setStory(true); setStep(0); setSelectedId(null); setPanel(null); setPlaying(false);
-    if (map) { map.setMaxBounds(null); map.setMinZoom(1.2); map.flyTo({ ...STORY_STEPS[0].camera, speed: 0.8 }); } };
+  const toConus = useCallback(() => { map?.flyTo({ ...CONUS_VIEW, zoom: mobile ? 2.55 : CONUS_VIEW.zoom, pitch: 0, bearing: 0, speed: 0.9, curve: 1.3, essential: true, padding: { top: 0, bottom: 0, left: 0, right: 0 } }); }, [map, mobile]);
+  const applyStep = useCallback((i: number) => {
+    const s = TOUR_STEPS[i]; haptic(12);
+    setTour(i); setLive(false); setInfo(false); setPanel(null); setPlaying(false); setShowSummary(false); setMarker(null); setExpanded(false);
+    setFhr(s.fhr); setTourTab(s.tab); setSelectedId(s.select ?? null);
+    if (s.layers) setLayers((L) => { const n = { ...L }; for (const [k, v] of Object.entries(s.layers!)) n[k as LayerId] = { ...n[k as LayerId], visible: !!v }; return n; });
+    map?.flyTo({ ...s.camera, speed: 0.7, curve: 1.4, essential: true,
+      padding: mobile ? { top: 150, bottom: s.select ? Math.round(window.innerHeight * 0.42) : 120, left: 0, right: 0 } : { top: 0, bottom: 0, left: 400, right: s.select ? 400 : 0 } });
+  }, [map, mobile]);
+  const startTour = useCallback(() => applyStep(0), [applyStep]);
+  const backToLive = useCallback(() => {
+    haptic(12); setTour(null); setLive(true); setSelectedId(null); setPanel(null); setPlaying(false); setLayers(DEFAULT_LAYERS); setMarker(null); toConus();
+  }, [toConus]);
 
   const select = useCallback((id: string | null) => {
     if (id) { haptic(14); setLive(false); }
     setSelectedId(id); setMarker(null); setExpanded(false);
-    if (story && id) { setStory(false); map?.setMaxBounds(NORTH_AMERICA_BOUNDS); map?.setMinZoom(2.6); }
     const def = HOTSPOT_DEFS.find((d) => d.id === id);
     if (def && map) map.flyTo({ center: def.center, zoom: mobile ? 5.3 : 6.2, pitch: 50, bearing: -15, speed: 0.9, curve: 1.3, essential: true, padding: mobile ? { bottom: Math.round(window.innerHeight * 0.45), top: 40, left: 0, right: 0 } : { right: 400, top: 0, left: 0, bottom: 0 } });
     if (mobile && id) setPanel(null);
-  }, [map, mobile, story]);
+  }, [map, mobile]);
 
   const flyTarget = (ll: [number, number]) => { setMarker(ll); map?.flyTo({ center: ll, zoom: 8.5, pitch: 55, speed: 0.9 }); if (mobile) setExpanded(false); };
 
-  useEffect(() => { (window as unknown as Record<string, unknown>).__stormchase = { setLive, enter, select, map, marker: APP_BUILD_MARKER, openPanel: setPanel, setFhr, hotspots: hotspots.features.length }; }, [enter, select, map, hotspots]);
+  useEffect(() => { (window as unknown as Record<string, unknown>).__stormchase = { setLive, startTour, backToLive, select, map, marker: APP_BUILD_MARKER, openPanel: setPanel, setFhr, hotspots: hotspots.features.length }; }, [startTour, backToLive, select, map, hotspots]);
 
   const setLayer = (id: LayerId, s: Partial<LayerState>) => setLayers((L) => ({ ...L, [id]: { ...L[id], ...s } }));
   const st = (f: typeof spcCat, count?: number): FeedStatus => ({ loading: f.loading, error: f.error, fetchedAt: f.fetchedAt, lastModified: f.lastModified, via: f.via, count });
@@ -117,38 +126,34 @@ export default function App() {
   const togglePanel = (p: Panel) => { haptic(); setPanel(panel === p ? null : p); if (mobile && p) setSelectedId(null); };
 
   return (
-    <div className={`app ${mobile ? 'mobile' : 'desktop'} ${story ? 'is-story' : 'is-center'}`} data-build={APP_BUILD_MARKER}>
+    <div className={`app ${mobile ? 'mobile' : 'desktop'} is-center ${live ? 'is-live' : 'is-demo'}`} data-build={APP_BUILD_MARKER}>
       <div className="stars" aria-hidden />
-      <MapView hotspots={hotspots} spcCat={spcCat.data} spcTorn={spcTorn.data} nws={nws} layers={effLayers} sigtorn={sigtorn.data} spcD2={spcD2.data} spcD3={spcD3.data} md={md.data} nhc={nhc.data} radarFrames={radar.frames} radarIndex={rIdx} selectedId={selectedId} onSelect={select} onReady={setMap} spin={story && step === 0} marker={marker} />
+      <MapView hotspots={hotspots} spcCat={spcCat.data} spcTorn={spcTorn.data} nws={nws} layers={effLayers} sigtorn={sigtorn.data} spcD2={spcD2.data} spcD3={spcD3.data} md={md.data} nhc={nhc.data} radarFrames={radar.frames} radarIndex={rIdx} selectedId={selectedId} onSelect={select} onReady={setMap} spin={false} marker={marker} />
 
       <div className={`splash ${booted ? 'gone' : ''}`} aria-hidden={booted}>
         <div className="vortex"><i /><i /><i /></div>
-        <div className="splash-title">STORM<b>CHASE</b></div><small>Spinning up the globe…</small>
+        <div className="splash-title">STORM<b>CHASE</b></div><small>Loading live radar & outlooks…</small>
       </div>
 
       <header className="topbar">
-        <button className="brand" onClick={toStory} aria-label="Back to story"><span className="logo">◎</span><span>STORM<b>CHASE</b></span></button>
-        <span className="mode-pill">{story ? 'Tour' : 'Forecast Center · US'}</span>
-        {story ? <DemoBadge /> : (
-          <div className="mode-toggle" role="group" aria-label="Data mode">
-            <button className={live ? 'on live' : ''} onClick={() => { haptic(12); setLive(true); setSelectedId(null); }} aria-pressed={live}>● LIVE</button>
-            <button className={!live ? 'on' : ''} onClick={() => { haptic(12); setLive(false); }} aria-pressed={!live}>DEMO</button>
-          </div>)}
-        {!story && <div className="search">
+        <button className="brand" onClick={() => { if (live) toConus(); else backToLive(); }} aria-label="StormChase home"><span className="logo">◎</span><span>STORM<b>CHASE</b></span></button>
+        {live ? <span className="status-pill live" data-testid="mode-live">● LIVE</span> : <span className="status-pill demo">DEMO</span>}
+        {live
+          ? <button className="hdr-demo" onClick={startTour} data-testid="try-demo">Try a demo chase day</button>
+          : <button className="hdr-demo back" onClick={backToLive} data-testid="back-live">← Back to live</button>}
+        {!mobile && <div className="search">
           <input placeholder="Search US place…" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Search location" />
           {results.length > 0 && <ul className="search-results">{results.map((r) => (
             <li key={r.name}><button onClick={() => { haptic(); setQ(''); map?.flyTo({ center: [r.lon, r.lat], zoom: 7.5, pitch: 40 }); }}>{r.name}</button></li>))}</ul>}
         </div>}
         <nav className="tabs">
-          {story ? <button onClick={enter}>Skip tour →</button> : (['layers', 'spc', 'play', 'chasers'] as const).map((p) => (
+          {((live ? ['layers', 'spc', 'chasers'] : ['layers', 'spc', 'play', 'chasers']) as Panel[]).map((p) => (
             <button key={p} className={panel === p ? 'on' : ''} onClick={() => togglePanel(p)}>{p === 'layers' ? 'Layers' : p === 'spc' ? 'SPC' : p === 'play' ? 'Playground' : 'Chasers'}</button>))}
+          <button className={info ? 'on' : ''} onClick={() => { haptic(); setInfo(!info); }} data-testid="how-link">How it works</button>
         </nav>
       </header>
 
-      {story && <Story step={step} onStep={onStep} onEnter={enter} onPlayground={() => { enter(); setPanel('play'); }}
-        stats={{ spc: spcCat.error && !spcCat.data ? 'error' : spcCat.data ? 'live' : '…', nws: nwsRaw.error && !nwsRaw.data ? 'error' : nwsRaw.data ? String(nws.features.length) : '…', hs: HOTSPOT_DEFS.length }} />}
-
-      {!story && panel && (
+      {panel && (
         <aside className="side panel slide-in" aria-label={`${panel} panel`}>
           <button className="icon close" onClick={() => setPanel(null)} aria-label="Close panel">✕</button>
           {panel === 'layers' && <LayerPanel layers={layers} setLayer={setLayer} status={status} model={model} />}
@@ -175,7 +180,7 @@ export default function App() {
           <p className="muted">Sources: NWS api.weather.gov &amp; mapservices, SPC, NHC, RainViewer. Tap a warning polygon for details.</p>
         </div>)}
 
-      {!story && !panel && !selectedId && !liveMode && (
+      {!panel && !selectedId && !liveMode && tour === null && (
         <aside className="side status-cards slide-in">
           <div className="mini-card"><div className="eyebrow">WHIRL-E corridors · {dayLabel(fr)} <DemoBadge small /></div>
             {hotspots.features.length ? [...hotspots.features].sort((a, b) => b.properties.score - a.properties.score).map((f) => (
@@ -188,7 +193,7 @@ export default function App() {
         </aside>
       )}
 
-      {!story && detail && <aside className="detail slide-up"><EvidenceCard d={detail} model={model} fhr={fr} setFhr={setFhr} spcCat={spcCat.data} spcTorn={spcTorn.data} onClose={() => { haptic(); setSelectedId(null); }} fhrLabel={fhrLabel} expanded={expanded} setExpanded={setExpanded} onFlyTo={flyTarget} /></aside>}
+      {detail && <aside className="detail slide-up"><EvidenceCard d={detail} model={model} fhr={fr} setFhr={setFhr} spcCat={spcCat.data} spcTorn={spcTorn.data} onClose={() => { haptic(); setSelectedId(null); }} fhrLabel={fhrLabel} expanded={expanded} setExpanded={setExpanded} onFlyTo={flyTarget} key={`${detail.def.id}-${tour ?? 'x'}-${tourTab ?? ''}`} initialTab={tour !== null ? tourTab : undefined} /></aside>}
 
       {liveMode && (
         <footer className="timebar radarbar" data-testid="radar-bar">
@@ -197,7 +202,7 @@ export default function App() {
           <div className="slider-wrap"><input type="range" min={0} max={Math.max(0, nFrames - 1)} value={Math.max(0, rIdx)} onChange={(e) => { setRadarPlay(false); setRadarIdx(Number(e.target.value)); }} aria-label="Radar frame" /></div>
           <div className="time"><b>{nFrames ? `Radar ${fmtTime(new Date(radar.frames[rIdx].time * 1000))}` : radar.error ? 'Radar unavailable' : 'Loading radar…'}</b><small>RainViewer mosaic · {rIdx === nFrames - 1 ? 'latest' : `${nFrames - 1 - rIdx} frames ago`}</small></div>
         </footer>)}
-      {!story && !liveMode && (
+      {!liveMode && (
         <footer className="timebar">
           <select value={model} onChange={(e) => { haptic(); setModel(e.target.value as ModelId); }} aria-label="Model">{MODELS.map((x) => <option key={x.id} value={x.id}>{x.name}</option>)}</select>
           <button className={`play ${playing ? 'on' : ''}`} onClick={() => { haptic(12); setPlaying(!playing); }} aria-label={playing ? 'Pause' : 'Play'}>{playing ? '❚❚' : '▶'}</button>
@@ -208,6 +213,24 @@ export default function App() {
           <div className="time"><b>{dayLabel(fr)} · F{String(fr).padStart(3, '0')}</b><small>{fmtTime(valid)}</small></div>
         </footer>
       )}
+      {!live && <div className="demo-banner" data-testid="demo-banner" role="status">DEMO CHASE DAY · synthetic data · not a forecast</div>}
+      {tour !== null && (() => { const s = TOUR_STEPS[tour]; const last = tour === TOUR_STEPS.length - 1; return (
+        <aside className="tour-card slide-up" data-testid="tour-card" key={s.id}>
+          <div className="eyebrow">{s.kicker} <span className="demo-badge sm">DEMO</span></div>
+          <h3>{s.title}</h3>
+          {s.body.map((b) => <p key={b}>{b}</p>)}
+          <div className="tour-dots">{TOUR_STEPS.map((x, i) => <button key={x.id} className={i === tour ? 'on' : ''} onClick={() => applyStep(i)} aria-label={x.title} />)}</div>
+          <div className="tour-nav">
+            <button className="ghost" disabled={tour === 0} onClick={() => applyStep(tour - 1)}>← Back</button>
+            {last ? <>
+              <button className="ghost" onClick={() => { setTour(null); setSelectedId(null); setPanel('play'); }}>Open Playground</button>
+              <button className="cta" onClick={backToLive} data-testid="tour-back-live">Back to live</button>
+            </> : <button className="cta" onClick={() => applyStep(tour + 1)} data-testid="tour-next">Next →</button>}
+          </div>
+          <button className="tour-exit" onClick={backToLive}>Exit demo</button>
+        </aside>); })()}
+      {info && <InfoPage onClose={() => setInfo(false)} onDemo={startTour} onPlayground={() => { setInfo(false); setLive(false); setPanel('play'); }} />}
+      {!info && tour === null && <button className="pull-tab" onClick={() => { haptic(); setInfo(true); }} onWheel={(e) => { if (e.deltaY > 0) setInfo(true); }}>How it works · demo · FAQ ↑</button>}
       <div className={`demo-ribbon ${liveMode ? 'live' : ''}`} title={DEMO_LABEL}>{liveMode ? 'LIVE · official NWS/SPC/NHC data + RainViewer radar · demo hotspots hidden · always follow NWS warnings' : 'DEMO · synthetic hotspots · WHIRL is experimental · defer to NWS/SPC'}</div>
     </div>
   );

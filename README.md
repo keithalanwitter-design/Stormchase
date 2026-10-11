@@ -55,3 +55,8 @@ Header toggle `● LIVE / DEMO`. LIVE hides the demo hotspots and shows only rea
 - NWS watch/warning polygons (mapservices WWA, including zone-based watches). Tap one for the headline, expiry in CT and description from api.weather.gov
 - NHC forecast cone/track for all active storms (NWS mapservices)
 - "Live now" chip: tornado warning/watch counts (api.weather.gov), SPC max tornado %, CIG/hatched flag, MD count
+
+## v6 — live-first
+- Loads straight into **LIVE** official data (radar, SPC, NWS, NHC) with a quick globe→US fly-in. The scroll-story intro is gone.
+- **Try a demo chase day** (header button, and a card in How it works) runs a 5-step guided walkthrough (`src/lib/tour.ts`): night before (Day 2), morning of, storms firing, chase decision, wrap-up. Steps move the camera, toggle layers, open hotspot cards on a set tab and change the forecast hour. A striped DEMO banner stays on screen, and the last step offers **Back to live** or the Playground.
+- **How it works** page (header link or the bottom pull tab): live layers and colors, what WHIRL is, a chase-day checklist, a 10-question FAQ, and sources/credits.

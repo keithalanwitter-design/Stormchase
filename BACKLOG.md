@@ -25,3 +25,4 @@ P0 = next session. Milestones per handoff (M1–M2 delivered as this demo shell)
 | 17 | P1 | M5 | Replace synthetic soundings with HRRR point soundings (Herbie + MetPy) |
 | 18 | P2 | — | Swipe gestures between hotspots on the mobile sheet; drag-to-resize sheet |
 | 19 | P2 | — | iOS has no vibration API — consider subtle audio/visual tap feedback |
+- [ ] Tour: optional auto-advance and deep links (?demo=step3).

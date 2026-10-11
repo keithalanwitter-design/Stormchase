@@ -214,3 +214,39 @@ button:active { transform: scale(.94); }
 .mobile .live-chip { top:104px; font-size:11px; padding:6px 10px; max-width: calc(100vw - 16px); overflow:hidden; text-overflow:ellipsis; }
 .mobile .live-detail { top:140px; }
 .mobile .mode-toggle button { padding:4px 7px; }
+/* v6: live-first shell, tour, info page */
+.status-pill { font-size:10.5px; font-weight:800; letter-spacing:.1em; padding:4px 9px; border-radius:99px; }
+.status-pill.live { color:#7dffaa; background: rgba(46,232,107,.14); border:1px solid rgba(46,232,107,.4); }
+.status-pill.demo { color:#1a1200; background: repeating-linear-gradient(45deg,#ffb000,#ffb000 6px,#ffcc33 6px,#ffcc33 12px); }
+.hdr-demo { background: linear-gradient(90deg, rgba(30,143,255,.25), rgba(139,92,255,.25)); border:1px solid rgba(139,92,255,.5); border-radius:8px; padding:7px 11px; font-size:12.5px; cursor:pointer; font-weight:600; }
+.hdr-demo.back { background: rgba(46,232,107,.12); border-color: rgba(46,232,107,.45); }
+.demo-banner { position:absolute; z-index:6; top:52px; left:0; right:0; text-align:center; font-weight:900; letter-spacing:.14em; font-size:12px; padding:5px; color:#1a1200;
+  background: repeating-linear-gradient(45deg,#ffb000,#ffb000 14px,#ffcc33 14px,#ffcc33 28px); box-shadow: 0 6px 20px rgba(0,0,0,.4); }
+.desktop.is-demo .side, .desktop.is-demo .detail { top:84px; } .desktop.is-demo .maplibregl-ctrl-top-right { top:90px; }
+.tour-card { position:absolute; z-index:7; left:12px; bottom:96px; width:380px; max-height: calc(100dvh - 200px); overflow:auto; background: var(--panel); border:1px solid rgba(255,176,0,.45); border-radius:16px; padding:14px 16px; backdrop-filter: blur(12px); box-shadow: 0 20px 60px rgba(0,0,0,.55); }
+.tour-card h3 { margin:6px 0; font-size:18px; } .tour-card p { margin:6px 0; font-size:13px; line-height:1.5; color:#cdd6ee; }
+.tour-dots { display:flex; gap:6px; margin:10px 0; } .tour-dots button { width:22px; height:5px; border-radius:3px; border:0; background: rgba(255,255,255,.2); cursor:pointer; padding:0; } .tour-dots button.on { background:#ffb000; }
+.tour-nav { display:flex; gap:8px; justify-content:flex-end; flex-wrap:wrap; } .tour-nav .cta { margin-top:0; padding:10px 16px; } .tour-nav .ghost:disabled { opacity:.35; }
+.tour-exit { position:absolute; top:10px; right:12px; background:none; border:0; color: var(--muted); font-size:11px; cursor:pointer; }
+.pull-tab { position:absolute; z-index:5; left:50%; transform:translateX(-50%); bottom:104px; background: rgba(12,17,30,.8); border:1px solid var(--line); border-radius:99px; padding:6px 14px; font-size:11.5px; color: var(--muted); cursor:pointer; backdrop-filter: blur(8px); }
+.pull-tab:hover { color:#fff; border-color: var(--accent); }
+.info-page { position:absolute; inset:52px 0 0 0; z-index:8; overflow-y:auto; background: linear-gradient(180deg, rgba(5,8,16,.97), rgba(3,5,11,.99)); }
+.info-inner { max-width:880px; margin:0 auto; padding:20px 18px 80px; }
+.info-top { display:flex; justify-content:space-between; align-items:center; } .info-top h1 { font-size:28px; margin:8px 0; font-weight:700; }
+.info-page section { border-top:1px solid var(--line); padding:14px 0; } .info-page h2 { font-size:19px; margin:6px 0 10px; } .info-page h3 { font-size:14px; margin:0 0 6px; color: var(--accent); }
+.info-page p { color:#cdd6ee; line-height:1.6; font-size:14px; }
+.bul { padding-left:18px; margin:4px 0; } .bul li { margin:6px 0; line-height:1.5; font-size:13.5px; color:#cdd6ee; } .bul.small li { font-size:12.5px; }
+.callout { border-left:3px solid #ffb000; padding:8px 12px; background: rgba(255,176,0,.07); border-radius:0 8px 8px 0; }
+.cta-cards { display:grid; grid-template-columns: 1fr 1fr; gap:10px; margin:10px 0 16px; }
+.cta-card { text-align:left; display:flex; flex-direction:column; gap:4px; padding:14px; border-radius:14px; border:1px solid var(--line); background: linear-gradient(135deg, rgba(30,143,255,.14), rgba(139,92,255,.12)); cursor:pointer; }
+.cta-card b { font-size:15px; } .cta-card small { color: var(--muted); } .cta-card .demo-badge, .cta-card .third-badge { align-self:flex-start; }
+.steps3 { display:grid; grid-template-columns: repeat(3, 1fr); gap:10px; } .steps3 > div { border:1px solid var(--line); border-radius:12px; padding:12px; background: rgba(255,255,255,.02); }
+.faq details { border:1px solid var(--line); border-radius:10px; margin:6px 0; background: rgba(255,255,255,.02); overflow:hidden; }
+.faq summary { cursor:pointer; padding:12px 14px; font-weight:600; font-size:14px; list-style:none; display:flex; justify-content:space-between; }
+.faq summary::after { content:'+'; color: var(--accent); font-size:18px; transition: transform .2s; } .faq details[open] summary::after { transform: rotate(45deg); }
+.faq details p { margin:0; padding:0 14px 12px; font-size:13.5px; animation: fadeUp .25s ease; }
+.mobile .info-page { inset:96px 0 0 0; } .mobile .cta-cards, .mobile .steps3 { grid-template-columns: 1fr; } .mobile .info-top h1 { font-size:22px; }
+.mobile .tour-card { left:8px; right:8px; width:auto; top:128px; bottom:auto; max-height:38dvh; padding:12px; } .mobile .tour-card h3 { font-size:16px; } .mobile .tour-card p { font-size:12.5px; }
+.mobile .demo-banner { top:96px; font-size:10.5px; } .mobile.is-demo .detail { max-height:44dvh; }
+.mobile .pull-tab { bottom:92px; } .mobile .hdr-demo { padding:6px 8px; font-size:11.5px; } .mobile .brand { font-size:13px; letter-spacing:.12em; }
+.mobile .tabs button { padding:6px 8px; font-size:11.5px; }

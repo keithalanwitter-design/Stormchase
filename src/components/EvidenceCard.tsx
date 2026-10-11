@@ -8,15 +8,15 @@ import { narrate } from '../lib/scenario';
 import { Gauge, SoundingSvg, TimelineChart, haptic } from './Viz';
 import { DemoBadge } from './Panels';
 
-const TABS = ['Ingredients', 'Sounding', 'Timeline', 'Models', 'SPC', 'Analogs', 'Chase plan'] as const;
-type Tab = (typeof TABS)[number];
+export const TABS = ['Ingredients', 'Sounding', 'Timeline', 'Models', 'SPC', 'Analogs', 'Chase plan'] as const;
+export type Tab = (typeof TABS)[number];
 const fmt = (n: number, d = 2) => (Number.isFinite(n) ? n.toFixed(d) : '—');
 
-export default function EvidenceCard({ d, model, fhr, setFhr, spcCat, spcTorn, onClose, fhrLabel, expanded, setExpanded, onFlyTo }: {
+export default function EvidenceCard({ d, model, fhr, setFhr, spcCat, spcTorn, onClose, fhrLabel, expanded, setExpanded, onFlyTo, initialTab }: {
   d: HotspotDetail; model: ModelId; fhr: number; setFhr: (f: number) => void; spcCat: FeatureCollection | null; spcTorn: FeatureCollection | null;
-  onClose: () => void; fhrLabel: string; expanded: boolean; setExpanded: (b: boolean) => void; onFlyTo: (lonlat: [number, number]) => void;
+  onClose: () => void; fhrLabel: string; expanded: boolean; setExpanded: (b: boolean) => void; onFlyTo: (lonlat: [number, number]) => void; initialTab?: Tab;
 }) {
-  const [tab, setTab] = useState<Tab>('Ingredients');
+  const [tab, setTab] = useState<Tab>(initialTab ?? 'Ingredients');
   const { def, env, scores, perModel, spreadPct } = d;
   const w = scores.whirl;
   const series = useMemo(() => whirlSeries(def, model, 1), [def, model]);
