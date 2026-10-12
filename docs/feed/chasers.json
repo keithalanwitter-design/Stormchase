@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-12T17:01:16.114Z",
+  "updated_utc": "2026-10-12T19:58:05.609Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2109717532294713673",
+          "text": "One hurricane did all of this. 57 tornado warnings in three days, and the last ones were about 600 miles from where it came ashore. https://t.co/MZZkNXMh6w",
+          "created_at": "2026-10-12T18:47:11.000Z",
+          "url": "https://x.com/i/status/2109717532294713673",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109717510106882048/pu/img/qpJL6mkHLXpOvoZ7.jpg"
+        },
+        {
           "id": "2109630173758832997",
           "text": "A lot of y'all are going to need the AC and the heater this week.\n\nIt's in the 80s and 90s today across the middle of the country. By Sunday morning the same cities wake up in the 30s and 40s. https://t.co/uKKiVx1mHP",
           "created_at": "2026-10-12T13:00:03.000Z",
@@ -72,13 +79,6 @@
           "created_at": "2026-10-11T19:48:06.000Z",
           "url": "https://x.com/i/status/2109370474983522626",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109370414212231168/pu/img/TrToOmHChm8dwRoi.jpg"
-        },
-        {
-          "id": "2109360627877654896",
-          "text": "These are the tornado spin tracks across North Carolina so far today. All of it from what's left of the hurricane that hit Florida on Friday. https://t.co/P8jT2vpELX",
-          "created_at": "2026-10-11T19:08:58.000Z",
-          "url": "https://x.com/i/status/2109360627877654896",
-          "media_url": "https://pbs.twimg.com/media/HUX0UCZXwAAHJws.jpg"
         }
       ]
     },
@@ -86,6 +86,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2109717079603466371",
+          "text": "A spectacular \"space jellyfish\" could be visible across the East Coast early Tuesday morning following a SpaceX launch from Cape Canaveral...\n\nWith liftoff scheduled for 6:33 AM EDT, the timing is perfect for the rocket's expanding exhaust plume to catch high-altitude sunlight https://t.co/bDAmqiTDTs",
+          "created_at": "2026-10-12T18:45:23.000Z",
+          "url": "https://x.com/i/status/2109717079603466371",
+          "media_url": "https://pbs.twimg.com/media/HUcqTnwWsAAAjV2.jpg"
+        },
         {
           "id": "2109684362685903247",
           "text": "A 50° temperature swing is possible across much of the Midwest late this week... \n\nSummer-like warmth will dominate the first half of the week, with highs reaching the upper 80s and 90s across parts of the Plains and Midwest. By the end of this week, a strong cold front will https://t.co/dEybyFtM25",
@@ -113,13 +120,6 @@
           "created_at": "2026-10-12T12:35:20.000Z",
           "url": "https://x.com/i/status/2109623954767859713",
           "media_url": "https://pbs.twimg.com/media/HUbjzorWIAACGvx.jpg"
-        },
-        {
-          "id": "2109434207420174668",
-          "text": "Isaias' remnants triggered dozens of tornado warnings across the Carolinas today...\n\nA total of 30 tornado warnings were issued across the Carolinas by 7 PM EDT Sunday, including 9 for observed tornadoes and two particularly dangerous situation (PDS) warnings.\n\nThe threat has now https://t.co/noL2bDXUSX",
-          "created_at": "2026-10-12T00:01:21.000Z",
-          "url": "https://x.com/i/status/2109434207420174668",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109433690262474752/pu/img/ErtRG6cHApk2yCRs.jpg"
         }
       ]
     },
@@ -169,6 +169,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2109722169219383514",
+          "text": "#WPC_MD 1485 affecting central/southeastern NV, northwestern AZ into central UT, #utwx #azwx #nvwx #cawx, https://t.co/fI5LlnYpcG https://t.co/c9F0lrnQTU",
+          "created_at": "2026-10-12T19:05:36.000Z",
+          "url": "https://x.com/i/status/2109722169219383514",
+          "media_url": "https://pbs.twimg.com/media/HUc9IlKX0AAR62c.jpg"
+        },
+        {
           "id": "2109616381201088633",
           "text": "Heavy rainfall continues over the Great Basin and Southwest today; wet weather moves into the Plains this week https://t.co/kPv4k077nv",
           "created_at": "2026-10-12T12:05:14.000Z",
@@ -193,13 +200,6 @@
           "text": "National High/Low temps for Sunday October 11, 2026: 98 at Rio Grande Village, TX; 11 at 19 miles northeast of Kirk, OR #txwx #orwx https://t.co/taGU2h9yah",
           "created_at": "2026-10-12T02:45:22.000Z",
           "url": "https://x.com/i/status/2109475483498803309"
-        },
-        {
-          "id": "2109427013077352619",
-          "text": "#WPC_MD 1483 affecting Northern AZ...Southern UT...Southeast NV...Southwest CO, #cowx #utwx #azwx #nvwx, https://t.co/LJFtxCox8h https://t.co/XO1agtfhIu",
-          "created_at": "2026-10-11T23:32:45.000Z",
-          "url": "https://x.com/i/status/2109427013077352619",
-          "media_url": "https://pbs.twimg.com/media/HUYwsO5WgAAo2P2.jpg"
         }
       ]
     }
