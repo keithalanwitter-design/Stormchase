@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-11T23:42:15.024Z",
+  "updated_utc": "2026-10-12T00:48:54.318Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -87,6 +87,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2109434207420174668",
+          "text": "Isaias' remnants triggered dozens of tornado warnings across the Carolinas today...\n\nA total of 30 tornado warnings were issued across the Carolinas by 7 PM EDT Sunday, including 9 for observed tornadoes and two particularly dangerous situation (PDS) warnings.\n\nThe threat has now https://t.co/noL2bDXUSX",
+          "created_at": "2026-10-12T00:01:21.000Z",
+          "url": "https://x.com/i/status/2109434207420174668",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109433690262474752/pu/img/ErtRG6cHApk2yCRs.jpg"
+        },
+        {
           "id": "2109384620709953879",
           "text": "Severe weather will return to the central and southern Plains on Tuesday, carrying a risk for damaging winds and isolated tornadoes...\n\nAs a low-pressure system deepens over the High Plains, it will pull a surge of humid air into the region. By Tuesday afternoon and evening, this https://t.co/JLKKnSTOuH",
           "created_at": "2026-10-11T20:44:18.000Z",
@@ -113,13 +120,6 @@
           "created_at": "2026-10-11T18:08:25.000Z",
           "url": "https://x.com/i/status/2109345391837622287",
           "media_url": "https://pbs.twimg.com/media/HUXmdIsXEAAS0Lc.jpg"
-        },
-        {
-          "id": "2109340169690136836",
-          "text": "LIKELY STRONG TORNADO moving into Louisburg, North Carolina!\n\nSeek shelter IMMEDIATELY if you are in this area! https://t.co/RZICuCxa7p",
-          "created_at": "2026-10-11T17:47:40.000Z",
-          "url": "https://x.com/i/status/2109340169690136836",
-          "media_url": "https://pbs.twimg.com/media/HUXhtJLWYAAl-iM.jpg"
         }
       ]
     },
