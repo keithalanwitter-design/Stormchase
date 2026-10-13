@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-13T14:03:57.988Z",
+  "updated_utc": "2026-10-13T16:58:43.627Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -86,6 +86,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110034340130271293",
+          "text": "It's about to feel a whole lot different this weekend... https://t.co/QWVXbJw52k",
+          "created_at": "2026-10-13T15:46:03.000Z",
+          "url": "https://x.com/i/status/2110034340130271293",
+          "media_url": "https://pbs.twimg.com/media/HUhLUZbW0AA_jZQ.jpg"
+        },
+        {
+          "id": "2110015966872526949",
+          "text": "A prolonged, multi-day flash flood threat is set to begin this afternoon across the Central and Southern Plains, in addition to the lower Missouri Valley...\n\nTriggered by an approaching upper-level system and deep tropical moisture streaming northward from Hurricane Simon, https://t.co/MJllQ3Zi4Q",
+          "created_at": "2026-10-13T14:33:03.000Z",
+          "url": "https://x.com/i/status/2110015966872526949",
+          "media_url": "https://pbs.twimg.com/media/HUg6JzuW4AAde9s.jpg"
+        },
+        {
           "id": "2110000618198769983",
           "text": "Kansas City, MO and Wichita, KS, could see a tornado or two today...along with Syracuse, NY... https://t.co/yKUAPRJF9n",
           "created_at": "2026-10-13T13:32:03.000Z",
@@ -105,20 +119,6 @@
           "created_at": "2026-10-13T00:04:21.000Z",
           "url": "https://x.com/i/status/2109797349945966731",
           "media_url": "https://pbs.twimg.com/media/HUeBgfyXIAAxy4t.jpg"
-        },
-        {
-          "id": "2109765647097880922",
-          "text": "It'll be a soggy Wednesday and Thursday across the central US as moisture from Hurricane Simon in the Pacific impacts the region... https://t.co/ZQTstffeGK",
-          "created_at": "2026-10-12T21:58:22.000Z",
-          "url": "https://x.com/i/status/2109765647097880922",
-          "media_url": "https://pbs.twimg.com/media/HUdkrG-XIAAZUie.jpg"
-        },
-        {
-          "id": "2109738714167497164",
-          "text": "There are still 12 Waffle Houses closed from Hurricane Isaias... https://t.co/MTFRiQQwen",
-          "created_at": "2026-10-12T20:11:21.000Z",
-          "url": "https://x.com/i/status/2109738714167497164",
-          "media_url": "https://pbs.twimg.com/media/HUc-cwgXIAAIljb.jpg"
         }
       ]
     },
