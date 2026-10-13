@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-13T01:48:22.462Z",
+  "updated_utc": "2026-10-13T04:45:35.756Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2109857133659410683",
+          "text": "HUGE SCIENCE WIN with the #Dominator weather balloon launched in the eye of Hurricane Isaias with 117 mph surface winds measured.\n\nThe weather balloon sampled the compressed eye of category 2 Hurricane Isaias before arrival of a sting jet, pushing the balloon rapidly west-to-east https://t.co/ur15mLRFEF",
+          "created_at": "2026-10-13T04:01:54.000Z",
+          "url": "https://x.com/i/status/2109857133659410683",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2109856998871236609/img/lLuoSy6us9Vmk0cx.jpg"
+        },
         {
           "id": "2109394830799548841",
           "text": "HUGE SCIENCE MISSION WIN with Dominator weather balloon sampling the eye and sting jet of Hurricane Isaias as it interacted with an upper low to the west. This is a trajectory with wind and thermodynamics attached. Extreme engineer @WillClay25 overnight science mission https://t.co/biHiReUctC",
@@ -31,13 +38,6 @@
           "text": "BOOMER SOONER IS BACK",
           "created_at": "2026-10-10T23:33:35.000Z",
           "url": "https://x.com/i/status/2109064833576407103"
-        },
-        {
-          "id": "2108981777377239441",
-          "text": "Working Hurricane #Isaias for @accuweather https://t.co/hwUsrGtfEz",
-          "created_at": "2026-10-10T18:03:33.000Z",
-          "url": "https://x.com/i/status/2108981777377239441",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2108981460464005122/img/KefpdMyEaBTBQ7vL.jpg"
         }
       ]
     },
@@ -168,6 +168,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2109837869711794182",
+          "text": "National High/Low temps for Monday October 12, 2026: 102 at Rio Grande Village, TX; 12 at 19 miles northeast of Kirk, OR #txwx #orwx https://t.co/s3BgjAavmH",
+          "created_at": "2026-10-13T02:45:21.000Z",
+          "url": "https://x.com/i/status/2109837869711794182"
+        },
+        {
           "id": "2109752453587415258",
           "text": "A look ahead at widespread heavy rainfall with the risk for flash flooding expected across portions of the Plains and Midwest mid-week. https://t.co/zf2bEZDBN7",
           "created_at": "2026-10-12T21:05:56.000Z",
@@ -193,13 +199,6 @@
           "created_at": "2026-10-12T11:56:43.000Z",
           "url": "https://x.com/i/status/2109614238830313906",
           "media_url": "https://pbs.twimg.com/media/HUba-LYWMAAVcb9.jpg"
-        },
-        {
-          "id": "2109519609883672599",
-          "text": "Anomalous October warmth will build across the Mississippi Valley early this week as a ridge of high pressure strengthens. High temperatures in the middle 80s to the low 90s are possible, more than 20 degrees above average for this time of the year in some locales. https://t.co/tW9IbLTiY1",
-          "created_at": "2026-10-12T05:40:42.000Z",
-          "url": "https://x.com/i/status/2109519609883672599",
-          "media_url": "https://pbs.twimg.com/media/HUaE5-rXsAAeHY8.jpg"
         }
       ]
     }
