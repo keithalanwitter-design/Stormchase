@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-12T22:43:07.890Z",
+  "updated_utc": "2026-10-13T01:48:22.462Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -86,6 +86,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2109797349945966731",
+          "text": "It is becoming increasingly likely that the Eastern Pacific produces yet another powerful hurricane that could impact Mexico later down the line.\n\nThe next name on the Eastern Pacific naming list is Trudy. https://t.co/dmsIQDzjmZ",
+          "created_at": "2026-10-13T00:04:21.000Z",
+          "url": "https://x.com/i/status/2109797349945966731",
+          "media_url": "https://pbs.twimg.com/media/HUeBgfyXIAAxy4t.jpg"
+        },
+        {
           "id": "2109765647097880922",
           "text": "It'll be a soggy Wednesday and Thursday across the central US as moisture from Hurricane Simon in the Pacific impacts the region... https://t.co/ZQTstffeGK",
           "created_at": "2026-10-12T21:58:22.000Z",
@@ -112,13 +119,6 @@
           "created_at": "2026-10-12T16:35:22.000Z",
           "url": "https://x.com/i/status/2109684362685903247",
           "media_url": "https://pbs.twimg.com/media/HUcavusXgAAuWW8.jpg"
-        },
-        {
-          "id": "2109653142006641093",
-          "text": "Not only could Kansas and Oklahoma see a tornado tomorrow...but also New York... https://t.co/dIFuoWc0lC",
-          "created_at": "2026-10-12T14:31:19.000Z",
-          "url": "https://x.com/i/status/2109653142006641093",
-          "media_url": "https://pbs.twimg.com/media/HUbwnqdW4AAsGNi.jpg"
         }
       ]
     },
