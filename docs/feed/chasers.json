@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-14T04:44:31.446Z",
+  "updated_utc": "2026-10-14T13:42:10.761Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2110343629055107214",
+          "text": "If you live inside the white line, your power grid is on an emergency alert today. That's this October heat, plus a lot of power plants down for fall maintenance.\n\nYou don't have to do anything. https://t.co/bbXjMqmXTW",
+          "created_at": "2026-10-14T12:15:04.000Z",
+          "url": "https://x.com/i/status/2110343629055107214",
+          "media_url": "https://pbs.twimg.com/media/HUlyWOfXIAAttmZ.jpg"
+        },
+        {
+          "id": "2110328602906542404",
+          "text": "The nicest weather in the USA today will be in and around Tucson, AZ, the Tri-Cities, WA, and Grants Pass, OR. https://t.co/ZsVI6gyO6J",
+          "created_at": "2026-10-14T11:15:21.000Z",
+          "url": "https://x.com/i/status/2110328602906542404",
+          "media_url": "https://pbs.twimg.com/media/HUlkrhVW0AA9qQm.jpg"
+        },
+        {
           "id": "2109992596529398135",
           "text": "If you live in the orange or red, you're going to be hotter than Death Valley today. It's 82 out there and 94 in St. Louis. https://t.co/uuMdx5VvOi",
           "created_at": "2026-10-13T13:00:11.000Z",
@@ -66,19 +80,6 @@
           "created_at": "2026-10-13T11:15:35.000Z",
           "url": "https://x.com/i/status/2109966273706647809",
           "media_url": "https://pbs.twimg.com/media/HUgbJNCWIAAZ-5M.jpg"
-        },
-        {
-          "id": "2109744032184172927",
-          "text": "We are trying to put a camera in every county in the US. Have a spot for one? Email cameras@ryanhallyall.com https://t.co/RmqCCiJBs2",
-          "created_at": "2026-10-12T20:32:29.000Z",
-          "url": "https://x.com/i/status/2109744032184172927"
-        },
-        {
-          "id": "2109717532294713673",
-          "text": "One hurricane did all of this. 57 tornado warnings in three days, and the last ones were about 600 miles from where it came ashore. https://t.co/MZZkNXMh6w",
-          "created_at": "2026-10-12T18:47:11.000Z",
-          "url": "https://x.com/i/status/2109717532294713673",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2109717510106882048/pu/img/qpJL6mkHLXpOvoZ7.jpg"
         }
       ]
     },
@@ -86,6 +87,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2110363006282485909",
+          "text": "There is the potential for a brief tornado or two today across Oklahoma City, OK and Wichita Falls, TX... https://t.co/AmmWCvyFfe",
+          "created_at": "2026-10-14T13:32:04.000Z",
+          "url": "https://x.com/i/status/2110363006282485909",
+          "media_url": "https://pbs.twimg.com/media/HUl2PjSXkAAP4rZ.jpg"
+        },
+        {
+          "id": "2110346157515813264",
+          "text": "A severe thunderstorm threat will target the southern Plains today, bringing a primary risk for damaging wind gusts, large hail, and isolated tornadoes...\n\nAs a cold front advances through northern Oklahoma and the Texas Panhandle, strong atmospheric instability will develop this https://t.co/KQRzX1Rr6S",
+          "created_at": "2026-10-14T12:25:06.000Z",
+          "url": "https://x.com/i/status/2110346157515813264",
+          "media_url": "https://pbs.twimg.com/media/HUl0pV2WsAAoMgl.jpg"
+        },
         {
           "id": "2110145575010054655",
           "text": "TORNADO WARNING for Dickens, Texas!\n\nSeek shelter if you are in this warning! https://t.co/DF1En03jJG",
@@ -105,20 +120,6 @@
           "created_at": "2026-10-13T21:09:39.000Z",
           "url": "https://x.com/i/status/2110115775797174783",
           "media_url": "https://pbs.twimg.com/media/HUijHQZXkAEx7IL.jpg"
-        },
-        {
-          "id": "2110092726054093258",
-          "text": "Parts of New England could potentially see their first snow of the season this weekend... ❄️ https://t.co/tZTNI4B61F",
-          "created_at": "2026-10-13T19:38:04.000Z",
-          "url": "https://x.com/i/status/2110092726054093258",
-          "media_url": "https://pbs.twimg.com/media/HUh_9ncWAAAtYg8.jpg"
-        },
-        {
-          "id": "2110068578955206695",
-          "text": "STUNNING \"space jellyfish\" observed this morning in St. Augustine, Florida, sent in by one of our viewers! https://t.co/9Yehy0UDjR",
-          "created_at": "2026-10-13T18:02:07.000Z",
-          "url": "https://x.com/i/status/2110068578955206695",
-          "media_url": "https://pbs.twimg.com/media/HUh4MDxWsAA64mU.jpg"
         }
       ]
     },
@@ -168,39 +169,37 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
-          "id": "2110217031370891668",
-          "text": "#WPC_MD 1490 affecting Western Texas Panhandle..., #txwx #nmwx, https://t.co/m6tThdVhdt https://t.co/6rNfo31L64",
-          "created_at": "2026-10-14T03:52:00.000Z",
-          "url": "https://x.com/i/status/2110217031370891668",
-          "media_url": "https://pbs.twimg.com/media/HUj_NWWWwAAAVg0.jpg"
+          "id": "2110341180978250101",
+          "text": "Strong high pressure brings the first taste of Fall for much of the Central U.S. later this week https://t.co/kPv4k077nv",
+          "created_at": "2026-10-14T12:05:20.000Z",
+          "url": "https://x.com/i/status/2110341180978250101"
         },
         {
-          "id": "2110210432447209587",
-          "text": "#WPC_MD 1489 affecting South-central &amp; Southeast KS...Central &amp; Southern MO...Far Southwest IL...Far Northern Oklahoma..., #ilwx #mowx #okwx #kswx, https://t.co/8SZQgDVVB0 https://t.co/fogu6egDFt",
-          "created_at": "2026-10-14T03:25:47.000Z",
-          "url": "https://x.com/i/status/2110210432447209587",
-          "media_url": "https://pbs.twimg.com/media/HUj5NPfXAAIjyeu.jpg"
+          "id": "2110341179401281922",
+          "text": "Heavy rainfall and severe weather continues along slow moving front in the Southern Plains https://t.co/kPv4k077nv",
+          "created_at": "2026-10-14T12:05:20.000Z",
+          "url": "https://x.com/i/status/2110341179401281922"
         },
         {
-          "id": "2110200606358941903",
-          "text": "#WPC_MD 1488 affecting Western Oklahoma...Northwest Texas...Eastern TX Panhandle..., #okwx #txwx, https://t.co/SiKvoUud8j https://t.co/QY1jWQfESt",
-          "created_at": "2026-10-14T02:46:44.000Z",
-          "url": "https://x.com/i/status/2110200606358941903",
-          "media_url": "https://pbs.twimg.com/media/HUjwRSxXoAE8KuP.jpg"
+          "id": "2110295212119511084",
+          "text": "A Moderate Risk (level 3/4) of Excessive Rainfall Outlook is in effect for today across Oklahoma. Multiple rounds of storms may drop 3-5 inches, locally as high as 8. Flooding could be greater in coverage, as well as locally significant. Remember to turn around, don't drown. https://t.co/db1YwMrWDm",
+          "created_at": "2026-10-14T09:02:40.000Z",
+          "url": "https://x.com/i/status/2110295212119511084",
+          "media_url": "https://pbs.twimg.com/media/HUlGT_KXYAA_PWv.jpg"
         },
         {
-          "id": "2110122151487422651",
-          "text": "#WPC_MD 1487 affecting northeastern TX Panhandle, southwestern OK into KS and northwestern MO, #mowx #kswx #newx #okwx #txwx, https://t.co/BX95cqCMqU https://t.co/xBh4HiPynZ",
-          "created_at": "2026-10-13T21:34:59.000Z",
-          "url": "https://x.com/i/status/2110122151487422651",
-          "media_url": "https://pbs.twimg.com/media/HUio6nRWwAAjE_g.jpg"
+          "id": "2110293592002511230",
+          "text": "#WPC_MD 1492 affecting Western Texas Panhandle to Cap Rock...Southeast New Mexico..., #txwx #nmwx, https://t.co/pDNcgFS24W https://t.co/jYrHgQ2qpO",
+          "created_at": "2026-10-14T08:56:14.000Z",
+          "url": "https://x.com/i/status/2110293592002511230",
+          "media_url": "https://pbs.twimg.com/media/HUlE1xMWwAAUk9H.jpg"
         },
         {
-          "id": "2110065907460419893",
-          "text": "Heavy rain &amp; flash flood risks will affect the Central U.S., while the Rockies see rain and mountain snow through Wednesday. Unseasonable warmth sweeps the East with record highs before a sharp cold front late week.\n\nFull forecast: https://t.co/D8jZlzOsbd https://t.co/erabaypcMO",
-          "created_at": "2026-10-13T17:51:30.000Z",
-          "url": "https://x.com/i/status/2110065907460419893",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110065674106109953/img/-4lCTT4E2Os0ONL_.jpg"
+          "id": "2110270496486863037",
+          "text": "#WPC_MD 1491 affecting Eastern Texas Panhandle...Western to North-central Oklahoma..., #okwx #txwx, https://t.co/vNTIhjSp6g https://t.co/iePpLfVtLP",
+          "created_at": "2026-10-14T07:24:27.000Z",
+          "url": "https://x.com/i/status/2110270496486863037",
+          "media_url": "https://pbs.twimg.com/media/HUkv1b-XkAA_2V7.jpg"
         }
       ]
     }
