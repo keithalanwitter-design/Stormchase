@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-14T01:42:49.305Z",
+  "updated_utc": "2026-10-14T04:44:31.446Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2110185427416301603",
+          "text": "Kansas is BACK!\n\nWatch this hybrid-nado intercept in the #Dominator F150 near Kiowa, Kansas today.\n\nNever stop chasing https://t.co/7m1qpiwsVT",
+          "created_at": "2026-10-14T01:46:25.000Z",
+          "url": "https://x.com/i/status/2110185427416301603",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110185178710593536/img/RQ3k6wZA07ASPPnk.jpg"
+        },
         {
           "id": "2110167363786060110",
           "text": "TORNADO WARNING finally just northeast of Kansas City including Liberty to Excelsior Springs, MO! https://t.co/KRI2G8gujA",
@@ -32,13 +39,6 @@
           "created_at": "2026-10-13T21:02:50.000Z",
           "url": "https://x.com/i/status/2110114057843835298",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110113588840976386/img/7B6yVT845Cf1FUhD.jpg"
-        },
-        {
-          "id": "2110083949913428166",
-          "text": "Live emergency update on isolated #tornado threat in central Kansas today. Battling the Hurricane Isaias plague so ecomode storm chasing mode has been activated. Stay tuned to severe weather watches and warnings. Supercells may move off the near stationary front by 4-6 pm https://t.co/txnsJePoQp",
-          "created_at": "2026-10-13T19:03:11.000Z",
-          "url": "https://x.com/i/status/2110083949913428166",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110083777078726657/img/vIUmw8JKUOTpIKqC.jpg"
         }
       ]
     },
@@ -168,6 +168,27 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110217031370891668",
+          "text": "#WPC_MD 1490 affecting Western Texas Panhandle..., #txwx #nmwx, https://t.co/m6tThdVhdt https://t.co/6rNfo31L64",
+          "created_at": "2026-10-14T03:52:00.000Z",
+          "url": "https://x.com/i/status/2110217031370891668",
+          "media_url": "https://pbs.twimg.com/media/HUj_NWWWwAAAVg0.jpg"
+        },
+        {
+          "id": "2110210432447209587",
+          "text": "#WPC_MD 1489 affecting South-central &amp; Southeast KS...Central &amp; Southern MO...Far Southwest IL...Far Northern Oklahoma..., #ilwx #mowx #okwx #kswx, https://t.co/8SZQgDVVB0 https://t.co/fogu6egDFt",
+          "created_at": "2026-10-14T03:25:47.000Z",
+          "url": "https://x.com/i/status/2110210432447209587",
+          "media_url": "https://pbs.twimg.com/media/HUj5NPfXAAIjyeu.jpg"
+        },
+        {
+          "id": "2110200606358941903",
+          "text": "#WPC_MD 1488 affecting Western Oklahoma...Northwest Texas...Eastern TX Panhandle..., #okwx #txwx, https://t.co/SiKvoUud8j https://t.co/QY1jWQfESt",
+          "created_at": "2026-10-14T02:46:44.000Z",
+          "url": "https://x.com/i/status/2110200606358941903",
+          "media_url": "https://pbs.twimg.com/media/HUjwRSxXoAE8KuP.jpg"
+        },
+        {
           "id": "2110122151487422651",
           "text": "#WPC_MD 1487 affecting northeastern TX Panhandle, southwestern OK into KS and northwestern MO, #mowx #kswx #newx #okwx #txwx, https://t.co/BX95cqCMqU https://t.co/xBh4HiPynZ",
           "created_at": "2026-10-13T21:34:59.000Z",
@@ -180,26 +201,6 @@
           "created_at": "2026-10-13T17:51:30.000Z",
           "url": "https://x.com/i/status/2110065907460419893",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110065674106109953/img/-4lCTT4E2Os0ONL_.jpg"
-        },
-        {
-          "id": "2110053113948143620",
-          "text": "#WPC_MD 1486 affecting southeastern TX into western LA, #lawx #txwx, https://t.co/xi6K03vSYd https://t.co/E6YdtfW0g6",
-          "created_at": "2026-10-13T17:00:39.000Z",
-          "url": "https://x.com/i/status/2110053113948143620",
-          "media_url": "https://pbs.twimg.com/media/HUhqIEaXwAAIble.jpg"
-        },
-        {
-          "id": "2110006281666801874",
-          "text": "Heavy snowfall fell across parts of central/western MT  over the weekend, with widespread reports of 1 to 2 feet. Much warmer temperatures return to the northern Rockies and High Plains this week.\n\nSnowfall reports 🔗: https://t.co/tcM0ptp6X6 https://t.co/gto6YzY1Zy",
-          "created_at": "2026-10-13T13:54:34.000Z",
-          "url": "https://x.com/i/status/2110006281666801874",
-          "media_url": "https://pbs.twimg.com/media/HUg-GmZXsAAlIDq.jpg"
-        },
-        {
-          "id": "2109978777639891251",
-          "text": "Record breaking warmth set to wane later this week https://t.co/kPv4k077nv",
-          "created_at": "2026-10-13T12:05:16.000Z",
-          "url": "https://x.com/i/status/2109978777639891251"
         }
       ]
     }
