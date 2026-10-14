@@ -1,10 +1,31 @@
 {
-  "updated_utc": "2026-10-13T22:43:13.899Z",
+  "updated_utc": "2026-10-14T01:42:49.305Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2110167363786060110",
+          "text": "TORNADO WARNING finally just northeast of Kansas City including Liberty to Excelsior Springs, MO! https://t.co/KRI2G8gujA",
+          "created_at": "2026-10-14T00:34:39.000Z",
+          "url": "https://x.com/i/status/2110167363786060110",
+          "media_url": "https://pbs.twimg.com/media/HUjSBsmWgAA_EKy.jpg"
+        },
+        {
+          "id": "2110157795324555380",
+          "text": "Supercell with HYBRIDNADOES snapping limbs near Kiowa, Kansas https://t.co/XyyftXu8Bg",
+          "created_at": "2026-10-13T23:56:37.000Z",
+          "url": "https://x.com/i/status/2110157795324555380",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110157448254226432/img/nb68ZnjavNT5HGsD.jpg"
+        },
+        {
+          "id": "2110139354014253194",
+          "text": "Possible brief #tornado on approach near Hardtner, KS @NWSDodgeCity https://t.co/WQlzSXOEVZ",
+          "created_at": "2026-10-13T22:43:21.000Z",
+          "url": "https://x.com/i/status/2110139354014253194",
+          "media_url": "https://pbs.twimg.com/media/HUi4jraW8AAtO1d.jpg"
+        },
         {
           "id": "2110114057843835298",
           "text": "BIRDNADO intercept in Kansas as storms are strengthening along the stationary front. Birds of many species congregating along the stationary front\n\n#stormchasing https://t.co/ZWd1z59T2U",
@@ -18,27 +39,6 @@
           "created_at": "2026-10-13T19:03:11.000Z",
           "url": "https://x.com/i/status/2110083949913428166",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110083777078726657/img/vIUmw8JKUOTpIKqC.jpg"
-        },
-        {
-          "id": "2110063328139636815",
-          "text": "WATCHING a supercell with isolated #tornado threat this afternoon and evening across central Kansas, including the Wichita area.\n\nWe are recovering from a sickness acquired during Hurricane Isaias, but will be performing basic science operations today. Storm chase mode may be https://t.co/4ti6GFPihX",
-          "created_at": "2026-10-13T17:41:15.000Z",
-          "url": "https://x.com/i/status/2110063328139636815",
-          "media_url": "https://pbs.twimg.com/media/HUhzaWyWgAAMuZe.jpg"
-        },
-        {
-          "id": "2109857133659410683",
-          "text": "HUGE SCIENCE WIN with the #Dominator weather balloon launched in the eye of Hurricane Isaias with 117 mph surface winds measured.\n\nThe weather balloon sampled the compressed eye of category 2 Hurricane Isaias before arrival of a sting jet, pushing the balloon rapidly west-to-east https://t.co/ur15mLRFEF",
-          "created_at": "2026-10-13T04:01:54.000Z",
-          "url": "https://x.com/i/status/2109857133659410683",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2109856998871236609/img/lLuoSy6us9Vmk0cx.jpg"
-        },
-        {
-          "id": "2109394830799548841",
-          "text": "HUGE SCIENCE MISSION WIN with Dominator weather balloon sampling the eye and sting jet of Hurricane Isaias as it interacted with an upper low to the west. This is a trajectory with wind and thermodynamics attached. Extreme engineer @WillClay25 overnight science mission https://t.co/biHiReUctC",
-          "created_at": "2026-10-11T21:24:52.000Z",
-          "url": "https://x.com/i/status/2109394830799548841",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2109394766416801794/img/0kcjuR5L40h6iv6Y.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110145575010054655",
+          "text": "TORNADO WARNING for Dickens, Texas!\n\nSeek shelter if you are in this warning! https://t.co/DF1En03jJG",
+          "created_at": "2026-10-13T23:08:04.000Z",
+          "url": "https://x.com/i/status/2110145575010054655",
+          "media_url": "https://pbs.twimg.com/media/HUi-N8bWAAAB5ug.jpg"
+        },
+        {
           "id": "2110121197568491634",
           "text": "WHOA https://t.co/1vK4PY04BQ",
           "created_at": "2026-10-13T21:31:12.000Z",
@@ -112,13 +119,6 @@
           "created_at": "2026-10-13T18:02:07.000Z",
           "url": "https://x.com/i/status/2110068578955206695",
           "media_url": "https://pbs.twimg.com/media/HUh4MDxWsAA64mU.jpg"
-        },
-        {
-          "id": "2110052713392148741",
-          "text": "The threat for tornadoes has grown today across parts of south-central Kansas, especially north and west of Wichita... https://t.co/EVoQL2FJ4P",
-          "created_at": "2026-10-13T16:59:04.000Z",
-          "url": "https://x.com/i/status/2110052713392148741",
-          "media_url": "https://pbs.twimg.com/media/HUhpwqEXgAA-UUC.jpg"
         }
       ]
     },
