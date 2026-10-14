@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-14T13:42:10.761Z",
+  "updated_utc": "2026-10-14T16:40:52.099Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110394217126138217",
+          "text": "Conditions may create the potential for a tornado or two in parts of Indiana and Illinois tomorrow, including Indianapolis, IN... https://t.co/drzVkrMcrd",
+          "created_at": "2026-10-14T15:36:05.000Z",
+          "url": "https://x.com/i/status/2110394217126138217",
+          "media_url": "https://pbs.twimg.com/media/HUmgWynXQAAbXMJ.jpg"
+        },
+        {
+          "id": "2110375337724948839",
+          "text": "A significant risk of WIDESPREAD FLASH FLOODING exists today across Oklahoma and the Red River Valley...\n\nA southward-moving cold front is colliding with record-level tropical moisture across the Southern Plains, setting the stage for multiple rounds of heavy, training https://t.co/nxGRJG8dRH",
+          "created_at": "2026-10-14T14:21:04.000Z",
+          "url": "https://x.com/i/status/2110375337724948839",
+          "media_url": "https://pbs.twimg.com/media/HUmBdB-WkAA9YgQ.jpg"
+        },
+        {
           "id": "2110363006282485909",
           "text": "There is the potential for a brief tornado or two today across Oklahoma City, OK and Wichita Falls, TX... https://t.co/AmmWCvyFfe",
           "created_at": "2026-10-14T13:32:04.000Z",
@@ -107,19 +121,6 @@
           "created_at": "2026-10-13T23:08:04.000Z",
           "url": "https://x.com/i/status/2110145575010054655",
           "media_url": "https://pbs.twimg.com/media/HUi-N8bWAAAB5ug.jpg"
-        },
-        {
-          "id": "2110121197568491634",
-          "text": "WHOA https://t.co/1vK4PY04BQ",
-          "created_at": "2026-10-13T21:31:12.000Z",
-          "url": "https://x.com/i/status/2110121197568491634"
-        },
-        {
-          "id": "2110115775797174783",
-          "text": "Tropical Storm Trudy forms, expected to become the TENTH major hurricane of the Pacific season...\n\nA blockbuster of a Pacific season continues, with Trudy expected to rapidly intensify in the coming days, and could potentially impact Mexico as a significant hurricane.. This is https://t.co/It9XBgXTYp",
-          "created_at": "2026-10-13T21:09:39.000Z",
-          "url": "https://x.com/i/status/2110115775797174783",
-          "media_url": "https://pbs.twimg.com/media/HUijHQZXkAEx7IL.jpg"
         }
       ]
     },
@@ -169,6 +170,20 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110400697682289023",
+          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/JVQeQnBv7w",
+          "created_at": "2026-10-14T16:01:50.000Z",
+          "url": "https://x.com/i/status/2110400697682289023",
+          "media_url": "https://pbs.twimg.com/media/HUmmQIwWIAAw08l.jpg"
+        },
+        {
+          "id": "2110366213549302184",
+          "text": "#WPC_MD 1493 affecting Oklahoma, #okwx, https://t.co/j7sK3iK7IO https://t.co/71IcuMJwrC",
+          "created_at": "2026-10-14T13:44:48.000Z",
+          "url": "https://x.com/i/status/2110366213549302184",
+          "media_url": "https://pbs.twimg.com/media/HUmG45VXMAA-ATZ.jpg"
+        },
+        {
           "id": "2110341180978250101",
           "text": "Strong high pressure brings the first taste of Fall for much of the Central U.S. later this week https://t.co/kPv4k077nv",
           "created_at": "2026-10-14T12:05:20.000Z",
@@ -186,20 +201,6 @@
           "created_at": "2026-10-14T09:02:40.000Z",
           "url": "https://x.com/i/status/2110295212119511084",
           "media_url": "https://pbs.twimg.com/media/HUlGT_KXYAA_PWv.jpg"
-        },
-        {
-          "id": "2110293592002511230",
-          "text": "#WPC_MD 1492 affecting Western Texas Panhandle to Cap Rock...Southeast New Mexico..., #txwx #nmwx, https://t.co/pDNcgFS24W https://t.co/jYrHgQ2qpO",
-          "created_at": "2026-10-14T08:56:14.000Z",
-          "url": "https://x.com/i/status/2110293592002511230",
-          "media_url": "https://pbs.twimg.com/media/HUlE1xMWwAAUk9H.jpg"
-        },
-        {
-          "id": "2110270496486863037",
-          "text": "#WPC_MD 1491 affecting Eastern Texas Panhandle...Western to North-central Oklahoma..., #okwx #txwx, https://t.co/vNTIhjSp6g https://t.co/iePpLfVtLP",
-          "created_at": "2026-10-14T07:24:27.000Z",
-          "url": "https://x.com/i/status/2110270496486863037",
-          "media_url": "https://pbs.twimg.com/media/HUkv1b-XkAA_2V7.jpg"
         }
       ]
     }
