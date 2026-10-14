@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-14T16:40:52.099Z",
+  "updated_utc": "2026-10-14T19:43:13.588Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,26 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2110448330442522873",
+          "text": "Hurricane Sandy was not a hurricane when it hit the US",
+          "created_at": "2026-10-14T19:11:06.000Z",
+          "url": "https://x.com/i/status/2110448330442522873"
+        },
+        {
+          "id": "2110445545802129711",
+          "text": "When did a hurricane last come ashore near you?\n\nFrom Virginia Beach to Ocean City, it hasn't happened once in records going back to 1851. https://t.co/QpC3O3BGz3",
+          "created_at": "2026-10-14T19:00:02.000Z",
+          "url": "https://x.com/i/status/2110445545802129711",
+          "media_url": "https://pbs.twimg.com/media/HUnPCjIXYAAIUpr.jpg"
+        },
+        {
+          "id": "2110415363716288582",
+          "text": "A lot of y'all keep asking when it finally cools off. Find yourself on the map.\n\nA lot of the North drops to freezing Saturday or Sunday morning, and the snow is mostly up in the mountains out West. https://t.co/J9RMziBWy2",
+          "created_at": "2026-10-14T17:00:06.000Z",
+          "url": "https://x.com/i/status/2110415363716288582",
+          "media_url": "https://pbs.twimg.com/media/HUmzlvJWwAAw_nL.jpg"
+        },
+        {
           "id": "2110343629055107214",
           "text": "If you live inside the white line, your power grid is on an emergency alert today. That's this October heat, plus a lot of power plants down for fall maintenance.\n\nYou don't have to do anything. https://t.co/bbXjMqmXTW",
           "created_at": "2026-10-14T12:15:04.000Z",
@@ -59,27 +79,6 @@
           "created_at": "2026-10-14T11:15:21.000Z",
           "url": "https://x.com/i/status/2110328602906542404",
           "media_url": "https://pbs.twimg.com/media/HUlkrhVW0AA9qQm.jpg"
-        },
-        {
-          "id": "2109992596529398135",
-          "text": "If you live in the orange or red, you're going to be hotter than Death Valley today. It's 82 out there and 94 in St. Louis. https://t.co/uuMdx5VvOi",
-          "created_at": "2026-10-13T13:00:11.000Z",
-          "url": "https://x.com/i/status/2109992596529398135",
-          "media_url": "https://pbs.twimg.com/media/HUgzFcOWMAAk9AU.jpg"
-        },
-        {
-          "id": "2109968142155866267",
-          "text": "No, that was not a UFO this morning. It was a rocket out of Florida, and some of y'all saw it all the way up in Kentucky.\n\nPhoto: Randy https://t.co/kIbHyeZaMh",
-          "created_at": "2026-10-13T11:23:01.000Z",
-          "url": "https://x.com/i/status/2109968142155866267",
-          "media_url": "https://pbs.twimg.com/media/HUgc2APWMAAna4S.jpg"
-        },
-        {
-          "id": "2109966273706647809",
-          "text": "The nicest weather in the USA today will be in and around Charlotte, NC, Sioux Falls, SD, and Los Angeles, CA. https://t.co/FbKFuuRIAA",
-          "created_at": "2026-10-13T11:15:35.000Z",
-          "url": "https://x.com/i/status/2109966273706647809",
-          "media_url": "https://pbs.twimg.com/media/HUgbJNCWIAAZ-5M.jpg"
         }
       ]
     },
@@ -88,39 +87,39 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110454177746837703",
+          "text": "TORNADO WARNING for Fort Stockton, Texas!\n\nSeek shelter if you are in this warning! https://t.co/zkqkv3M3do",
+          "created_at": "2026-10-14T19:34:20.000Z",
+          "url": "https://x.com/i/status/2110454177746837703",
+          "media_url": "https://pbs.twimg.com/media/HUnW49qW8AAsyjO.jpg"
+        },
+        {
+          "id": "2110446564959293498",
+          "text": "About half the country can justify ordering a pumpkin spice latte tomorrow morning... https://t.co/VHExlLnXLQ",
+          "created_at": "2026-10-14T19:04:05.000Z",
+          "url": "https://x.com/i/status/2110446564959293498",
+          "media_url": "https://pbs.twimg.com/media/HUnP9xAWsAAMl4_.jpg"
+        },
+        {
+          "id": "2110431212145705285",
+          "text": "The Southern Taurid meteor shower will peak tonight, offering prime viewing conditions under moonless skies, if clouds cooperate in your area...\n\nWith a thin moon setting early, the sky will remain completely dark during the prime viewing window between 11 PM and 4 AM local time. https://t.co/DVVyD7EV0G",
+          "created_at": "2026-10-14T18:03:05.000Z",
+          "url": "https://x.com/i/status/2110431212145705285",
+          "media_url": "https://pbs.twimg.com/media/HUnCAJ7XYAA75FF.jpg"
+        },
+        {
+          "id": "2110412331607871898",
+          "text": "The plunge in temperatures will continue to make its way east the remainder of this week... https://t.co/J6UPuFmduQ",
+          "created_at": "2026-10-14T16:48:04.000Z",
+          "url": "https://x.com/i/status/2110412331607871898",
+          "media_url": "https://pbs.twimg.com/media/HUmjGlrWgAAfr1T.jpg"
+        },
+        {
           "id": "2110394217126138217",
           "text": "Conditions may create the potential for a tornado or two in parts of Indiana and Illinois tomorrow, including Indianapolis, IN... https://t.co/drzVkrMcrd",
           "created_at": "2026-10-14T15:36:05.000Z",
           "url": "https://x.com/i/status/2110394217126138217",
           "media_url": "https://pbs.twimg.com/media/HUmgWynXQAAbXMJ.jpg"
-        },
-        {
-          "id": "2110375337724948839",
-          "text": "A significant risk of WIDESPREAD FLASH FLOODING exists today across Oklahoma and the Red River Valley...\n\nA southward-moving cold front is colliding with record-level tropical moisture across the Southern Plains, setting the stage for multiple rounds of heavy, training https://t.co/nxGRJG8dRH",
-          "created_at": "2026-10-14T14:21:04.000Z",
-          "url": "https://x.com/i/status/2110375337724948839",
-          "media_url": "https://pbs.twimg.com/media/HUmBdB-WkAA9YgQ.jpg"
-        },
-        {
-          "id": "2110363006282485909",
-          "text": "There is the potential for a brief tornado or two today across Oklahoma City, OK and Wichita Falls, TX... https://t.co/AmmWCvyFfe",
-          "created_at": "2026-10-14T13:32:04.000Z",
-          "url": "https://x.com/i/status/2110363006282485909",
-          "media_url": "https://pbs.twimg.com/media/HUl2PjSXkAAP4rZ.jpg"
-        },
-        {
-          "id": "2110346157515813264",
-          "text": "A severe thunderstorm threat will target the southern Plains today, bringing a primary risk for damaging wind gusts, large hail, and isolated tornadoes...\n\nAs a cold front advances through northern Oklahoma and the Texas Panhandle, strong atmospheric instability will develop this https://t.co/KQRzX1Rr6S",
-          "created_at": "2026-10-14T12:25:06.000Z",
-          "url": "https://x.com/i/status/2110346157515813264",
-          "media_url": "https://pbs.twimg.com/media/HUl0pV2WsAAoMgl.jpg"
-        },
-        {
-          "id": "2110145575010054655",
-          "text": "TORNADO WARNING for Dickens, Texas!\n\nSeek shelter if you are in this warning! https://t.co/DF1En03jJG",
-          "created_at": "2026-10-13T23:08:04.000Z",
-          "url": "https://x.com/i/status/2110145575010054655",
-          "media_url": "https://pbs.twimg.com/media/HUi-N8bWAAAB5ug.jpg"
         }
       ]
     },
@@ -170,6 +169,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110442454180565145",
+          "text": "#WPC_MD 1494 affecting upper OH Valley into the central Appalachians, #pawx #mdwx #wvwx #ohwx #kywx #inwx, https://t.co/g97dWEC7vV https://t.co/cQ2efYmMqR",
+          "created_at": "2026-10-14T18:47:45.000Z",
+          "url": "https://x.com/i/status/2110442454180565145",
+          "media_url": "https://pbs.twimg.com/media/HUnMOrgWQAAFIZ1.jpg"
+        },
+        {
           "id": "2110400697682289023",
           "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/JVQeQnBv7w",
           "created_at": "2026-10-14T16:01:50.000Z",
@@ -194,13 +200,6 @@
           "text": "Heavy rainfall and severe weather continues along slow moving front in the Southern Plains https://t.co/kPv4k077nv",
           "created_at": "2026-10-14T12:05:20.000Z",
           "url": "https://x.com/i/status/2110341179401281922"
-        },
-        {
-          "id": "2110295212119511084",
-          "text": "A Moderate Risk (level 3/4) of Excessive Rainfall Outlook is in effect for today across Oklahoma. Multiple rounds of storms may drop 3-5 inches, locally as high as 8. Flooding could be greater in coverage, as well as locally significant. Remember to turn around, don't drown. https://t.co/db1YwMrWDm",
-          "created_at": "2026-10-14T09:02:40.000Z",
-          "url": "https://x.com/i/status/2110295212119511084",
-          "media_url": "https://pbs.twimg.com/media/HUlGT_KXYAA_PWv.jpg"
         }
       ]
     }
