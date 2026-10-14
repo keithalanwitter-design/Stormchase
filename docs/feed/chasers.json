@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-14T19:43:13.588Z",
+  "updated_utc": "2026-10-14T22:46:45.741Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2110484840357204267",
+          "text": "Incredible AQUAMARINE supercell near Crowell, Texas in Dominator F150\n\n#stormchasing https://t.co/qR5xl17C0u",
+          "created_at": "2026-10-14T21:36:11.000Z",
+          "url": "https://x.com/i/status/2110484840357204267",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110484446021316608/img/YjQyhW1fYSKYZySI.jpg"
+        },
         {
           "id": "2110185427416301603",
           "text": "Kansas is BACK!\n\nWatch this hybrid-nado intercept in the #Dominator F150 near Kiowa, Kansas today.\n\nNever stop chasing https://t.co/7m1qpiwsVT",
@@ -32,13 +39,6 @@
           "created_at": "2026-10-13T22:43:21.000Z",
           "url": "https://x.com/i/status/2110139354014253194",
           "media_url": "https://pbs.twimg.com/media/HUi4jraW8AAtO1d.jpg"
-        },
-        {
-          "id": "2110114057843835298",
-          "text": "BIRDNADO intercept in Kansas as storms are strengthening along the stationary front. Birds of many species congregating along the stationary front\n\n#stormchasing https://t.co/ZWd1z59T2U",
-          "created_at": "2026-10-13T21:02:50.000Z",
-          "url": "https://x.com/i/status/2110114057843835298",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110113588840976386/img/7B6yVT845Cf1FUhD.jpg"
         }
       ]
     },
@@ -87,39 +87,38 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110493876205060155",
+          "text": "The first flakes of the season could fall across parts of New England this weekend, especially along higher elevations... https://t.co/uZ7X34Lilj",
+          "created_at": "2026-10-14T22:12:05.000Z",
+          "url": "https://x.com/i/status/2110493876205060155",
+          "media_url": "https://pbs.twimg.com/media/HUn6_quXUAAlpJl.jpg"
+        },
+        {
+          "id": "2110474501972459779",
+          "text": "A large fire appears to have started near Crowell, Texas due to a lightning strike! \n\n@scr0sX https://t.co/K1BRp6cygn",
+          "created_at": "2026-10-14T20:55:06.000Z",
+          "url": "https://x.com/i/status/2110474501972459779",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110473990737162240/pu/img/cFHY4AXJNPel2HgR.jpg"
+        },
+        {
+          "id": "2110463948189311001",
+          "text": "WOAH! A large tornado touched down north of Fort Stockton, Texas a short time ago! \n\n📷Video Credit: Jose Lujan https://t.co/aptmoA9HyN",
+          "created_at": "2026-10-14T20:13:10.000Z",
+          "url": "https://x.com/i/status/2110463948189311001",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110463425377718272/pu/img/C5N1ka3dZpulYlS_.jpg"
+        },
+        {
+          "id": "2110459731613733005",
+          "text": "I think today's tornado environment near the Texas/Oklahoma border looks pretty solid today...\n\nMight have a few tornadoes. Keeping an eye out for a possible stream.",
+          "created_at": "2026-10-14T19:56:25.000Z",
+          "url": "https://x.com/i/status/2110459731613733005"
+        },
+        {
           "id": "2110454177746837703",
           "text": "TORNADO WARNING for Fort Stockton, Texas!\n\nSeek shelter if you are in this warning! https://t.co/zkqkv3M3do",
           "created_at": "2026-10-14T19:34:20.000Z",
           "url": "https://x.com/i/status/2110454177746837703",
           "media_url": "https://pbs.twimg.com/media/HUnW49qW8AAsyjO.jpg"
-        },
-        {
-          "id": "2110446564959293498",
-          "text": "About half the country can justify ordering a pumpkin spice latte tomorrow morning... https://t.co/VHExlLnXLQ",
-          "created_at": "2026-10-14T19:04:05.000Z",
-          "url": "https://x.com/i/status/2110446564959293498",
-          "media_url": "https://pbs.twimg.com/media/HUnP9xAWsAAMl4_.jpg"
-        },
-        {
-          "id": "2110431212145705285",
-          "text": "The Southern Taurid meteor shower will peak tonight, offering prime viewing conditions under moonless skies, if clouds cooperate in your area...\n\nWith a thin moon setting early, the sky will remain completely dark during the prime viewing window between 11 PM and 4 AM local time. https://t.co/DVVyD7EV0G",
-          "created_at": "2026-10-14T18:03:05.000Z",
-          "url": "https://x.com/i/status/2110431212145705285",
-          "media_url": "https://pbs.twimg.com/media/HUnCAJ7XYAA75FF.jpg"
-        },
-        {
-          "id": "2110412331607871898",
-          "text": "The plunge in temperatures will continue to make its way east the remainder of this week... https://t.co/J6UPuFmduQ",
-          "created_at": "2026-10-14T16:48:04.000Z",
-          "url": "https://x.com/i/status/2110412331607871898",
-          "media_url": "https://pbs.twimg.com/media/HUmjGlrWgAAfr1T.jpg"
-        },
-        {
-          "id": "2110394217126138217",
-          "text": "Conditions may create the potential for a tornado or two in parts of Indiana and Illinois tomorrow, including Indianapolis, IN... https://t.co/drzVkrMcrd",
-          "created_at": "2026-10-14T15:36:05.000Z",
-          "url": "https://x.com/i/status/2110394217126138217",
-          "media_url": "https://pbs.twimg.com/media/HUmgWynXQAAbXMJ.jpg"
         }
       ]
     },
@@ -169,6 +168,27 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110472131863560365",
+          "text": "#WPC_MD 1495 affecting Big Bend of TX into southwestern OK, #okwx #txwx #nmwx, https://t.co/47WGWckAyP https://t.co/clgcMTMFFm",
+          "created_at": "2026-10-14T20:45:41.000Z",
+          "url": "https://x.com/i/status/2110472131863560365",
+          "media_url": "https://pbs.twimg.com/media/HUnnOJZXUAE2XE7.jpg"
+        },
+        {
+          "id": "2110467248175350059",
+          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/uBTINpexYV",
+          "created_at": "2026-10-14T20:26:17.000Z",
+          "url": "https://x.com/i/status/2110467248175350059",
+          "media_url": "https://pbs.twimg.com/media/HUnix4MXcAAA32O.jpg"
+        },
+        {
+          "id": "2110464700181831790",
+          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/ijkgmF3Mj2",
+          "created_at": "2026-10-14T20:16:09.000Z",
+          "url": "https://x.com/i/status/2110464700181831790",
+          "media_url": "https://pbs.twimg.com/media/HUngda9W8AAigIk.jpg"
+        },
+        {
           "id": "2110442454180565145",
           "text": "#WPC_MD 1494 affecting upper OH Valley into the central Appalachians, #pawx #mdwx #wvwx #ohwx #kywx #inwx, https://t.co/g97dWEC7vV https://t.co/cQ2efYmMqR",
           "created_at": "2026-10-14T18:47:45.000Z",
@@ -181,25 +201,6 @@
           "created_at": "2026-10-14T16:01:50.000Z",
           "url": "https://x.com/i/status/2110400697682289023",
           "media_url": "https://pbs.twimg.com/media/HUmmQIwWIAAw08l.jpg"
-        },
-        {
-          "id": "2110366213549302184",
-          "text": "#WPC_MD 1493 affecting Oklahoma, #okwx, https://t.co/j7sK3iK7IO https://t.co/71IcuMJwrC",
-          "created_at": "2026-10-14T13:44:48.000Z",
-          "url": "https://x.com/i/status/2110366213549302184",
-          "media_url": "https://pbs.twimg.com/media/HUmG45VXMAA-ATZ.jpg"
-        },
-        {
-          "id": "2110341180978250101",
-          "text": "Strong high pressure brings the first taste of Fall for much of the Central U.S. later this week https://t.co/kPv4k077nv",
-          "created_at": "2026-10-14T12:05:20.000Z",
-          "url": "https://x.com/i/status/2110341180978250101"
-        },
-        {
-          "id": "2110341179401281922",
-          "text": "Heavy rainfall and severe weather continues along slow moving front in the Southern Plains https://t.co/kPv4k077nv",
-          "created_at": "2026-10-14T12:05:20.000Z",
-          "url": "https://x.com/i/status/2110341179401281922"
         }
       ]
     }
