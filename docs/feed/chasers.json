@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T13:52:16.684Z",
+  "updated_utc": "2026-10-15T16:52:41.689Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -85,6 +85,27 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110770229303222641",
+          "text": "Critical fire weather conditions are developing across Southern California today as strong offshore winds and  very dry air sweep into the region...\n\nIn western Los Angeles and southeastern Ventura counties, particularly around the Simi Valley, a tight pressure gradient is https://t.co/QUbZ1qflkh",
+          "created_at": "2026-10-15T16:30:13.000Z",
+          "url": "https://x.com/i/status/2110770229303222641",
+          "media_url": "https://pbs.twimg.com/media/HUr2VmLWYAA0Xz6.jpg"
+        },
+        {
+          "id": "2110755599256256632",
+          "text": "Over 16 million people are under a non-zero tornado risk across the Mid-Atlantic tomorrow, with a brief tornado or two possible, including in the D.C., Baltimore, and Philadelphia areas... https://t.co/i3XEcshQMQ",
+          "created_at": "2026-10-15T15:32:05.000Z",
+          "url": "https://x.com/i/status/2110755599256256632",
+          "media_url": "https://pbs.twimg.com/media/HUrbTZOXEAAVuJT.jpg"
+        },
+        {
+          "id": "2110737988405625181",
+          "text": "Tomorrow, the Mid-Atlantic may experience severe weather that’s a bit unusual for this time of year, with strong wind gusts and brief tornadoes being the main threats...\n\nA cold front sweeping eastward across Ohio, West Virginia, Pennsylvania, and New York will encounter a more https://t.co/wrq7gaKhrt",
+          "created_at": "2026-10-15T14:22:06.000Z",
+          "url": "https://x.com/i/status/2110737988405625181",
+          "media_url": "https://pbs.twimg.com/media/HUrZA6XW0AArhQV.jpg"
+        },
+        {
           "id": "2110725898357944462",
           "text": "A tornado or two will be possible today across portions of eastern Illinois and western Indiana, including Indianapolis, IN and Champaign, IL... https://t.co/qWedQtPdir",
           "created_at": "2026-10-15T13:34:04.000Z",
@@ -97,27 +118,6 @@
           "created_at": "2026-10-15T11:23:05.000Z",
           "url": "https://x.com/i/status/2110692935066902895",
           "media_url": "https://pbs.twimg.com/media/HUqwCd_WoAE_ieV.jpg"
-        },
-        {
-          "id": "2110493876205060155",
-          "text": "The first flakes of the season could fall across parts of New England this weekend, especially along higher elevations... https://t.co/uZ7X34Lilj",
-          "created_at": "2026-10-14T22:12:05.000Z",
-          "url": "https://x.com/i/status/2110493876205060155",
-          "media_url": "https://pbs.twimg.com/media/HUn6_quXUAAlpJl.jpg"
-        },
-        {
-          "id": "2110474501972459779",
-          "text": "A large fire appears to have started near Crowell, Texas due to a lightning strike! \n\n@scr0sX https://t.co/K1BRp6cygn",
-          "created_at": "2026-10-14T20:55:06.000Z",
-          "url": "https://x.com/i/status/2110474501972459779",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110473990737162240/pu/img/cFHY4AXJNPel2HgR.jpg"
-        },
-        {
-          "id": "2110463948189311001",
-          "text": "WOAH! A large tornado touched down north of Fort Stockton, Texas a short time ago! \n\n📷Video Credit: Jose Lujan https://t.co/aptmoA9HyN",
-          "created_at": "2026-10-14T20:13:10.000Z",
-          "url": "https://x.com/i/status/2110463948189311001",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110463425377718272/pu/img/C5N1ka3dZpulYlS_.jpg"
         }
       ]
     },
@@ -167,36 +167,38 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110773355406147932",
+          "text": "#WPC_MD 1499 affecting eastern KY into WV, #vawx #wvwx #ohwx #kywx, https://t.co/nRRY1vCdAd https://t.co/uO8PimJadL",
+          "created_at": "2026-10-15T16:42:38.000Z",
+          "url": "https://x.com/i/status/2110773355406147932",
+          "media_url": "https://pbs.twimg.com/media/HUr5Lq7W4AAGEcz.jpg"
+        },
+        {
+          "id": "2110763186555113601",
+          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/ru9vjn6CGc",
+          "created_at": "2026-10-15T16:02:14.000Z",
+          "url": "https://x.com/i/status/2110763186555113601",
+          "media_url": "https://pbs.twimg.com/media/HUrv7vfXQAEv-Va.jpg"
+        },
+        {
+          "id": "2110755021088235673",
+          "text": "#WPC_MD 1498 affecting western to northwestern TX, #txwx #okwx, https://t.co/8U7v5v2CI7 https://t.co/tB3i6DUGwQ",
+          "created_at": "2026-10-15T15:29:47.000Z",
+          "url": "https://x.com/i/status/2110755021088235673",
+          "media_url": "https://pbs.twimg.com/media/HUrogeFW8AEYfOL.jpg"
+        },
+        {
+          "id": "2110751111204516207",
+          "text": "The 2026-2027 Winter Season Outlook was released today, please see the following link: https://t.co/3gXl3AW2Xh.\n\nWinter is approaching, are you prepared? Over the next two weeks, we’ll share tips and essential product updates to help you navigate the cold months. Stay tuned! ❄️ https://t.co/cFhPh4DX02",
+          "created_at": "2026-10-15T15:14:15.000Z",
+          "url": "https://x.com/i/status/2110751111204516207",
+          "media_url": "https://pbs.twimg.com/media/HUrjwUmWkAAohWF.jpg"
+        },
+        {
           "id": "2110703574694916479",
           "text": "Severe Thunderstorm threat across portions of the Mid-Atlantic for Friday https://t.co/kPv4k077nv",
           "created_at": "2026-10-15T12:05:21.000Z",
           "url": "https://x.com/i/status/2110703574694916479"
-        },
-        {
-          "id": "2110703573042450704",
-          "text": "Severe Thunderstorm threat across portions of the Mid-Mississippi Valley into the Ohio Valley and Southern Plains for Thursday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-15T12:05:21.000Z",
-          "url": "https://x.com/i/status/2110703573042450704"
-        },
-        {
-          "id": "2110703571750535609",
-          "text": "Flash Flooding threat across portions of Texas into the Midwest, Ohio Valley, and Mid-Atlantic on Thursday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-15T12:05:21.000Z",
-          "url": "https://x.com/i/status/2110703571750535609"
-        },
-        {
-          "id": "2110662122698932635",
-          "text": "#WPC_MD 1497 affecting Southern Plains, #okwx #txwx, https://t.co/HgTUIeEO6D https://t.co/11xSJz5PST",
-          "created_at": "2026-10-15T09:20:38.000Z",
-          "url": "https://x.com/i/status/2110662122698932635",
-          "media_url": "https://pbs.twimg.com/media/HUqUBFDWEAEv0It.jpg"
-        },
-        {
-          "id": "2110656922399490221",
-          "text": "A front moving across West Texas will focus locally heavy rainfall and result in the potential of flash flooding, some of which could be locally significant. 3-5 inches of rainfall with locally higher amounts are possible. https://t.co/jYJXtySEGG",
-          "created_at": "2026-10-15T08:59:59.000Z",
-          "url": "https://x.com/i/status/2110656922399490221",
-          "media_url": "https://pbs.twimg.com/media/HUqO0A7XoAA1f2P.jpg"
         }
       ]
     }
