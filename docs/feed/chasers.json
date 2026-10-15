@@ -1,10 +1,16 @@
 {
-  "updated_utc": "2026-10-14T22:46:45.741Z",
+  "updated_utc": "2026-10-15T01:51:18.056Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2110526353355202954",
+          "text": "budabadabudabadabudabadabudabadabudabadabudabadaaaaaaaaaaaaaaaaaaaaah",
+          "created_at": "2026-10-15T00:21:08.000Z",
+          "url": "https://x.com/i/status/2110526353355202954"
+        },
         {
           "id": "2110484840357204267",
           "text": "Incredible AQUAMARINE supercell near Crowell, Texas in Dominator F150\n\n#stormchasing https://t.co/qR5xl17C0u",
@@ -32,13 +38,6 @@
           "created_at": "2026-10-13T23:56:37.000Z",
           "url": "https://x.com/i/status/2110157795324555380",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110157448254226432/img/nb68ZnjavNT5HGsD.jpg"
-        },
-        {
-          "id": "2110139354014253194",
-          "text": "Possible brief #tornado on approach near Hardtner, KS @NWSDodgeCity https://t.co/WQlzSXOEVZ",
-          "created_at": "2026-10-13T22:43:21.000Z",
-          "url": "https://x.com/i/status/2110139354014253194",
-          "media_url": "https://pbs.twimg.com/media/HUi4jraW8AAtO1d.jpg"
         }
       ]
     },
@@ -46,6 +45,12 @@
       "handle": "ryanhallyall",
       "name": "Ryan Hall, Y’all",
       "posts": [
+        {
+          "id": "2110540634276700443",
+          "text": "Lots of you asking about Isabel, Irene and Sandy. All three hit this area hard, but Isabel and Irene came ashore in North Carolina and Sandy in New Jersey. The center of a hurricane hasn't crossed the coast from Virginia Beach to Ocean City since 1851.",
+          "created_at": "2026-10-15T01:17:53.000Z",
+          "url": "https://x.com/i/status/2110540634276700443"
+        },
         {
           "id": "2110448330442522873",
           "text": "Hurricane Sandy was not a hurricane when it hit the US",
@@ -72,13 +77,6 @@
           "created_at": "2026-10-14T12:15:04.000Z",
           "url": "https://x.com/i/status/2110343629055107214",
           "media_url": "https://pbs.twimg.com/media/HUlyWOfXIAAttmZ.jpg"
-        },
-        {
-          "id": "2110328602906542404",
-          "text": "The nicest weather in the USA today will be in and around Tucson, AZ, the Tri-Cities, WA, and Grants Pass, OR. https://t.co/ZsVI6gyO6J",
-          "created_at": "2026-10-14T11:15:21.000Z",
-          "url": "https://x.com/i/status/2110328602906542404",
-          "media_url": "https://pbs.twimg.com/media/HUlkrhVW0AA9qQm.jpg"
         }
       ]
     },
@@ -168,6 +166,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110526034302885969",
+          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/sLhJVzQhJE",
+          "created_at": "2026-10-15T00:19:52.000Z",
+          "url": "https://x.com/i/status/2110526034302885969",
+          "media_url": "https://pbs.twimg.com/media/HUoYPpoWwAIgzD4.jpg"
+        },
+        {
           "id": "2110472131863560365",
           "text": "#WPC_MD 1495 affecting Big Bend of TX into southwestern OK, #okwx #txwx #nmwx, https://t.co/47WGWckAyP https://t.co/clgcMTMFFm",
           "created_at": "2026-10-14T20:45:41.000Z",
@@ -194,13 +199,6 @@
           "created_at": "2026-10-14T18:47:45.000Z",
           "url": "https://x.com/i/status/2110442454180565145",
           "media_url": "https://pbs.twimg.com/media/HUnMOrgWQAAFIZ1.jpg"
-        },
-        {
-          "id": "2110400697682289023",
-          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/JVQeQnBv7w",
-          "created_at": "2026-10-14T16:01:50.000Z",
-          "url": "https://x.com/i/status/2110400697682289023",
-          "media_url": "https://pbs.twimg.com/media/HUmmQIwWIAAw08l.jpg"
         }
       ]
     }
