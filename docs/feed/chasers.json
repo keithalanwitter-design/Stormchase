@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T01:51:18.056Z",
+  "updated_utc": "2026-10-15T04:49:41.200Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -166,6 +166,19 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110570309086486761",
+          "text": "#WPC_MD 1496 affecting Central OK...West TX, #okwx #kswx #txwx, https://t.co/xixxNpXnQC https://t.co/MBRLmmPOLv",
+          "created_at": "2026-10-15T03:15:48.000Z",
+          "url": "https://x.com/i/status/2110570309086486761",
+          "media_url": "https://pbs.twimg.com/media/HUpAg02X0AAmn18.jpg"
+        },
+        {
+          "id": "2110562650262216966",
+          "text": "National High/Low temps for Wednesday October 14, 2026: 102 at Rio Grande Village, TX; 10 at White Sulphur Springs, MT #txwx #mtwx https://t.co/Q9zKIZOZJE",
+          "created_at": "2026-10-15T02:45:22.000Z",
+          "url": "https://x.com/i/status/2110562650262216966"
+        },
+        {
           "id": "2110526034302885969",
           "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/sLhJVzQhJE",
           "created_at": "2026-10-15T00:19:52.000Z",
@@ -185,20 +198,6 @@
           "created_at": "2026-10-14T20:26:17.000Z",
           "url": "https://x.com/i/status/2110467248175350059",
           "media_url": "https://pbs.twimg.com/media/HUnix4MXcAAA32O.jpg"
-        },
-        {
-          "id": "2110464700181831790",
-          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/ijkgmF3Mj2",
-          "created_at": "2026-10-14T20:16:09.000Z",
-          "url": "https://x.com/i/status/2110464700181831790",
-          "media_url": "https://pbs.twimg.com/media/HUngda9W8AAigIk.jpg"
-        },
-        {
-          "id": "2110442454180565145",
-          "text": "#WPC_MD 1494 affecting upper OH Valley into the central Appalachians, #pawx #mdwx #wvwx #ohwx #kywx #inwx, https://t.co/g97dWEC7vV https://t.co/cQ2efYmMqR",
-          "created_at": "2026-10-14T18:47:45.000Z",
-          "url": "https://x.com/i/status/2110442454180565145",
-          "media_url": "https://pbs.twimg.com/media/HUnMOrgWQAAFIZ1.jpg"
         }
       ]
     }
