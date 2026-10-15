@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T16:52:41.689Z",
+  "updated_utc": "2026-10-15T19:45:05.051Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -85,6 +85,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110809218366226464",
+          "text": "A dangerous Santa Ana wind event is ramping up across Southern California, bringing a critical fire threat through Friday....\n\nWith humidity levels plummeting as low as 9%, offshore northeast winds will rapidly accelerate as they funnel through local passes and canyons. While Los https://t.co/GFzVEMgBhW",
+          "created_at": "2026-10-15T19:05:09.000Z",
+          "url": "https://x.com/i/status/2110809218366226464",
+          "media_url": "https://pbs.twimg.com/media/HUsZy6LWQAAq1hT.jpg"
+        },
+        {
+          "id": "2110786816131404196",
+          "text": "The first freeze arrives tonight for more of the Rockies and High Plains... https://t.co/8z1SNqSxSw",
+          "created_at": "2026-10-15T17:36:08.000Z",
+          "url": "https://x.com/i/status/2110786816131404196",
+          "media_url": "https://pbs.twimg.com/media/HUsFa7PWEAAR5ff.jpg"
+        },
+        {
           "id": "2110770229303222641",
           "text": "Critical fire weather conditions are developing across Southern California today as strong offshore winds and  very dry air sweep into the region...\n\nIn western Los Angeles and southeastern Ventura counties, particularly around the Simi Valley, a tight pressure gradient is https://t.co/QUbZ1qflkh",
           "created_at": "2026-10-15T16:30:13.000Z",
@@ -104,20 +118,6 @@
           "created_at": "2026-10-15T14:22:06.000Z",
           "url": "https://x.com/i/status/2110737988405625181",
           "media_url": "https://pbs.twimg.com/media/HUrZA6XW0AArhQV.jpg"
-        },
-        {
-          "id": "2110725898357944462",
-          "text": "A tornado or two will be possible today across portions of eastern Illinois and western Indiana, including Indianapolis, IN and Champaign, IL... https://t.co/qWedQtPdir",
-          "created_at": "2026-10-15T13:34:04.000Z",
-          "url": "https://x.com/i/status/2110725898357944462",
-          "media_url": "https://pbs.twimg.com/media/HUq_1TPW8AAtzhM.jpg"
-        },
-        {
-          "id": "2110692935066902895",
-          "text": "A DANGEROUS FLASH FLOOD THREAT is taking shape across West Texas today and tonight...\n\nAs a strong cold front dives southward and collides with near-record levels of tropical moisture, heavy thunderstorms will focus across the Southern Plains. By tonight, strengthening low-level https://t.co/CqMAiiu8pe",
-          "created_at": "2026-10-15T11:23:05.000Z",
-          "url": "https://x.com/i/status/2110692935066902895",
-          "media_url": "https://pbs.twimg.com/media/HUqwCd_WoAE_ieV.jpg"
         }
       ]
     },
