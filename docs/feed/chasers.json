@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T19:45:05.051Z",
+  "updated_utc": "2026-10-15T22:50:33.897Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2110827186550632469",
+          "text": "A squall line is going to rip from Pittsburgh to New York on Friday, and the coldest air of the season is right behind it. https://t.co/x27lgukw96",
+          "created_at": "2026-10-15T20:16:33.000Z",
+          "url": "https://x.com/i/status/2110827186550632469",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110827169475624960/pu/img/a3yQlCz0L1Fb1PJr.jpg"
+        },
+        {
           "id": "2110706020662084008",
           "text": "Some of y'all are going to wake up to frost on the car this weekend, even if it never actually gets down to freezing.\n\nThe thermometer sits about 5 feet off the ground. Your windshield gets colder than that. https://t.co/7Y9VIEjN4h",
           "created_at": "2026-10-15T12:15:05.000Z",
@@ -71,12 +78,6 @@
           "text": "Lots of you asking about Isabel, Irene and Sandy. All three hit this area hard, but Isabel and Irene came ashore in North Carolina and Sandy in New Jersey. The center of a hurricane hasn't crossed the coast from Virginia Beach to Ocean City since 1851.",
           "created_at": "2026-10-15T01:17:53.000Z",
           "url": "https://x.com/i/status/2110540634276700443"
-        },
-        {
-          "id": "2110448330442522873",
-          "text": "Hurricane Sandy was not a hurricane when it hit the US",
-          "created_at": "2026-10-14T19:11:06.000Z",
-          "url": "https://x.com/i/status/2110448330442522873"
         }
       ]
     },
@@ -84,6 +85,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2110833621556687134",
+          "text": "Record-breaking rain slams Oklahoma City... \n\nOklahoma City picked up 5.59 inches of rain on Wednesday, making it the city's second-wettest October day since records began in 1890!\n\nThe rainfall shattered the previous October 14 record of 2.45 inches set in 1956. Wednesday's https://t.co/ssxHpkbEah",
+          "created_at": "2026-10-15T20:42:07.000Z",
+          "url": "https://x.com/i/status/2110833621556687134",
+          "media_url": "https://pbs.twimg.com/media/HUsv_cjWMAA77so.jpg"
+        },
         {
           "id": "2110809218366226464",
           "text": "A dangerous Santa Ana wind event is ramping up across Southern California, bringing a critical fire threat through Friday....\n\nWith humidity levels plummeting as low as 9%, offshore northeast winds will rapidly accelerate as they funnel through local passes and canyons. While Los https://t.co/GFzVEMgBhW",
@@ -111,13 +119,6 @@
           "created_at": "2026-10-15T15:32:05.000Z",
           "url": "https://x.com/i/status/2110755599256256632",
           "media_url": "https://pbs.twimg.com/media/HUrbTZOXEAAVuJT.jpg"
-        },
-        {
-          "id": "2110737988405625181",
-          "text": "Tomorrow, the Mid-Atlantic may experience severe weather that’s a bit unusual for this time of year, with strong wind gusts and brief tornadoes being the main threats...\n\nA cold front sweeping eastward across Ohio, West Virginia, Pennsylvania, and New York will encounter a more https://t.co/wrq7gaKhrt",
-          "created_at": "2026-10-15T14:22:06.000Z",
-          "url": "https://x.com/i/status/2110737988405625181",
-          "media_url": "https://pbs.twimg.com/media/HUrZA6XW0AArhQV.jpg"
         }
       ]
     },
@@ -167,6 +168,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110839158260334833",
+          "text": "#WPC_MD 1500 affecting southwestern to northern TX, #okwx #txwx, https://t.co/fOff7wAEoG https://t.co/YQUuPJi4m8",
+          "created_at": "2026-10-15T21:04:07.000Z",
+          "url": "https://x.com/i/status/2110839158260334833",
+          "media_url": "https://pbs.twimg.com/media/HUs1B4OXMAAjadS.jpg"
+        },
+        {
           "id": "2110773355406147932",
           "text": "#WPC_MD 1499 affecting eastern KY into WV, #vawx #wvwx #ohwx #kywx, https://t.co/nRRY1vCdAd https://t.co/uO8PimJadL",
           "created_at": "2026-10-15T16:42:38.000Z",
@@ -193,12 +201,6 @@
           "created_at": "2026-10-15T15:14:15.000Z",
           "url": "https://x.com/i/status/2110751111204516207",
           "media_url": "https://pbs.twimg.com/media/HUrjwUmWkAAohWF.jpg"
-        },
-        {
-          "id": "2110703574694916479",
-          "text": "Severe Thunderstorm threat across portions of the Mid-Atlantic for Friday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-15T12:05:21.000Z",
-          "url": "https://x.com/i/status/2110703574694916479"
         }
       ]
     }
