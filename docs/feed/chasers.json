@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T22:50:33.897Z",
+  "updated_utc": "2026-10-16T01:49:25.319Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -86,6 +86,27 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2110879267353464884",
+          "text": "TORNADO WARNING for Washington, Indiana! \n\nSeek shelter if you are in this warning! https://t.co/NU84VZDbIV",
+          "created_at": "2026-10-15T23:43:30.000Z",
+          "url": "https://x.com/i/status/2110879267353464884",
+          "media_url": "https://pbs.twimg.com/media/HUtZgV3WYAITtDU.jpg"
+        },
+        {
+          "id": "2110872535768109297",
+          "text": "TORNADO WARNING for Busseron, Indiana!\n\nSeek shelter if you are in this warning! https://t.co/fSgeFyC2Ew",
+          "created_at": "2026-10-15T23:16:45.000Z",
+          "url": "https://x.com/i/status/2110872535768109297",
+          "media_url": "https://pbs.twimg.com/media/HUtTYbCXQAAjaYR.jpg"
+        },
+        {
+          "id": "2110869103325892611",
+          "text": "Hurricane Isaias and its remnants spawned at least 24 confirmed tornadoes!\n\nThe remnants of Hurricane Isaias triggered a significant tornado outbreak across the Southeast from October 9–11, with 24 tornadoes confirmed so far by National Weather Service surveys.\n\nNorth Carolina https://t.co/flUdEM7ZEF",
+          "created_at": "2026-10-15T23:03:06.000Z",
+          "url": "https://x.com/i/status/2110869103325892611",
+          "media_url": "https://pbs.twimg.com/media/HUtQQyRXoAAB3ve.jpg"
+        },
+        {
           "id": "2110833621556687134",
           "text": "Record-breaking rain slams Oklahoma City... \n\nOklahoma City picked up 5.59 inches of rain on Wednesday, making it the city's second-wettest October day since records began in 1890!\n\nThe rainfall shattered the previous October 14 record of 2.45 inches set in 1956. Wednesday's https://t.co/ssxHpkbEah",
           "created_at": "2026-10-15T20:42:07.000Z",
@@ -98,27 +119,6 @@
           "created_at": "2026-10-15T19:05:09.000Z",
           "url": "https://x.com/i/status/2110809218366226464",
           "media_url": "https://pbs.twimg.com/media/HUsZy6LWQAAq1hT.jpg"
-        },
-        {
-          "id": "2110786816131404196",
-          "text": "The first freeze arrives tonight for more of the Rockies and High Plains... https://t.co/8z1SNqSxSw",
-          "created_at": "2026-10-15T17:36:08.000Z",
-          "url": "https://x.com/i/status/2110786816131404196",
-          "media_url": "https://pbs.twimg.com/media/HUsFa7PWEAAR5ff.jpg"
-        },
-        {
-          "id": "2110770229303222641",
-          "text": "Critical fire weather conditions are developing across Southern California today as strong offshore winds and  very dry air sweep into the region...\n\nIn western Los Angeles and southeastern Ventura counties, particularly around the Simi Valley, a tight pressure gradient is https://t.co/QUbZ1qflkh",
-          "created_at": "2026-10-15T16:30:13.000Z",
-          "url": "https://x.com/i/status/2110770229303222641",
-          "media_url": "https://pbs.twimg.com/media/HUr2VmLWYAA0Xz6.jpg"
-        },
-        {
-          "id": "2110755599256256632",
-          "text": "Over 16 million people are under a non-zero tornado risk across the Mid-Atlantic tomorrow, with a brief tornado or two possible, including in the D.C., Baltimore, and Philadelphia areas... https://t.co/i3XEcshQMQ",
-          "created_at": "2026-10-15T15:32:05.000Z",
-          "url": "https://x.com/i/status/2110755599256256632",
-          "media_url": "https://pbs.twimg.com/media/HUrbTZOXEAAVuJT.jpg"
         }
       ]
     },
@@ -168,6 +168,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2110882978888827198",
+          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/iXb2RQnXGx",
+          "created_at": "2026-10-15T23:58:15.000Z",
+          "url": "https://x.com/i/status/2110882978888827198",
+          "media_url": "https://pbs.twimg.com/media/HUtc4mMWAAA8A4Q.jpg"
+        },
+        {
           "id": "2110839158260334833",
           "text": "#WPC_MD 1500 affecting southwestern to northern TX, #okwx #txwx, https://t.co/fOff7wAEoG https://t.co/YQUuPJi4m8",
           "created_at": "2026-10-15T21:04:07.000Z",
@@ -194,13 +201,6 @@
           "created_at": "2026-10-15T15:29:47.000Z",
           "url": "https://x.com/i/status/2110755021088235673",
           "media_url": "https://pbs.twimg.com/media/HUrogeFW8AEYfOL.jpg"
-        },
-        {
-          "id": "2110751111204516207",
-          "text": "The 2026-2027 Winter Season Outlook was released today, please see the following link: https://t.co/3gXl3AW2Xh.\n\nWinter is approaching, are you prepared? Over the next two weeks, we’ll share tips and essential product updates to help you navigate the cold months. Stay tuned! ❄️ https://t.co/cFhPh4DX02",
-          "created_at": "2026-10-15T15:14:15.000Z",
-          "url": "https://x.com/i/status/2110751111204516207",
-          "media_url": "https://pbs.twimg.com/media/HUrjwUmWkAAohWF.jpg"
         }
       ]
     }
