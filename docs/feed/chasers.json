@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-16T13:47:31.705Z",
+  "updated_utc": "2026-10-16T16:48:18.514Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -87,6 +87,27 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2111134367154102484",
+          "text": "You can literally see a GIANT cold front from SPACE right now!\n\nA massive wall of colder air is sweeping across the country, and the boundary is incredibly well-defined on satellite imagery.\n\nTemperatures are about to plummet behind this front as it continues pushing east! https://t.co/GUEcvsjjem",
+          "created_at": "2026-10-16T16:37:10.000Z",
+          "url": "https://x.com/i/status/2111134367154102484",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111133854643720193/pu/img/mftdRn9-rdzbwk70.jpg"
+        },
+        {
+          "id": "2111124535755862079",
+          "text": "The first flakes of the season could fly across the Northeast Friday night into Saturday, though the overall forecast signal has weakened.\n\nLake Placid holds the highest probability at a 90% chance, while Old Forge currently sits at a 50% coin flip.\n\nFurther east, Berlin and https://t.co/tsyUZXx7aM",
+          "created_at": "2026-10-16T15:58:06.000Z",
+          "url": "https://x.com/i/status/2111124535755862079",
+          "media_url": "https://pbs.twimg.com/media/HUwqY3KWEAEgb-k.jpg"
+        },
+        {
+          "id": "2111105958587822450",
+          "text": "A critical fire weather threat continues across Southern California today as a prolonged offshore wind event brings dangerous gusts to the region...\n\nFueled by a closed upper-level low, deep east-northeasterly winds are sweeping across western Los Angeles, Ventura, and https://t.co/9DwWQ5eWyX",
+          "created_at": "2026-10-16T14:44:17.000Z",
+          "url": "https://x.com/i/status/2111105958587822450",
+          "media_url": "https://pbs.twimg.com/media/HUwZ6MwWAAA_lN9.jpg"
+        },
+        {
           "id": "2111088296109437093",
           "text": "A brief tornado will be possible with today's storms from northern Maryland into southern New York, including the Philadelphia and NYC metros... https://t.co/6mFZIwvE5c",
           "created_at": "2026-10-16T13:34:06.000Z",
@@ -99,26 +120,6 @@
           "created_at": "2026-10-16T12:23:05.000Z",
           "url": "https://x.com/i/status/2111070423999775205",
           "media_url": "https://pbs.twimg.com/media/HUv5oecWEAAHE_z.jpg"
-        },
-        {
-          "id": "2111054788460683611",
-          "text": "Trudy has become the TENTH major hurricane of the 2026 Eastern Pacific season...\n\nAs Trudy has now reached Category 3 status, 2026 marks the first Pacific season since 2018 to witness 10 hurricanes attaining this intensity, with further intensification expected over the next day https://t.co/wgO6EWdBjR",
-          "created_at": "2026-10-16T11:20:57.000Z",
-          "url": "https://x.com/i/status/2111054788460683611",
-          "media_url": "https://pbs.twimg.com/media/HUv5JBxWkAAVUl_.jpg"
-        },
-        {
-          "id": "2110945862603968522",
-          "text": "A fast-moving wildfire has erupted near Malibu, California, forcing evacuations...\n\nThe Bryson Fire exploded to 102 acres with 0% containment Thursday evening as powerful Santa Ana winds fueled dangerous fire conditions across Southern California.\n\nEvacuation orders have been https://t.co/aYCkqP9r8n",
-          "created_at": "2026-10-16T04:08:07.000Z",
-          "url": "https://x.com/i/status/2110945862603968522",
-          "media_url": "https://pbs.twimg.com/media/HUuWEppWcAA3SZ8.jpg"
-        },
-        {
-          "id": "2110915057420788161",
-          "text": "everyone in the weather community needs to chip in $5 so we can intercept a tornado with the Tesla Roadster",
-          "created_at": "2026-10-16T02:05:43.000Z",
-          "url": "https://x.com/i/status/2110915057420788161"
         }
       ]
     },
