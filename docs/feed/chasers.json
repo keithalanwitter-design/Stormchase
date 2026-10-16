@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-16T16:48:18.514Z",
+  "updated_utc": "2026-10-16T19:48:08.794Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2111173064348119133",
+          "text": "WOW Lake Michigan is pounding the Michigan City lighthouse in front of Corey this afternoon\n\nVideo: Corey Gerken (@CoreyGerkenWX) https://t.co/AbhX1QpmF3",
+          "created_at": "2026-10-16T19:10:56.000Z",
+          "url": "https://x.com/i/status/2111173064348119133",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111173018596651008/pu/img/1XYfPm-WmLVxKlpv.jpg"
+        },
+        {
           "id": "2111079883476439243",
           "text": "I'm flattered https://t.co/foa8SVC0H2",
           "created_at": "2026-10-16T13:00:40.000Z",
@@ -72,13 +79,6 @@
           "created_at": "2026-10-16T01:55:46.000Z",
           "url": "https://x.com/i/status/2110912556378243497",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110912527110426624/pu/img/t6eaPn4CNrQd_w5w.jpg"
-        },
-        {
-          "id": "2110827186550632469",
-          "text": "A squall line is going to rip from Pittsburgh to New York on Friday, and the coldest air of the season is right behind it. https://t.co/x27lgukw96",
-          "created_at": "2026-10-15T20:16:33.000Z",
-          "url": "https://x.com/i/status/2110827186550632469",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110827169475624960/pu/img/a3yQlCz0L1Fb1PJr.jpg"
         }
       ]
     },
@@ -86,6 +86,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2111170409873789042",
+          "text": "Boston is going to be WARMER than Oklahoma City tomorrow morning... https://t.co/oBSPv4FDfp",
+          "created_at": "2026-10-16T19:00:24.000Z",
+          "url": "https://x.com/i/status/2111170409873789042",
+          "media_url": "https://pbs.twimg.com/media/HUxiS_SXMAEDQgg.jpg"
+        },
+        {
+          "id": "2111151598936187291",
+          "text": "You are now manually breathing. https://t.co/tobh06U2IB",
+          "created_at": "2026-10-16T17:45:39.000Z",
+          "url": "https://x.com/i/status/2111151598936187291",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111151088808181760/pu/img/uOiXU66NW3B1Cjln.jpg"
+        },
         {
           "id": "2111134367154102484",
           "text": "You can literally see a GIANT cold front from SPACE right now!\n\nA massive wall of colder air is sweeping across the country, and the boundary is incredibly well-defined on satellite imagery.\n\nTemperatures are about to plummet behind this front as it continues pushing east! https://t.co/GUEcvsjjem",
@@ -106,20 +120,6 @@
           "created_at": "2026-10-16T14:44:17.000Z",
           "url": "https://x.com/i/status/2111105958587822450",
           "media_url": "https://pbs.twimg.com/media/HUwZ6MwWAAA_lN9.jpg"
-        },
-        {
-          "id": "2111088296109437093",
-          "text": "A brief tornado will be possible with today's storms from northern Maryland into southern New York, including the Philadelphia and NYC metros... https://t.co/6mFZIwvE5c",
-          "created_at": "2026-10-16T13:34:06.000Z",
-          "url": "https://x.com/i/status/2111088296109437093",
-          "media_url": "https://pbs.twimg.com/media/HUwJbZnWkAInlOo.jpg"
-        },
-        {
-          "id": "2111070423999775205",
-          "text": "Severe weather could impact the Mid-Atlantic and southern New England today, bringing damaging winds and localized brief tornadoes...\n\nAs a strong cold front sweeps eastward, initial thunderstorms will spark early this afternoon from West Virginia through western Pennsylvania and https://t.co/0gWF9g05J8",
-          "created_at": "2026-10-16T12:23:05.000Z",
-          "url": "https://x.com/i/status/2111070423999775205",
-          "media_url": "https://pbs.twimg.com/media/HUv5oecWEAAHE_z.jpg"
         }
       ]
     },
@@ -169,6 +169,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2111147661579436349",
+          "text": "Probabilistic forecasts show you the full range of potential outcomes. The National Weather Service’s Probabilistic Precipitation Portal website allows you to see these probabilities for rain, snow, and freezing rain all in a one-stop shop location.\n\n🔗: https://t.co/nNsROLQ7HS https://t.co/bZ9iqvVP2m",
+          "created_at": "2026-10-16T17:30:00.000Z",
+          "url": "https://x.com/i/status/2111147661579436349",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110790055644028929/img/muu-yhbP9s6OU3dx.jpg"
+        },
+        {
           "id": "2111074820460863981",
           "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/ih2AxGCwqr",
           "created_at": "2026-10-16T12:40:33.000Z",
@@ -193,12 +200,6 @@
           "text": "Flash Flooding risk for Friday and Saturday across portions of Florida https://t.co/kPv4k077nv",
           "created_at": "2026-10-16T12:05:32.000Z",
           "url": "https://x.com/i/status/2111066006386819481"
-        },
-        {
-          "id": "2111066004809744605",
-          "text": "Severe Thunderstorm risk for Friday across parts of the Mid-Atlantic into Southern New England https://t.co/kPv4k077nv",
-          "created_at": "2026-10-16T12:05:31.000Z",
-          "url": "https://x.com/i/status/2111066004809744605"
         }
       ]
     }
