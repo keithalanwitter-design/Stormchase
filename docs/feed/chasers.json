@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-16T22:48:44.516Z",
+  "updated_utc": "2026-10-17T01:44:31.719Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -87,6 +87,18 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2111260380983124469",
+          "text": "The quiet is so quiet…",
+          "created_at": "2026-10-17T00:57:54.000Z",
+          "url": "https://x.com/i/status/2111260380983124469"
+        },
+        {
+          "id": "2111258991426785479",
+          "text": "true https://t.co/CGVlYKixxG",
+          "created_at": "2026-10-17T00:52:23.000Z",
+          "url": "https://x.com/i/status/2111258991426785479"
+        },
+        {
           "id": "2111219666450256007",
           "text": "Over 40 MILLION of you could wake up to frost tomorrow morning from New Mexico all the way to Michigan! https://t.co/LqyBZtfiHq",
           "created_at": "2026-10-16T22:16:07.000Z",
@@ -105,20 +117,6 @@
           "created_at": "2026-10-16T19:00:24.000Z",
           "url": "https://x.com/i/status/2111170409873789042",
           "media_url": "https://pbs.twimg.com/media/HUxiS_SXMAEDQgg.jpg"
-        },
-        {
-          "id": "2111151598936187291",
-          "text": "You are now manually breathing. https://t.co/tobh06U2IB",
-          "created_at": "2026-10-16T17:45:39.000Z",
-          "url": "https://x.com/i/status/2111151598936187291",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111151088808181760/pu/img/uOiXU66NW3B1Cjln.jpg"
-        },
-        {
-          "id": "2111134367154102484",
-          "text": "You can literally see a GIANT cold front from SPACE right now!\n\nA massive wall of colder air is sweeping across the country, and the boundary is incredibly well-defined on satellite imagery.\n\nTemperatures are about to plummet behind this front as it continues pushing east! https://t.co/GUEcvsjjem",
-          "created_at": "2026-10-16T16:37:10.000Z",
-          "url": "https://x.com/i/status/2111134367154102484",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111133854643720193/pu/img/mftdRn9-rdzbwk70.jpg"
         }
       ]
     },
