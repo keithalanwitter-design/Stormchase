@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-17T01:44:31.719Z",
+  "updated_utc": "2026-10-17T04:43:54.146Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -87,6 +87,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2111304471011623377",
+          "text": "STATE OF EMERGENCY issued for Hatteras Island, North Carolina, and every visitor was ordered out tonight ahead of a developing nor'easter. Highway 12, the only road on or off the island, is expected to flood over at high tide after high tide from Saturday afternoon into next https://t.co/Uov3k06Sa0",
+          "created_at": "2026-10-17T03:53:06.000Z",
+          "url": "https://x.com/i/status/2111304471011623377",
+          "media_url": "https://pbs.twimg.com/media/HUzcObzWsAAWhcM.jpg"
+        },
+        {
           "id": "2111260380983124469",
           "text": "The quiet is so quiet…",
           "created_at": "2026-10-17T00:57:54.000Z",
@@ -110,13 +117,6 @@
           "text": "SNOW SHAFT https://t.co/icef3PNY5d",
           "created_at": "2026-10-16T21:44:39.000Z",
           "url": "https://x.com/i/status/2111211747428418044"
-        },
-        {
-          "id": "2111170409873789042",
-          "text": "Boston is going to be WARMER than Oklahoma City tomorrow morning... https://t.co/oBSPv4FDfp",
-          "created_at": "2026-10-16T19:00:24.000Z",
-          "url": "https://x.com/i/status/2111170409873789042",
-          "media_url": "https://pbs.twimg.com/media/HUxiS_SXMAEDQgg.jpg"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2111287435996930433",
+          "text": "National High/Low temps for Friday October 16, 2026: 99 at Los Angeles, CA, 1 mile north northeast of Montecito, CA, 9 miles south southwest of Buellton, CA, Laguna Beach, CA; 15 at 20 miles west-northwest of Frenchglen, OR #cawx #cawx #cawx #cawx #orwx",
+          "created_at": "2026-10-17T02:45:25.000Z",
+          "url": "https://x.com/i/status/2111287435996930433"
+        },
+        {
           "id": "2111147661579436349",
           "text": "Probabilistic forecasts show you the full range of potential outcomes. The National Weather Service’s Probabilistic Precipitation Portal website allows you to see these probabilities for rain, snow, and freezing rain all in a one-stop shop location.\n\n🔗: https://t.co/nNsROLQ7HS https://t.co/bZ9iqvVP2m",
           "created_at": "2026-10-16T17:30:00.000Z",
@@ -191,12 +197,6 @@
           "text": "Below seasonal temperatures spread eastward from central U.S. into eastern U.S. by Saturday https://t.co/kPv4k077nv",
           "created_at": "2026-10-16T12:05:32.000Z",
           "url": "https://x.com/i/status/2111066008035193045"
-        },
-        {
-          "id": "2111066006386819481",
-          "text": "Flash Flooding risk for Friday and Saturday across portions of Florida https://t.co/kPv4k077nv",
-          "created_at": "2026-10-16T12:05:32.000Z",
-          "url": "https://x.com/i/status/2111066006386819481"
         }
       ]
     }
