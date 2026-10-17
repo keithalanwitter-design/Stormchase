@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-17T04:43:54.146Z",
+  "updated_utc": "2026-10-17T13:46:36.652Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,27 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2111451450286956545",
+          "text": "The first freeze since spring hits tomorrow morning from Ohio to New England. Pittsburgh and Hartford are forecast to drop to 30, Burlington 29, Albany 27. https://t.co/2sXwPeybfG",
+          "created_at": "2026-10-17T13:37:09.000Z",
+          "url": "https://x.com/i/status/2111451450286956545",
+          "media_url": "https://pbs.twimg.com/media/HU1h56-XkAAVxMF.jpg"
+        },
+        {
+          "id": "2111429453922316318",
+          "text": "This went from a 60 mph tropical storm to a 130 mph typhoon in 24 hours, and Guam is next. https://t.co/kpKFnQY0CF",
+          "created_at": "2026-10-17T12:09:44.000Z",
+          "url": "https://x.com/i/status/2111429453922316318",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111429400654721024/pu/img/aNIGrhT7MClogHAA.jpg"
+        },
+        {
+          "id": "2111415827886993714",
+          "text": "The nicest weather in the USA today will be in and around Burley, ID, Grand Junction, CO, and Chicago, IL. https://t.co/BMGzmoVFNe",
+          "created_at": "2026-10-17T11:15:36.000Z",
+          "url": "https://x.com/i/status/2111415827886993714",
+          "media_url": "https://pbs.twimg.com/media/HU1BgWRXEAEr-Yw.jpg"
+        },
+        {
           "id": "2111173064348119133",
           "text": "WOW Lake Michigan is pounding the Michigan City lighthouse in front of Corey this afternoon\n\nVideo: Corey Gerken (@CoreyGerkenWX) https://t.co/AbhX1QpmF3",
           "created_at": "2026-10-16T19:10:56.000Z",
@@ -58,27 +79,6 @@
           "created_at": "2026-10-16T13:00:40.000Z",
           "url": "https://x.com/i/status/2111079883476439243",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111079824039026688/pu/img/iMGejiriihhwTWI7.jpg"
-        },
-        {
-          "id": "2111064655590223991",
-          "text": "Tonight, Lake Michigan is going to have waves taller than a house. Up to 20 feet out in the middle, and a few could hit 23. https://t.co/NIxM7WArxd",
-          "created_at": "2026-10-16T12:00:10.000Z",
-          "url": "https://x.com/i/status/2111064655590223991",
-          "media_url": "https://pbs.twimg.com/media/HUwCHhyXMAAB9Sp.jpg"
-        },
-        {
-          "id": "2111053568106955112",
-          "text": "The nicest weather in the USA today will be in and around San Jose, CA, Salt Lake City, UT, and Grand Junction, CO. https://t.co/Y7UoVxzsbD",
-          "created_at": "2026-10-16T11:16:06.000Z",
-          "url": "https://x.com/i/status/2111053568106955112",
-          "media_url": "https://pbs.twimg.com/media/HUv4CFWXQAAOFs5.jpg"
-        },
-        {
-          "id": "2110912556378243497",
-          "text": "Chasers in Dixie trying to see the tornado over the trees https://t.co/8CCjc0mugq",
-          "created_at": "2026-10-16T01:55:46.000Z",
-          "url": "https://x.com/i/status/2110912556378243497",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110912527110426624/pu/img/t6eaPn4CNrQd_w5w.jpg"
         }
       ]
     },
@@ -86,6 +86,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2111446155896701331",
+          "text": "Are you getting rain this weekend?\n\nFor most of the country, it is looking pretty quiet, although there are a few exceptions... https://t.co/47pbCmeM0O",
+          "created_at": "2026-10-17T13:16:06.000Z",
+          "url": "https://x.com/i/status/2111446155896701331",
+          "media_url": "https://pbs.twimg.com/media/HU1dFqbXkAA_B8C.jpg"
+        },
         {
           "id": "2111304471011623377",
           "text": "STATE OF EMERGENCY issued for Hatteras Island, North Carolina, and every visitor was ordered out tonight ahead of a developing nor'easter. Highway 12, the only road on or off the island, is expected to flood over at high tide after high tide from Saturday afternoon into next https://t.co/Uov3k06Sa0",
@@ -111,12 +118,6 @@
           "created_at": "2026-10-16T22:16:07.000Z",
           "url": "https://x.com/i/status/2111219666450256007",
           "media_url": "https://pbs.twimg.com/media/HUyPGOlW4AAnuzN.jpg"
-        },
-        {
-          "id": "2111211747428418044",
-          "text": "SNOW SHAFT https://t.co/icef3PNY5d",
-          "created_at": "2026-10-16T21:44:39.000Z",
-          "url": "https://x.com/i/status/2111211747428418044"
         }
       ]
     },
@@ -166,6 +167,24 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2111428318893408396",
+          "text": "Elevated to Critical fire weather across portions of California into Sunday https://t.co/kPv4k077nv",
+          "created_at": "2026-10-17T12:05:14.000Z",
+          "url": "https://x.com/i/status/2111428318893408396"
+        },
+        {
+          "id": "2111428317576323462",
+          "text": "Nor'easter develops along the Carolina coast this weekend, bringing potential coastal flooding and beach erosion along portions of the Mid-Atlantic coast into early next week https://t.co/kPv4k077nv",
+          "created_at": "2026-10-17T12:05:14.000Z",
+          "url": "https://x.com/i/status/2111428317576323462"
+        },
+        {
+          "id": "2111428315923853675",
+          "text": "Well below average temperatures spread across much of central, southern and eastern U.S. with widespread frost and freezing temperatures from the Plains to the East through the weekend https://t.co/kPv4k077nv",
+          "created_at": "2026-10-17T12:05:13.000Z",
+          "url": "https://x.com/i/status/2111428315923853675"
+        },
+        {
           "id": "2111287435996930433",
           "text": "National High/Low temps for Friday October 16, 2026: 99 at Los Angeles, CA, 1 mile north northeast of Montecito, CA, 9 miles south southwest of Buellton, CA, Laguna Beach, CA; 15 at 20 miles west-northwest of Frenchglen, OR #cawx #cawx #cawx #cawx #orwx",
           "created_at": "2026-10-17T02:45:25.000Z",
@@ -177,26 +196,6 @@
           "created_at": "2026-10-16T17:30:00.000Z",
           "url": "https://x.com/i/status/2111147661579436349",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110790055644028929/img/muu-yhbP9s6OU3dx.jpg"
-        },
-        {
-          "id": "2111074820460863981",
-          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/ih2AxGCwqr",
-          "created_at": "2026-10-16T12:40:33.000Z",
-          "url": "https://x.com/i/status/2111074820460863981",
-          "media_url": "https://pbs.twimg.com/media/HUwLXHWWEAAS-ni.jpg"
-        },
-        {
-          "id": "2111072167408640008",
-          "text": "Winter storms are complex, and a small change in track or temperature can mean rain, ice, or snow. Probabilistic forecasts can show low- to high-end scenarios and overall confidence. Knowing the full picture helps you make smart decisions and stay safe during winter storms. ❄️ https://t.co/x3sqSnVR36",
-          "created_at": "2026-10-16T12:30:01.000Z",
-          "url": "https://x.com/i/status/2111072167408640008",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110786327595589633/img/fMDJoIxNg8Zx98-5.jpg"
-        },
-        {
-          "id": "2111066008035193045",
-          "text": "Below seasonal temperatures spread eastward from central U.S. into eastern U.S. by Saturday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-16T12:05:32.000Z",
-          "url": "https://x.com/i/status/2111066008035193045"
         }
       ]
     }
