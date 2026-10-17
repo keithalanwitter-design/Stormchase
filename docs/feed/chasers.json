@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-17T13:46:36.652Z",
+  "updated_utc": "2026-10-17T16:47:22.589Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2111491420401844260",
+          "text": "That's the eye of a 140 mph typhoon on Guam's own radar, and it's moving toward the island right now. https://t.co/ihneqEMblm",
+          "created_at": "2026-10-17T16:15:58.000Z",
+          "url": "https://x.com/i/status/2111491420401844260",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111491376001015809/pu/img/ygSCh9JXzfnUFT1T.jpg"
+        },
+        {
           "id": "2111451450286956545",
           "text": "The first freeze since spring hits tomorrow morning from Ohio to New England. Pittsburgh and Hartford are forecast to drop to 30, Burlington 29, Albany 27. https://t.co/2sXwPeybfG",
           "created_at": "2026-10-17T13:37:09.000Z",
@@ -72,13 +79,6 @@
           "created_at": "2026-10-16T19:10:56.000Z",
           "url": "https://x.com/i/status/2111173064348119133",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111173018596651008/pu/img/1XYfPm-WmLVxKlpv.jpg"
-        },
-        {
-          "id": "2111079883476439243",
-          "text": "I'm flattered https://t.co/foa8SVC0H2",
-          "created_at": "2026-10-16T13:00:40.000Z",
-          "url": "https://x.com/i/status/2111079883476439243",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111079824039026688/pu/img/iMGejiriihhwTWI7.jpg"
         }
       ]
     },
