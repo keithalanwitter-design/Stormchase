@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-18T04:44:39.837Z",
+  "updated_utc": "2026-10-18T13:45:12.280Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2111789399281111132",
+          "text": "A nor'easter is about to park off the Outer Banks for days. The waves out there could hit 23 feet, and Hatteras Island could get cut off. https://t.co/fYn9ihAFud",
+          "created_at": "2026-10-18T12:00:02.000Z",
+          "url": "https://x.com/i/status/2111789399281111132",
+          "media_url": "https://pbs.twimg.com/media/HU6VRJTW4AAEYrK.jpg"
+        },
+        {
+          "id": "2111778312951349759",
+          "text": "The nicest weather in the USA today will be in and around Memphis, TN, Lancaster, CA, and Grants Pass, OR. https://t.co/B3Ge8A74Pj",
+          "created_at": "2026-10-18T11:15:59.000Z",
+          "url": "https://x.com/i/status/2111778312951349759",
+          "media_url": "https://pbs.twimg.com/media/HU6LLxRWkAA3bdV.jpg"
+        },
+        {
           "id": "2111491420401844260",
           "text": "That's the eye of a 140 mph typhoon on Guam's own radar, and it's moving toward the island right now. https://t.co/ihneqEMblm",
           "created_at": "2026-10-17T16:15:58.000Z",
@@ -65,20 +79,6 @@
           "created_at": "2026-10-17T12:09:44.000Z",
           "url": "https://x.com/i/status/2111429453922316318",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111429400654721024/pu/img/aNIGrhT7MClogHAA.jpg"
-        },
-        {
-          "id": "2111415827886993714",
-          "text": "The nicest weather in the USA today will be in and around Burley, ID, Grand Junction, CO, and Chicago, IL. https://t.co/BMGzmoVFNe",
-          "created_at": "2026-10-17T11:15:36.000Z",
-          "url": "https://x.com/i/status/2111415827886993714",
-          "media_url": "https://pbs.twimg.com/media/HU1BgWRXEAEr-Yw.jpg"
-        },
-        {
-          "id": "2111173064348119133",
-          "text": "WOW Lake Michigan is pounding the Michigan City lighthouse in front of Corey this afternoon\n\nVideo: Corey Gerken (@CoreyGerkenWX) https://t.co/AbhX1QpmF3",
-          "created_at": "2026-10-16T19:10:56.000Z",
-          "url": "https://x.com/i/status/2111173064348119133",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111173018596651008/pu/img/1XYfPm-WmLVxKlpv.jpg"
         }
       ]
     },
@@ -86,6 +86,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2111813069886116223",
+          "text": "A developing nor'easter will be in no hurry to leave... gusts near 50 mph on the Outer Banks Monday, and waves could reach over 20 FEET TALL off Hatteras all the way through Wednesday... https://t.co/wjVraJm3Gi",
+          "created_at": "2026-10-18T13:34:06.000Z",
+          "url": "https://x.com/i/status/2111813069886116223",
+          "media_url": "https://pbs.twimg.com/media/HU6cnCuXUAASpMP.jpg"
+        },
+        {
+          "id": "2111778345444651085",
+          "text": "While cars could have frosty windshields across the Northeast this morning, we have a much bigger defrosting in two weeks... https://t.co/BT1o1E2k5f",
+          "created_at": "2026-10-18T11:16:07.000Z",
+          "url": "https://x.com/i/status/2111778345444651085",
+          "media_url": "https://pbs.twimg.com/media/HU6LNp2X0AADuL-.jpg"
+        },
         {
           "id": "2111597403098804462",
           "text": "Don't get too comfortable, these colder temperatures are not lasting long... https://t.co/r08y5MDlzW",
@@ -105,20 +119,6 @@
           "created_at": "2026-10-17T20:18:07.000Z",
           "url": "https://x.com/i/status/2111552357217558870",
           "media_url": "https://pbs.twimg.com/media/HU29ra-XAAAVkoS.jpg"
-        },
-        {
-          "id": "2111537082384687357",
-          "text": "My goodness… Guam is getting narrowly missed by powerful Typhoon Champi, with wind gusts up to 175 MPH 😳\n\n@WxFront https://t.co/5UNIClAeC3",
-          "created_at": "2026-10-17T19:17:25.000Z",
-          "url": "https://x.com/i/status/2111537082384687357",
-          "media_url": "https://pbs.twimg.com/media/HU2vyAVWEAAYkE0.jpg"
-        },
-        {
-          "id": "2111522551381757956",
-          "text": "An EXTREME WIND WARNING has been issued for Southern Guam, with expected winds of 115-135MPH associated with Typhoon Champi now moving ashore!\n\nIf you are in this warning, seek IMMEDIATE shelter indoors! https://t.co/9f9nsEDvP3",
-          "created_at": "2026-10-17T18:19:41.000Z",
-          "url": "https://x.com/i/status/2111522551381757956",
-          "media_url": "https://pbs.twimg.com/media/HU2ikceWIAADMjV.jpg"
         }
       ]
     },
@@ -168,6 +168,18 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2111790719761314065",
+          "text": "Flash flooding risk for portions of South Florida for Sunday https://t.co/kPv4k077nv",
+          "created_at": "2026-10-18T12:05:17.000Z",
+          "url": "https://x.com/i/status/2111790719761314065"
+        },
+        {
+          "id": "2111790717768987029",
+          "text": "Nor'easter develops along the Carolina coast this weekend, bringing potential coastal flooding and beach erosion along portions of the Mid-Atlantic coast into early next week https://t.co/kPv4k077nv",
+          "created_at": "2026-10-18T12:05:16.000Z",
+          "url": "https://x.com/i/status/2111790717768987029"
+        },
+        {
           "id": "2111662962742010076",
           "text": "#WPC_MD 1503 affecting Southeast Florida, #flwx, https://t.co/prqANYDxSE https://t.co/V8NlEFISy8",
           "created_at": "2026-10-18T03:37:37.000Z",
@@ -186,19 +198,6 @@
           "created_at": "2026-10-17T21:08:11.000Z",
           "url": "https://x.com/i/status/2111564959297503511",
           "media_url": "https://pbs.twimg.com/media/HU3H5zDWMAAAhBf.png"
-        },
-        {
-          "id": "2111511940455449023",
-          "text": "#WPC_MD 1502 affecting South Florida, #flwx, https://t.co/acKe4nWu69 https://t.co/tQEIhNnuJT",
-          "created_at": "2026-10-17T17:37:31.000Z",
-          "url": "https://x.com/i/status/2111511940455449023",
-          "media_url": "https://pbs.twimg.com/media/HU2Y6-HWUAAVb2a.jpg"
-        },
-        {
-          "id": "2111428318893408396",
-          "text": "Elevated to Critical fire weather across portions of California into Sunday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-17T12:05:14.000Z",
-          "url": "https://x.com/i/status/2111428318893408396"
         }
       ]
     }
