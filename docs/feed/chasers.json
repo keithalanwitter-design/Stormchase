@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-18T01:43:27.465Z",
+  "updated_utc": "2026-10-18T04:44:39.837Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -168,6 +168,19 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2111662962742010076",
+          "text": "#WPC_MD 1503 affecting Southeast Florida, #flwx, https://t.co/prqANYDxSE https://t.co/V8NlEFISy8",
+          "created_at": "2026-10-18T03:37:37.000Z",
+          "url": "https://x.com/i/status/2111662962742010076",
+          "media_url": "https://pbs.twimg.com/media/HU4iRosWIAA8NTS.jpg"
+        },
+        {
+          "id": "2111649815503286482",
+          "text": "National High/Low temps for Saturday October 17, 2026: 99 at Corralitos, CA; 8 at Angel Fire, NM #cawx #nmwx https://t.co/bHgACXHHFT",
+          "created_at": "2026-10-18T02:45:23.000Z",
+          "url": "https://x.com/i/status/2111649815503286482"
+        },
+        {
           "id": "2111564959297503511",
           "text": "Here are the latest Key Messages for the October Nor'easter. https://t.co/S8ruWXy1Cx",
           "created_at": "2026-10-17T21:08:11.000Z",
@@ -186,18 +199,6 @@
           "text": "Elevated to Critical fire weather across portions of California into Sunday https://t.co/kPv4k077nv",
           "created_at": "2026-10-17T12:05:14.000Z",
           "url": "https://x.com/i/status/2111428318893408396"
-        },
-        {
-          "id": "2111428317576323462",
-          "text": "Nor'easter develops along the Carolina coast this weekend, bringing potential coastal flooding and beach erosion along portions of the Mid-Atlantic coast into early next week https://t.co/kPv4k077nv",
-          "created_at": "2026-10-17T12:05:14.000Z",
-          "url": "https://x.com/i/status/2111428317576323462"
-        },
-        {
-          "id": "2111428315923853675",
-          "text": "Well below average temperatures spread across much of central, southern and eastern U.S. with widespread frost and freezing temperatures from the Plains to the East through the weekend https://t.co/kPv4k077nv",
-          "created_at": "2026-10-17T12:05:13.000Z",
-          "url": "https://x.com/i/status/2111428315923853675"
         }
       ]
     }
