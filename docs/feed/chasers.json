@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-17T22:49:37.759Z",
+  "updated_utc": "2026-10-18T01:43:27.465Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2111610797499498772",
+          "text": "BOOOOOOMER @meganjrenee https://t.co/RCNW4RM72S",
+          "created_at": "2026-10-18T00:10:20.000Z",
+          "url": "https://x.com/i/status/2111610797499498772",
+          "media_url": "https://pbs.twimg.com/media/HU3yzY3W0AAwexp.jpg"
+        },
         {
           "id": "2110923060643864610",
           "text": "Dominator hibernation https://t.co/pyABFhSk08",
@@ -31,13 +38,6 @@
           "created_at": "2026-10-14T01:46:25.000Z",
           "url": "https://x.com/i/status/2110185427416301603",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2110185178710593536/img/RQ3k6wZA07ASPPnk.jpg"
-        },
-        {
-          "id": "2110167363786060110",
-          "text": "TORNADO WARNING finally just northeast of Kansas City including Liberty to Excelsior Springs, MO! https://t.co/KRI2G8gujA",
-          "created_at": "2026-10-14T00:34:39.000Z",
-          "url": "https://x.com/i/status/2110167363786060110",
-          "media_url": "https://pbs.twimg.com/media/HUjSBsmWgAA_EKy.jpg"
         }
       ]
     },
@@ -87,6 +87,19 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2111597403098804462",
+          "text": "Don't get too comfortable, these colder temperatures are not lasting long... https://t.co/r08y5MDlzW",
+          "created_at": "2026-10-17T23:17:07.000Z",
+          "url": "https://x.com/i/status/2111597403098804462",
+          "media_url": "https://pbs.twimg.com/media/HU3mpdbWEAATBXX.jpg"
+        },
+        {
+          "id": "2111596924465770546",
+          "text": "I AM INSIDE OF YOU DETROIT, MICHIGAN!",
+          "created_at": "2026-10-17T23:15:13.000Z",
+          "url": "https://x.com/i/status/2111596924465770546"
+        },
+        {
           "id": "2111552357217558870",
           "text": "A nor'easter forming off the Carolinas this weekend now has a 20% chance of turning SUBTROPICAL while it stalls offshore through the middle of next week.\n\nSubtropical in this case means a storm that is half nor'easter, half tropical storm... it still gets a name, but its https://t.co/IxO5Nzaa5V",
           "created_at": "2026-10-17T20:18:07.000Z",
@@ -106,20 +119,6 @@
           "created_at": "2026-10-17T18:19:41.000Z",
           "url": "https://x.com/i/status/2111522551381757956",
           "media_url": "https://pbs.twimg.com/media/HU2ikceWIAADMjV.jpg"
-        },
-        {
-          "id": "2111500029605085458",
-          "text": "The eye of DANGEROUS Typhoon Champi is getting closer to Guam, packing winds of 140mph...\n\n@WxFront https://t.co/CD897yKHul",
-          "created_at": "2026-10-17T16:50:11.000Z",
-          "url": "https://x.com/i/status/2111500029605085458",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111499508156645376/pu/img/W1JN-c7PQaodcTpf.jpg"
-        },
-        {
-          "id": "2111446155896701331",
-          "text": "Are you getting rain this weekend?\n\nFor most of the country, it is looking pretty quiet, although there are a few exceptions... https://t.co/47pbCmeM0O",
-          "created_at": "2026-10-17T13:16:06.000Z",
-          "url": "https://x.com/i/status/2111446155896701331",
-          "media_url": "https://pbs.twimg.com/media/HU1dFqbXkAA_B8C.jpg"
         }
       ]
     },
