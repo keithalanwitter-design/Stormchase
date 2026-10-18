@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-18T16:46:24.508Z",
+  "updated_utc": "2026-10-18T19:45:07.087Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -87,6 +87,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2111892599749460090",
+          "text": "A spectacular “space jellyfish” could be visible across the East Coast early Monday morning following a SpaceX launch from Cape Canaveral...\n\nWith liftoff scheduled for 6:30 AM EDT, the timing is perfect for the rocket’s expanding exhaust plume to catch high-altitude sunlight https://t.co/O04qTZg4C5",
+          "created_at": "2026-10-18T18:50:07.000Z",
+          "url": "https://x.com/i/status/2111892599749460090",
+          "media_url": "https://pbs.twimg.com/media/HU7k769XoAAtnwp.jpg"
+        },
+        {
           "id": "2111850570252161161",
           "text": "Well so much for that cooldown... https://t.co/NM921uAcmu",
           "created_at": "2026-10-18T16:03:06.000Z",
@@ -113,12 +120,6 @@
           "created_at": "2026-10-17T23:17:07.000Z",
           "url": "https://x.com/i/status/2111597403098804462",
           "media_url": "https://pbs.twimg.com/media/HU3mpdbWEAATBXX.jpg"
-        },
-        {
-          "id": "2111596924465770546",
-          "text": "I AM INSIDE OF YOU DETROIT, MICHIGAN!",
-          "created_at": "2026-10-17T23:15:13.000Z",
-          "url": "https://x.com/i/status/2111596924465770546"
         }
       ]
     },
