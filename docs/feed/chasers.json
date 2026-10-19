@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-19T01:45:18.085Z",
+  "updated_utc": "2026-10-19T04:47:19.733Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -162,6 +162,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2112012225338540216",
+          "text": "National High/Low temps for Sunday October 18, 2026: 94 at Bradley, CA; 11 at Angel Fire, NM #cawx #nmwx https://t.co/UxuDq1e2Om",
+          "created_at": "2026-10-19T02:45:28.000Z",
+          "url": "https://x.com/i/status/2112012225338540216"
+        },
+        {
           "id": "2111925868205678961",
           "text": "Here are the latest Key Messages for the October Nor'easter. https://t.co/8UfTbYX1nt",
           "created_at": "2026-10-18T21:02:19.000Z",
@@ -186,12 +192,6 @@
           "created_at": "2026-10-18T03:37:37.000Z",
           "url": "https://x.com/i/status/2111662962742010076",
           "media_url": "https://pbs.twimg.com/media/HU4iRosWIAA8NTS.jpg"
-        },
-        {
-          "id": "2111649815503286482",
-          "text": "National High/Low temps for Saturday October 17, 2026: 99 at Corralitos, CA; 8 at Angel Fire, NM #cawx #nmwx https://t.co/bHgACXHHFT",
-          "created_at": "2026-10-18T02:45:23.000Z",
-          "url": "https://x.com/i/status/2111649815503286482"
         }
       ]
     }
