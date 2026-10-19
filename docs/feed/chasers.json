@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-19T13:47:01.141Z",
+  "updated_utc": "2026-10-19T16:50:27.688Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -80,6 +80,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2112201138007126437",
+          "text": "This is crazy for the desert... \n\nLas Vegas has already had almost 4x its normal October rain, and it’s only 0.27\" from breaking the record. \n\nAnother round moves in midweek, with around an inch for Phoenix and LA and 3+ inches in the mountains near Durango. https://t.co/GzdoXlMSEO",
+          "created_at": "2026-10-19T15:16:08.000Z",
+          "url": "https://x.com/i/status/2112201138007126437",
+          "media_url": "https://pbs.twimg.com/media/HU_9jaIWYAA6JiD.jpg"
+        },
+        {
           "id": "2112160629050036698",
           "text": "21 years ago today, Hurricane Wilma bottomed out at 882 mb... still the LOWEST pressure ever measured in an Atlantic hurricane...\n\nOnly 2 storms have gone below 900 mb since: Milton 2024 and Melissa 2025. https://t.co/v3VY87Bi6O",
           "created_at": "2026-10-19T12:35:10.000Z",
@@ -106,13 +113,6 @@
           "created_at": "2026-10-18T16:03:06.000Z",
           "url": "https://x.com/i/status/2111850570252161161",
           "media_url": "https://pbs.twimg.com/media/HU6-t07WEAI2TWm.jpg"
-        },
-        {
-          "id": "2111813069886116223",
-          "text": "A developing nor'easter will be in no hurry to leave... gusts near 50 mph on the Outer Banks Monday, and waves could reach over 20 FEET TALL off Hatteras all the way through Wednesday... https://t.co/wjVraJm3Gi",
-          "created_at": "2026-10-18T13:34:06.000Z",
-          "url": "https://x.com/i/status/2111813069886116223",
-          "media_url": "https://pbs.twimg.com/media/HU6cnCuXUAASpMP.jpg"
         }
       ]
     },
