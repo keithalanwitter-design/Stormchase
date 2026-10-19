@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-19T04:47:19.733Z",
+  "updated_utc": "2026-10-19T13:47:01.141Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -39,6 +39,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2112140549280927787",
+          "text": "The nicest weather in the USA today will be in and around Mitchell, SD, Grand Island, NE, and Ulysses, KS, with that whole central High Plains corridor landing on a Perfect Day. https://t.co/Faf8HRYSm8",
+          "created_at": "2026-10-19T11:15:23.000Z",
+          "url": "https://x.com/i/status/2112140549280927787",
+          "media_url": "https://pbs.twimg.com/media/HU_UosxWUAEv5el.jpg"
+        },
+        {
           "id": "2111958852472029460",
           "text": "Y'all sent me a bunch of these from around Austin on Saturday. They're called fall streak holes, and most of the time a plane makes them.\n\nThat cloud is made of tiny water drops that are colder than freezing but haven't turned to ice yet.\n\nWhen a plane flies through, the air https://t.co/38cSLZzVIR",
           "created_at": "2026-10-18T23:13:23.000Z",
@@ -65,13 +72,6 @@
           "created_at": "2026-10-18T11:15:59.000Z",
           "url": "https://x.com/i/status/2111778312951349759",
           "media_url": "https://pbs.twimg.com/media/HU6LLxRWkAA3bdV.jpg"
-        },
-        {
-          "id": "2111491420401844260",
-          "text": "That's the eye of a 140 mph typhoon on Guam's own radar, and it's moving toward the island right now. https://t.co/ihneqEMblm",
-          "created_at": "2026-10-17T16:15:58.000Z",
-          "url": "https://x.com/i/status/2111491420401844260",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2111491376001015809/pu/img/ygSCh9JXzfnUFT1T.jpg"
         }
       ]
     },
@@ -79,6 +79,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2112160629050036698",
+          "text": "21 years ago today, Hurricane Wilma bottomed out at 882 mb... still the LOWEST pressure ever measured in an Atlantic hurricane...\n\nOnly 2 storms have gone below 900 mb since: Milton 2024 and Melissa 2025. https://t.co/v3VY87Bi6O",
+          "created_at": "2026-10-19T12:35:10.000Z",
+          "url": "https://x.com/i/status/2112160629050036698",
+          "media_url": "https://pbs.twimg.com/media/HU_m5TsXUAA4dwj.jpg"
+        },
         {
           "id": "2111970114362806546",
           "text": "The National Hurricane Center just bumped this nor’easter up to a 40% chance of becoming subtropical...\n\nIt’s going to sit off the East Coast for the next few days, and if it gets organized enough, it would be named Josephine. https://t.co/XG2spVVAyN",
@@ -106,13 +113,6 @@
           "created_at": "2026-10-18T13:34:06.000Z",
           "url": "https://x.com/i/status/2111813069886116223",
           "media_url": "https://pbs.twimg.com/media/HU6cnCuXUAASpMP.jpg"
-        },
-        {
-          "id": "2111778345444651085",
-          "text": "While cars could have frosty windshields across the Northeast this morning, we have a much bigger defrosting in two weeks... https://t.co/BT1o1E2k5f",
-          "created_at": "2026-10-18T11:16:07.000Z",
-          "url": "https://x.com/i/status/2111778345444651085",
-          "media_url": "https://pbs.twimg.com/media/HU6LNp2X0AADuL-.jpg"
         }
       ]
     },
@@ -162,6 +162,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2112159329143181586",
+          "text": "When winter weather threatens, knowing the meaning of each National Weather Service alert helps you take the right action at the right time. https://t.co/Jk7owEOuzj",
+          "created_at": "2026-10-19T12:30:00.000Z",
+          "url": "https://x.com/i/status/2112159329143181586",
+          "media_url": "https://pbs.twimg.com/media/HU59qHRWQAAZAiP.jpg"
+        },
+        {
           "id": "2112012225338540216",
           "text": "National High/Low temps for Sunday October 18, 2026: 94 at Bradley, CA; 11 at Angel Fire, NM #cawx #nmwx https://t.co/UxuDq1e2Om",
           "created_at": "2026-10-19T02:45:28.000Z",
@@ -185,13 +192,6 @@
           "text": "Nor'easter develops along the Carolina coast this weekend, bringing potential coastal flooding and beach erosion along portions of the Mid-Atlantic coast into early next week https://t.co/kPv4k077nv",
           "created_at": "2026-10-18T12:05:16.000Z",
           "url": "https://x.com/i/status/2111790717768987029"
-        },
-        {
-          "id": "2111662962742010076",
-          "text": "#WPC_MD 1503 affecting Southeast Florida, #flwx, https://t.co/prqANYDxSE https://t.co/V8NlEFISy8",
-          "created_at": "2026-10-18T03:37:37.000Z",
-          "url": "https://x.com/i/status/2111662962742010076",
-          "media_url": "https://pbs.twimg.com/media/HU4iRosWIAA8NTS.jpg"
         }
       ]
     }
