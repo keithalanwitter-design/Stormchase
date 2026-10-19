@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-19T19:44:33.858Z",
+  "updated_utc": "2026-10-19T22:43:42.603Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -81,6 +81,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2112309659411353780",
+          "text": "Hanging out with the amazing guys at WeatherFront here in Omaha, Nebraska! \n\nThey’re building a tremendous radar app and are about to release a HUGE update this week. Super happy to be apart of the team!\n\n@WxFront https://t.co/D4h5CBGpWU",
+          "created_at": "2026-10-19T22:27:22.000Z",
+          "url": "https://x.com/i/status/2112309659411353780",
+          "media_url": "https://pbs.twimg.com/media/HVBucE-XUAAB33R.jpg"
+        },
+        {
+          "id": "2112307855642477025",
+          "text": "OCRACOKE, NC IS CUT OFF... no ferries in or out, and the ocean is coming over NC 12 with more high tides on the way through Thursday... https://t.co/Nvks4wOfUQ",
+          "created_at": "2026-10-19T22:20:12.000Z",
+          "url": "https://x.com/i/status/2112307855642477025",
+          "media_url": "https://pbs.twimg.com/media/HVBszFXW8AEZamk.jpg"
+        },
+        {
           "id": "2112268584055431467",
           "text": "The ocean off San Diego and LA has been running a FOOT higher than normal all month... and El Niño is to blame.\n\nIt’s because of something called a Kelvin wave. El Niño weakens the trade winds, so warm water near the equator sloshes east across the Pacific as a giant, slow-moving https://t.co/Gvw3jVrA5W",
           "created_at": "2026-10-19T19:44:09.000Z",
@@ -100,20 +114,6 @@
           "created_at": "2026-10-19T15:16:08.000Z",
           "url": "https://x.com/i/status/2112201138007126437",
           "media_url": "https://pbs.twimg.com/media/HU_9jaIWYAA6JiD.jpg"
-        },
-        {
-          "id": "2112160629050036698",
-          "text": "21 years ago today, Hurricane Wilma bottomed out at 882 mb... still the LOWEST pressure ever measured in an Atlantic hurricane...\n\nOnly 2 storms have gone below 900 mb since: Milton 2024 and Melissa 2025. https://t.co/v3VY87Bi6O",
-          "created_at": "2026-10-19T12:35:10.000Z",
-          "url": "https://x.com/i/status/2112160629050036698",
-          "media_url": "https://pbs.twimg.com/media/HU_m5TsXUAA4dwj.jpg"
-        },
-        {
-          "id": "2111970114362806546",
-          "text": "The National Hurricane Center just bumped this nor’easter up to a 40% chance of becoming subtropical...\n\nIt’s going to sit off the East Coast for the next few days, and if it gets organized enough, it would be named Josephine. https://t.co/XG2spVVAyN",
-          "created_at": "2026-10-18T23:58:08.000Z",
-          "url": "https://x.com/i/status/2111970114362806546",
-          "media_url": "https://pbs.twimg.com/media/HU85oG-WYAAGoGu.jpg"
         }
       ]
     },
@@ -163,6 +163,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2112281274400247975",
+          "text": "Here are the latest Key Messages for the October Nor'easter. https://t.co/54ErlCCegf",
+          "created_at": "2026-10-19T20:34:34.000Z",
+          "url": "https://x.com/i/status/2112281274400247975",
+          "media_url": "https://pbs.twimg.com/media/HVBUm0rXUAAirLH.jpg"
+        },
+        {
           "id": "2112234824836460828",
           "text": "Not all winter precipitation is the same! Depending on the layer of warm and cold air between the clouds and the ground, a winter storm can bring very different hazards to your doorstep.\n\nUnderstanding these key winter weather terms can help you make smart decisions this winter! https://t.co/Xi5xN9bffR",
           "created_at": "2026-10-19T17:30:00.000Z",
@@ -188,12 +195,6 @@
           "created_at": "2026-10-18T21:02:19.000Z",
           "url": "https://x.com/i/status/2111925868205678961",
           "media_url": "https://pbs.twimg.com/media/HU8RV-HWYAAEwoY.jpg"
-        },
-        {
-          "id": "2111790719761314065",
-          "text": "Flash flooding risk for portions of South Florida for Sunday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-18T12:05:17.000Z",
-          "url": "https://x.com/i/status/2111790719761314065"
         }
       ]
     }
