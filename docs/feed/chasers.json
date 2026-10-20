@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-19T22:43:42.603Z",
+  "updated_utc": "2026-10-20T01:47:38.986Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -81,6 +81,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2112331267559633036",
+          "text": "OBSERVED TORNADO WARNING for Deming, New Mexico!\n\nSeek shelter if you are in this warning! https://t.co/EISGPq4Uoa",
+          "created_at": "2026-10-19T23:53:14.000Z",
+          "url": "https://x.com/i/status/2112331267559633036",
+          "media_url": "https://pbs.twimg.com/media/HVCCF_BXoAAoS_-.jpg"
+        },
+        {
+          "id": "2112327738585673790",
+          "text": "Drinks with the LEGEND Jim Cantore!\n\n@JimCantore https://t.co/DprkwnltDc",
+          "created_at": "2026-10-19T23:39:12.000Z",
+          "url": "https://x.com/i/status/2112327738585673790",
+          "media_url": "https://pbs.twimg.com/media/HVB-4HvXQAAH3Uc.jpg"
+        },
+        {
           "id": "2112309659411353780",
           "text": "Hanging out with the amazing guys at WeatherFront here in Omaha, Nebraska! \n\nThey’re building a tremendous radar app and are about to release a HUGE update this week. Super happy to be apart of the team!\n\n@WxFront https://t.co/D4h5CBGpWU",
           "created_at": "2026-10-19T22:27:22.000Z",
@@ -100,20 +114,6 @@
           "created_at": "2026-10-19T19:44:09.000Z",
           "url": "https://x.com/i/status/2112268584055431467",
           "media_url": "https://pbs.twimg.com/media/HVA65cJW4AAhVCe.jpg"
-        },
-        {
-          "id": "2112231850953314371",
-          "text": "This morning’s launch was scrubbed due to rough weather out at sea where the booster lands, so a spectacular “space jellyfish” could now be visible across Florida and parts of Georgia and the Carolinas early Tuesday morning following a SpaceX launch from Cape Canaveral...\n\nWith https://t.co/68mqdn7auQ",
-          "created_at": "2026-10-19T17:18:11.000Z",
-          "url": "https://x.com/i/status/2112231850953314371",
-          "media_url": "https://pbs.twimg.com/media/HVAnrIgXQAADmWG.jpg"
-        },
-        {
-          "id": "2112201138007126437",
-          "text": "This is crazy for the desert... \n\nLas Vegas has already had almost 4x its normal October rain, and it’s only 0.27\" from breaking the record. \n\nAnother round moves in midweek, with around an inch for Phoenix and LA and 3+ inches in the mountains near Durango. https://t.co/GzdoXlMSEO",
-          "created_at": "2026-10-19T15:16:08.000Z",
-          "url": "https://x.com/i/status/2112201138007126437",
-          "media_url": "https://pbs.twimg.com/media/HU_9jaIWYAA6JiD.jpg"
         }
       ]
     },
@@ -163,6 +163,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2112340523688313073",
+          "text": "A blizzard is defined by wind and visibility, not total snow accumulation! You can even have a blizzard without a single new flake falling. The biggest danger is whiteout conditions. Severe blowing snow causes severe disorientation in seconds, making travel nearly impossible.🌬️❄️ https://t.co/FCoS1OLHU7",
+          "created_at": "2026-10-20T00:30:00.000Z",
+          "url": "https://x.com/i/status/2112340523688313073",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2111766364201291776/img/kz-T4QYnC_ZzNjBl.jpg"
+        },
+        {
           "id": "2112281274400247975",
           "text": "Here are the latest Key Messages for the October Nor'easter. https://t.co/54ErlCCegf",
           "created_at": "2026-10-19T20:34:34.000Z",
@@ -188,13 +195,6 @@
           "text": "National High/Low temps for Sunday October 18, 2026: 94 at Bradley, CA; 11 at Angel Fire, NM #cawx #nmwx https://t.co/UxuDq1e2Om",
           "created_at": "2026-10-19T02:45:28.000Z",
           "url": "https://x.com/i/status/2112012225338540216"
-        },
-        {
-          "id": "2111925868205678961",
-          "text": "Here are the latest Key Messages for the October Nor'easter. https://t.co/8UfTbYX1nt",
-          "created_at": "2026-10-18T21:02:19.000Z",
-          "url": "https://x.com/i/status/2111925868205678961",
-          "media_url": "https://pbs.twimg.com/media/HU8RV-HWYAAEwoY.jpg"
         }
       ]
     }
