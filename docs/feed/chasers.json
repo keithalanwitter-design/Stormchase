@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-20T01:47:38.986Z",
+  "updated_utc": "2026-10-20T13:43:14.147Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -40,6 +40,27 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2112529288691917015",
+          "text": "The clocks fall back a week from Sunday. This is what time the sun goes down that day where you live. https://t.co/vcoaH1bLFA",
+          "created_at": "2026-10-20T13:00:05.000Z",
+          "url": "https://x.com/i/status/2112529288691917015",
+          "media_url": "https://pbs.twimg.com/media/HVE2MT0WIAAiExK.jpg"
+        },
+        {
+          "id": "2112503001860432229",
+          "text": "The nicest weather in the USA today will be in and around Fort Collins, CO, Nashville, TN, and Pittsburgh, PA. https://t.co/ftWSW11Wj0",
+          "created_at": "2026-10-20T11:15:38.000Z",
+          "url": "https://x.com/i/status/2112503001860432229",
+          "media_url": "https://pbs.twimg.com/media/HVEeSNDXgAE3ArP.jpg"
+        },
+        {
+          "id": "2112499389935579258",
+          "text": "Phoenix, Tucson, and Los Angeles are closest to tomorrow's best tornado chance in the country. This is a Level 1 risk for tornadoes. https://t.co/p6niQXliXC",
+          "created_at": "2026-10-20T11:01:17.000Z",
+          "url": "https://x.com/i/status/2112499389935579258",
+          "media_url": "https://pbs.twimg.com/media/HVEa_-XXMAAnuUo.jpg"
+        },
+        {
           "id": "2112140549280927787",
           "text": "The nicest weather in the USA today will be in and around Mitchell, SD, Grand Island, NE, and Ulysses, KS, with that whole central High Plains corridor landing on a Perfect Day. https://t.co/Faf8HRYSm8",
           "created_at": "2026-10-19T11:15:23.000Z",
@@ -52,27 +73,6 @@
           "created_at": "2026-10-18T23:13:23.000Z",
           "url": "https://x.com/i/status/2111958852472029460",
           "media_url": "https://pbs.twimg.com/media/HU8vYnSWkAAmPlP.jpg"
-        },
-        {
-          "id": "2111849794041733168",
-          "text": "Halloween week is looking warmer than normal for most of the country, especially from Texas up to the Great Lakes. https://t.co/9AgMIAg1f9",
-          "created_at": "2026-10-18T16:00:01.000Z",
-          "url": "https://x.com/i/status/2111849794041733168",
-          "media_url": "https://pbs.twimg.com/media/HU7MMkZWIAAoeE2.jpg"
-        },
-        {
-          "id": "2111789399281111132",
-          "text": "A nor'easter is about to park off the Outer Banks for days. The waves out there could hit 23 feet, and Hatteras Island could get cut off. https://t.co/fYn9ihAFud",
-          "created_at": "2026-10-18T12:00:02.000Z",
-          "url": "https://x.com/i/status/2111789399281111132",
-          "media_url": "https://pbs.twimg.com/media/HU6VRJTW4AAEYrK.jpg"
-        },
-        {
-          "id": "2111778312951349759",
-          "text": "The nicest weather in the USA today will be in and around Memphis, TN, Lancaster, CA, and Grants Pass, OR. https://t.co/B3Ge8A74Pj",
-          "created_at": "2026-10-18T11:15:59.000Z",
-          "url": "https://x.com/i/status/2111778312951349759",
-          "media_url": "https://pbs.twimg.com/media/HU6LLxRWkAA3bdV.jpg"
         }
       ]
     },
@@ -80,6 +80,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2112521253487628704",
+          "text": "Phoenix hasn’t had a half inch of rain in one day since LAST October...\n\nThat could finally change Wednesday. https://t.co/wKWbfI3eD5",
+          "created_at": "2026-10-20T12:28:10.000Z",
+          "url": "https://x.com/i/status/2112521253487628704",
+          "media_url": "https://pbs.twimg.com/media/HVEu4ieWoAA-MUS.jpg"
+        },
         {
           "id": "2112331267559633036",
           "text": "OBSERVED TORNADO WARNING for Deming, New Mexico!\n\nSeek shelter if you are in this warning! https://t.co/EISGPq4Uoa",
@@ -107,13 +114,6 @@
           "created_at": "2026-10-19T22:20:12.000Z",
           "url": "https://x.com/i/status/2112307855642477025",
           "media_url": "https://pbs.twimg.com/media/HVBszFXW8AEZamk.jpg"
-        },
-        {
-          "id": "2112268584055431467",
-          "text": "The ocean off San Diego and LA has been running a FOOT higher than normal all month... and El Niño is to blame.\n\nIt’s because of something called a Kelvin wave. El Niño weakens the trade winds, so warm water near the equator sloshes east across the Pacific as a giant, slow-moving https://t.co/Gvw3jVrA5W",
-          "created_at": "2026-10-19T19:44:09.000Z",
-          "url": "https://x.com/i/status/2112268584055431467",
-          "media_url": "https://pbs.twimg.com/media/HVA65cJW4AAhVCe.jpg"
         }
       ]
     },
@@ -163,6 +163,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2112521719642570815",
+          "text": "Instead of just one number, local NWS Weather Forecast Offices offer winter pages showing the full range of potential snow &amp; ice scenarios, from low to high end!  Find your local page here: https://t.co/JIRulR5jxB, and learn how to use the data: https://t.co/ogtvJmi3a5 .",
+          "created_at": "2026-10-20T12:30:01.000Z",
+          "url": "https://x.com/i/status/2112521719642570815"
+        },
+        {
           "id": "2112340523688313073",
           "text": "A blizzard is defined by wind and visibility, not total snow accumulation! You can even have a blizzard without a single new flake falling. The biggest danger is whiteout conditions. Severe blowing snow causes severe disorientation in seconds, making travel nearly impossible.🌬️❄️ https://t.co/FCoS1OLHU7",
           "created_at": "2026-10-20T00:30:00.000Z",
@@ -189,12 +195,6 @@
           "created_at": "2026-10-19T12:30:00.000Z",
           "url": "https://x.com/i/status/2112159329143181586",
           "media_url": "https://pbs.twimg.com/media/HU59qHRWQAAZAiP.jpg"
-        },
-        {
-          "id": "2112012225338540216",
-          "text": "National High/Low temps for Sunday October 18, 2026: 94 at Bradley, CA; 11 at Angel Fire, NM #cawx #nmwx https://t.co/UxuDq1e2Om",
-          "created_at": "2026-10-19T02:45:28.000Z",
-          "url": "https://x.com/i/status/2112012225338540216"
         }
       ]
     }
