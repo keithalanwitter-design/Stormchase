@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-20T13:43:14.147Z",
+  "updated_utc": "2026-10-20T16:43:16.150Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -25,13 +25,6 @@
           "created_at": "2026-10-18T00:10:20.000Z",
           "url": "https://x.com/i/status/2111610797499498772",
           "media_url": "https://pbs.twimg.com/media/HU3yzY3W0AAwexp.jpg"
-        },
-        {
-          "id": "2110923060643864610",
-          "text": "Dominator hibernation https://t.co/pyABFhSk08",
-          "created_at": "2026-10-16T02:37:31.000Z",
-          "url": "https://x.com/i/status/2110923060643864610",
-          "media_url": "https://pbs.twimg.com/media/HUuBVcPXsAAFKry.jpg"
         }
       ]
     },
@@ -39,6 +32,13 @@
       "handle": "ryanhallyall",
       "name": "Ryan Hall, Y’all",
       "posts": [
+        {
+          "id": "2112544427130446124",
+          "text": "That jellyfish in the sky over Florida this morning was a SpaceX rocket, lit up by a sun that hadn't come up yet on the ground.\n\nPhoto: Jana https://t.co/Io1yyOTqo5",
+          "created_at": "2026-10-20T14:00:15.000Z",
+          "url": "https://x.com/i/status/2112544427130446124",
+          "media_url": "https://pbs.twimg.com/media/HVFD9jJWUAA2g-t.jpg"
+        },
         {
           "id": "2112529288691917015",
           "text": "The clocks fall back a week from Sunday. This is what time the sun goes down that day where you live. https://t.co/vcoaH1bLFA",
@@ -66,13 +66,6 @@
           "created_at": "2026-10-19T11:15:23.000Z",
           "url": "https://x.com/i/status/2112140549280927787",
           "media_url": "https://pbs.twimg.com/media/HU_UosxWUAEv5el.jpg"
-        },
-        {
-          "id": "2111958852472029460",
-          "text": "Y'all sent me a bunch of these from around Austin on Saturday. They're called fall streak holes, and most of the time a plane makes them.\n\nThat cloud is made of tiny water drops that are colder than freezing but haven't turned to ice yet.\n\nWhen a plane flies through, the air https://t.co/38cSLZzVIR",
-          "created_at": "2026-10-18T23:13:23.000Z",
-          "url": "https://x.com/i/status/2111958852472029460",
-          "media_url": "https://pbs.twimg.com/media/HU8vYnSWkAAmPlP.jpg"
         }
       ]
     },
@@ -80,6 +73,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2112571590646886528",
+          "text": "October still remains one of Arizona’s busiest months for tornadoes... and a couple can’t be ruled out tomorrow afternoon, along with a waterspout or two on the SoCal coast... https://t.co/rvGHwHTpgE",
+          "created_at": "2026-10-20T15:48:11.000Z",
+          "url": "https://x.com/i/status/2112571590646886528",
+          "media_url": "https://pbs.twimg.com/media/HVFcqkQXgAAsdTJ.jpg"
+        },
+        {
+          "id": "2112550194164146672",
+          "text": "Severe storms are likely in Arizona tomorrow... with supercells expected to develop east of Phoenix by late afternoon.\n\nUnusually humid air for the desert is streaming north into Arizona, giving storms plenty of fuel. At the same time, a strong storm system from the Pacific is https://t.co/arbkYNrKbx",
+          "created_at": "2026-10-20T14:23:10.000Z",
+          "url": "https://x.com/i/status/2112550194164146672",
+          "media_url": "https://pbs.twimg.com/media/HVE7eWLXcAAA22B.jpg"
+        },
         {
           "id": "2112521253487628704",
           "text": "Phoenix hasn’t had a half inch of rain in one day since LAST October...\n\nThat could finally change Wednesday. https://t.co/wKWbfI3eD5",
@@ -100,20 +107,6 @@
           "created_at": "2026-10-19T23:39:12.000Z",
           "url": "https://x.com/i/status/2112327738585673790",
           "media_url": "https://pbs.twimg.com/media/HVB-4HvXQAAH3Uc.jpg"
-        },
-        {
-          "id": "2112309659411353780",
-          "text": "Hanging out with the amazing guys at WeatherFront here in Omaha, Nebraska! \n\nThey’re building a tremendous radar app and are about to release a HUGE update this week. Super happy to be apart of the team!\n\n@WxFront https://t.co/D4h5CBGpWU",
-          "created_at": "2026-10-19T22:27:22.000Z",
-          "url": "https://x.com/i/status/2112309659411353780",
-          "media_url": "https://pbs.twimg.com/media/HVBucE-XUAAB33R.jpg"
-        },
-        {
-          "id": "2112307855642477025",
-          "text": "OCRACOKE, NC IS CUT OFF... no ferries in or out, and the ocean is coming over NC 12 with more high tides on the way through Thursday... https://t.co/Nvks4wOfUQ",
-          "created_at": "2026-10-19T22:20:12.000Z",
-          "url": "https://x.com/i/status/2112307855642477025",
-          "media_url": "https://pbs.twimg.com/media/HVBszFXW8AEZamk.jpg"
         }
       ]
     },
