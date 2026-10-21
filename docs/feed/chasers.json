@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-21T04:49:56.772Z",
+  "updated_utc": "2026-10-21T13:46:10.553Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,27 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2112891684350505429",
+          "text": "Pieces of Halley's Comet are going to burn up over most of the country before dawn Thursday.\n\nIf you're in the clear, step outside after the moon sets, around 3 to 4 AM, and look up. From a dark spot, 10 to 20 an hour. https://t.co/9aPfU9SunT",
+          "created_at": "2026-10-21T13:00:07.000Z",
+          "url": "https://x.com/i/status/2112891684350505429",
+          "media_url": "https://pbs.twimg.com/media/HVJ_yktWsAA3yRu.jpg"
+        },
+        {
+          "id": "2112865493853901287",
+          "text": "The nicest weather in the USA today will be in and around Overland Park, KS, Thief River Falls, MN, and Columbus, OH. https://t.co/qkg4by8SUF",
+          "created_at": "2026-10-21T11:16:03.000Z",
+          "url": "https://x.com/i/status/2112865493853901287",
+          "media_url": "https://pbs.twimg.com/media/HVJn-AfXsAAV78l.jpg"
+        },
+        {
+          "id": "2112861745320468626",
+          "text": "Arizona's got tomorrow's best tornado chance in the country.\n\nIt's centered on Globe, Payson, and Safford, and the Level 2 risk for tornadoes covers that stretch. https://t.co/XNyw0YdiNn",
+          "created_at": "2026-10-21T11:01:09.000Z",
+          "url": "https://x.com/i/status/2112861745320468626",
+          "media_url": "https://pbs.twimg.com/media/HVJkj2QWMAAdpTW.jpg"
+        },
+        {
           "id": "2112684809961033831",
           "text": "This is the sun coming up over a 185 mph super typhoon. https://t.co/XjfiMhOivx",
           "created_at": "2026-10-20T23:18:05.000Z",
@@ -59,27 +80,6 @@
           "created_at": "2026-10-20T22:05:36.000Z",
           "url": "https://x.com/i/status/2112666570363150618",
           "media_url": "https://pbs.twimg.com/media/HVGzDP5WAAATOms.jpg"
-        },
-        {
-          "id": "2112544427130446124",
-          "text": "That jellyfish in the sky over Florida this morning was a SpaceX rocket, lit up by a sun that hadn't come up yet on the ground.\n\nPhoto: Jana https://t.co/Io1yyOTqo5",
-          "created_at": "2026-10-20T14:00:15.000Z",
-          "url": "https://x.com/i/status/2112544427130446124",
-          "media_url": "https://pbs.twimg.com/media/HVFD9jJWUAA2g-t.jpg"
-        },
-        {
-          "id": "2112529288691917015",
-          "text": "The clocks fall back a week from Sunday. This is what time the sun goes down that day where you live. https://t.co/vcoaH1bLFA",
-          "created_at": "2026-10-20T13:00:05.000Z",
-          "url": "https://x.com/i/status/2112529288691917015",
-          "media_url": "https://pbs.twimg.com/media/HVE2MT0WIAAiExK.jpg"
-        },
-        {
-          "id": "2112503001860432229",
-          "text": "The nicest weather in the USA today will be in and around Fort Collins, CO, Nashville, TN, and Pittsburgh, PA. https://t.co/ftWSW11Wj0",
-          "created_at": "2026-10-20T11:15:38.000Z",
-          "url": "https://x.com/i/status/2112503001860432229",
-          "media_url": "https://pbs.twimg.com/media/HVEeSNDXgAE3ArP.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2112898246116823253",
+          "text": "Severe weather could impact central and northern Arizona today, bringing large hail, damaging winds and even a few tornadoes...\n\nAs a powerful storm system approaches from California, unusually humid air for the desert will surge north into Arizona. Storms should begin firing by https://t.co/cojpmJkFqM",
+          "created_at": "2026-10-21T13:26:12.000Z",
+          "url": "https://x.com/i/status/2112898246116823253",
+          "media_url": "https://pbs.twimg.com/media/HVKFwVpW4AAIl9R.jpg"
+        },
         {
           "id": "2112698921940086933",
           "text": "Hurricane season is NOT done yet... there’s a chance something tries to form off Florida and the Bahamas right around Halloween, in addition to what's trying to develop off the East Coast currently. https://t.co/PLUT9nzgrQ",
@@ -114,13 +121,6 @@
           "created_at": "2026-10-20T19:49:11.000Z",
           "url": "https://x.com/i/status/2112632241465577692",
           "media_url": "https://pbs.twimg.com/media/HVGT02hWoAAfbQ_.jpg"
-        },
-        {
-          "id": "2112597950547300539",
-          "text": "Good to see the LEGEND James Spann!\n\n@spann https://t.co/acdr6VLj58",
-          "created_at": "2026-10-20T17:32:56.000Z",
-          "url": "https://x.com/i/status/2112597950547300539",
-          "media_url": "https://pbs.twimg.com/media/HVF0o-zWkAAPHkl.jpg"
         }
       ]
     },
@@ -170,38 +170,39 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
-          "id": "2112679501796667687",
-          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/ROx7BhVrmc",
-          "created_at": "2026-10-20T22:56:59.000Z",
-          "url": "https://x.com/i/status/2112679501796667687",
-          "media_url": "https://pbs.twimg.com/media/HVG-z2CXQAIv8eB.jpg"
+          "id": "2112891224189190194",
+          "text": "#WPC_MD 1505 affecting West-Central to Northern Arizona...Far Southern Utah..., #utwx #azwx, https://t.co/P0lqFQRO0L https://t.co/UMQPq0hNpx",
+          "created_at": "2026-10-21T12:58:18.000Z",
+          "url": "https://x.com/i/status/2112891224189190194",
+          "media_url": "https://pbs.twimg.com/media/HVJ_X23WAAAOmeO.jpg"
         },
         {
-          "id": "2112641511904915561",
-          "text": "A closed low and associated moisture conveyor belt (PWATS 3-4 standard deviations above average) will bring a level 2/4 flash flooding risk. The mountain ranges, especially burn scars, of Southern California to the Four Corners region will see heavy rainfall (1-2 inches). https://t.co/KLyAIBZ7rj",
-          "created_at": "2026-10-20T20:26:02.000Z",
-          "url": "https://x.com/i/status/2112641511904915561",
-          "media_url": "https://pbs.twimg.com/media/HVGcQmdWMAEngNP.jpg"
+          "id": "2112884105557721405",
+          "text": "[Winter Preparedness] Freezing temperatures and slick roads can turn a routine drive hazardous fast. Being prepared is the best way to make it home safely.\n\nIn this video, we cover vehicle winterization and how to build an essential winter emergency kit. 🚘❄️ https://t.co/fBiAjsmJxe",
+          "created_at": "2026-10-21T12:30:00.000Z",
+          "url": "https://x.com/i/status/2112884105557721405",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2112850632272977920/img/zA8Kx8PDfkgE6ifH.jpg"
         },
         {
-          "id": "2112521719642570815",
-          "text": "Instead of just one number, local NWS Weather Forecast Offices offer winter pages showing the full range of potential snow &amp; ice scenarios, from low to high end!  Find your local page here: https://t.co/JIRulR5jxB, and learn how to use the data: https://t.co/ogtvJmi3a5 .",
-          "created_at": "2026-10-20T12:30:01.000Z",
-          "url": "https://x.com/i/status/2112521719642570815"
+          "id": "2112875733634654212",
+          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/9F5eS8WcLJ",
+          "created_at": "2026-10-21T11:56:44.000Z",
+          "url": "https://x.com/i/status/2112875733634654212",
+          "media_url": "https://pbs.twimg.com/media/HVJxSMBWwAAlhj_.jpg"
         },
         {
-          "id": "2112340523688313073",
-          "text": "A blizzard is defined by wind and visibility, not total snow accumulation! You can even have a blizzard without a single new flake falling. The biggest danger is whiteout conditions. Severe blowing snow causes severe disorientation in seconds, making travel nearly impossible.🌬️❄️ https://t.co/FCoS1OLHU7",
-          "created_at": "2026-10-20T00:30:00.000Z",
-          "url": "https://x.com/i/status/2112340523688313073",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2111766364201291776/img/kz-T4QYnC_ZzNjBl.jpg"
+          "id": "2112814760043409476",
+          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/KI75UbVGu8",
+          "created_at": "2026-10-21T07:54:27.000Z",
+          "url": "https://x.com/i/status/2112814760043409476",
+          "media_url": "https://pbs.twimg.com/media/HVI51DsWsAAdBJk.jpg"
         },
         {
-          "id": "2112281274400247975",
-          "text": "Here are the latest Key Messages for the October Nor'easter. https://t.co/54ErlCCegf",
-          "created_at": "2026-10-19T20:34:34.000Z",
-          "url": "https://x.com/i/status/2112281274400247975",
-          "media_url": "https://pbs.twimg.com/media/HVBUm0rXUAAirLH.jpg"
+          "id": "2112804931891536105",
+          "text": "#WPC_MD 1504 affecting North-Central Arizona, #utwx #azwx, https://t.co/BHh4GqCvQ3 https://t.co/Nqi8x7lwuN",
+          "created_at": "2026-10-21T07:15:24.000Z",
+          "url": "https://x.com/i/status/2112804931891536105",
+          "media_url": "https://pbs.twimg.com/media/HVIw4-iWQAEjJcq.jpg"
         }
       ]
     }
