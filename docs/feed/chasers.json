@@ -1,10 +1,31 @@
 {
-  "updated_utc": "2026-10-22T19:48:59.908Z",
+  "updated_utc": "2026-10-22T22:43:52.809Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2113397652054561131",
+          "text": "Tornado warning has been issued for left-split supercell west of Silver City, NM. However, I am not concerned with the left split, but more the right mover east of Lordsburg https://t.co/rO8zZXITlh",
+          "created_at": "2026-10-22T22:30:39.000Z",
+          "url": "https://x.com/i/status/2113397652054561131",
+          "media_url": "https://pbs.twimg.com/media/HVRL9pOakAACvGn.jpg"
+        },
+        {
+          "id": "2113375028607959433",
+          "text": "Another #tornado warned supercell exiting the White Mountains west of Eager, Arizona with isolated gorilla hail scaring motorists in rental cars https://t.co/gvMtCZqqy5",
+          "created_at": "2026-10-22T21:00:46.000Z",
+          "url": "https://x.com/i/status/2113375028607959433",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113374759337721856/img/3Iy1EbPd_hqh3eAg.jpg"
+        },
+        {
+          "id": "2113359947044196727",
+          "text": "Very low wall cloud with #tornado warned supercell just east of Show Low, Arizona https://t.co/FOr71Zii5r",
+          "created_at": "2026-10-22T20:00:50.000Z",
+          "url": "https://x.com/i/status/2113359947044196727",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113359881436852224/img/AsDl3CtbkUBaWa70.jpg"
+        },
         {
           "id": "2113342998880887072",
           "text": "Live emergency update on #tornado watch over much of Arizona. Supercells are firing all around Show Low in a much more unstable environment than yesterday. An intense tornado is possible today. Stay tuned to severe weather watches and warnings today https://t.co/SB7iJpe2rZ",
@@ -18,27 +39,6 @@
           "created_at": "2026-10-22T16:49:10.000Z",
           "url": "https://x.com/i/status/2113311712434942059",
           "media_url": "https://pbs.twimg.com/media/HVP9yblaUAAaY5F.jpg"
-        },
-        {
-          "id": "2113303326913872142",
-          "text": "Live emergency update on RARE #TORNADO THREAT in Arizona today. Also life-threatening flash flooding likely especially across the Utah Grand Staircase into southwestern Colorado. \n\nYesterday the afternoon mode of supercells was fueled by topography as supercells intensified on https://t.co/jd92pTKbRm",
-          "created_at": "2026-10-22T16:15:51.000Z",
-          "url": "https://x.com/i/status/2113303326913872142",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113303149146714112/img/c-AUZ487ERJqvQmC.jpg"
-        },
-        {
-          "id": "2113129892909093024",
-          "text": "Tornadic supercell illuminated by the moon and lightning over the Arizona desert tonight. You gotta be kidding me with this @accuweather @meganjrenee https://t.co/iUkE3TyOas",
-          "created_at": "2026-10-22T04:46:41.000Z",
-          "url": "https://x.com/i/status/2113129892909093024",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113129522069753856/img/XfY6PoVXmsz8iWth.jpg"
-        },
-        {
-          "id": "2113112253130231869",
-          "text": "Mothership supercell backlit by the moon in the Arizona desert south of Chambers https://t.co/w3VkGwnIHq",
-          "created_at": "2026-10-22T03:36:35.000Z",
-          "url": "https://x.com/i/status/2113112253130231869",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113112181613166592/img/waC6LlDxSghojYj8.jpg"
         }
       ]
     },
@@ -88,6 +88,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2113390540079153643",
+          "text": "Sizable CC drop too. Tornado is beginning to occlude.\n\nYou can track this on the @WxFront app. https://t.co/RGjzmVQEiE",
+          "created_at": "2026-10-22T22:02:24.000Z",
+          "url": "https://x.com/i/status/2113390540079153643",
+          "media_url": "https://pbs.twimg.com/media/HVRFcBHXcAAbfKA.jpg"
+        },
+        {
+          "id": "2113390270930661744",
+          "text": "Unwarned tornado near San Mateo, New Mexico, right now... https://t.co/wqKU8pNhI5",
+          "created_at": "2026-10-22T22:01:20.000Z",
+          "url": "https://x.com/i/status/2113390270930661744",
+          "media_url": "https://pbs.twimg.com/media/HVRFQHzWUAECpBT.jpg"
+        },
+        {
           "id": "2113354778503692769",
           "text": "TORNADO WARNING for areas northeast of Wagon Wheel, Arizona!\n\nSeek shelter if you are in this warning! https://t.co/zjzysxACiw",
           "created_at": "2026-10-22T19:40:18.000Z",
@@ -107,20 +121,6 @@
           "created_at": "2026-10-22T14:13:12.000Z",
           "url": "https://x.com/i/status/2113272461584130372",
           "media_url": "https://pbs.twimg.com/media/HVPL6lyW4AAb6Ec.jpg"
-        },
-        {
-          "id": "2113251076837163325",
-          "text": "Round two for Arizona... large hail, damaging winds and a couple of tornadoes will target Arizona and western New Mexico today as the storm system behind yesterday’s storms finally pushes inland from California...\n\nAfter some areas got pounded by hail up to 2 inches last night, https://t.co/VSGUcwX6zL",
-          "created_at": "2026-10-22T12:48:13.000Z",
-          "url": "https://x.com/i/status/2113251076837163325",
-          "media_url": "https://pbs.twimg.com/media/HVO47-gWYAAaklF.jpg"
-        },
-        {
-          "id": "2113229180003316217",
-          "text": "Radar suggests a likely significant tornado (EF-2+) went through Heber-Overgaard, Arizona last night, where debris was thrown nearly 5,000 FEET into the air.\n\nSignificant damage was reported across town, at least one person was hurt, and over 1,200 customers lost power. A damage https://t.co/ySw3RaC0aF",
-          "created_at": "2026-10-22T11:21:13.000Z",
-          "url": "https://x.com/i/status/2113229180003316217",
-          "media_url": "https://pbs.twimg.com/media/HVOyvUGXEAAL2XH.jpg"
         }
       ]
     },
@@ -170,6 +170,27 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2113379724109984006",
+          "text": "#WPC_MD 1515 affecting Eastern Nevada, Northwest Arizona, and Southwest Utah, #utwx #azwx #nvwx, https://t.co/A3SXB11wn6 https://t.co/8Ilq1neCbk",
+          "created_at": "2026-10-22T21:19:25.000Z",
+          "url": "https://x.com/i/status/2113379724109984006",
+          "media_url": "https://pbs.twimg.com/media/HVQ7qTVW4AIa-Ki.jpg"
+        },
+        {
+          "id": "2113370260992676166",
+          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/qxHuCBkprX",
+          "created_at": "2026-10-22T20:41:49.000Z",
+          "url": "https://x.com/i/status/2113370260992676166",
+          "media_url": "https://pbs.twimg.com/media/HVQzDVCWcAAUjqs.jpg"
+        },
+        {
+          "id": "2113358648764150164",
+          "text": "#WPC_MD 1514 affecting Eastern Arizona..Northwest New Mexico...Southern Colorado...Far Southeast Utah..., #cowx #nmwx #utwx #azwx, https://t.co/ggwGxeRwlN https://t.co/kZgEf3MWtM",
+          "created_at": "2026-10-22T19:55:40.000Z",
+          "url": "https://x.com/i/status/2113358648764150164",
+          "media_url": "https://pbs.twimg.com/media/HVQofixXoAAzstG.jpg"
+        },
+        {
           "id": "2113331507272012237",
           "text": "Heavy rain and a risk for flash flooding will affect the Southwest today and tonight, especially across southern UT and southwest CO, shifting to the Plains this weekend.\n\nMeanwhile, unseasonably warm weather stretches across the Central US and into the Great Lakes. https://t.co/n9fk6lLhGe",
           "created_at": "2026-10-22T18:07:49.000Z",
@@ -182,27 +203,6 @@
           "created_at": "2026-10-22T17:39:33.000Z",
           "url": "https://x.com/i/status/2113324392482562218",
           "media_url": "https://pbs.twimg.com/media/HVQJVduWgAAfN0t.jpg"
-        },
-        {
-          "id": "2113299874829467898",
-          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/rSOodqmxNH",
-          "created_at": "2026-10-22T16:02:08.000Z",
-          "url": "https://x.com/i/status/2113299874829467898",
-          "media_url": "https://pbs.twimg.com/media/HVPzCdQWoAAnx5v.jpg"
-        },
-        {
-          "id": "2113289148253532538",
-          "text": "#WPC_MD 1513 affecting S Utah...SW Colorado...NW New Mexico...Much of N &amp; E Arizona..., #nmwx #cowx #utwx #azwx, https://t.co/VsomHhB7da https://t.co/qMIdnkVHf1",
-          "created_at": "2026-10-22T15:19:30.000Z",
-          "url": "https://x.com/i/status/2113289148253532538",
-          "media_url": "https://pbs.twimg.com/media/HVPpSDGXgAAab5O.jpg"
-        },
-        {
-          "id": "2113258333020787164",
-          "text": "#WPC_MD 1512 affecting Coastal Southern California..., #cawx, https://t.co/5Y2H38ZdUq https://t.co/1hoPmWc5sh",
-          "created_at": "2026-10-22T13:17:03.000Z",
-          "url": "https://x.com/i/status/2113258333020787164",
-          "media_url": "https://pbs.twimg.com/media/HVPNQaDWEAAZdTr.jpg"
         }
       ]
     }
