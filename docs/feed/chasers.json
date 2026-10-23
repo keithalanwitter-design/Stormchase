@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-23T19:47:32.871Z",
+  "updated_utc": "2026-10-23T22:48:42.340Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -86,6 +86,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2113750134668374237",
+          "text": "TORNADO WARNING for Dwyer, New Mexico!\n\nSeek shelter immediately if you are in this warning! https://t.co/eRemORhdnA",
+          "created_at": "2026-10-23T21:51:18.000Z",
+          "url": "https://x.com/i/status/2113750134668374237",
+          "media_url": "https://pbs.twimg.com/media/HVWMi6GWwAAZnnO.jpg"
+        },
+        {
           "id": "2113703841841475722",
           "text": "For the first time in history, a SNOWSHAFT has seen its first snowfall!\n\nGet the cutest way to measure snowfall this winter here: https://t.co/R4xCw2QWts\n\n📷Hayden C., Calgary, Canada https://t.co/MIGNPCn3AU",
           "created_at": "2026-10-23T18:47:21.000Z",
@@ -112,12 +119,6 @@
           "created_at": "2026-10-23T12:36:17.000Z",
           "url": "https://x.com/i/status/2113610459844599949",
           "media_url": "https://pbs.twimg.com/media/HVUNgrLWUAAFnr9.jpg"
-        },
-        {
-          "id": "2113446917602738263",
-          "text": "THE PATRIOTS ARE BACK",
-          "created_at": "2026-10-23T01:46:25.000Z",
-          "url": "https://x.com/i/status/2113446917602738263"
         }
       ]
     },
