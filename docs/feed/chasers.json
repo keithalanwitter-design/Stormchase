@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-23T13:45:46.762Z",
+  "updated_utc": "2026-10-23T16:42:10.622Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2113632608277905869",
+          "text": "A brief tornado cannot be ruled out today in central and southern New Mexico, including Albuquerque and Las Cruces... https://t.co/ErqJDxisaW",
+          "created_at": "2026-10-23T14:04:17.000Z",
+          "url": "https://x.com/i/status/2113632608277905869",
+          "media_url": "https://pbs.twimg.com/media/HVUT7AjW4AAcffN.jpg"
+        },
+        {
           "id": "2113610459844599949",
           "text": "New Mexico could see more severe weather today... large hail, damaging winds and even a tornado or two are possible as the storm system that has impacted Arizona the last two days slides east.\n\nStorms will start firing over northern New Mexico and southern Colorado by early https://t.co/Y2v5fm5pya",
           "created_at": "2026-10-23T12:36:17.000Z",
@@ -113,13 +120,6 @@
           "created_at": "2026-10-22T22:02:24.000Z",
           "url": "https://x.com/i/status/2113390540079153643",
           "media_url": "https://pbs.twimg.com/media/HVRFcBHXcAAbfKA.jpg"
-        },
-        {
-          "id": "2113390270930661744",
-          "text": "Unwarned tornado near San Mateo, New Mexico, right now... https://t.co/wqKU8pNhI5",
-          "created_at": "2026-10-22T22:01:20.000Z",
-          "url": "https://x.com/i/status/2113390270930661744",
-          "media_url": "https://pbs.twimg.com/media/HVRFQHzWUAECpBT.jpg"
         }
       ]
     },
@@ -169,6 +169,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2113660605152346238",
+          "text": "A storm system brought heavy rainfall and reports of flash flooding to the Four Corners region this week. Many areas saw rainfall of 1-3\" with localized amounts over 5\" in southwest Colorado. A listing of rainfall reports: https://t.co/9LGn1JoXUA https://t.co/boYmqUxhdB",
+          "created_at": "2026-10-23T15:55:32.000Z",
+          "url": "https://x.com/i/status/2113660605152346238",
+          "media_url": "https://pbs.twimg.com/media/HVU7HodWEAA_-Qo.jpg"
+        },
+        {
           "id": "2113608882882798079",
           "text": "[Winter Preparedness] The NWS WSSI factors in both weather and infrastructure to rate storm severity on a simple 5-tier scale. Use standard WSSI (https://t.co/Vf81EI4Jz9) for 1–3 day forecasts and Probabilistic WSSI (https://t.co/chY7VFCQfq) to gauge risk up to 7 days out. 🌨️❄️ https://t.co/HTeakOi5G3",
           "created_at": "2026-10-23T12:30:01.000Z",
@@ -192,12 +199,6 @@
           "text": "There is a Slight Risk of excessive rainfall over parts of the Southern High Plains and Southwest on Friday, the Southern Rockies on Saturday, and the Central/Southern High Plains on Saturday and Sunday https://t.co/kPv4k077nv",
           "created_at": "2026-10-23T12:05:17.000Z",
           "url": "https://x.com/i/status/2113602661073273188"
-        },
-        {
-          "id": "2113461767875490061",
-          "text": "National High/Low temps for Thursday October 22, 2026: 92 at Seguin, TX; 17 at 5 east of Davis, WV #txwx #wvwx https://t.co/GzQhAZnEwl",
-          "created_at": "2026-10-23T02:45:26.000Z",
-          "url": "https://x.com/i/status/2113461767875490061"
         }
       ]
     }
