@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-24T16:41:39.395Z",
+  "updated_utc": "2026-10-24T19:43:44.374Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -86,6 +86,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2114068982663659820",
+          "text": "With the clocks turning back next Sunday morning, sunrise will go back to being earlier... https://t.co/FQiF4NDLF0",
+          "created_at": "2026-10-24T18:58:17.000Z",
+          "url": "https://x.com/i/status/2114068982663659820",
+          "media_url": "https://pbs.twimg.com/media/HVagWM3WsAAXTn8.jpg"
+        },
+        {
           "id": "2114033249475326447",
           "text": "Coastal flooding is about to peak along the Southeast coast, where water could run 2-3 feet above normal high tide through Monday...\n\nStrong northeast winds are piling water onto the coast right as the highest tides of the year arrive with this weekend’s full moon. The worst https://t.co/9tfWcXaoR0",
           "created_at": "2026-10-24T16:36:18.000Z",
@@ -112,13 +119,6 @@
           "created_at": "2026-10-23T22:56:19.000Z",
           "url": "https://x.com/i/status/2113766495272493493",
           "media_url": "https://pbs.twimg.com/media/HVWbbIfXMAAxXJm.jpg"
-        },
-        {
-          "id": "2113750134668374237",
-          "text": "TORNADO WARNING for Dwyer, New Mexico!\n\nSeek shelter immediately if you are in this warning! https://t.co/eRemORhdnA",
-          "created_at": "2026-10-23T21:51:18.000Z",
-          "url": "https://x.com/i/status/2113750134668374237",
-          "media_url": "https://pbs.twimg.com/media/HVWMi6GWwAAZnnO.jpg"
         }
       ]
     },
