@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-24T04:42:50.593Z",
+  "updated_utc": "2026-10-24T13:44:52.783Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -45,6 +45,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2113965836272574803",
+          "text": "Monday's full moon brings the highest tides of the year, and a northeast wind that won't quit is piling more water on top. Charleston could see major flooding Monday through Wednesday mornings. https://t.co/ptBT0ykofG",
+          "created_at": "2026-10-24T12:08:25.000Z",
+          "url": "https://x.com/i/status/2113965836272574803",
+          "media_url": "https://pbs.twimg.com/media/HVZQuW0W0AAN5DU.jpg"
+        },
+        {
+          "id": "2113952513728684198",
+          "text": "The nicest weather in the USA today will be in and around San Jose, CA, Huntsville, AL, and Greensboro, NC. https://t.co/Ux3ch9Shvd",
+          "created_at": "2026-10-24T11:15:29.000Z",
+          "url": "https://x.com/i/status/2113952513728684198",
+          "media_url": "https://pbs.twimg.com/media/HVZEm65XwAAi2x7.jpg"
+        },
+        {
           "id": "2113590108070748570",
           "text": "The nicest weather in the USA today will be in and around Seattle, WA, Tucson, AZ, and Greensboro, NC. https://t.co/2KIhmCGEsE",
           "created_at": "2026-10-23T11:15:25.000Z",
@@ -64,20 +78,6 @@
           "created_at": "2026-10-22T17:29:15.000Z",
           "url": "https://x.com/i/status/2113321799601570260",
           "media_url": "https://pbs.twimg.com/media/HVQG-bZWgAANlxo.jpg"
-        },
-        {
-          "id": "2113265940238397488",
-          "text": "Arizona had 12 tornado warnings yesterday, the most in a day there since 2010.\n\nNow Phoenix, Flagstaff, Prescott and Show Low are under severe storm watches until 10 and 11 AM Arizona time, with hail up to 2 inches possible. https://t.co/AHyYKRCuPz",
-          "created_at": "2026-10-22T13:47:17.000Z",
-          "url": "https://x.com/i/status/2113265940238397488",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2113265911998156800/pu/img/Nt1F7V4YkB-9vExg.jpg"
-        },
-        {
-          "id": "2113254067535253919",
-          "text": "Trick-or-treat forecast, 9 days out: most of y'all won't need a jacket over the costume.\n\nTexas, Oklahoma and Kansas, keep an umbrella close. https://t.co/n8IidUpodI",
-          "created_at": "2026-10-22T13:00:06.000Z",
-          "url": "https://x.com/i/status/2113254067535253919",
-          "media_url": "https://pbs.twimg.com/media/HVPJYBsXUAAYUb-.jpg"
         }
       ]
     },
@@ -85,6 +85,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2113983169506553989",
+          "text": "Large hail and damaging winds are possible across southern New Mexico and far West Texas today, and a tornado can’t be ruled out... \n\nA storm system spinning over Arizona is sending a burst of energy northeast across the region today. With temperatures warming into the 80s, https://t.co/gACyIt1LDx",
+          "created_at": "2026-10-24T13:17:18.000Z",
+          "url": "https://x.com/i/status/2113983169506553989",
+          "media_url": "https://pbs.twimg.com/media/HVZgfORXkAEl5hO.jpg"
+        },
         {
           "id": "2113766495272493493",
           "text": "Eleven years ago today, we witnessed Hurricane Patricia become the strongest tropical cyclone ever observed in the Western Hemisphere... https://t.co/17t7KxKlQL",
@@ -112,13 +119,6 @@
           "created_at": "2026-10-23T16:42:25.000Z",
           "url": "https://x.com/i/status/2113672401305084288",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2113671876807397376/pu/img/g176XBDIAB3o2Ne4.jpg"
-        },
-        {
-          "id": "2113632608277905869",
-          "text": "A brief tornado cannot be ruled out today in central and southern New Mexico, including Albuquerque and Las Cruces... https://t.co/ErqJDxisaW",
-          "created_at": "2026-10-23T14:04:17.000Z",
-          "url": "https://x.com/i/status/2113632608277905869",
-          "media_url": "https://pbs.twimg.com/media/HVUT7AjW4AAcffN.jpg"
         }
       ]
     },
@@ -168,6 +168,24 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2113965064323534896",
+          "text": "There is a Slight Risk (level 2/5) of severe thunderstorms over parts of the Southwest/Southern Rockies on Saturday https://t.co/kPv4k077nv",
+          "created_at": "2026-10-24T12:05:21.000Z",
+          "url": "https://x.com/i/status/2113965064323534896"
+        },
+        {
+          "id": "2113965063002362131",
+          "text": "There is a Slight Risk (level 2/4) of excessive rainfall over parts of Southeastern Florida on Sunday https://t.co/kPv4k077nv",
+          "created_at": "2026-10-24T12:05:21.000Z",
+          "url": "https://x.com/i/status/2113965063002362131"
+        },
+        {
+          "id": "2113965061416820892",
+          "text": "There is a Slight Risk (level 2/4) of excessive rainfall over parts of the Central/Southern High Plains and Central/Southern Rockies on Saturday and Sunday https://t.co/kPv4k077nv",
+          "created_at": "2026-10-24T12:05:20.000Z",
+          "url": "https://x.com/i/status/2113965061416820892"
+        },
+        {
           "id": "2113794683281223705",
           "text": "#WPC_MD 1519 affecting Far Southern CO...Much of NM and Far Western TX, #nmwx #txwx #cowx, https://t.co/Zf5QykQqEw https://t.co/IWzQV6WmnS",
           "created_at": "2026-10-24T00:48:19.000Z",
@@ -180,27 +198,6 @@
           "created_at": "2026-10-24T00:00:00.000Z",
           "url": "https://x.com/i/status/2113782522710794396",
           "media_url": "https://pbs.twimg.com/media/HVUvozIWQAAWHXR.jpg"
-        },
-        {
-          "id": "2113716446924513343",
-          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/dv8dxGmNuN",
-          "created_at": "2026-10-23T19:37:26.000Z",
-          "url": "https://x.com/i/status/2113716446924513343",
-          "media_url": "https://pbs.twimg.com/media/HVVt6BCWsAAI6Ds.jpg"
-        },
-        {
-          "id": "2113716207060750488",
-          "text": "#WPC_MD 1518 affecting much of New Mexico, southern Colorado, and far west Texas, #nmwx #cowx #txwx, https://t.co/RPIu7neHpm https://t.co/sSPxuv7KIc",
-          "created_at": "2026-10-23T19:36:29.000Z",
-          "url": "https://x.com/i/status/2113716207060750488",
-          "media_url": "https://pbs.twimg.com/media/HVVtsLfXgAAp2TA.jpg"
-        },
-        {
-          "id": "2113684376433402251",
-          "text": "Snow or ice totals don't tell the whole story. The Winter Storm Severity Index (WSSI) shifts focus from how much falls to how much it disrupts daily life, factoring in weather, societal and infrastructure data. Check the WSSI forecast before hitting the road this winter! https://t.co/a5LLiXHY29",
-          "created_at": "2026-10-23T17:30:00.000Z",
-          "url": "https://x.com/i/status/2113684376433402251",
-          "media_url": "https://pbs.twimg.com/media/HVUvUlGWsAANhxF.png"
         }
       ]
     }
