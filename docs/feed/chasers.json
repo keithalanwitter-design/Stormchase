@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-24T13:44:52.783Z",
+  "updated_utc": "2026-10-24T16:41:39.395Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -86,6 +86,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2114033249475326447",
+          "text": "Coastal flooding is about to peak along the Southeast coast, where water could run 2-3 feet above normal high tide through Monday...\n\nStrong northeast winds are piling water onto the coast right as the highest tides of the year arrive with this weekend’s full moon. The worst https://t.co/9tfWcXaoR0",
+          "created_at": "2026-10-24T16:36:18.000Z",
+          "url": "https://x.com/i/status/2114033249475326447",
+          "media_url": "https://pbs.twimg.com/media/HVaOCT_WcAAzlbz.jpg"
+        },
+        {
+          "id": "2114003549252145399",
+          "text": "A brief tornado can’t be ruled out across New Mexico and far West Texas this afternoon, mainly if storms stay separate... https://t.co/wrnOUKhhom",
+          "created_at": "2026-10-24T14:38:17.000Z",
+          "url": "https://x.com/i/status/2114003549252145399",
+          "media_url": "https://pbs.twimg.com/media/HVZlS9aW4AA9V5L.jpg"
+        },
+        {
           "id": "2113983169506553989",
           "text": "Large hail and damaging winds are possible across southern New Mexico and far West Texas today, and a tornado can’t be ruled out... \n\nA storm system spinning over Arizona is sending a burst of energy northeast across the region today. With temperatures warming into the 80s, https://t.co/gACyIt1LDx",
           "created_at": "2026-10-24T13:17:18.000Z",
@@ -105,20 +119,6 @@
           "created_at": "2026-10-23T21:51:18.000Z",
           "url": "https://x.com/i/status/2113750134668374237",
           "media_url": "https://pbs.twimg.com/media/HVWMi6GWwAAZnnO.jpg"
-        },
-        {
-          "id": "2113703841841475722",
-          "text": "For the first time in history, a SNOWSHAFT has seen its first snowfall!\n\nGet the cutest way to measure snowfall this winter here: https://t.co/R4xCw2QWts\n\n📷Hayden C., Calgary, Canada https://t.co/MIGNPCn3AU",
-          "created_at": "2026-10-23T18:47:21.000Z",
-          "url": "https://x.com/i/status/2113703841841475722",
-          "media_url": "https://pbs.twimg.com/media/HVVicB8W0AAJNCV.jpg"
-        },
-        {
-          "id": "2113672401305084288",
-          "text": "Over 200 severe warnings were issued throughout the last 2 days in New Mexico and Arizona alone... 😳 https://t.co/N8q1CUcstS",
-          "created_at": "2026-10-23T16:42:25.000Z",
-          "url": "https://x.com/i/status/2113672401305084288",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2113671876807397376/pu/img/g176XBDIAB3o2Ne4.jpg"
         }
       ]
     },
@@ -168,6 +168,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2113999888069325072",
+          "text": "#WPC_MD 1520 affecting portions of New Mexico/Colorado, #cowx #nmwx, https://t.co/9YGpq9PeUT https://t.co/G721wzc3jQ",
+          "created_at": "2026-10-24T14:23:44.000Z",
+          "url": "https://x.com/i/status/2113999888069325072",
+          "media_url": "https://pbs.twimg.com/media/HVZvsl2XwAAtff5.jpg"
+        },
+        {
           "id": "2113965064323534896",
           "text": "There is a Slight Risk (level 2/5) of severe thunderstorms over parts of the Southwest/Southern Rockies on Saturday https://t.co/kPv4k077nv",
           "created_at": "2026-10-24T12:05:21.000Z",
@@ -191,13 +198,6 @@
           "created_at": "2026-10-24T00:48:19.000Z",
           "url": "https://x.com/i/status/2113794683281223705",
           "media_url": "https://pbs.twimg.com/media/HVW1EF-W4AA4mzo.jpg"
-        },
-        {
-          "id": "2113782522710794396",
-          "text": "Projected snow or ice amounts can’t tell the whole story. The Winter Storm Severity Index shows how the winter weather will actually impact your area. The probabilistic version goes even further, showing best and worst case scenarios and the likelihood of each impact level. ❄️🧊 https://t.co/ycY6cLYOoO",
-          "created_at": "2026-10-24T00:00:00.000Z",
-          "url": "https://x.com/i/status/2113782522710794396",
-          "media_url": "https://pbs.twimg.com/media/HVUvozIWQAAWHXR.jpg"
         }
       ]
     }
