@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-24T19:43:44.374Z",
+  "updated_utc": "2026-10-24T22:47:21.309Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -86,6 +86,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2114118798085108128",
+          "text": "WOW! I am here in St. Augustine, Florida, and Kings Tide could cause flooding in the city over the next few days!\n\nSeas are rough, and winds are gusting up to 40 MPH right now. https://t.co/BCjifnB3Cs",
+          "created_at": "2026-10-24T22:16:14.000Z",
+          "url": "https://x.com/i/status/2114118798085108128",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2114118772655104001/pu/img/4w1WABKIRs_yt1_X.jpg"
+        },
+        {
+          "id": "2114104214955639211",
+          "text": "El Niño is about to bring some serious drought relief to the South...\n\nA wetter-than-normal winter should help end the drought across the Southeast and improve things from Texas to the Southwest by the end of January. The northern Rockies aren’t so lucky, though: drought is https://t.co/Mc5WD1T7eP",
+          "created_at": "2026-10-24T21:18:17.000Z",
+          "url": "https://x.com/i/status/2114104214955639211",
+          "media_url": "https://pbs.twimg.com/media/HVbAZGHWQAEoDiA.jpg"
+        },
+        {
           "id": "2114068982663659820",
           "text": "With the clocks turning back next Sunday morning, sunrise will go back to being earlier... https://t.co/FQiF4NDLF0",
           "created_at": "2026-10-24T18:58:17.000Z",
@@ -105,20 +119,6 @@
           "created_at": "2026-10-24T14:38:17.000Z",
           "url": "https://x.com/i/status/2114003549252145399",
           "media_url": "https://pbs.twimg.com/media/HVZlS9aW4AA9V5L.jpg"
-        },
-        {
-          "id": "2113983169506553989",
-          "text": "Large hail and damaging winds are possible across southern New Mexico and far West Texas today, and a tornado can’t be ruled out... \n\nA storm system spinning over Arizona is sending a burst of energy northeast across the region today. With temperatures warming into the 80s, https://t.co/gACyIt1LDx",
-          "created_at": "2026-10-24T13:17:18.000Z",
-          "url": "https://x.com/i/status/2113983169506553989",
-          "media_url": "https://pbs.twimg.com/media/HVZgfORXkAEl5hO.jpg"
-        },
-        {
-          "id": "2113766495272493493",
-          "text": "Eleven years ago today, we witnessed Hurricane Patricia become the strongest tropical cyclone ever observed in the Western Hemisphere... https://t.co/17t7KxKlQL",
-          "created_at": "2026-10-23T22:56:19.000Z",
-          "url": "https://x.com/i/status/2113766495272493493",
-          "media_url": "https://pbs.twimg.com/media/HVWbbIfXMAAxXJm.jpg"
         }
       ]
     },
@@ -168,6 +168,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2114092457168126039",
+          "text": "#WPC_MD 1521 affecting portions of New Mexico, southern Colorado, and far west Texas, #cowx #nmwx #txwx, https://t.co/GDqYlCtRQ2 https://t.co/JoBeFaZXoV",
+          "created_at": "2026-10-24T20:31:34.000Z",
+          "url": "https://x.com/i/status/2114092457168126039",
+          "media_url": "https://pbs.twimg.com/media/HVbD4zrW4AAt1nB.jpg"
+        },
+        {
           "id": "2113999888069325072",
           "text": "#WPC_MD 1520 affecting portions of New Mexico/Colorado, #cowx #nmwx, https://t.co/9YGpq9PeUT https://t.co/G721wzc3jQ",
           "created_at": "2026-10-24T14:23:44.000Z",
@@ -191,13 +198,6 @@
           "text": "There is a Slight Risk (level 2/4) of excessive rainfall over parts of the Central/Southern High Plains and Central/Southern Rockies on Saturday and Sunday https://t.co/kPv4k077nv",
           "created_at": "2026-10-24T12:05:20.000Z",
           "url": "https://x.com/i/status/2113965061416820892"
-        },
-        {
-          "id": "2113794683281223705",
-          "text": "#WPC_MD 1519 affecting Far Southern CO...Much of NM and Far Western TX, #nmwx #txwx #cowx, https://t.co/Zf5QykQqEw https://t.co/IWzQV6WmnS",
-          "created_at": "2026-10-24T00:48:19.000Z",
-          "url": "https://x.com/i/status/2113794683281223705",
-          "media_url": "https://pbs.twimg.com/media/HVW1EF-W4AA4mzo.jpg"
         }
       ]
     }
