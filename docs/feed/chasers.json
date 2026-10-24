@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-24T01:45:42.067Z",
+  "updated_utc": "2026-10-24T04:42:50.593Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2113816772478713998",
+          "text": "Crazy sheets of lightning over the Land of Enchantment https://t.co/pV24XHvp22",
+          "created_at": "2026-10-24T02:16:06.000Z",
+          "url": "https://x.com/i/status/2113816772478713998",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113816699632066560/img/I-TrP69M1y69OQF2.jpg"
+        },
         {
           "id": "2113789171122987011",
           "text": "WAIT FOR IT!\n\nGolden shaft of rain and incredible lightning with supercell neat Belen, New Mexico!\n\nNever stop chasing https://t.co/GikpXEPkPn",
@@ -30,13 +37,6 @@
           "text": "Happy birthday to veteran storm chaser Corey Gerken https://t.co/Ueo9bTLxcz",
           "created_at": "2026-10-23T19:07:15.000Z",
           "url": "https://x.com/i/status/2113708852810301595"
-        },
-        {
-          "id": "2113704944234897432",
-          "text": "UPDATE from the Overgaard, AZ tornado damage path - tornado has been rated EF2. Radar suggested it could have been EF3 strength which would be the strongest ever in Arizona. Spoke to a resident whose home was destroyed and they had no warning. Just bang and home destroyed. https://t.co/1cQV07JYEl",
-          "created_at": "2026-10-23T18:51:44.000Z",
-          "url": "https://x.com/i/status/2113704944234897432",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113704219400384512/img/r62YGqzPo5rJYFZy.jpg"
         }
       ]
     },
