@@ -1,10 +1,24 @@
 {
-  "updated_utc": "2026-10-24T22:47:21.309Z",
+  "updated_utc": "2026-10-25T01:42:16.236Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2114166289493299323",
+          "text": "Flash flooding has closed I-40 west of Laguna, New Mexico after all-day fire hose https://t.co/HJh0sITPb3",
+          "created_at": "2026-10-25T01:24:57.000Z",
+          "url": "https://x.com/i/status/2114166289493299323",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114165940883767296/img/oHsJ4G2ZtCgDXLrX.jpg"
+        },
+        {
+          "id": "2114148435918254540",
+          "text": "Life-threatening flash flood and debris flow with HUGE LOG intercepted in Encinal, New Mexico after 4-5 inches of new rainfall. The flash flood smells like it has a wildfire burn scar origin. More heavy rain moving in! https://t.co/yq8oDXmGTr",
+          "created_at": "2026-10-25T00:14:00.000Z",
+          "url": "https://x.com/i/status/2114148435918254540",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114146552038174720/img/lB0XZ8mtGXumEw_6.jpg"
+        },
         {
           "id": "2113816772478713998",
           "text": "Crazy sheets of lightning over the Land of Enchantment https://t.co/pV24XHvp22",
@@ -25,18 +39,6 @@
           "created_at": "2026-10-23T23:40:58.000Z",
           "url": "https://x.com/i/status/2113777732714962956",
           "media_url": "https://pbs.twimg.com/media/HVWlpIfbwAA6Tm_.jpg"
-        },
-        {
-          "id": "2113716148357455896",
-          "text": "This tornado happened at an elevation of 6600 feet",
-          "created_at": "2026-10-23T19:36:15.000Z",
-          "url": "https://x.com/i/status/2113716148357455896"
-        },
-        {
-          "id": "2113708852810301595",
-          "text": "Happy birthday to veteran storm chaser Corey Gerken https://t.co/Ueo9bTLxcz",
-          "created_at": "2026-10-23T19:07:15.000Z",
-          "url": "https://x.com/i/status/2113708852810301595"
         }
       ]
     },
