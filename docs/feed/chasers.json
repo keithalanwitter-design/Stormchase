@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-25T19:41:29.154Z",
+  "updated_utc": "2026-10-25T22:49:55.992Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2114488200240767003",
+          "text": "Chasing a mothership https://t.co/nhol81WdWt",
+          "created_at": "2026-10-25T22:44:06.000Z",
+          "url": "https://x.com/i/status/2114488200240767003",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114488137321988096/img/zKU-fcwjwNXifSia.jpg"
+        },
         {
           "id": "2114209287069376950",
           "text": "This flash flood was the seed that closed I-40 today west of Laguna, New Mexico\n\nDo not attempt - I am a trained professional https://t.co/Fc6QSZP28O",
@@ -25,20 +32,6 @@
           "created_at": "2026-10-25T01:24:57.000Z",
           "url": "https://x.com/i/status/2114166289493299323",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114165940883767296/img/oHsJ4G2ZtCgDXLrX.jpg"
-        },
-        {
-          "id": "2114148435918254540",
-          "text": "Life-threatening flash flood and debris flow with HUGE LOG intercepted in Encinal, New Mexico after 4-5 inches of new rainfall. The flash flood smells like it has a wildfire burn scar origin. More heavy rain moving in! https://t.co/yq8oDXmGTr",
-          "created_at": "2026-10-25T00:14:00.000Z",
-          "url": "https://x.com/i/status/2114148435918254540",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114146552038174720/img/lB0XZ8mtGXumEw_6.jpg"
-        },
-        {
-          "id": "2113816772478713998",
-          "text": "Crazy sheets of lightning over the Land of Enchantment https://t.co/pV24XHvp22",
-          "created_at": "2026-10-24T02:16:06.000Z",
-          "url": "https://x.com/i/status/2113816772478713998",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113816699632066560/img/I-TrP69M1y69OQF2.jpg"
         }
       ]
     },
@@ -169,6 +162,20 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2114446844252082591",
+          "text": "#WPC_MD 1523 affecting portions of New Mexico and far west Texas, #txwx #nmwx, https://t.co/KN3u6tyua3 https://t.co/WFA9ELcFty",
+          "created_at": "2026-10-25T19:59:46.000Z",
+          "url": "https://x.com/i/status/2114446844252082591",
+          "media_url": "https://pbs.twimg.com/media/HVgGM3GWEAA83w8.jpg"
+        },
+        {
+          "id": "2114442856811110625",
+          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/tsxcqmesoI",
+          "created_at": "2026-10-25T19:43:56.000Z",
+          "url": "https://x.com/i/status/2114442856811110625",
+          "media_url": "https://pbs.twimg.com/media/HVgCkp8XYAA4p8q.jpg"
+        },
+        {
           "id": "2114407078630416555",
           "text": "A Slight Risk of excessive rainfall is in effect today for parts of the Central/Southern High Plains and SE Florida. Heavy downpours may lead to scattered flash flooding, especially across saturated soils in the High Plains and urban areas along FL's east coast. https://t.co/5HsvFFLW00",
           "created_at": "2026-10-25T17:21:45.000Z",
@@ -187,20 +194,6 @@
           "created_at": "2026-10-25T02:26:22.000Z",
           "url": "https://x.com/i/status/2114181744098193685",
           "media_url": "https://pbs.twimg.com/media/HVcVGAmXQAA7z2a.jpg"
-        },
-        {
-          "id": "2114092457168126039",
-          "text": "#WPC_MD 1521 affecting portions of New Mexico, southern Colorado, and far west Texas, #cowx #nmwx #txwx, https://t.co/GDqYlCtRQ2 https://t.co/JoBeFaZXoV",
-          "created_at": "2026-10-24T20:31:34.000Z",
-          "url": "https://x.com/i/status/2114092457168126039",
-          "media_url": "https://pbs.twimg.com/media/HVbD4zrW4AAt1nB.jpg"
-        },
-        {
-          "id": "2113999888069325072",
-          "text": "#WPC_MD 1520 affecting portions of New Mexico/Colorado, #cowx #nmwx, https://t.co/9YGpq9PeUT https://t.co/G721wzc3jQ",
-          "created_at": "2026-10-24T14:23:44.000Z",
-          "url": "https://x.com/i/status/2113999888069325072",
-          "media_url": "https://pbs.twimg.com/media/HVZvsl2XwAAtff5.jpg"
         }
       ]
     }
