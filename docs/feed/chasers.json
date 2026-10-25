@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-25T04:47:51.490Z",
+  "updated_utc": "2026-10-25T13:47:25.127Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2114315049741234385",
+          "text": "The nicest weather in the USA today will be in and around Los Angeles, CA, Tucson, AZ, and Greensboro, NC. https://t.co/3osJBIgxn1",
+          "created_at": "2026-10-25T11:16:04.000Z",
+          "url": "https://x.com/i/status/2114315049741234385",
+          "media_url": "https://pbs.twimg.com/media/HVeOVROXcAA-QId.jpg"
+        },
+        {
           "id": "2113965836272574803",
           "text": "Monday's full moon brings the highest tides of the year, and a northeast wind that won't quit is piling more water on top. Charleston could see major flooding Monday through Wednesday mornings. https://t.co/ptBT0ykofG",
           "created_at": "2026-10-24T12:08:25.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-10-22T19:13:40.000Z",
           "url": "https://x.com/i/status/2113348075808817294",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2113348031680540672/pu/img/vl_Vsd5LoXTnf_dK.jpg"
-        },
-        {
-          "id": "2113321799601570260",
-          "text": "Arizona went 16 years without a tornado watch. Now it has had two in two days.\n\nThis one covers Flagstaff, Show Low, Safford and Sierra Vista until 8 PM Arizona time, and Gallup, Farmington and Silver City in New Mexico until 9 PM there. https://t.co/T5EfVgV7Bb",
-          "created_at": "2026-10-22T17:29:15.000Z",
-          "url": "https://x.com/i/status/2113321799601570260",
-          "media_url": "https://pbs.twimg.com/media/HVQG-bZWgAANlxo.jpg"
         }
       ]
     },
@@ -87,6 +87,12 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2114341025019789713",
+          "text": "the eagles injury report has more going on than the weather this week",
+          "created_at": "2026-10-25T12:59:17.000Z",
+          "url": "https://x.com/i/status/2114341025019789713"
+        },
         {
           "id": "2114118798085108128",
           "text": "WOW! I am here in St. Augustine, Florida, and Kings Tide could cause flooding in the city over the next few days!\n\nSeas are rough, and winds are gusting up to 40 MPH right now. https://t.co/BCjifnB3Cs",
@@ -114,13 +120,6 @@
           "created_at": "2026-10-24T16:36:18.000Z",
           "url": "https://x.com/i/status/2114033249475326447",
           "media_url": "https://pbs.twimg.com/media/HVaOCT_WcAAzlbz.jpg"
-        },
-        {
-          "id": "2114003549252145399",
-          "text": "A brief tornado can’t be ruled out across New Mexico and far West Texas this afternoon, mainly if storms stay separate... https://t.co/wrnOUKhhom",
-          "created_at": "2026-10-24T14:38:17.000Z",
-          "url": "https://x.com/i/status/2114003549252145399",
-          "media_url": "https://pbs.twimg.com/media/HVZlS9aW4AA9V5L.jpg"
         }
       ]
     },
