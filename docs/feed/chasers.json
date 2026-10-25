@@ -1,10 +1,24 @@
 {
-  "updated_utc": "2026-10-25T01:42:16.236Z",
+  "updated_utc": "2026-10-25T04:47:51.490Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2114209287069376950",
+          "text": "This flash flood was the seed that closed I-40 today west of Laguna, New Mexico\n\nDo not attempt - I am a trained professional https://t.co/Fc6QSZP28O",
+          "created_at": "2026-10-25T04:15:48.000Z",
+          "url": "https://x.com/i/status/2114209287069376950",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114208425949245441/img/6n04rMSitp5aYLu_.jpg"
+        },
+        {
+          "id": "2114179629863084042",
+          "text": "Rare intercept of the base of a rainbow! https://t.co/cI38XYWoAC",
+          "created_at": "2026-10-25T02:17:57.000Z",
+          "url": "https://x.com/i/status/2114179629863084042",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114179565690200064/img/buPKPbnhPCiGc-Pa.jpg"
+        },
         {
           "id": "2114166289493299323",
           "text": "Flash flooding has closed I-40 west of Laguna, New Mexico after all-day fire hose https://t.co/HJh0sITPb3",
@@ -25,20 +39,6 @@
           "created_at": "2026-10-24T02:16:06.000Z",
           "url": "https://x.com/i/status/2113816772478713998",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113816699632066560/img/I-TrP69M1y69OQF2.jpg"
-        },
-        {
-          "id": "2113789171122987011",
-          "text": "WAIT FOR IT!\n\nGolden shaft of rain and incredible lightning with supercell neat Belen, New Mexico!\n\nNever stop chasing https://t.co/GikpXEPkPn",
-          "created_at": "2026-10-24T00:26:25.000Z",
-          "url": "https://x.com/i/status/2113789171122987011",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2113789111056367616/img/tNI_aHzKQbqrIwPk.jpg"
-        },
-        {
-          "id": "2113777732714962956",
-          "text": "TORNADO WARNING NOW just southeast of Truth or Consequences, New Mexico! We are targeting this damgerous supercell storm https://t.co/b9wbUqW4xg",
-          "created_at": "2026-10-23T23:40:58.000Z",
-          "url": "https://x.com/i/status/2113777732714962956",
-          "media_url": "https://pbs.twimg.com/media/HVWlpIfbwAA6Tm_.jpg"
         }
       ]
     },
@@ -170,6 +170,19 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2114186517065138242",
+          "text": "National High/Low temps for Saturday October 24, 2026: 92 at 2 miles north-northeast of La Puerta, TX; 5 at 13 miles north of White Sulphur Springs, MT #txwx #mtwx https://t.co/S9hf8kW1HI",
+          "created_at": "2026-10-25T02:45:20.000Z",
+          "url": "https://x.com/i/status/2114186517065138242"
+        },
+        {
+          "id": "2114181744098193685",
+          "text": "#WPC_MD 1522 affecting Much of NM...Far Western TX, #nmwx #txwx #cowx, https://t.co/PFo42NA3FL https://t.co/gLzPOd3PdJ",
+          "created_at": "2026-10-25T02:26:22.000Z",
+          "url": "https://x.com/i/status/2114181744098193685",
+          "media_url": "https://pbs.twimg.com/media/HVcVGAmXQAA7z2a.jpg"
+        },
+        {
           "id": "2114092457168126039",
           "text": "#WPC_MD 1521 affecting portions of New Mexico, southern Colorado, and far west Texas, #cowx #nmwx #txwx, https://t.co/GDqYlCtRQ2 https://t.co/JoBeFaZXoV",
           "created_at": "2026-10-24T20:31:34.000Z",
@@ -188,18 +201,6 @@
           "text": "There is a Slight Risk (level 2/5) of severe thunderstorms over parts of the Southwest/Southern Rockies on Saturday https://t.co/kPv4k077nv",
           "created_at": "2026-10-24T12:05:21.000Z",
           "url": "https://x.com/i/status/2113965064323534896"
-        },
-        {
-          "id": "2113965063002362131",
-          "text": "There is a Slight Risk (level 2/4) of excessive rainfall over parts of Southeastern Florida on Sunday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-24T12:05:21.000Z",
-          "url": "https://x.com/i/status/2113965063002362131"
-        },
-        {
-          "id": "2113965061416820892",
-          "text": "There is a Slight Risk (level 2/4) of excessive rainfall over parts of the Central/Southern High Plains and Central/Southern Rockies on Saturday and Sunday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-24T12:05:20.000Z",
-          "url": "https://x.com/i/status/2113965061416820892"
         }
       ]
     }
