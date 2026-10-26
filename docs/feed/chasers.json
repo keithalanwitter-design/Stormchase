@@ -1,37 +1,37 @@
 {
-  "updated_utc": "2026-10-26T01:41:35.760Z",
+  "updated_utc": "2026-10-26T04:42:12.789Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
         {
+          "id": "2114567449651896679",
+          "text": "BIG PROBLEMS in Roswell, New Mexico with slow-moving supercell with #tormado possible tag and flash flood warning!\n\nA flood wave is likely heading toward Hagerman area. \n\n#stormchasing https://t.co/OeXRjsOvmA",
+          "created_at": "2026-10-26T03:59:01.000Z",
+          "url": "https://x.com/i/status/2114567449651896679",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114567129026736128/img/yoEcDpix0awnepRd.jpg"
+        },
+        {
+          "id": "2114556175509537113",
+          "text": "Intercepted this close range lightning strike near Roswell, New Mexico https://t.co/jigv3RjYB8",
+          "created_at": "2026-10-26T03:14:13.000Z",
+          "url": "https://x.com/i/status/2114556175509537113",
+          "media_url": "https://pbs.twimg.com/media/HVhpoicb0AAqg_t.jpg"
+        },
+        {
+          "id": "2114554741397274928",
+          "text": "Supercell with #tornado possible tag and flash flood potential moving in to Roswell, New Mexico https://t.co/O80A6Uniwm",
+          "created_at": "2026-10-26T03:08:31.000Z",
+          "url": "https://x.com/i/status/2114554741397274928",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114554654755606528/img/GZGfPusfpq3-HScG.jpg"
+        },
+        {
           "id": "2114488200240767003",
           "text": "Chasing a mothership https://t.co/nhol81WdWt",
           "created_at": "2026-10-25T22:44:06.000Z",
           "url": "https://x.com/i/status/2114488200240767003",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114488137321988096/img/zKU-fcwjwNXifSia.jpg"
-        },
-        {
-          "id": "2114209287069376950",
-          "text": "This flash flood was the seed that closed I-40 today west of Laguna, New Mexico\n\nDo not attempt - I am a trained professional https://t.co/Fc6QSZP28O",
-          "created_at": "2026-10-25T04:15:48.000Z",
-          "url": "https://x.com/i/status/2114209287069376950",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114208425949245441/img/6n04rMSitp5aYLu_.jpg"
-        },
-        {
-          "id": "2114179629863084042",
-          "text": "Rare intercept of the base of a rainbow! https://t.co/cI38XYWoAC",
-          "created_at": "2026-10-25T02:17:57.000Z",
-          "url": "https://x.com/i/status/2114179629863084042",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114179565690200064/img/buPKPbnhPCiGc-Pa.jpg"
-        },
-        {
-          "id": "2114166289493299323",
-          "text": "Flash flooding has closed I-40 west of Laguna, New Mexico after all-day fire hose https://t.co/HJh0sITPb3",
-          "created_at": "2026-10-25T01:24:57.000Z",
-          "url": "https://x.com/i/status/2114166289493299323",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114165940883767296/img/oHsJ4G2ZtCgDXLrX.jpg"
         }
       ]
     },
@@ -121,6 +121,13 @@
       "name": "StormNet",
       "posts": [
         {
+          "id": "2114538985619886241",
+          "text": "A long-range threat of tornadoes and severe storms has been detected for Monday, November 2nd, 2026. \n\nThis forecast initialized on Sunday afternoon (10/25). Follow this page and see the app for future forecast updates. https://t.co/ewfAw7MZ2M",
+          "created_at": "2026-10-26T02:05:55.000Z",
+          "url": "https://x.com/i/status/2114538985619886241",
+          "media_url": "https://pbs.twimg.com/media/HVhZ1C1WIAAg6es.jpg"
+        },
+        {
           "id": "2113122203008954629",
           "text": "Large tornado earlier near Overgaard, Arizona, as seen from the StormNet app. 🌪️ #azwx https://t.co/al3LwTrsuv",
           "created_at": "2026-10-22T04:16:07.000Z",
@@ -147,13 +154,6 @@
           "created_at": "2026-10-08T14:49:25.000Z",
           "url": "https://x.com/i/status/2108208146900545810",
           "media_url": "https://pbs.twimg.com/media/HUHcItNXYAAD7Vg.jpg"
-        },
-        {
-          "id": "2108053276545446358",
-          "text": "Elevated threat of tornadoes detected for Sunday, October 11th, 2026.  \n\nSee attached map for details.  \n\nThis forecast initialized on Wednesday afternoon. Follow for future forecast updates. https://t.co/yygwgzVlJf",
-          "created_at": "2026-10-08T04:34:01.000Z",
-          "url": "https://x.com/i/status/2108053276545446358",
-          "media_url": "https://pbs.twimg.com/media/HUFPMEeW8AA8vsP.jpg"
         }
       ]
     },
@@ -161,6 +161,19 @@
       "handle": "NWSWPC",
       "name": "NWS Weather Prediction Center",
       "posts": [
+        {
+          "id": "2114548909280280880",
+          "text": "National High/Low temps for Sunday October 25, 2026: 89 at 2 miles north of Ingleside, TX; 12 at 13 miles north of White Sulphur Springs, MT #txwx #mtwx https://t.co/0HtOoYkkSR",
+          "created_at": "2026-10-26T02:45:21.000Z",
+          "url": "https://x.com/i/status/2114548909280280880"
+        },
+        {
+          "id": "2114541530643902822",
+          "text": "#WPC_MD 1524 affecting Central and Eastern NM...Western TX and TX Panhandle, #txwx #okwx #nmwx, https://t.co/iIEPOas3Fh https://t.co/bxpy5cXcBv",
+          "created_at": "2026-10-26T02:16:01.000Z",
+          "url": "https://x.com/i/status/2114541530643902822",
+          "media_url": "https://pbs.twimg.com/media/HVhcUVeXMAAzyh-.jpg"
+        },
         {
           "id": "2114446844252082591",
           "text": "#WPC_MD 1523 affecting portions of New Mexico and far west Texas, #txwx #nmwx, https://t.co/KN3u6tyua3 https://t.co/WFA9ELcFty",
@@ -181,19 +194,6 @@
           "created_at": "2026-10-25T17:21:45.000Z",
           "url": "https://x.com/i/status/2114407078630416555",
           "media_url": "https://pbs.twimg.com/media/HVfh9tDWYAA_vbT.jpg"
-        },
-        {
-          "id": "2114186517065138242",
-          "text": "National High/Low temps for Saturday October 24, 2026: 92 at 2 miles north-northeast of La Puerta, TX; 5 at 13 miles north of White Sulphur Springs, MT #txwx #mtwx https://t.co/S9hf8kW1HI",
-          "created_at": "2026-10-25T02:45:20.000Z",
-          "url": "https://x.com/i/status/2114186517065138242"
-        },
-        {
-          "id": "2114181744098193685",
-          "text": "#WPC_MD 1522 affecting Much of NM...Far Western TX, #nmwx #txwx #cowx, https://t.co/PFo42NA3FL https://t.co/gLzPOd3PdJ",
-          "created_at": "2026-10-25T02:26:22.000Z",
-          "url": "https://x.com/i/status/2114181744098193685",
-          "media_url": "https://pbs.twimg.com/media/HVcVGAmXQAA7z2a.jpg"
         }
       ]
     }
