@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-26T13:48:07.746Z",
+  "updated_utc": "2026-10-26T16:50:28.717Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -36,6 +36,12 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2114735056077930687",
+          "text": "Every winter in America has a twin somewhere else on Earth. Chicago's is Norway, Nashville's is Scotland, and Dallas gets the south of France. https://t.co/vcSczDyjLX",
+          "created_at": "2026-10-26T15:05:01.000Z",
+          "url": "https://x.com/ryanhallyall/status/2114735056077930687"
+        },
+        {
           "id": "2114714769877823611",
           "text": "Last week this was a typhoon with its eye over Japan's southern islands. By Thursday, what's left of it hits western Alaska. https://t.co/m2BhiLbR0K",
           "created_at": "2026-10-26T13:44:25.000Z",
@@ -58,12 +64,6 @@
           "text": "Monday's full moon brings the highest tides of the year, and a northeast wind that won't quit is piling more water on top. Charleston could see major flooding Monday through Wednesday mornings. https://t.co/ptBT0ykofG",
           "created_at": "2026-10-24T12:08:25.000Z",
           "url": "https://x.com/ryanhallyall/status/2113965836272574803"
-        },
-        {
-          "id": "2113952513728684198",
-          "text": "The nicest weather in the USA today will be in and around San Jose, CA, Huntsville, AL, and Greensboro, NC. https://t.co/Ux3ch9Shvd",
-          "created_at": "2026-10-24T11:15:29.000Z",
-          "url": "https://x.com/ryanhallyall/status/2113952513728684198"
         }
       ]
     },
