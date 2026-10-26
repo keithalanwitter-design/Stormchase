@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-26T19:46:39.944Z",
+  "updated_utc": "2026-10-26T22:47:02.775Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -81,6 +81,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2114839332192195032",
+          "text": "Nebraska hasn't quite figured out which season it wants to be in... https://t.co/JDBsAWackl",
+          "created_at": "2026-10-26T21:59:23.000Z",
+          "url": "https://x.com/i/status/2114839332192195032",
+          "media_url": "https://pbs.twimg.com/media/HVlrKdOWYAAaGwW.jpg"
+        },
+        {
+          "id": "2114814197099864201",
+          "text": "Winter has arrived early in the Nebraska Panhandle 😂 https://t.co/nvo1PG4pWu",
+          "created_at": "2026-10-26T20:19:30.000Z",
+          "url": "https://x.com/i/status/2114814197099864201",
+          "media_url": "https://pbs.twimg.com/media/HVlUTWaXkAEs6V5.jpg"
+        },
+        {
           "id": "2114799841385615615",
           "text": "It was an honor to be a part of raising money for storm shelters across the country with the National Storm Chaser Summit!\n\nTornadoes can change lives in a matter of seconds, and having a safe place to take shelter can make all the difference.\n\nAt the end of the day, this is what https://t.co/t8lcj2Q6wt",
           "created_at": "2026-10-26T19:22:27.000Z",
@@ -99,20 +113,6 @@
           "created_at": "2026-10-26T17:02:24.000Z",
           "url": "https://x.com/i/status/2114764595273347075",
           "media_url": "https://pbs.twimg.com/media/HVknMNrWgAApbhF.jpg"
-        },
-        {
-          "id": "2114704951511253012",
-          "text": "the funny shapes are back again... https://t.co/PazAfazjfx",
-          "created_at": "2026-10-26T13:05:24.000Z",
-          "url": "https://x.com/i/status/2114704951511253012",
-          "media_url": "https://pbs.twimg.com/media/HVjw8WaXEAEv5UE.jpg"
-        },
-        {
-          "id": "2114512528537452715",
-          "text": "I’m on the way to a VERY special event tomorrow 🤠 https://t.co/fATB0npZi8",
-          "created_at": "2026-10-26T00:20:47.000Z",
-          "url": "https://x.com/i/status/2114512528537452715",
-          "media_url": "https://pbs.twimg.com/media/HVhB8F9XwAE7rIQ.jpg"
         }
       ]
     },
@@ -162,6 +162,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2114829070970003520",
+          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/iEgT2TjGMT",
+          "created_at": "2026-10-26T21:18:36.000Z",
+          "url": "https://x.com/i/status/2114829070970003520",
+          "media_url": "https://pbs.twimg.com/media/HVlh1O_XgAAOHYv.jpg"
+        },
+        {
           "id": "2114771540315423103",
           "text": "Is your home ready for severe winter weather? Winter storms can knock out power and leave you stranded for days. Take a few key steps now to ensure you and your family stay safe and build your home emergency kit. ❄️🥶 https://t.co/GpMylOzSj1",
           "created_at": "2026-10-26T17:30:00.000Z",
@@ -187,13 +194,6 @@
           "created_at": "2026-10-26T02:16:01.000Z",
           "url": "https://x.com/i/status/2114541530643902822",
           "media_url": "https://pbs.twimg.com/media/HVhcUVeXMAAzyh-.jpg"
-        },
-        {
-          "id": "2114446844252082591",
-          "text": "#WPC_MD 1523 affecting portions of New Mexico and far west Texas, #txwx #nmwx, https://t.co/KN3u6tyua3 https://t.co/WFA9ELcFty",
-          "created_at": "2026-10-25T19:59:46.000Z",
-          "url": "https://x.com/i/status/2114446844252082591",
-          "media_url": "https://pbs.twimg.com/media/HVgGM3GWEAA83w8.jpg"
         }
       ]
     }
