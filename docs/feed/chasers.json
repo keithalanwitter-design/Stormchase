@@ -1,10 +1,24 @@
 {
-  "updated_utc": "2026-10-26T22:47:02.775Z",
+  "updated_utc": "2026-10-27T01:43:56.321Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2114864375232442408",
+          "text": "This reminds me of the Wray, Colorado #tornado of May 7, 2016 but in Chile https://t.co/GVlOKLRwBy",
+          "created_at": "2026-10-26T23:38:53.000Z",
+          "url": "https://x.com/i/status/2114864375232442408",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114825678839324672/img/O-2_PMAbEQdZIEkf.jpg"
+        },
+        {
+          "id": "2114862626958434756",
+          "text": "Nice high-plains style dust buster tornado in Chile  https://t.co/pOljrCPMgO",
+          "created_at": "2026-10-26T23:31:57.000Z",
+          "url": "https://x.com/i/status/2114862626958434756",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114818946297638912/img/_WZyqcMeOuCweEA-.jpg"
+        },
         {
           "id": "2114567449651896679",
           "text": "BIG PROBLEMS in Roswell, New Mexico with slow-moving supercell with #tormado possible tag and flash flood warning!\n\nA flood wave is likely heading toward Hagerman area. \n\n#stormchasing https://t.co/OeXRjsOvmA",
@@ -25,13 +39,6 @@
           "created_at": "2026-10-26T03:08:31.000Z",
           "url": "https://x.com/i/status/2114554741397274928",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114554654755606528/img/GZGfPusfpq3-HScG.jpg"
-        },
-        {
-          "id": "2114488200240767003",
-          "text": "Chasing a mothership https://t.co/nhol81WdWt",
-          "created_at": "2026-10-25T22:44:06.000Z",
-          "url": "https://x.com/i/status/2114488200240767003",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114488137321988096/img/zKU-fcwjwNXifSia.jpg"
         }
       ]
     },
@@ -162,11 +169,18 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
-          "id": "2114829070970003520",
-          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/iEgT2TjGMT",
-          "created_at": "2026-10-26T21:18:36.000Z",
-          "url": "https://x.com/i/status/2114829070970003520",
-          "media_url": "https://pbs.twimg.com/media/HVlh1O_XgAAOHYv.jpg"
+          "id": "2114869911449149665",
+          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/JDDHUuax28",
+          "created_at": "2026-10-27T00:00:53.000Z",
+          "url": "https://x.com/i/status/2114869911449149665",
+          "media_url": "https://pbs.twimg.com/media/HVmG-dXXQAAAqu8.jpg"
+        },
+        {
+          "id": "2114869694226215087",
+          "text": "When severe winter weather strikes and the power goes out, staying warm and keeping the lights on can quickly introduce hidden hazards. Carbon monoxide (CO) is odorless and invisible, making prevention and proper equipment usage critical. https://t.co/vDzyuwYXsG",
+          "created_at": "2026-10-27T00:00:02.000Z",
+          "url": "https://x.com/i/status/2114869694226215087",
+          "media_url": "https://pbs.twimg.com/media/HVU7En7XsAEB6wI.jpg"
         },
         {
           "id": "2114771540315423103",
@@ -187,13 +201,6 @@
           "text": "National High/Low temps for Sunday October 25, 2026: 89 at 2 miles north of Ingleside, TX; 12 at 13 miles north of White Sulphur Springs, MT #txwx #mtwx https://t.co/0HtOoYkkSR",
           "created_at": "2026-10-26T02:45:21.000Z",
           "url": "https://x.com/i/status/2114548909280280880"
-        },
-        {
-          "id": "2114541530643902822",
-          "text": "#WPC_MD 1524 affecting Central and Eastern NM...Western TX and TX Panhandle, #txwx #okwx #nmwx, https://t.co/iIEPOas3Fh https://t.co/bxpy5cXcBv",
-          "created_at": "2026-10-26T02:16:01.000Z",
-          "url": "https://x.com/i/status/2114541530643902822",
-          "media_url": "https://pbs.twimg.com/media/HVhcUVeXMAAzyh-.jpg"
         }
       ]
     }
