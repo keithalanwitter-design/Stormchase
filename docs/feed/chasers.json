@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-27T19:43:39.122Z",
+  "updated_utc": "2026-10-27T22:46:40.100Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,26 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2115208857488138616",
+          "text": "With Super El Niño on the way, here's my OFFICIAL snowfall forecast for the 2026-2027 Winter! ❄️ ☃️ https://t.co/JnP6KmaQht",
+          "created_at": "2026-10-27T22:27:44.000Z",
+          "url": "https://x.com/i/status/2115208857488138616",
+          "media_url": "https://pbs.twimg.com/media/HVq7PywWQAAs3S9.jpg"
+        },
+        {
+          "id": "2115204153060233251",
+          "text": "HUGE update for WeatherFront! 🚀 https://t.co/gUXhP6Mh7A",
+          "created_at": "2026-10-27T22:09:03.000Z",
+          "url": "https://x.com/i/status/2115204153060233251"
+        },
+        {
+          "id": "2115172963100049434",
+          "text": "A brief tornado can’t be ruled out around Minneapolis and along the Minnesota/Wisconsin border tomorrow evening, mainly if the clouds break enough for the sun to heat things up... https://t.co/n8ly1youPB",
+          "created_at": "2026-10-27T20:05:07.000Z",
+          "url": "https://x.com/i/status/2115172963100049434",
+          "media_url": "https://pbs.twimg.com/media/HVqamXDXYAAJaMj.jpg"
+        },
+        {
           "id": "2115151674348032418",
           "text": "WINTER WONDERLAND in Nebraska, after snow fell yesterday across the western half of the state! 😍 ❄️ https://t.co/ojvuqV5WXp",
           "created_at": "2026-10-27T18:40:31.000Z",
@@ -100,27 +120,6 @@
           "created_at": "2026-10-27T15:57:04.000Z",
           "url": "https://x.com/i/status/2115110540225737183",
           "media_url": "https://pbs.twimg.com/media/HVph034WkAADyB-.jpg"
-        },
-        {
-          "id": "2115067506633150597",
-          "text": "Yesterday’s king tide pushed water levels in Southern California higher than anything measured in the last 100 YEARS... https://t.co/SoMKl41K4z",
-          "created_at": "2026-10-27T13:06:04.000Z",
-          "url": "https://x.com/i/status/2115067506633150597",
-          "media_url": "https://pbs.twimg.com/media/HVo6r5DWUAAhNrV.jpg"
-        },
-        {
-          "id": "2114839332192195032",
-          "text": "Nebraska hasn't quite figured out which season it wants to be in... https://t.co/JDBsAWackl",
-          "created_at": "2026-10-26T21:59:23.000Z",
-          "url": "https://x.com/i/status/2114839332192195032",
-          "media_url": "https://pbs.twimg.com/media/HVlrKdOWYAAaGwW.jpg"
-        },
-        {
-          "id": "2114814197099864201",
-          "text": "Winter has arrived early in the Nebraska Panhandle 😂 https://t.co/nvo1PG4pWu",
-          "created_at": "2026-10-26T20:19:30.000Z",
-          "url": "https://x.com/i/status/2114814197099864201",
-          "media_url": "https://pbs.twimg.com/media/HVlUTWaXkAEs6V5.jpg"
         }
       ]
     },
@@ -170,6 +169,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2115185554744574110",
+          "text": "Moisture will be returning to the U.S. this week. Locally heavy rainfall will enter western Texas Thursday into Friday from the remnants of T.S. Vance. A storm system will enter the southern West Coast Friday and Saturday, brining widespread showers and thunderstorms. https://t.co/qk8WAUHzA1",
+          "created_at": "2026-10-27T20:55:09.000Z",
+          "url": "https://x.com/i/status/2115185554744574110",
+          "media_url": "https://pbs.twimg.com/media/HVqmDW9WIAAZAqg.jpg"
+        },
+        {
           "id": "2114869911449149665",
           "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/JDDHUuax28",
           "created_at": "2026-10-27T00:00:53.000Z",
@@ -196,12 +202,6 @@
           "created_at": "2026-10-26T12:30:00.000Z",
           "url": "https://x.com/i/status/2114696044021711331",
           "media_url": "https://pbs.twimg.com/media/HVU5jxTXkAERTCa.jpg"
-        },
-        {
-          "id": "2114548909280280880",
-          "text": "National High/Low temps for Sunday October 25, 2026: 89 at 2 miles north of Ingleside, TX; 12 at 13 miles north of White Sulphur Springs, MT #txwx #mtwx https://t.co/0HtOoYkkSR",
-          "created_at": "2026-10-26T02:45:21.000Z",
-          "url": "https://x.com/i/status/2114548909280280880"
         }
       ]
     }
