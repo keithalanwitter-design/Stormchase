@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-27T16:43:32.922Z",
+  "updated_utc": "2026-10-27T19:43:39.122Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2115144451752358304",
+          "text": "SEVERE WEATHER LIKELY NEXT WEEK November 2-3!\n\nThe most potent upper-level trough we have seen since spring is forecast to eject across the southern Plains and Dixie Alley on November 2-3. Instability looks a little marginal on the global models so far, but that is par for the https://t.co/Ls9PkTwN33",
+          "created_at": "2026-10-27T18:11:49.000Z",
+          "url": "https://x.com/i/status/2115144451752358304",
+          "media_url": "https://pbs.twimg.com/media/HVqAq0GWQAA-yUj.jpg"
+        },
         {
           "id": "2114864375232442408",
           "text": "This reminds me of the Wray, Colorado #tornado of May 7, 2016 but in Chile https://t.co/GVlOKLRwBy",
@@ -32,13 +39,6 @@
           "created_at": "2026-10-26T03:14:13.000Z",
           "url": "https://x.com/i/status/2114556175509537113",
           "media_url": "https://pbs.twimg.com/media/HVhpoicb0AAqg_t.jpg"
-        },
-        {
-          "id": "2114554741397274928",
-          "text": "Supercell with #tornado possible tag and flash flood potential moving in to Roswell, New Mexico https://t.co/O80A6Uniwm",
-          "created_at": "2026-10-26T03:08:31.000Z",
-          "url": "https://x.com/i/status/2114554741397274928",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114554654755606528/img/GZGfPusfpq3-HScG.jpg"
         }
       ]
     },
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2115151674348032418",
+          "text": "WINTER WONDERLAND in Nebraska, after snow fell yesterday across the western half of the state! 😍 ❄️ https://t.co/ojvuqV5WXp",
+          "created_at": "2026-10-27T18:40:31.000Z",
+          "url": "https://x.com/i/status/2115151674348032418",
+          "media_url": "https://pbs.twimg.com/media/HVqHPT5WkAAemqN.jpg"
+        },
+        {
           "id": "2115110540225737183",
           "text": "Remnant moisture from a fading Tropical Storm Vance could deliver more rain to West Texas later this week than the region typically sees all October...\n\nMost of this heavy rain will fall on Thursday, bringing a threat of flash flooding and 1.5 to 3 inches of rain from Midland to https://t.co/jU52W03Liz",
           "created_at": "2026-10-27T15:57:04.000Z",
@@ -114,13 +121,6 @@
           "created_at": "2026-10-26T20:19:30.000Z",
           "url": "https://x.com/i/status/2114814197099864201",
           "media_url": "https://pbs.twimg.com/media/HVlUTWaXkAEs6V5.jpg"
-        },
-        {
-          "id": "2114799841385615615",
-          "text": "It was an honor to be a part of raising money for storm shelters across the country with the National Storm Chaser Summit!\n\nTornadoes can change lives in a matter of seconds, and having a safe place to take shelter can make all the difference.\n\nAt the end of the day, this is what https://t.co/t8lcj2Q6wt",
-          "created_at": "2026-10-26T19:22:27.000Z",
-          "url": "https://x.com/i/status/2114799841385615615",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2114799323909111808/pu/img/aXFz_xIkS0Ja3lJy.jpg"
         }
       ]
     },
