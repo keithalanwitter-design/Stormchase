@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-28T04:44:09.946Z",
+  "updated_utc": "2026-10-28T13:44:13.543Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2115430475753795994",
+          "text": "Minneapolis and St. Paul could see a tornado this afternoon. The Twin Cities have had one October tornado since 1950. https://t.co/WTZEguUZlb",
+          "created_at": "2026-10-28T13:08:22.000Z",
+          "url": "https://x.com/i/status/2115430475753795994",
+          "media_url": "https://pbs.twimg.com/media/HVuEzjIXYAArDC1.jpg"
+        },
+        {
+          "id": "2115402622291046658",
+          "text": "The nicest weather in the USA today will be in and around El Paso, TX, Albuquerque, NM, and Greenville, MS, with that beautiful stretch running clear across the southern High Plains into the Mississippi Delta. https://t.co/RBetgMRGQ6",
+          "created_at": "2026-10-28T11:17:42.000Z",
+          "url": "https://x.com/i/status/2115402622291046658",
+          "media_url": "https://pbs.twimg.com/media/HVtreVoWgAA8PUR.jpg"
+        },
+        {
           "id": "2115058075937669219",
           "text": "One year ago tomorrow, Hurricane Melissa came ashore in Jamaica at 185 mph. That's tied for the strongest landfall the Atlantic has ever recorded. https://t.co/3YBdnVJd6g",
           "created_at": "2026-10-27T12:28:35.000Z",
@@ -66,20 +80,6 @@
           "created_at": "2026-10-26T15:05:01.000Z",
           "url": "https://x.com/i/status/2114735056077930687",
           "media_url": "https://pbs.twimg.com/media/HVkMU8-WEAAJYK3.jpg"
-        },
-        {
-          "id": "2114714769877823611",
-          "text": "Last week this was a typhoon with its eye over Japan's southern islands. By Thursday, what's left of it hits western Alaska. https://t.co/m2BhiLbR0K",
-          "created_at": "2026-10-26T13:44:25.000Z",
-          "url": "https://x.com/i/status/2114714769877823611",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2114714754568597504/pu/img/DwC7vHPQyPdTQVBF.jpg"
-        },
-        {
-          "id": "2114677350755451372",
-          "text": "The nicest weather in the USA today will be in and around Charlotte, NC, Tucson, AZ, and Oxnard, CA. https://t.co/GRBSxPznfM",
-          "created_at": "2026-10-26T11:15:43.000Z",
-          "url": "https://x.com/i/status/2114677350755451372",
-          "media_url": "https://pbs.twimg.com/media/HVjX1-fWAAAXJzB.jpg"
         }
       ]
     },
@@ -87,6 +87,27 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2115436945610248494",
+          "text": "A few tornadoes are possible this afternoon across eastern Minnesota and western Wisconsin, including the Twin Cities... and if one turns out strong, it would be only the 3rd EF2 or stronger tornado in Minnesota this late in the year since 1950! https://t.co/4I2io4dmxF",
+          "created_at": "2026-10-28T13:34:05.000Z",
+          "url": "https://x.com/i/status/2115436945610248494",
+          "media_url": "https://pbs.twimg.com/media/HVuKsLPWAAAqGcD.jpg"
+        },
+        {
+          "id": "2115419830664745236",
+          "text": "Tornadoes, large hail and damaging winds are possible across eastern Minnesota and western Wisconsin this afternoon... including the Twin Cities...\n\nA strengthening storm system will lift out of the Plains today and pull warmer, more humid air north. Winds high up are very strong https://t.co/2zKWK9eqhV",
+          "created_at": "2026-10-28T12:26:04.000Z",
+          "url": "https://x.com/i/status/2115419830664745236",
+          "media_url": "https://pbs.twimg.com/media/HVt7H7XWgAAQnvF.jpg"
+        },
+        {
+          "id": "2115317460832264694",
+          "text": "STRONG TORNADO THREAT is now in place across Minnesota and Wisconsin for today!\n\nThis means EF-2+ tornadoes are possible. Live stream is possible https://t.co/OxSfKoPn9p",
+          "created_at": "2026-10-28T05:39:18.000Z",
+          "url": "https://x.com/i/status/2115317460832264694",
+          "media_url": "https://pbs.twimg.com/media/HVseAvWWIAA6ODT.jpg"
+        },
         {
           "id": "2115208857488138616",
           "text": "With Super El Niño on the way, here's my OFFICIAL snowfall forecast for the 2026-2027 Winter! ❄️ ☃️ https://t.co/JnP6KmaQht",
@@ -99,27 +120,6 @@
           "text": "HUGE update for WeatherFront! 🚀 https://t.co/gUXhP6Mh7A",
           "created_at": "2026-10-27T22:09:03.000Z",
           "url": "https://x.com/i/status/2115204153060233251"
-        },
-        {
-          "id": "2115172963100049434",
-          "text": "A brief tornado can’t be ruled out around Minneapolis and along the Minnesota/Wisconsin border tomorrow evening, mainly if the clouds break enough for the sun to heat things up... https://t.co/n8ly1youPB",
-          "created_at": "2026-10-27T20:05:07.000Z",
-          "url": "https://x.com/i/status/2115172963100049434",
-          "media_url": "https://pbs.twimg.com/media/HVqamXDXYAAJaMj.jpg"
-        },
-        {
-          "id": "2115151674348032418",
-          "text": "WINTER WONDERLAND in Nebraska, after snow fell yesterday across the western half of the state! 😍 ❄️ https://t.co/ojvuqV5WXp",
-          "created_at": "2026-10-27T18:40:31.000Z",
-          "url": "https://x.com/i/status/2115151674348032418",
-          "media_url": "https://pbs.twimg.com/media/HVqHPT5WkAAemqN.jpg"
-        },
-        {
-          "id": "2115110540225737183",
-          "text": "Remnant moisture from a fading Tropical Storm Vance could deliver more rain to West Texas later this week than the region typically sees all October...\n\nMost of this heavy rain will fall on Thursday, bringing a threat of flash flooding and 1.5 to 3 inches of rain from Midland to https://t.co/jU52W03Liz",
-          "created_at": "2026-10-27T15:57:04.000Z",
-          "url": "https://x.com/i/status/2115110540225737183",
-          "media_url": "https://pbs.twimg.com/media/HVph034WkAADyB-.jpg"
         }
       ]
     },
@@ -169,6 +169,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2115420819782242609",
+          "text": "[Winter Preparedness] Freezing rain is one of the most dangerous forms of winter weather. It happens when liquid rain freezes on contact with cold surfaces, creating ice on roads and snapping trees/power lines.\n\nPrep tip: Trim branches, charge devices &amp; stock 1 week of supplies. https://t.co/ACsvxAjLJi",
+          "created_at": "2026-10-28T12:30:00.000Z",
+          "url": "https://x.com/i/status/2115420819782242609",
+          "media_url": "https://pbs.twimg.com/media/HVk_7DmWoAAyzlo.jpg"
+        },
+        {
           "id": "2115273664983601423",
           "text": "National High/Low temps for Tuesday October 27, 2026: 91 at 7 miles east-southeast of Hidalgo, TX; 14 at Peter Sinks, UT #txwx #utwx https://t.co/eHyqO9olqe",
           "created_at": "2026-10-28T02:45:16.000Z",
@@ -194,13 +201,6 @@
           "created_at": "2026-10-27T00:00:02.000Z",
           "url": "https://x.com/i/status/2114869694226215087",
           "media_url": "https://pbs.twimg.com/media/HVU7En7XsAEB6wI.jpg"
-        },
-        {
-          "id": "2114771540315423103",
-          "text": "Is your home ready for severe winter weather? Winter storms can knock out power and leave you stranded for days. Take a few key steps now to ensure you and your family stay safe and build your home emergency kit. ❄️🥶 https://t.co/GpMylOzSj1",
-          "created_at": "2026-10-26T17:30:00.000Z",
-          "url": "https://x.com/i/status/2114771540315423103",
-          "media_url": "https://pbs.twimg.com/media/HVU6GALWoAA6s5v.jpg"
         }
       ]
     }
