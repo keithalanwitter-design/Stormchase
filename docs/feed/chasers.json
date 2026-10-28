@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-28T16:49:51.704Z",
+  "updated_utc": "2026-10-28T19:44:00.855Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2115492676812382549",
+          "text": "STRONG TORNADO POSSIBLE including Minneapolis this late afternoon and evening!\n\nA rare tornado threat could materialize across central Minnesota into northwestern Wisconsin during 4-8 pm as low 60s dew points surge north across the North Country. We almost executed an all-night https://t.co/fzjlV9piBT",
+          "created_at": "2026-10-28T17:15:32.000Z",
+          "url": "https://x.com/i/status/2115492676812382549",
+          "media_url": "https://pbs.twimg.com/media/HVu9YMIWoAAYIP_.jpg"
+        },
         {
           "id": "2115144451752358304",
           "text": "SEVERE WEATHER LIKELY NEXT WEEK November 2-3!\n\nThe most potent upper-level trough we have seen since spring is forecast to eject across the southern Plains and Dixie Alley on November 2-3. Instability looks a little marginal on the global models so far, but that is par for the https://t.co/Ls9PkTwN33",
@@ -32,13 +39,6 @@
           "created_at": "2026-10-26T03:59:01.000Z",
           "url": "https://x.com/i/status/2114567449651896679",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114567129026736128/img/yoEcDpix0awnepRd.jpg"
-        },
-        {
-          "id": "2114556175509537113",
-          "text": "Intercepted this close range lightning strike near Roswell, New Mexico https://t.co/jigv3RjYB8",
-          "created_at": "2026-10-26T03:14:13.000Z",
-          "url": "https://x.com/i/status/2114556175509537113",
-          "media_url": "https://pbs.twimg.com/media/HVhpoicb0AAqg_t.jpg"
         }
       ]
     },
@@ -88,6 +88,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2115513461316759969",
+          "text": "19 states want to stop changing the clocks for good... is yours one of them? https://t.co/VcHqSeMnHJ",
+          "created_at": "2026-10-28T18:38:08.000Z",
+          "url": "https://x.com/i/status/2115513461316759969",
+          "media_url": "https://pbs.twimg.com/media/HVvQR9rWgAAx0M4.jpg"
+        },
+        {
+          "id": "2115486501345657160",
+          "text": "Starting Monday, November 16, the Storm Prediction Center’s 4-8 day severe weather outlook gets a NEW afternoon update at 3:30 PM Central!\n\n And with clocks falling back Sunday, most outlooks will show up an hour earlier on your clock than they have been the last several https://t.co/6vFF8qVgcy",
+          "created_at": "2026-10-28T16:51:00.000Z",
+          "url": "https://x.com/i/status/2115486501345657160",
+          "media_url": "https://pbs.twimg.com/media/HVu3wvfW0AAvJ4p.jpg"
+        },
+        {
           "id": "2115476205281460697",
           "text": "El Niño is doing something we haven't seen in over 40 YEARS...\n\nOcean temperatures in the El Niño region of the Pacific are now warmer than ANY day since at least 1982!\n\nTemperatures are running nearly 6.3°F above normal, which is absolutely incredible.\n\nAnd with winter https://t.co/IvHSzfdX3X",
           "created_at": "2026-10-28T16:10:05.000Z",
@@ -107,20 +121,6 @@
           "created_at": "2026-10-28T13:34:05.000Z",
           "url": "https://x.com/i/status/2115436945610248494",
           "media_url": "https://pbs.twimg.com/media/HVuKsLPWAAAqGcD.jpg"
-        },
-        {
-          "id": "2115419830664745236",
-          "text": "Tornadoes, large hail and damaging winds are possible across eastern Minnesota and western Wisconsin this afternoon... including the Twin Cities...\n\nA strengthening storm system will lift out of the Plains today and pull warmer, more humid air north. Winds high up are very strong https://t.co/2zKWK9eqhV",
-          "created_at": "2026-10-28T12:26:04.000Z",
-          "url": "https://x.com/i/status/2115419830664745236",
-          "media_url": "https://pbs.twimg.com/media/HVt7H7XWgAAQnvF.jpg"
-        },
-        {
-          "id": "2115317460832264694",
-          "text": "STRONG TORNADO THREAT is now in place across Minnesota and Wisconsin for today!\n\nThis means EF-2+ tornadoes are possible. Live stream is possible https://t.co/OxSfKoPn9p",
-          "created_at": "2026-10-28T05:39:18.000Z",
-          "url": "https://x.com/i/status/2115317460832264694",
-          "media_url": "https://pbs.twimg.com/media/HVseAvWWIAA6ODT.jpg"
         }
       ]
     },
@@ -170,6 +170,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2115496315132215558",
+          "text": "Don't let freezing rain catch you off guard! Unlike snow or sleet, freezing rain falls as liquid and freezes on contact. It takes only a thin layer of ice to bring down power lines, snap tree limbs, and turn roads into skating rinks. 🧊 https://t.co/ZhfgI6hVx1",
+          "created_at": "2026-10-28T17:30:00.000Z",
+          "url": "https://x.com/i/status/2115496315132215558",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114793246253527040/img/8x86f9R66QktYNYX.jpg"
+        },
+        {
           "id": "2115420819782242609",
           "text": "[Winter Preparedness] Freezing rain is one of the most dangerous forms of winter weather. It happens when liquid rain freezes on contact with cold surfaces, creating ice on roads and snapping trees/power lines.\n\nPrep tip: Trim branches, charge devices &amp; stock 1 week of supplies. https://t.co/ACsvxAjLJi",
           "created_at": "2026-10-28T12:30:00.000Z",
@@ -195,13 +202,6 @@
           "created_at": "2026-10-27T00:00:53.000Z",
           "url": "https://x.com/i/status/2114869911449149665",
           "media_url": "https://pbs.twimg.com/media/HVmG-dXXQAAAqu8.jpg"
-        },
-        {
-          "id": "2114869694226215087",
-          "text": "When severe winter weather strikes and the power goes out, staying warm and keeping the lights on can quickly introduce hidden hazards. Carbon monoxide (CO) is odorless and invisible, making prevention and proper equipment usage critical. https://t.co/vDzyuwYXsG",
-          "created_at": "2026-10-27T00:00:02.000Z",
-          "url": "https://x.com/i/status/2114869694226215087",
-          "media_url": "https://pbs.twimg.com/media/HVU7En7XsAEB6wI.jpg"
         }
       ]
     }
