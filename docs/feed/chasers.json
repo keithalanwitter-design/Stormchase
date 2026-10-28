@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-27T22:46:40.100Z",
+  "updated_utc": "2026-10-28T04:44:09.946Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -169,6 +169,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2115273664983601423",
+          "text": "National High/Low temps for Tuesday October 27, 2026: 91 at 7 miles east-southeast of Hidalgo, TX; 14 at Peter Sinks, UT #txwx #utwx https://t.co/eHyqO9olqe",
+          "created_at": "2026-10-28T02:45:16.000Z",
+          "url": "https://x.com/i/status/2115273664983601423"
+        },
+        {
           "id": "2115185554744574110",
           "text": "Moisture will be returning to the U.S. this week. Locally heavy rainfall will enter western Texas Thursday into Friday from the remnants of T.S. Vance. A storm system will enter the southern West Coast Friday and Saturday, brining widespread showers and thunderstorms. https://t.co/qk8WAUHzA1",
           "created_at": "2026-10-27T20:55:09.000Z",
@@ -195,13 +201,6 @@
           "created_at": "2026-10-26T17:30:00.000Z",
           "url": "https://x.com/i/status/2114771540315423103",
           "media_url": "https://pbs.twimg.com/media/HVU6GALWoAA6s5v.jpg"
-        },
-        {
-          "id": "2114696044021711331",
-          "text": "Fall is a great time to take the steps to protect your property and keep your family safe from the cold, snow, and ice this upcoming winter season. https://t.co/OxtazoTQkJ",
-          "created_at": "2026-10-26T12:30:00.000Z",
-          "url": "https://x.com/i/status/2114696044021711331",
-          "media_url": "https://pbs.twimg.com/media/HVU5jxTXkAERTCa.jpg"
         }
       ]
     }
