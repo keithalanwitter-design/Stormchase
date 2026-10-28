@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-28T13:44:13.543Z",
+  "updated_utc": "2026-10-28T16:49:51.704Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2115460622359855373",
+          "text": "Trick-or-treat forecast, 3 days out: dry for most of the East.\n\nMemphis to New Orleans, and Southern California up to Salt Lake City, keep a rain jacket handy. https://t.co/kGy1LE19eA",
+          "created_at": "2026-10-28T15:08:10.000Z",
+          "url": "https://x.com/i/status/2115460622359855373",
+          "media_url": "https://pbs.twimg.com/media/HVugOdSWMAAAuvv.jpg"
+        },
+        {
           "id": "2115430475753795994",
           "text": "Minneapolis and St. Paul could see a tornado this afternoon. The Twin Cities have had one October tornado since 1950. https://t.co/WTZEguUZlb",
           "created_at": "2026-10-28T13:08:22.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-10-27T11:15:13.000Z",
           "url": "https://x.com/i/status/2115039612783489193",
           "media_url": "https://pbs.twimg.com/media/HVohUZbXUAArtGF.jpg"
-        },
-        {
-          "id": "2114735056077930687",
-          "text": "Every winter in America has a twin somewhere else on Earth. Chicago's is Norway, Nashville's is Scotland, and Dallas gets the south of France. https://t.co/vcSczDyjLX",
-          "created_at": "2026-10-26T15:05:01.000Z",
-          "url": "https://x.com/i/status/2114735056077930687",
-          "media_url": "https://pbs.twimg.com/media/HVkMU8-WEAAJYK3.jpg"
         }
       ]
     },
@@ -87,6 +87,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2115476205281460697",
+          "text": "El Niño is doing something we haven't seen in over 40 YEARS...\n\nOcean temperatures in the El Niño region of the Pacific are now warmer than ANY day since at least 1982!\n\nTemperatures are running nearly 6.3°F above normal, which is absolutely incredible.\n\nAnd with winter https://t.co/IvHSzfdX3X",
+          "created_at": "2026-10-28T16:10:05.000Z",
+          "url": "https://x.com/i/status/2115476205281460697",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2115460600058757120/pu/img/RcOnxNPmbuA_5WiF.jpg"
+        },
+        {
+          "id": "2115457337515266354",
+          "text": "Minnesota has only had 2 EF2+ tornadoes this late in the season since records began in 1950. Today, strong tornadoes are possible again... https://t.co/j8Gk8Prsf9",
+          "created_at": "2026-10-28T14:55:07.000Z",
+          "url": "https://x.com/i/status/2115457337515266354",
+          "media_url": "https://pbs.twimg.com/media/HVuPCkXXYAAjXIG.jpg"
+        },
         {
           "id": "2115436945610248494",
           "text": "A few tornadoes are possible this afternoon across eastern Minnesota and western Wisconsin, including the Twin Cities... and if one turns out strong, it would be only the 3rd EF2 or stronger tornado in Minnesota this late in the year since 1950! https://t.co/4I2io4dmxF",
@@ -107,19 +121,6 @@
           "created_at": "2026-10-28T05:39:18.000Z",
           "url": "https://x.com/i/status/2115317460832264694",
           "media_url": "https://pbs.twimg.com/media/HVseAvWWIAA6ODT.jpg"
-        },
-        {
-          "id": "2115208857488138616",
-          "text": "With Super El Niño on the way, here's my OFFICIAL snowfall forecast for the 2026-2027 Winter! ❄️ ☃️ https://t.co/JnP6KmaQht",
-          "created_at": "2026-10-27T22:27:44.000Z",
-          "url": "https://x.com/i/status/2115208857488138616",
-          "media_url": "https://pbs.twimg.com/media/HVq7PywWQAAs3S9.jpg"
-        },
-        {
-          "id": "2115204153060233251",
-          "text": "HUGE update for WeatherFront! 🚀 https://t.co/gUXhP6Mh7A",
-          "created_at": "2026-10-27T22:09:03.000Z",
-          "url": "https://x.com/i/status/2115204153060233251"
         }
       ]
     },
