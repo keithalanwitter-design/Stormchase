@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-29T04:46:12.446Z",
+  "updated_utc": "2026-10-29T13:47:11.549Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2115764393715683404",
+          "text": "The nicest weather in the USA today will be in and around Sioux Falls, SD, Virginia Beach, VA, and Philadelphia, PA. https://t.co/tVCxOnV669",
+          "created_at": "2026-10-29T11:15:15.000Z",
+          "url": "https://x.com/i/status/2115764393715683404",
+          "media_url": "https://pbs.twimg.com/media/HVy0gNDXgAAZtfp.jpg"
+        },
+        {
           "id": "2115460622359855373",
           "text": "Trick-or-treat forecast, 3 days out: dry for most of the East.\n\nMemphis to New Orleans, and Southern California up to Salt Lake City, keep a rain jacket handy. https://t.co/kGy1LE19eA",
           "created_at": "2026-10-28T15:08:10.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-10-27T12:28:35.000Z",
           "url": "https://x.com/i/status/2115058075937669219",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2115058057860280320/pu/img/iRULf7KG1v1lApVn.jpg"
-        },
-        {
-          "id": "2115039612783489193",
-          "text": "The nicest weather in the USA today will be in and around El Paso, TX, Albuquerque, NM, and Greensboro, NC. https://t.co/1jj6bvFuTM",
-          "created_at": "2026-10-27T11:15:13.000Z",
-          "url": "https://x.com/i/status/2115039612783489193",
-          "media_url": "https://pbs.twimg.com/media/HVohUZbXUAArtGF.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2115781722948165950",
+          "text": "Flash flooding is possible across West Texas today...\n\nA disturbance with ties to a dying Tropical Storm Vance will move into West Texas and southeast New Mexico this afternoon, bringing heavy tropical rain through tonight and into Friday morning. A corridor of 2 to 5 inches is https://t.co/ghL6A5I8QN",
+          "created_at": "2026-10-29T12:24:06.000Z",
+          "url": "https://x.com/i/status/2115781722948165950",
+          "media_url": "https://pbs.twimg.com/media/HVzEQwYXoAIrOq_.jpg"
+        },
         {
           "id": "2115568323077255289",
           "text": "It's been a while; here's a reminder to NOT do this! \n\nParking under overpasses during severe weather impedes traffic and creates an even more dangerous situation for other drivers! Again, DO NOT DO THIS! https://t.co/fMyQf4xwkp",
@@ -114,13 +121,6 @@
           "created_at": "2026-10-28T18:38:08.000Z",
           "url": "https://x.com/i/status/2115513461316759969",
           "media_url": "https://pbs.twimg.com/media/HVvQR9rWgAAx0M4.jpg"
-        },
-        {
-          "id": "2115486501345657160",
-          "text": "Starting Monday, November 16, the Storm Prediction Center’s 4-8 day severe weather outlook gets a NEW afternoon update at 3:30 PM Central!\n\n And with clocks falling back Sunday, most outlooks will show up an hour earlier on your clock than they have been the last several https://t.co/6vFF8qVgcy",
-          "created_at": "2026-10-28T16:51:00.000Z",
-          "url": "https://x.com/i/status/2115486501345657160",
-          "media_url": "https://pbs.twimg.com/media/HVu3wvfW0AAvJ4p.jpg"
         }
       ]
     },
