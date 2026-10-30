@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-29T22:49:41.561Z",
+  "updated_utc": "2026-10-30T01:44:23.797Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -81,6 +81,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2115950066426941766",
+          "text": "OBSERVED TORNADO WARNING northwest of Uvalde, Texas!\n\nSeek shelter if you are in this warning! https://t.co/Nb4eHtzEe0",
+          "created_at": "2026-10-29T23:33:02.000Z",
+          "url": "https://x.com/i/status/2115950066426941766",
+          "media_url": "https://pbs.twimg.com/media/HV1dXwfWUAENYjR.jpg"
+        },
+        {
           "id": "2115928023124021435",
           "text": "👀👀👀 https://t.co/addD3FfWIb",
           "created_at": "2026-10-29T22:05:27.000Z",
@@ -106,13 +113,6 @@
           "created_at": "2026-10-29T15:25:08.000Z",
           "url": "https://x.com/i/status/2115827281222308320",
           "media_url": "https://pbs.twimg.com/media/HVztsrUWgAAiLIb.jpg"
-        },
-        {
-          "id": "2115802605343350929",
-          "text": "Arizona has experienced 171 severe thunderstorm warnings this month, nearly doubling its October record of 93 set in 2010!\n\nA marginal risk for severe weather across the state tomorrow could increase the count a little further... https://t.co/6brY13x6lj",
-          "created_at": "2026-10-29T13:47:05.000Z",
-          "url": "https://x.com/i/status/2115802605343350929",
-          "media_url": "https://pbs.twimg.com/media/HVzJhtdWwAAlL3R.jpg"
         }
       ]
     },
@@ -162,6 +162,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2115962509513433540",
+          "text": "#WPC_MD 1527 affecting Southeast New Mexico and Far West Texas, #txwx #nmwx, https://t.co/lPt2NRcY2T https://t.co/dw071KIegP",
+          "created_at": "2026-10-30T00:22:29.000Z",
+          "url": "https://x.com/i/status/2115962509513433540",
+          "media_url": "https://pbs.twimg.com/media/HV1osLMW0AARGDw.jpg"
+        },
+        {
           "id": "2115915593832366444",
           "text": "Locally heavy rainfall and scattered instances of flash flooding will be possible across the Southwest over the next couple of days as moisture streams in from the Pacific. Burn scars and slot canyons will be the most susceptible to flooding. https://t.co/FlyLkCnqtN",
           "created_at": "2026-10-29T21:16:04.000Z",
@@ -187,13 +194,6 @@
           "text": "National High/Low temps for Wednesday October 28, 2026: 93 at 7 miles east-southeast of Hidalgo, TX; 9 at Peter Sinks, UT #txwx #utwx https://t.co/4ZPABuDRrV",
           "created_at": "2026-10-29T02:45:18.000Z",
           "url": "https://x.com/i/status/2115636061535711330"
-        },
-        {
-          "id": "2115594463980536192",
-          "text": "The National Weather Service forecasts and measures radial ice, which is the thickness of new ice accumulation upon an exposed cylindrical object, such as a tree branch or a power line. Learn how to measure radial ice so you can report to your local Weather Forecast Office! https://t.co/xk8ve5k6eN",
-          "created_at": "2026-10-29T00:00:00.000Z",
-          "url": "https://x.com/i/status/2115594463980536192",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2114794708828348416/img/XdXtmZOeOSuy1rve.jpg"
         }
       ]
     }
