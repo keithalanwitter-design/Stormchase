@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-31T19:43:59.603Z",
+  "updated_utc": "2026-10-31T22:40:53.567Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2116625278747218052",
+          "text": "No part of the country is favored to be colder than normal this November...\n\nThe best odds for a warm month are in the Northern Plains and Upper Midwest, although there is a potential catch in this forecast.\n\nThe polar vortex could be disrupted as soon as next week, which is very https://t.co/YyCdq0f8Gf",
+          "created_at": "2026-10-31T20:16:06.000Z",
+          "url": "https://x.com/i/status/2116625278747218052",
+          "media_url": "https://pbs.twimg.com/media/HV_DeRDXIAAgOl0.jpg"
+        },
+        {
           "id": "2116594570095993193",
           "text": "A tornado or two can’t be ruled out tomorrow around Phoenix and across central New Mexico, including Albuquerque and Santa Fe... and New Mexico has only had TWO November tornadoes since 1950!\n\nStorms cross southern Arizona tomorrow afternoon and New Mexico tomorrow night, with a https://t.co/gszaMYKZxF",
           "created_at": "2026-10-31T18:14:04.000Z",
@@ -114,13 +121,6 @@
           "created_at": "2026-10-31T12:46:04.000Z",
           "url": "https://x.com/i/status/2116512024142180711",
           "media_url": "https://pbs.twimg.com/media/HV9cd7lXIAA2Ebu.jpg"
-        },
-        {
-          "id": "2116330628316614704",
-          "text": "I have officially reached max(imum) velocity…\n\n@MatthewCappucci https://t.co/S1dIUa9gE3",
-          "created_at": "2026-10-31T00:45:15.000Z",
-          "url": "https://x.com/i/status/2116330628316614704",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2116330388981207040/img/868Lo8fQqizj_0xe.jpg"
         }
       ]
     },
@@ -170,6 +170,20 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2116636950643781666",
+          "text": "The latest  updates for the Southwest into the Four Corners Key Message for regarding heavy rainfall and flooding. https://t.co/ODpsLcYXEV",
+          "created_at": "2026-10-31T21:02:28.000Z",
+          "url": "https://x.com/i/status/2116636950643781666",
+          "media_url": "https://pbs.twimg.com/media/HV_N_OQXgAAOqqU.jpg"
+        },
+        {
+          "id": "2116620176221188441",
+          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/T4kPO4WEwR",
+          "created_at": "2026-10-31T19:55:49.000Z",
+          "url": "https://x.com/i/status/2116620176221188441",
+          "media_url": "https://pbs.twimg.com/media/HV--1b-W0AA0GoP.jpg"
+        },
+        {
           "id": "2116587862103560639",
           "text": "The next storm system will eject across the West. Across the Four Corners region, heavy rainfall with significant flash flooding is likely. High elevations across the West may also see high snowfall accumulations. By Monday, rain and wind will enter the Central Plains. https://t.co/T0yEBbrm3E",
           "created_at": "2026-10-31T17:47:25.000Z",
@@ -187,19 +201,6 @@
           "text": "Locally heavy rainfall shifting gradually eastward from the southern Plains to the Gulf Coast states this weekend https://t.co/kPv4k077nv",
           "created_at": "2026-10-31T12:05:19.000Z",
           "url": "https://x.com/i/status/2116501768850870470"
-        },
-        {
-          "id": "2116501767152153034",
-          "text": "Heavy rain threat renews over southern California and Desert Southwest this evening; impactful flash flooding expected in the Great Basin and Four Corners Sunday https://t.co/kPv4k077nv",
-          "created_at": "2026-10-31T12:05:18.000Z",
-          "url": "https://x.com/i/status/2116501767152153034"
-        },
-        {
-          "id": "2116439832708702548",
-          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/gzrpaQ2bsL",
-          "created_at": "2026-10-31T07:59:12.000Z",
-          "url": "https://x.com/i/status/2116439832708702548",
-          "media_url": "https://pbs.twimg.com/media/HV8a0D_WsAA-BdT.jpg"
         }
       ]
     }
