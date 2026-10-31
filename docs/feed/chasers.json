@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-10-31T01:42:42.121Z",
+  "updated_utc": "2026-10-31T04:44:43.412Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2116386752713679032",
+          "text": "I ran into an old friend today in Ohio! Steve Green the inventor of the Tornado Attack Vehicle.\n\nJoel and I worked with Steve in 2002-2004 to guide the TA1 to a #tornado. This inspired the build of the Dominators https://t.co/iS43rCjZlN",
+          "created_at": "2026-10-31T04:28:17.000Z",
+          "url": "https://x.com/i/status/2116386752713679032",
+          "media_url": "https://pbs.twimg.com/media/HV7qiDAXYAEOcin.jpg"
+        },
         {
           "id": "2116287381720490017",
           "text": "UNIVERSITY OF AKRON and the Akron/Canton area!\n\nCome see me tonight at 7:30 pm for a heart-pounding evening!\n\nThere are still tickets left here: https://t.co/xb1qTmy87s https://t.co/s8lPBZbW1U",
@@ -163,6 +170,19 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2116360873677672624",
+          "text": "National High/Low temps for Friday October 30, 2026: 92 at 17 miles east of Ochopee, FL; 18 at Dillon, CO, 4 miles northwest of Grand Lake, CO #flwx #cowx #cowx https://t.co/yDkz0Ad1Lk",
+          "created_at": "2026-10-31T02:45:27.000Z",
+          "url": "https://x.com/i/status/2116360873677672624"
+        },
+        {
+          "id": "2116346489458888723",
+          "text": "#WPC_MD 1534 affecting central/eastern Arizona, #azwx, https://t.co/fZEPoVOXH6 https://t.co/fR9lI2H1dJ",
+          "created_at": "2026-10-31T01:48:17.000Z",
+          "url": "https://x.com/i/status/2116346489458888723",
+          "media_url": "https://pbs.twimg.com/media/HV7F6xsWoAApoe8.jpg"
+        },
+        {
           "id": "2116319241620131934",
           "text": "Heading into the mountains or backcountry this winter? Stay safe with these critical survival tips:\n- Winter Storm Survival\n- Ice Safety &amp; Thickness Rules\n- Avalanche Warning Signs &amp; Gear\n\nKnow before you go ➡️ https://t.co/D8jZlzOsbd &amp; https://t.co/XSK0otAK6k https://t.co/3A1bWaA0HN",
           "created_at": "2026-10-31T00:00:01.000Z",
@@ -182,20 +202,6 @@
           "created_at": "2026-10-30T20:18:37.000Z",
           "url": "https://x.com/i/status/2116263526754820305",
           "media_url": "https://pbs.twimg.com/media/HV56dtcWUAAblBf.jpg"
-        },
-        {
-          "id": "2116256589879357830",
-          "text": "#WPC_MD 1532 affecting central to southeastern AZ, #azwx, https://t.co/Q27rjAUB55 https://t.co/aksdb3GBmx",
-          "created_at": "2026-10-30T19:51:03.000Z",
-          "url": "https://x.com/i/status/2116256589879357830",
-          "media_url": "https://pbs.twimg.com/media/HV50J7NXwAACapc.jpg"
-        },
-        {
-          "id": "2116252500441362736",
-          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/SX6L73nzzb",
-          "created_at": "2026-10-30T19:34:48.000Z",
-          "url": "https://x.com/i/status/2116252500441362736",
-          "media_url": "https://pbs.twimg.com/media/HV5wbwQWEAAsyaj.jpg"
         }
       ]
     }
