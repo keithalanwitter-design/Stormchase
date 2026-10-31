@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-31T04:44:43.412Z",
+  "updated_utc": "2026-10-31T13:47:30.830Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2116501197720805403",
+          "text": "Monday's storms in Oklahoma, Kansas and North Texas now look like they'll hit after dark. Damaging winds are the main threat, and a tornado can't be ruled out. https://t.co/GwEoheZN5z",
+          "created_at": "2026-10-31T12:03:02.000Z",
+          "url": "https://x.com/i/status/2116501197720805403",
+          "media_url": "https://pbs.twimg.com/media/HV9Sn1DWwAA7wcB.jpg"
+        },
+        {
+          "id": "2116489167773278371",
+          "text": "The nicest weather in the USA today will be in and around Rochester, NY, Syracuse, NY, and Binghamton, NY, with that beautiful stretch of crisp, clear air running right across central New York. https://t.co/UKRg9idmaI",
+          "created_at": "2026-10-31T11:15:14.000Z",
+          "url": "https://x.com/i/status/2116489167773278371",
+          "media_url": "https://pbs.twimg.com/media/HV9Hrm8WEAARqmI.jpg"
+        },
+        {
           "id": "2116265402728669244",
           "text": "Las Vegas streets are turning into rivers this afternoon. This is Eastern and Sahara, east of the Strip.\n\nVideo: Nevada DOT traffic camera https://t.co/VstEv8vrTN",
           "created_at": "2026-10-30T20:26:04.000Z",
@@ -66,20 +80,6 @@
           "created_at": "2026-10-30T16:57:13.000Z",
           "url": "https://x.com/i/status/2116212840662982702",
           "media_url": "https://pbs.twimg.com/media/HV5MXQGWcAAKyfZ.jpg"
-        },
-        {
-          "id": "2116126997466267768",
-          "text": "The nicest weather in the USA today will be in and around West Virginia, southeastern Ohio, and the North Carolina coast from New Bern down to Jacksonville. https://t.co/sjjWsoXZLN",
-          "created_at": "2026-10-30T11:16:06.000Z",
-          "url": "https://x.com/i/status/2116126997466267768",
-          "media_url": "https://pbs.twimg.com/media/HV3-SiUWMAAn1dz.jpg"
-        },
-        {
-          "id": "2115764393715683404",
-          "text": "The nicest weather in the USA today will be in and around Sioux Falls, SD, Virginia Beach, VA, and Philadelphia, PA. https://t.co/tVCxOnV669",
-          "created_at": "2026-10-29T11:15:15.000Z",
-          "url": "https://x.com/i/status/2115764393715683404",
-          "media_url": "https://pbs.twimg.com/media/HVy0gNDXgAAZtfp.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2116512024142180711",
+          "text": "An atmospheric river is aimed right at the Southwest...\n\nMoisture near record levels for this time of year arrives tomorrow, with the heaviest rain north and east of Phoenix along the Mogollon Rim, where up to 5 inches is possible. Phoenix and Flagstaff could pick up 2 to 3 https://t.co/pJpU7bHljh",
+          "created_at": "2026-10-31T12:46:04.000Z",
+          "url": "https://x.com/i/status/2116512024142180711",
+          "media_url": "https://pbs.twimg.com/media/HV9cd7lXIAA2Ebu.jpg"
+        },
         {
           "id": "2116330628316614704",
           "text": "I have officially reached max(imum) velocity…\n\n@MatthewCappucci https://t.co/S1dIUa9gE3",
@@ -114,13 +121,6 @@
           "created_at": "2026-10-30T16:43:06.000Z",
           "url": "https://x.com/i/status/2116209287512866851",
           "media_url": "https://pbs.twimg.com/media/HV5JIYqWMAA03uI.jpg"
-        },
-        {
-          "id": "2116160197810896907",
-          "text": "Severe storms are growing increasingly likely Monday afternoon from central Kansas into Oklahoma and north Texas, including Wichita, Oklahoma City and Tulsa...\n\nA strong storm system moving into the Plains will pull warm, humid air north ahead of a cold front, and storms are https://t.co/8wu3YGY6ki",
-          "created_at": "2026-10-30T13:28:02.000Z",
-          "url": "https://x.com/i/status/2116160197810896907",
-          "media_url": "https://pbs.twimg.com/media/HV4OwNgXIAAw7-t.jpg"
         }
       ]
     },
@@ -170,38 +170,35 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2116501770415284523",
+          "text": "Low pressure area brings unsettled weather to the Central U.S. on Monday https://t.co/kPv4k077nv",
+          "created_at": "2026-10-31T12:05:19.000Z",
+          "url": "https://x.com/i/status/2116501770415284523"
+        },
+        {
+          "id": "2116501768850870470",
+          "text": "Locally heavy rainfall shifting gradually eastward from the southern Plains to the Gulf Coast states this weekend https://t.co/kPv4k077nv",
+          "created_at": "2026-10-31T12:05:19.000Z",
+          "url": "https://x.com/i/status/2116501768850870470"
+        },
+        {
+          "id": "2116501767152153034",
+          "text": "Heavy rain threat renews over southern California and Desert Southwest this evening; impactful flash flooding expected in the Great Basin and Four Corners Sunday https://t.co/kPv4k077nv",
+          "created_at": "2026-10-31T12:05:18.000Z",
+          "url": "https://x.com/i/status/2116501767152153034"
+        },
+        {
+          "id": "2116439832708702548",
+          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/gzrpaQ2bsL",
+          "created_at": "2026-10-31T07:59:12.000Z",
+          "url": "https://x.com/i/status/2116439832708702548",
+          "media_url": "https://pbs.twimg.com/media/HV8a0D_WsAA-BdT.jpg"
+        },
+        {
           "id": "2116360873677672624",
           "text": "National High/Low temps for Friday October 30, 2026: 92 at 17 miles east of Ochopee, FL; 18 at Dillon, CO, 4 miles northwest of Grand Lake, CO #flwx #cowx #cowx https://t.co/yDkz0Ad1Lk",
           "created_at": "2026-10-31T02:45:27.000Z",
           "url": "https://x.com/i/status/2116360873677672624"
-        },
-        {
-          "id": "2116346489458888723",
-          "text": "#WPC_MD 1534 affecting central/eastern Arizona, #azwx, https://t.co/fZEPoVOXH6 https://t.co/fR9lI2H1dJ",
-          "created_at": "2026-10-31T01:48:17.000Z",
-          "url": "https://x.com/i/status/2116346489458888723",
-          "media_url": "https://pbs.twimg.com/media/HV7F6xsWoAApoe8.jpg"
-        },
-        {
-          "id": "2116319241620131934",
-          "text": "Heading into the mountains or backcountry this winter? Stay safe with these critical survival tips:\n- Winter Storm Survival\n- Ice Safety &amp; Thickness Rules\n- Avalanche Warning Signs &amp; Gear\n\nKnow before you go ➡️ https://t.co/D8jZlzOsbd &amp; https://t.co/XSK0otAK6k https://t.co/3A1bWaA0HN",
-          "created_at": "2026-10-31T00:00:01.000Z",
-          "url": "https://x.com/i/status/2116319241620131934",
-          "media_url": "https://pbs.twimg.com/media/HVxz_A9XgAADaQY.jpg"
-        },
-        {
-          "id": "2116271343591141785",
-          "text": "#WPC_MD 1533 affecting Lower Colorado River Valley into southwestern UT, #utwx #azwx #nvwx #cawx, https://t.co/eZAHPo9csQ https://t.co/ARVK25EoHo",
-          "created_at": "2026-10-30T20:49:41.000Z",
-          "url": "https://x.com/i/status/2116271343591141785",
-          "media_url": "https://pbs.twimg.com/media/HV6BksyWEAAjXdi.jpg"
-        },
-        {
-          "id": "2116263526754820305",
-          "text": "A MODERATE risk is in effect in our Day 3 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/NojejZnkYC",
-          "created_at": "2026-10-30T20:18:37.000Z",
-          "url": "https://x.com/i/status/2116263526754820305",
-          "media_url": "https://pbs.twimg.com/media/HV56dtcWUAAblBf.jpg"
         }
       ]
     }
