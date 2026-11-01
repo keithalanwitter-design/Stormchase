@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-01T01:42:28.355Z",
+  "updated_utc": "2026-11-01T04:47:01.578Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2116724205282578737",
+          "text": "Pearl River County, Mississippi, this is as bad as flash flooding gets. 6 to 10 inches of rain have fallen northeast of Crossroads, high water rescues are happening right now, and roads are covered in swift water. If you're in that area, move up now, don't drive into it, and https://t.co/szyVTRHsG2",
+          "created_at": "2026-11-01T02:49:12.000Z",
+          "url": "https://x.com/i/status/2116724205282578737",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2116724169211572225/pu/img/Fny0kzDd7D1MRnXZ.jpg"
+        },
+        {
           "id": "2116585637243457734",
           "text": "Out of the whole country, the best shot at seeing a tornado tomorrow sits over Phoenix, Albuquerque, and Santa Fe. SPC has that stretch at Level 1 for tornadoes. https://t.co/gQeoyIBOC0",
           "created_at": "2026-10-31T17:38:34.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-10-30T20:26:04.000Z",
           "url": "https://x.com/i/status/2116265402728669244",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2116265362354216960/pu/img/dAUSjJIdgANhQU6i.jpg"
-        },
-        {
-          "id": "2116229166701957574",
-          "text": "9 new weather cameras are live, and we're just getting started.\n\nWinnsboro, LA\nWardsville, MO\nVan Wert, OH\nFairfield, OH\nCharleston, IL\nNicholasville, KY (hosted by Kentucky Fi)\nRogersville, AL\nPhil Campbell, AL\nMoulton, AL\n\nWant one at your place? Email cameras@ryanhallyall.com https://t.co/fhGXoe83p2",
-          "created_at": "2026-10-30T18:02:05.000Z",
-          "url": "https://x.com/i/status/2116229166701957574",
-          "media_url": "https://pbs.twimg.com/media/HV5bNcvWAAItgGV.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2116725680771674588",
+          "text": "FLASH FLOOD EMERGENCY for portions of Pearl River County, Mississippi!\n\nThis is driven by 6-10\" of rainfall in the last 3 hours alone. Flash flooding is already occurring, with ongoing high-water rescues and swift-moving water reported covering multiple roadways. Do NOT attempt https://t.co/dBLqZzJprP",
+          "created_at": "2026-11-01T02:55:03.000Z",
+          "url": "https://x.com/i/status/2116725680771674588",
+          "media_url": "https://pbs.twimg.com/media/HWAeyf-WYAAikOr.jpg"
+        },
         {
           "id": "2116671594789478411",
           "text": "Happy Halloween Everyone! https://t.co/UwFXGDWYO7",
@@ -114,13 +121,6 @@
           "created_at": "2026-10-31T18:14:04.000Z",
           "url": "https://x.com/i/status/2116594570095993193",
           "media_url": "https://pbs.twimg.com/media/HV-nivgXwAAci5-.jpg"
-        },
-        {
-          "id": "2116570663221661995",
-          "text": "Damaging winds and maybe a tornado or two are possible Monday evening from western Oklahoma into southeast Kansas and North Texas, including Oklahoma City, Tulsa and Wichita...\n\nA strong storm system moving into the Plains will set off storms along a dryline in western Oklahoma https://t.co/rvutLv8b2z",
-          "created_at": "2026-10-31T16:39:04.000Z",
-          "url": "https://x.com/i/status/2116570663221661995",
-          "media_url": "https://pbs.twimg.com/media/HV-RzK5W4AAHYj_.jpg"
         }
       ]
     },
@@ -170,6 +170,19 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2116747193633640778",
+          "text": "#WPC_MD 1537 affecting portions of southern California, #cawx, https://t.co/R4bFDVJ6OP https://t.co/vbfHKmcJ3I",
+          "created_at": "2026-11-01T04:20:32.000Z",
+          "url": "https://x.com/i/status/2116747193633640778",
+          "media_url": "https://pbs.twimg.com/media/HWAyW0BXIAETnAd.jpg"
+        },
+        {
+          "id": "2116723226420068766",
+          "text": "National High/Low temps for Saturday October 31, 2026: 94 at 7 miles east-southeast of Hidalgo, TX; 12 at Mount Washington, NH #txwx #nhwx https://t.co/NZMMz7j6fj",
+          "created_at": "2026-11-01T02:45:18.000Z",
+          "url": "https://x.com/i/status/2116723226420068766"
+        },
+        {
           "id": "2116705134071713901",
           "text": "#WPC_MD 1536 affecting Arizona and southern Nevada, #azwx #nvwx #cawx, https://t.co/vMTy7VAhVA https://t.co/LRu7Rmx0ij",
           "created_at": "2026-11-01T01:33:25.000Z",
@@ -189,20 +202,6 @@
           "created_at": "2026-10-31T21:02:28.000Z",
           "url": "https://x.com/i/status/2116636950643781666",
           "media_url": "https://pbs.twimg.com/media/HV_N_OQXgAAOqqU.jpg"
-        },
-        {
-          "id": "2116620176221188441",
-          "text": "A MODERATE risk is in effect in our Day 2 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/T4kPO4WEwR",
-          "created_at": "2026-10-31T19:55:49.000Z",
-          "url": "https://x.com/i/status/2116620176221188441",
-          "media_url": "https://pbs.twimg.com/media/HV--1b-W0AA0GoP.jpg"
-        },
-        {
-          "id": "2116587862103560639",
-          "text": "The next storm system will eject across the West. Across the Four Corners region, heavy rainfall with significant flash flooding is likely. High elevations across the West may also see high snowfall accumulations. By Monday, rain and wind will enter the Central Plains. https://t.co/T0yEBbrm3E",
-          "created_at": "2026-10-31T17:47:25.000Z",
-          "url": "https://x.com/i/status/2116587862103560639",
-          "media_url": "https://pbs.twimg.com/tweet_video_thumb/HV-f3DqWIAE4koE.jpg"
         }
       ]
     }
