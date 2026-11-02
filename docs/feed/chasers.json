@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-11-01T23:47:54.000Z",
+  "updated_utc": "2026-11-02T02:46:57.291Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2117042826899062793",
+          "text": "Live emergency update targeting a NOCTURNAL #TORNADO THREAT about to begin in eastern New Mexico into the Texas Panhandle including Tucumcari to Amarillo. A tornado watch is coming soon! https://t.co/9iRiuuXkjk",
+          "created_at": "2026-11-01T23:55:17.000Z",
+          "url": "https://x.com/i/status/2117042826899062793",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2117042668195008513/img/5DF7R61-4irJ9LU9.jpg"
+        },
         {
           "id": "2116995190191763584",
           "text": "LIMITED EDiTION DOMINATOR 3 MODELS have been launched in support of our science mission!\n\nThese are working models with spinning anemometer and armor deployment. They are a perfect gift for any weather enthusiast!\n\nYou can get yours at https://t.co/U1wv6bXueu https://t.co/RCjwYFJLv2",
@@ -25,13 +32,6 @@
           "created_at": "2026-10-31T23:40:03.000Z",
           "url": "https://x.com/i/status/2116676607481950517",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2116676499738710016/img/UTU21kSreminTZdA.jpg"
-        },
-        {
-          "id": "2116607549117993449",
-          "text": "WATCHING a #tornado threat on Monday PM across Kansas and Oklahoma. The NAM model is trending more bulbous with the upper-level storm system / vort max. Team Dominator will be activating full-blown storm chase mode November 2 https://t.co/L75AFunDxI",
-          "created_at": "2026-10-31T19:05:39.000Z",
-          "url": "https://x.com/i/status/2116607549117993449",
-          "media_url": "https://pbs.twimg.com/media/HV-zUZ4WcAAGsHt.jpg"
         }
       ]
     },
@@ -39,6 +39,20 @@
       "handle": "ryanhallyall",
       "name": "Ryan Hall, Y’all",
       "posts": [
+        {
+          "id": "2117058792927994096",
+          "text": "The whole town of Manassa, Colorado is being told to leave tonight.\n\nThe sheriff says the Conejos River will flood as high as last time or higher, and faster. https://t.co/w4K1xzXILZ",
+          "created_at": "2026-11-02T00:58:43.000Z",
+          "url": "https://x.com/i/status/2117058792927994096",
+          "media_url": "https://pbs.twimg.com/media/HWFNwC_XEAAcRUH.jpg"
+        },
+        {
+          "id": "2117054888752341337",
+          "text": "The San Juan River ran right over Highway 160 in Pagosa Springs, Colorado this afternoon, and it's still rising tonight.\n\nVideo: Cade White https://t.co/RErCg4Hi0h",
+          "created_at": "2026-11-02T00:43:13.000Z",
+          "url": "https://x.com/i/status/2117054888752341337",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2117054849900531712/pu/img/m1Vvhz90CsmLZnc5.jpg"
+        },
         {
           "id": "2117031849344061506",
           "text": "The sheriff just closed every public road in La Plata County, Colorado because of mudslides, debris and flooding. Next door in Archuleta County, around Pagosa Springs, everyone is being told to stay home. https://t.co/VOd7hqrEkx",
@@ -59,20 +73,6 @@
           "created_at": "2026-11-01T15:27:41.000Z",
           "url": "https://x.com/i/status/2116915087818522996",
           "media_url": "https://pbs.twimg.com/media/HWDLDabXUAAQcL8.jpg"
-        },
-        {
-          "id": "2116866859689504775",
-          "text": "The nicest weather in the USA today will be in and around Seattle, WA and Manhattan, NY. https://t.co/zNR33GJSiy",
-          "created_at": "2026-11-01T12:16:03.000Z",
-          "url": "https://x.com/i/status/2116866859689504775",
-          "media_url": "https://pbs.twimg.com/media/HWCfMLEXAAA6Oit.jpg"
-        },
-        {
-          "id": "2116863134405181675",
-          "text": "Tomorrow's best chance for a tornado in the country is centered on Oklahoma City, Tulsa, and Wichita. That's a Level 2 risk, with a few storms capable of reaching EF2 strength. https://t.co/xpB0ADoEkM",
-          "created_at": "2026-11-01T12:01:15.000Z",
-          "url": "https://x.com/i/status/2116863134405181675",
-          "media_url": "https://pbs.twimg.com/media/HWCbzVrXkAAPubY.jpg"
         }
       ]
     },
@@ -122,6 +122,13 @@
       "name": "StormNet",
       "posts": [
         {
+          "id": "2117064631592112431",
+          "text": "Elevated threat of tornadoes detected for Monday, November 2nd, 2026.\n\nSee attached map for details.\n\nThis forecast initialized on Sunday afternoon. Follow for future forecast updates. https://t.co/r0ZKjaNAUM",
+          "created_at": "2026-11-02T01:21:55.000Z",
+          "url": "https://x.com/i/status/2117064631592112431",
+          "media_url": "https://pbs.twimg.com/media/HWFTDwxWcAATUsa.jpg"
+        },
+        {
           "id": "2116993032138404122",
           "text": "Elevated threat of tornadoes detected for Monday, November 2nd, 2026.\n\nSee attached map for details.\n\nThis forecast initialized on Sunday morning. Follow for future forecast updates. https://t.co/GzbGX8sqgI",
           "created_at": "2026-11-01T20:37:25.000Z",
@@ -148,13 +155,6 @@
           "created_at": "2026-10-31T15:04:06.000Z",
           "url": "https://x.com/i/status/2116546764165505080",
           "media_url": "https://pbs.twimg.com/media/HV98D59X0AAMyPG.jpg"
-        },
-        {
-          "id": "2115828107118563822",
-          "text": "Elevated threat of tornadoes detected for Monday, November 2nd, 2026.\n\nSee attached map for details.\n\nThis forecast initialized on Wednesday night. Follow for future forecast updates. https://t.co/Xxbo33hWtO",
-          "created_at": "2026-10-29T15:28:25.000Z",
-          "url": "https://x.com/i/status/2115828107118563822",
-          "media_url": "https://pbs.twimg.com/media/HVzucnjXQAAwlpx.jpg"
         }
       ]
     },
@@ -162,6 +162,19 @@
       "handle": "NWSWPC",
       "name": "NWS Weather Prediction Center",
       "posts": [
+        {
+          "id": "2117085626155594087",
+          "text": "National High/Low temps for Sunday November 01, 2026: 94 at 7 miles east-southeast of Hidalgo, TX; 13 at Mount Washington, NH #txwx #nhwx https://t.co/Gq9aljt0bA",
+          "created_at": "2026-11-02T02:45:21.000Z",
+          "url": "https://x.com/i/status/2117085626155594087"
+        },
+        {
+          "id": "2117051666151195031",
+          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/ngkeRjO2B0",
+          "created_at": "2026-11-02T00:30:24.000Z",
+          "url": "https://x.com/i/status/2117051666151195031",
+          "media_url": "https://pbs.twimg.com/media/HWFHRcuXwAEpfYi.jpg"
+        },
         {
           "id": "2117024663754744237",
           "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/zkhmPZXjhr",
@@ -182,20 +195,6 @@
           "created_at": "2026-11-01T21:08:03.000Z",
           "url": "https://x.com/i/status/2117000741260833232",
           "media_url": "https://pbs.twimg.com/media/HWEY9JgXUAA12nx.jpg"
-        },
-        {
-          "id": "2117000484279959598",
-          "text": "#WPC_MD 1545 affecting Four Corners region into southeastern AZ and southwestern NM, #cowx #nmwx #utwx #azwx, https://t.co/Bh8dzktX7V https://t.co/LbbIcu5cq4",
-          "created_at": "2026-11-01T21:07:02.000Z",
-          "url": "https://x.com/i/status/2117000484279959598",
-          "media_url": "https://pbs.twimg.com/media/HWEYuQ6X0AAAEuA.jpg"
-        },
-        {
-          "id": "2116984716779835499",
-          "text": "#WPC_MD 1544 affecting portions of lower MS Valley, #lawx #mswx #arwx, https://t.co/xb9zN4kVVf https://t.co/5Btgs6SSgX",
-          "created_at": "2026-11-01T20:04:22.000Z",
-          "url": "https://x.com/i/status/2116984716779835499",
-          "media_url": "https://pbs.twimg.com/media/HWEKYfEXYAAm4bQ.jpg"
         }
       ]
     }
