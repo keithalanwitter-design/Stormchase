@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-11-02T02:46:57.291Z",
+  "updated_utc": "2026-11-02T05:47:29.192Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2117123395980849345",
+          "text": "Chasing a #tornado warned supercell with likely tornado in progress northeast of Bard, New Mexico near the Texas border https://t.co/Qev4foqjaB",
+          "created_at": "2026-11-02T05:15:26.000Z",
+          "url": "https://x.com/i/status/2117123395980849345",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2117123155143655424/img/wCwV8eIWsyQJKs2s.jpg"
+        },
         {
           "id": "2117042826899062793",
           "text": "Live emergency update targeting a NOCTURNAL #TORNADO THREAT about to begin in eastern New Mexico into the Texas Panhandle including Tucumcari to Amarillo. A tornado watch is coming soon! https://t.co/9iRiuuXkjk",
@@ -25,13 +32,6 @@
           "created_at": "2026-11-01T19:29:09.000Z",
           "url": "https://x.com/i/status/2116975853565276345",
           "media_url": "https://pbs.twimg.com/media/HWECUU8WcAAnbFK.jpg"
-        },
-        {
-          "id": "2116676607481950517",
-          "text": "BREAKING NEWS!\n\nReal, working Dominator 3 models have been made by Team Dominator’s @WillClay25 ! The anemometer spins, the gull wing doors open, and the armored shell can be deployed!\n\nThese limited edition Dominator 3 toys are in support of out science mission!\n\nYou can get https://t.co/sjtDmW8KmZ",
-          "created_at": "2026-10-31T23:40:03.000Z",
-          "url": "https://x.com/i/status/2116676607481950517",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2116676499738710016/img/UTU21kSreminTZdA.jpg"
         }
       ]
     },
@@ -39,6 +39,13 @@
       "handle": "ryanhallyall",
       "name": "Ryan Hall, Y’all",
       "posts": [
+        {
+          "id": "2117107719542820930",
+          "text": "The radar shows what this jet flew into over Palm Beach County on Sunday: a thunderstorm that was growing right up into its altitude.\n\n76 seconds after the nose dropped, it was on the ground. What caused the crash is for the NTSB to determine. https://t.co/6jZsZT3R8g",
+          "created_at": "2026-11-02T04:13:08.000Z",
+          "url": "https://x.com/i/status/2117107719542820930",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2117107671790661632/pu/img/FX4dckEycr2mc7Yz.jpg"
+        },
         {
           "id": "2117058792927994096",
           "text": "The whole town of Manassa, Colorado is being told to leave tonight.\n\nThe sheriff says the Conejos River will flood as high as last time or higher, and faster. https://t.co/w4K1xzXILZ",
@@ -66,13 +73,6 @@
           "created_at": "2026-11-01T16:18:43.000Z",
           "url": "https://x.com/i/status/2116927928315371832",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2116927888314261505/pu/img/PWeEYX9EF2MncBcs.jpg"
-        },
-        {
-          "id": "2116915087818522996",
-          "text": "Tonight it's eastern New Mexico and the Texas Panhandle. Monday it's Oklahoma, Kansas and North Texas, and Dallas is now in it. Damaging winds and a few tornadoes are possible. https://t.co/v6P1RGJiOZ",
-          "created_at": "2026-11-01T15:27:41.000Z",
-          "url": "https://x.com/i/status/2116915087818522996",
-          "media_url": "https://pbs.twimg.com/media/HWDLDabXUAAQcL8.jpg"
         }
       ]
     },
@@ -163,6 +163,19 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2117092698779729953",
+          "text": "#WPC_MD 1547 affecting portions of the Florida Peninsula, #flwx, https://t.co/WUzMMXiA1Z https://t.co/EAkMtqd8wB",
+          "created_at": "2026-11-02T03:13:27.000Z",
+          "url": "https://x.com/i/status/2117092698779729953",
+          "media_url": "https://pbs.twimg.com/media/HWFsl3gXAAARV9e.jpg"
+        },
+        {
+          "id": "2117087498736165119",
+          "text": "WPC has initiated Storm Summaries for the heavy rainfall and flash flooding impacting the Southwest this weekend.\n\n🔗: https://t.co/2iFgBJVxfa",
+          "created_at": "2026-11-02T02:52:47.000Z",
+          "url": "https://x.com/i/status/2117087498736165119"
+        },
+        {
           "id": "2117085626155594087",
           "text": "National High/Low temps for Sunday November 01, 2026: 94 at 7 miles east-southeast of Hidalgo, TX; 13 at Mount Washington, NH #txwx #nhwx https://t.co/Gq9aljt0bA",
           "created_at": "2026-11-02T02:45:21.000Z",
@@ -181,20 +194,6 @@
           "created_at": "2026-11-01T22:43:06.000Z",
           "url": "https://x.com/i/status/2117024663754744237",
           "media_url": "https://pbs.twimg.com/media/HWEuttmXMAAYxt4.jpg"
-        },
-        {
-          "id": "2117011984222769378",
-          "text": "#WPC_MD 1546 affecting Florida Peninsula, #flwx, https://t.co/7BVKnujk7C https://t.co/Oed0XALurd",
-          "created_at": "2026-11-01T21:52:43.000Z",
-          "url": "https://x.com/i/status/2117011984222769378",
-          "media_url": "https://pbs.twimg.com/media/HWEjLqDW8AAfQyd.jpg"
-        },
-        {
-          "id": "2117000741260833232",
-          "text": "Ongoing heavy rainfall across Florida will continue to bring a scattered flash flood threat through the first half of Monday. Several more inches of rainfall are possible over saturated soils that may enhance sensitivity to water runoff and flooding. https://t.co/NWcLTuLR4N",
-          "created_at": "2026-11-01T21:08:03.000Z",
-          "url": "https://x.com/i/status/2117000741260833232",
-          "media_url": "https://pbs.twimg.com/media/HWEY9JgXUAA12nx.jpg"
         }
       ]
     }
