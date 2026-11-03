@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-02T23:43:26.617Z",
+  "updated_utc": "2026-11-03T02:48:39.999Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -36,6 +36,12 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2117421475326017958",
+          "text": "WOW, look at this storm at sunset near Devol, Oklahoma.\n\nVideo: Adam Lucio (@AdamLucioWX) https://t.co/O3wKgfsNyS",
+          "created_at": "2026-11-03T00:59:54.000Z",
+          "url": "https://x.com/ryanhallyall/status/2117421475326017958"
+        },
+        {
           "id": "2117391528360292859",
           "text": "WOW, look at this storm over the wind farm near Helena, Oklahoma.\n\nVideo: Corey Gerken (@CoreyGerkenWX) https://t.co/T1EITRcthu",
           "created_at": "2026-11-02T23:00:54.000Z",
@@ -58,12 +64,6 @@
           "text": "Melbourne, Florida woke up to yards and streets under water, and the rain still hasn't stopped.\n\nPhotos: Table for the Moreno's https://t.co/OpHvfn4F4i",
           "created_at": "2026-11-02T13:42:34.000Z",
           "url": "https://x.com/ryanhallyall/status/2117251019935518853"
-        },
-        {
-          "id": "2117250544729219556",
-          "text": "The tornado risk just went up for Oklahoma City, Tulsa and southern Kansas today, and the threat picks up after about 6 PM Central. https://t.co/NJzQi6PzoL",
-          "created_at": "2026-11-02T13:40:41.000Z",
-          "url": "https://x.com/ryanhallyall/status/2117250544729219556"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2117436106073391327",
+          "text": "STATE OF EMERGENCY declared in Arizona after historic flash flooding hit 7 counties...\n\n3 straight days of heavy rain starting Friday have sent rivers and washes out of their banks. Oak Creek Canyon flooded and forced mass evacuations in Sedona, the Little Colorado River went https://t.co/D5I128WQlG",
+          "created_at": "2026-11-03T01:58:02.000Z",
+          "url": "https://x.com/MaxVelocityWX/status/2117436106073391327"
+        },
         {
           "id": "2117398887468093500",
           "text": "BEAUTIFUL Mammatus near Burkburnett, Texas a short time ago!\n\n @EdgarONealWX https://t.co/EI9VEm5MgE",
@@ -94,12 +100,6 @@
           "text": "STATE OF EMERGENCY issued for 7 Florida counties after flooding rain swamped parts of central and south Florida...\n\nSome of the worst flooding was in Brevard County and along the Treasure Coast. The declaration gets state resources to the flooded communities faster.\n\nBrevard, https://t.co/19z0Qxxhk5",
           "created_at": "2026-11-02T21:58:04.000Z",
           "url": "https://x.com/MaxVelocityWX/status/2117375716920635858"
-        },
-        {
-          "id": "2117339963301806495",
-          "text": "We're likely going LIVE this afternoon with chasers on the ground across Oklahoma and Kansas...\n\nA Tornado Watch is in effect until 10 PM CST, with a few tornadoes possible and a couple that could be intense.\n\nYou can also follow our chasers' locations and live streams in the https://t.co/mq39802evT",
-          "created_at": "2026-11-02T19:36:00.000Z",
-          "url": "https://x.com/MaxVelocityWX/status/2117339963301806495"
         }
       ]
     },
@@ -144,34 +144,34 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2117448017766686949",
+          "text": "National High/Low temps for Monday November 02, 2026: 97 at Rio Grande Village, TX; 13 at Burns, OR #txwx #orwx https://t.co/9sGT2zVJdS",
+          "created_at": "2026-11-03T02:45:22.000Z",
+          "url": "https://x.com/NWSWPC/status/2117448017766686949"
+        },
+        {
+          "id": "2117446969673298133",
+          "text": "WPC has initiated Storm Summaries for the heavy rainfall and flash flooding impacting the Florida over the last few days. \n\nTop rainfall amount so far was reported near Malabar, FL... 24.1 inches. \n\n🔗:https://t.co/mSj0gRYRAc",
+          "created_at": "2026-11-03T02:41:12.000Z",
+          "url": "https://x.com/NWSWPC/status/2117446969673298133"
+        },
+        {
+          "id": "2117436476476592350",
+          "text": "#WPC_MD 1551 affecting Central to Southeast FL coast, #flwx, https://t.co/ALeOwoD6qC https://t.co/8cKHDM5lyc",
+          "created_at": "2026-11-03T01:59:30.000Z",
+          "url": "https://x.com/NWSWPC/status/2117436476476592350"
+        },
+        {
+          "id": "2117434486870737384",
+          "text": "Here's the National Forecast Chart for Election Day (tomorrow). Showers and thunderstorms are expected to span from the Gulf Coast and Florida to the Midwest, Northern Plains, and Upper Great Lakes. Unsettled weather also possible over northern California. 🇺🇸 https://t.co/ML384Cwgf6",
+          "created_at": "2026-11-03T01:51:36.000Z",
+          "url": "https://x.com/NWSWPC/status/2117434486870737384"
+        },
+        {
           "id": "2117398851296653756",
           "text": "NEW for this season, the NWS is expanding “Particularly Dangerous Situation” (PDS) wording to select Blizzard &amp; Ice Storm Warnings. ❄️🧊\n\nPDS is reserved for rare, historic events posing an exceptional threat to life.\n\nWhen you see PDS in a warning, take immediate action! https://t.co/CtcA1pBqkv",
           "created_at": "2026-11-02T23:30:00.000Z",
           "url": "https://x.com/NWSWPC/status/2117398851296653756"
-        },
-        {
-          "id": "2117356796637585715",
-          "text": "A Slight Risk of Excessive Rainfall exists this afternoon through the overnight from Northeast Oklahoma through Eastern Kansas and Western Missouri. Localized flash flooding is possible due to rainfall amounts of 2\"-3\". https://t.co/aV1t4pqXhp",
-          "created_at": "2026-11-02T20:42:53.000Z",
-          "url": "https://x.com/NWSWPC/status/2117356796637585715"
-        },
-        {
-          "id": "2117342327186305168",
-          "text": "#WPC_MD 1550 affecting Most of FL Peninsula, #flwx, https://t.co/pyzISj33Pw https://t.co/lCK5UElmd8",
-          "created_at": "2026-11-02T19:45:23.000Z",
-          "url": "https://x.com/NWSWPC/status/2117342327186305168"
-        },
-        {
-          "id": "2117327281358017004",
-          "text": "Here are some preliminary 48 hour rainfall totals through early Monday morning across the Southwest and Four Corners Region. https://t.co/l20eRIpnzk",
-          "created_at": "2026-11-02T18:45:36.000Z",
-          "url": "https://x.com/NWSWPC/status/2117327281358017004"
-        },
-        {
-          "id": "2117282574166855713",
-          "text": "A MODERATE risk is in effect in our Day 1 Excessive Rainfall Outlook. More details: https://t.co/cfgBoWyKla https://t.co/wgQIQJVehz",
-          "created_at": "2026-11-02T15:47:57.000Z",
-          "url": "https://x.com/NWSWPC/status/2117282574166855713"
         }
       ]
     }
