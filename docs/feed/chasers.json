@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03T05:45:46.469Z",
+  "updated_utc": "2026-11-03T14:43:38.435Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2117591516415713363",
+          "text": "The nicest weather in the USA today will be in and around El Paso, TX, Tucson, AZ, and Yuma, AZ, with that beautiful stretch running clear across the southern High Plains and Desert Southwest. https://t.co/5toDde0tpZ",
+          "created_at": "2026-11-03T12:15:35.000Z",
+          "url": "https://x.com/i/status/2117591516415713363",
+          "media_url": "https://pbs.twimg.com/media/HWMyQvLXoAAQZhW.jpg"
+        },
+        {
           "id": "2117421475326017958",
           "text": "WOW, look at this storm at sunset near Devol, Oklahoma.\n\nVideo: Adam Lucio (@AdamLucioWX) https://t.co/O3wKgfsNyS",
           "created_at": "2026-11-03T00:59:54.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-11-02T19:44:17.000Z",
           "url": "https://x.com/i/status/2117342050131619987",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2117342034423914496/pu/img/-CSVz1pXX0oPnFqn.jpg"
-        },
-        {
-          "id": "2117251019935518853",
-          "text": "Melbourne, Florida woke up to yards and streets under water, and the rain still hasn't stopped.\n\nPhotos: Table for the Moreno's https://t.co/OpHvfn4F4i",
-          "created_at": "2026-11-02T13:42:34.000Z",
-          "url": "https://x.com/i/status/2117251019935518853",
-          "media_url": "https://pbs.twimg.com/media/HWH8lViWEAIozSs.jpg"
         }
       ]
     },
@@ -87,6 +87,27 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2117609003928662280",
+          "text": "A brief tornado or two can’t be ruled out today from East Texas and Arkansas up through Missouri, as a line of storms pushes east toward the Mississippi River into tonight... https://t.co/CAjb70rF06",
+          "created_at": "2026-11-03T13:25:04.000Z",
+          "url": "https://x.com/i/status/2117609003928662280",
+          "media_url": "https://pbs.twimg.com/media/HWNCKmBXYAAd-sX.jpg"
+        },
+        {
+          "id": "2117530120084705439",
+          "text": "TORNADO WARNING for Cedarville, Arkansas!\n\nSeek shelter if you are in this warning! https://t.co/RcQ3VugcjA",
+          "created_at": "2026-11-03T08:11:37.000Z",
+          "url": "https://x.com/i/status/2117530120084705439",
+          "media_url": "https://pbs.twimg.com/media/HWL6a61X0AAug7V.jpg"
+        },
+        {
+          "id": "2117516133699932510",
+          "text": "TORNADO IN PROGRESS north of Adair, Oklahoma!\n\nSeek shelter IMMEDIATELY if you are in this warning! https://t.co/8iegpmx69S",
+          "created_at": "2026-11-03T07:16:02.000Z",
+          "url": "https://x.com/i/status/2117516133699932510",
+          "media_url": "https://pbs.twimg.com/media/HWLts0pWYAAsDjB.jpg"
+        },
         {
           "id": "2117464507383525668",
           "text": "Nearly 3 TRILLION GALLONS of rain have fallen across Florida in just 48 hours!\n\nThat's enough water to cover roughly 2.2 MILLION football fields with 3 FEET of water!\n\nSome areas along Florida's east coast have seen radar-estimated rainfall totals approaching 26 INCHES.\n\nThe https://t.co/ZZHtt6wZU7",
@@ -100,27 +121,6 @@
           "created_at": "2026-11-03T03:21:37.000Z",
           "url": "https://x.com/i/status/2117457141711986845",
           "media_url": "https://pbs.twimg.com/media/HWK3eCtWgAEcXcv.jpg"
-        },
-        {
-          "id": "2117451082632737163",
-          "text": "A 1-IN-1,000-YEAR flooding event is unfolding in Brevard County, Florida!\n\nMore than 100 people have been rescued as extreme rainfall overwhelms the area.\n\nMelbourne recorded over 11 INCHES of rain in a single day, shattering its previous daily record, which was set by Hurricane https://t.co/5BWNCAONGV",
-          "created_at": "2026-11-03T02:57:33.000Z",
-          "url": "https://x.com/i/status/2117451082632737163",
-          "media_url": "https://pbs.twimg.com/media/HWKyP8QWwAALtKn.jpg"
-        },
-        {
-          "id": "2117436106073391327",
-          "text": "STATE OF EMERGENCY declared in Arizona after historic flash flooding hit 7 counties...\n\n3 straight days of heavy rain starting Friday have sent rivers and washes out of their banks. Oak Creek Canyon flooded and forced mass evacuations in Sedona, the Little Colorado River went https://t.co/D5I128WQlG",
-          "created_at": "2026-11-03T01:58:02.000Z",
-          "url": "https://x.com/i/status/2117436106073391327",
-          "media_url": "https://pbs.twimg.com/media/HWKk6rgXgAATplb.jpg"
-        },
-        {
-          "id": "2117398887468093500",
-          "text": "BEAUTIFUL Mammatus near Burkburnett, Texas a short time ago!\n\n @EdgarONealWX https://t.co/EI9VEm5MgE",
-          "created_at": "2026-11-02T23:30:08.000Z",
-          "url": "https://x.com/i/status/2117398887468093500",
-          "media_url": "https://pbs.twimg.com/media/HWKDEJdWUAAUnEl.jpg"
         }
       ]
     },
@@ -169,6 +169,18 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2117588925191500008",
+          "text": "Heavy rainfall threat continues along the east coast of Florida today https://t.co/kPv4k077nv",
+          "created_at": "2026-11-03T12:05:17.000Z",
+          "url": "https://x.com/i/status/2117588925191500008"
+        },
+        {
+          "id": "2117588923517984890",
+          "text": "Heavy rainfall, isolated severe weather, and gusty winds spread eastward across the Mississippi Valley https://t.co/kPv4k077nv",
+          "created_at": "2026-11-03T12:05:16.000Z",
+          "url": "https://x.com/i/status/2117588923517984890"
+        },
+        {
           "id": "2117449060898799777",
           "text": "WPC has initiated Storm Summaries for heavy rainfall and flash flooding impacting the Florida Peninsula over the last few days. \n\nTop rainfall amount so far was reported near Malabar, FL... 24.1 inches.\n\n🔗: https://t.co/mSj0gRYRAc",
           "created_at": "2026-11-03T02:49:31.000Z",
@@ -186,20 +198,6 @@
           "created_at": "2026-11-03T01:59:30.000Z",
           "url": "https://x.com/i/status/2117436476476592350",
           "media_url": "https://pbs.twimg.com/media/HWKlQXGXkAApNvq.jpg"
-        },
-        {
-          "id": "2117434486870737384",
-          "text": "Here's the National Forecast Chart for Election Day (tomorrow). Showers and thunderstorms are expected to span from the Gulf Coast and Florida to the Midwest, Northern Plains, and Upper Great Lakes. Unsettled weather also possible over northern California. 🇺🇸 https://t.co/ML384Cwgf6",
-          "created_at": "2026-11-03T01:51:36.000Z",
-          "url": "https://x.com/i/status/2117434486870737384",
-          "media_url": "https://pbs.twimg.com/media/HWKjAgYW4AANWBS.jpg"
-        },
-        {
-          "id": "2117398851296653756",
-          "text": "NEW for this season, the NWS is expanding “Particularly Dangerous Situation” (PDS) wording to select Blizzard &amp; Ice Storm Warnings. ❄️🧊\n\nPDS is reserved for rare, historic events posing an exceptional threat to life.\n\nWhen you see PDS in a warning, take immediate action! https://t.co/CtcA1pBqkv",
-          "created_at": "2026-11-02T23:30:00.000Z",
-          "url": "https://x.com/i/status/2117398851296653756",
-          "media_url": "https://pbs.twimg.com/media/HV8LapMWMAA1EWJ.jpg"
         }
       ]
     }
