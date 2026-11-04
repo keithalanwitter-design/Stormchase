@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T05:43:08.143Z",
+  "updated_utc": "2026-11-04T14:45:34.400Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2117970968702280119",
+          "text": "Minneapolis still hasn't hit freezing. Only five falls since 1872 have gone this long. https://t.co/2Jsy3TtsvU",
+          "created_at": "2026-11-04T13:23:23.000Z",
+          "url": "https://x.com/i/status/2117970968702280119",
+          "media_url": "https://pbs.twimg.com/media/HWSLXxKW8AAdzrb.jpg"
+        },
+        {
+          "id": "2117953911277437352",
+          "text": "The nicest weather in the USA today will be in and around Victoria, TX. https://t.co/Hd8iJ8Jp5C",
+          "created_at": "2026-11-04T12:15:36.000Z",
+          "url": "https://x.com/i/status/2117953911277437352",
+          "media_url": "https://pbs.twimg.com/media/HWR725yXkAABTw7.jpg"
+        },
+        {
           "id": "2117711414097768722",
           "text": "It's November 3rd and it's in the 70s from Detroit to Boston. Normal for today is the mid 50s. https://t.co/Yc4f8hzgWk",
           "created_at": "2026-11-03T20:12:00.000Z",
@@ -66,20 +80,6 @@
           "created_at": "2026-11-03T16:43:25.000Z",
           "url": "https://x.com/i/status/2117658919933800594",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2117658887042011136/pu/img/i3LE1sjxGI5dXpip.jpg"
-        },
-        {
-          "id": "2117591516415713363",
-          "text": "The nicest weather in the USA today will be in and around El Paso, TX, Tucson, AZ, and Yuma, AZ, with that beautiful stretch running clear across the southern High Plains and Desert Southwest. https://t.co/5toDde0tpZ",
-          "created_at": "2026-11-03T12:15:35.000Z",
-          "url": "https://x.com/i/status/2117591516415713363",
-          "media_url": "https://pbs.twimg.com/media/HWMyQvLXoAAQZhW.jpg"
-        },
-        {
-          "id": "2117421475326017958",
-          "text": "WOW, look at this storm at sunset near Devol, Oklahoma.\n\nVideo: Adam Lucio (@AdamLucioWX) https://t.co/O3wKgfsNyS",
-          "created_at": "2026-11-03T00:59:54.000Z",
-          "url": "https://x.com/i/status/2117421475326017958",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2117421430618923008/pu/img/cBZ7CLiciqktCwji.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2117972144554418273",
+          "text": "A brief tornado can’t be ruled out today from Atlanta up through Chattanooga and Knoxville, with the threat ending by early evening. https://t.co/ZvDuZ1bscD",
+          "created_at": "2026-11-04T13:28:03.000Z",
+          "url": "https://x.com/i/status/2117972144554418273",
+          "media_url": "https://pbs.twimg.com/media/HWSMcHwXgAAY79n.jpg"
+        },
         {
           "id": "2117797192949747735",
           "text": "Devastating flooding in Florida has now claimed 2 lives in Brevard County, Florida.\n\nMore than 160 people have been rescued following a historic 1-IN-1,000-YEAR rainfall event.\n\nRadar estimates suggest some areas received up to 26 INCHES of rain in just 72 hours.\n\nMy thoughts are https://t.co/DnnF97Zk3H",
@@ -106,13 +113,6 @@
           "text": "We are 230 days away from summer",
           "created_at": "2026-11-03T22:56:50.000Z",
           "url": "https://x.com/i/status/2117752894032052483"
-        },
-        {
-          "id": "2117749676300525874",
-          "text": "The Atlantic might not be done yet, with a possible subtropical storm trying to form this weekend...\n\nAn area of low pressure is expected to develop a few hundred miles south of Bermuda over the next day or so, with a 40% chance of becoming a tropical or subtropical system over https://t.co/M4ST6mYoTs",
-          "created_at": "2026-11-03T22:44:03.000Z",
-          "url": "https://x.com/i/status/2117749676300525874",
-          "media_url": "https://pbs.twimg.com/media/HWO0YG7XQAAsbmw.jpg"
         }
       ]
     },
@@ -160,6 +160,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2117969365811290367",
+          "text": "#WPC_MD 1555 affecting portions of the FL Gold Coast, #flwx, https://t.co/t1hRINSHxv https://t.co/fWDpePTnzt",
+          "created_at": "2026-11-04T13:17:01.000Z",
+          "url": "https://x.com/i/status/2117969365811290367",
+          "media_url": "https://pbs.twimg.com/media/HWSJ6m5XsAApMyE.jpg"
+        },
+        {
           "id": "2117810439719452781",
           "text": "National High/Low temps for Tuesday November 03, 2026: 92 at 3 miles southeast of Linn, TX; 11 at 32 miles west-southwest of Bynum, MT, 37 miles east-southeast of Wahsatch, UT #txwx #mtwx #utwx",
           "created_at": "2026-11-04T02:45:30.000Z",
@@ -185,13 +192,6 @@
           "created_at": "2026-11-03T17:55:40.000Z",
           "url": "https://x.com/i/status/2117677103650934885",
           "media_url": "https://pbs.twimg.com/media/HWOAGoxWgAAy9Gj.jpg"
-        },
-        {
-          "id": "2117632312204509342",
-          "text": "#WPC_MD 1552 affecting Northeast TX...Northwest LA...Western AR, #arwx #lawx #txwx, https://t.co/BJ4uW0Eb8P https://t.co/F8gOEo1IsW",
-          "created_at": "2026-11-03T14:57:41.000Z",
-          "url": "https://x.com/i/status/2117632312204509342",
-          "media_url": "https://pbs.twimg.com/media/HWNXXehXAAAX8KM.jpg"
         }
       ]
     }
