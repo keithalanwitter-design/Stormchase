@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03T23:43:44.907Z",
+  "updated_utc": "2026-11-04T02:41:29.550Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2117797192949747735",
+          "text": "Devastating flooding in Florida has now claimed 2 lives in Brevard County, Florida.\n\nMore than 160 people have been rescued following a historic 1-IN-1,000-YEAR rainfall event.\n\nRadar estimates suggest some areas received up to 26 INCHES of rain in just 72 hours.\n\nMy thoughts are https://t.co/DnnF97Zk3H",
+          "created_at": "2026-11-04T01:52:52.000Z",
+          "url": "https://x.com/i/status/2117797192949747735",
+          "media_url": "https://pbs.twimg.com/media/HWPn6RQXIAARCwq.jpg"
+        },
+        {
           "id": "2117754463251308739",
           "text": "TORNADO WARNING for Hamburg, Arkansas!\n\nSeek shelter if you are in this warning! https://t.co/YkiHCtld5C",
           "created_at": "2026-11-03T23:03:04.000Z",
@@ -106,20 +113,6 @@
           "created_at": "2026-11-03T22:44:03.000Z",
           "url": "https://x.com/i/status/2117749676300525874",
           "media_url": "https://pbs.twimg.com/media/HWO0YG7XQAAsbmw.jpg"
-        },
-        {
-          "id": "2117740857302348037",
-          "text": "TORNADO WARNING for Marion, Louisiana!\n\nSeek shelter if you are in this warning! https://t.co/oJkeHxTMPE",
-          "created_at": "2026-11-03T22:09:00.000Z",
-          "url": "https://x.com/i/status/2117740857302348037",
-          "media_url": "https://pbs.twimg.com/media/HWO6FYVWQAEIfou.jpg"
-        },
-        {
-          "id": "2117725702036324393",
-          "text": "20 Inches In 12 Hours - We've NEVER Seen This Much Rain In This Part of Florida This Fast... https://t.co/iBXvjderv7",
-          "created_at": "2026-11-03T21:08:47.000Z",
-          "url": "https://x.com/i/status/2117725702036324393",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2117725583584931841/img/8MmPpB_kGYjb94R5.jpg"
         }
       ]
     },
@@ -167,6 +160,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2117794883666682129",
+          "text": "#WPC_MD 1554 affecting Southeast FL, #flwx, https://t.co/6ixAVBQ5Ix https://t.co/dpERjcKxFZ",
+          "created_at": "2026-11-04T01:43:41.000Z",
+          "url": "https://x.com/i/status/2117794883666682129",
+          "media_url": "https://pbs.twimg.com/media/HWPrOabXkAAA915.jpg"
+        },
+        {
           "id": "2117739378663444945",
           "text": "#WPC_MD 1553 affecting Eastern AR...Northern LA...Northwest MS...Western TN, #tnwx #mswx #mowx #arwx #lawx, https://t.co/78iESKoO6W https://t.co/bktvBycK0y",
           "created_at": "2026-11-03T22:03:08.000Z",
@@ -192,12 +192,6 @@
           "text": "Heavy rainfall threat continues along the east coast of Florida today https://t.co/kPv4k077nv",
           "created_at": "2026-11-03T12:05:17.000Z",
           "url": "https://x.com/i/status/2117588925191500008"
-        },
-        {
-          "id": "2117588923517984890",
-          "text": "Heavy rainfall, isolated severe weather, and gusty winds spread eastward across the Mississippi Valley https://t.co/kPv4k077nv",
-          "created_at": "2026-11-03T12:05:16.000Z",
-          "url": "https://x.com/i/status/2117588923517984890"
         }
       ]
     }
