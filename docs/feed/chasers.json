@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T02:41:29.550Z",
+  "updated_utc": "2026-11-04T05:43:08.143Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -160,6 +160,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2117810439719452781",
+          "text": "National High/Low temps for Tuesday November 03, 2026: 92 at 3 miles southeast of Linn, TX; 11 at 32 miles west-southwest of Bynum, MT, 37 miles east-southeast of Wahsatch, UT #txwx #mtwx #utwx",
+          "created_at": "2026-11-04T02:45:30.000Z",
+          "url": "https://x.com/i/status/2117810439719452781"
+        },
+        {
           "id": "2117794883666682129",
           "text": "#WPC_MD 1554 affecting Southeast FL, #flwx, https://t.co/6ixAVBQ5Ix https://t.co/dpERjcKxFZ",
           "created_at": "2026-11-04T01:43:41.000Z",
@@ -186,12 +192,6 @@
           "created_at": "2026-11-03T14:57:41.000Z",
           "url": "https://x.com/i/status/2117632312204509342",
           "media_url": "https://pbs.twimg.com/media/HWNXXehXAAAX8KM.jpg"
-        },
-        {
-          "id": "2117588925191500008",
-          "text": "Heavy rainfall threat continues along the east coast of Florida today https://t.co/kPv4k077nv",
-          "created_at": "2026-11-03T12:05:17.000Z",
-          "url": "https://x.com/i/status/2117588925191500008"
         }
       ]
     }
