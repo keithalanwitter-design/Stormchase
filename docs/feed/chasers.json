@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T14:45:34.400Z",
+  "updated_utc": "2026-11-04T17:45:01.789Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2118003859645755416",
+          "text": "The polar vortex has nearly stopped spinning, and its winds could even briefly turn backward by Sunday...\n\nWinds about 20 miles up circling the North Pole usually blow around 55 mph in early November, but they’ve slowed to just 2 mph today, and the vortex has split into two https://t.co/GDCSfL3Aqc",
+          "created_at": "2026-11-04T15:34:05.000Z",
+          "url": "https://x.com/i/status/2118003859645755416",
+          "media_url": "https://pbs.twimg.com/media/HWSpSEeX0AAiiHS.jpg"
+        },
+        {
           "id": "2117972144554418273",
           "text": "A brief tornado can’t be ruled out today from Atlanta up through Chattanooga and Knoxville, with the threat ending by early evening. https://t.co/ZvDuZ1bscD",
           "created_at": "2026-11-04T13:28:03.000Z",
@@ -107,12 +114,6 @@
           "created_at": "2026-11-03T23:03:04.000Z",
           "url": "https://x.com/i/status/2117754463251308739",
           "media_url": "https://pbs.twimg.com/media/HWPGdYlWUAAQL-p.jpg"
-        },
-        {
-          "id": "2117752894032052483",
-          "text": "We are 230 days away from summer",
-          "created_at": "2026-11-03T22:56:50.000Z",
-          "url": "https://x.com/i/status/2117752894032052483"
         }
       ]
     },
