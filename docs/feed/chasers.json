@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T17:45:01.789Z",
+  "updated_utc": "2026-11-04T20:48:02.712Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2118048877995606291",
+          "text": "The polar vortex is the weakest we've ever measured this early in the year.\n\nWhen it breaks down like this, Arctic cold can come down into the U.S. a few weeks later. https://t.co/j2IEugl5U1",
+          "created_at": "2026-11-04T18:32:58.000Z",
+          "url": "https://x.com/i/status/2118048877995606291",
+          "media_url": "https://pbs.twimg.com/media/HWTSOxYXgAE092j.jpg"
+        },
+        {
           "id": "2117970968702280119",
           "text": "Minneapolis still hasn't hit freezing. Only five falls since 1872 have gone this long. https://t.co/2Jsy3TtsvU",
           "created_at": "2026-11-04T13:23:23.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-11-03T16:55:52.000Z",
           "url": "https://x.com/i/status/2117662054739755464",
           "media_url": "https://pbs.twimg.com/media/HWNyag1XwAALZ-J.jpg"
-        },
-        {
-          "id": "2117658919933800594",
-          "text": "WOW, look at this big lowering coming down right next to Brandon near Belcher, Louisiana moments ago.\n\nVideo: Brandon Copic (@BrandonCopicWx) https://t.co/VqIi9jGazD",
-          "created_at": "2026-11-03T16:43:25.000Z",
-          "url": "https://x.com/i/status/2117658919933800594",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2117658887042011136/pu/img/i3LE1sjxGI5dXpip.jpg"
         }
       ]
     },
