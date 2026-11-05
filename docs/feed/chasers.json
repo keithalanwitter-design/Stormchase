@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05T02:43:50.233Z",
+  "updated_utc": "2026-11-05T05:42:12.351Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2118188823020454320",
+          "text": "Flash flood emergency in north Georgia right now, southern Fannin and northern Gilmer County, including Blue Ridge, Higdon, and Colwell, until 1:30 AM EST. Five to six inches of rain have already caused mudslides and water rescues, with 1 to 3 more inches possible, so get up out https://t.co/VMBo6o2rxW",
+          "created_at": "2026-11-05T03:49:04.000Z",
+          "url": "https://x.com/i/status/2118188823020454320",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118188789315026944/pu/img/lO1q0WJiO3wQM7LU.jpg"
+        },
+        {
           "id": "2118048877995606291",
           "text": "The polar vortex is the weakest we've ever measured this early in the year.\n\nWhen it breaks down like this, Arctic cold can come down into the U.S. a few weeks later. https://t.co/j2IEugl5U1",
           "created_at": "2026-11-04T18:32:58.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-11-03T20:12:00.000Z",
           "url": "https://x.com/i/status/2117711414097768722",
           "media_url": "https://pbs.twimg.com/media/HWOfTw5WAAAvI3f.jpg"
-        },
-        {
-          "id": "2117662054739755464",
-          "text": "The San Juan River just pushed more water through Shiprock, New Mexico than it has since 1957. https://t.co/TX9NwCwnFg",
-          "created_at": "2026-11-03T16:55:52.000Z",
-          "url": "https://x.com/i/status/2117662054739755464",
-          "media_url": "https://pbs.twimg.com/media/HWNyag1XwAALZ-J.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2118190077759140180",
+          "text": "FLASH FLOOD EMERGENCY for Fannin and Gilmer counties in Georgia!\n\nFlash flooding resulting in mudslides and water rescues is already occurring in these areas, as 5-6\" of rain has fallen over the last several hours!\n\nDo not attempt to travel unless fleeing flooding or under an https://t.co/qf1vncaNRA",
+          "created_at": "2026-11-05T03:54:03.000Z",
+          "url": "https://x.com/i/status/2118190077759140180",
+          "media_url": "https://pbs.twimg.com/media/HWVSpk8X0AAaXlV.jpg"
+        },
         {
           "id": "2118151331688939824",
           "text": "Here's a look at how much SNOW typically falls across the United States every winter! ❄️\n\nThis year has a lot of moving pieces with El Niño in play, so some of you could blow right past these numbers while others won’t come close. \n\nDon’t get your hopes up just yet though, https://t.co/REwqKVNQpx",
@@ -114,13 +121,6 @@
           "created_at": "2026-11-04T15:34:05.000Z",
           "url": "https://x.com/i/status/2118003859645755416",
           "media_url": "https://pbs.twimg.com/media/HWSpSEeX0AAiiHS.jpg"
-        },
-        {
-          "id": "2117972144554418273",
-          "text": "A brief tornado can’t be ruled out today from Atlanta up through Chattanooga and Knoxville, with the threat ending by early evening. https://t.co/ZvDuZ1bscD",
-          "created_at": "2026-11-04T13:28:03.000Z",
-          "url": "https://x.com/i/status/2117972144554418273",
-          "media_url": "https://pbs.twimg.com/media/HWSMcHwXgAAY79n.jpg"
         }
       ]
     },
@@ -168,6 +168,19 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2118189704940015777",
+          "text": "#WPC_MD 1556 affecting southern Appalachians, #ncwx #scwx #gawx #tnwx, https://t.co/qAlqvBoaeQ https://t.co/ygSdR94iJk",
+          "created_at": "2026-11-05T03:52:34.000Z",
+          "url": "https://x.com/i/status/2118189704940015777",
+          "media_url": "https://pbs.twimg.com/media/HWVSUB8WEAEZuj7.jpg"
+        },
+        {
+          "id": "2118172772689961345",
+          "text": "National High/Low temps for Wednesday November 04, 2026: 91 at 7 miles east-southeast of Hidalgo, TX, 8 miles west of Miles City, FL; 11 at 32 miles west-southwest of Bynum, MT #txwx #flwx #mtwx",
+          "created_at": "2026-11-05T02:45:17.000Z",
+          "url": "https://x.com/i/status/2118172772689961345"
+        },
+        {
           "id": "2117969365811290367",
           "text": "#WPC_MD 1555 affecting portions of the FL Gold Coast, #flwx, https://t.co/t1hRINSHxv https://t.co/fWDpePTnzt",
           "created_at": "2026-11-04T13:17:01.000Z",
@@ -186,20 +199,6 @@
           "created_at": "2026-11-04T01:43:41.000Z",
           "url": "https://x.com/i/status/2117794883666682129",
           "media_url": "https://pbs.twimg.com/media/HWPrOabXkAAA915.jpg"
-        },
-        {
-          "id": "2117739378663444945",
-          "text": "#WPC_MD 1553 affecting Eastern AR...Northern LA...Northwest MS...Western TN, #tnwx #mswx #mowx #arwx #lawx, https://t.co/78iESKoO6W https://t.co/bktvBycK0y",
-          "created_at": "2026-11-03T22:03:08.000Z",
-          "url": "https://x.com/i/status/2117739378663444945",
-          "media_url": "https://pbs.twimg.com/media/HWO4vl2XgAAMbP5.jpg"
-        },
-        {
-          "id": "2117677103650934885",
-          "text": "Here is the latest totals on the 3 Day Florida Heavy Rainfall https://t.co/tG9xHr0GPF",
-          "created_at": "2026-11-03T17:55:40.000Z",
-          "url": "https://x.com/i/status/2117677103650934885",
-          "media_url": "https://pbs.twimg.com/media/HWOAGoxWgAAy9Gj.jpg"
         }
       ]
     }
