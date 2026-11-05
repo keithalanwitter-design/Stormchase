@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-11-05T17:47:10.699Z",
+  "updated_utc": "2026-11-05T20:44:27.868Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2118416316709130661",
+          "text": "THANK YOU for supporting our science mission with the Dominator 3 models.\n\nThey are exact replicas of the Dominator 3 with working anemometer and armored shell deployment.\n\nYou can purchase your own Dominator 3 at https://t.co/U1wv6bXueu https://t.co/uznMzJIV7I",
+          "created_at": "2026-11-05T18:53:02.000Z",
+          "url": "https://x.com/i/status/2118416316709130661",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2118416238393090048/img/xxVEFuyi9PM2Orwz.jpg"
+        },
         {
           "id": "2118142483527791066",
           "text": "It’s happening!!\n\nTeam Dominator limited edition Dominator 3 toys LIVE at https://t.co/U1wv6bXueu https://t.co/9yotZQGr2M",
@@ -32,13 +39,6 @@
           "created_at": "2026-11-02T18:49:37.000Z",
           "url": "https://x.com/i/status/2117328290557948250",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2117327915478093824/img/RdAwSCAEAsog37dw.jpg"
-        },
-        {
-          "id": "2117298564422312100",
-          "text": "An ENHANCED RISK including the threat of EF2 tornadoes has been added to central and northern Oklahoma from OKC Metro north!\n\nWe are expected the usual I-44 ripper mode but a greater number if supercells across northern Oklahoma.\n\nTeam Dominator is activating live storm chase https://t.co/6qw0oO4hl9",
-          "created_at": "2026-11-02T16:51:29.000Z",
-          "url": "https://x.com/i/status/2117298564422312100",
-          "media_url": "https://pbs.twimg.com/media/HWIn0jAXAAAKklM.jpg"
         }
       ]
     },
@@ -46,6 +46,13 @@
       "handle": "ryanhallyall",
       "name": "Ryan Hall, Y’all",
       "posts": [
+        {
+          "id": "2118401256171401299",
+          "text": "Just outside Blue Ridge, Georgia, more than 10 inches of rain fell in under six hours last night. That's more than a once-in-a-thousand-years rain. https://t.co/xMdZ7ZW9Sn",
+          "created_at": "2026-11-05T17:53:12.000Z",
+          "url": "https://x.com/i/status/2118401256171401299",
+          "media_url": "https://pbs.twimg.com/media/HWYStsPXIAA-iLC.jpg"
+        },
         {
           "id": "2118323645105701192",
           "text": "Saturday night is the first freeze of the fall for most of Kentucky and a lot of Tennessee. https://t.co/MhyXbVOvdZ",
@@ -73,13 +80,6 @@
           "created_at": "2026-11-05T10:10:06.000Z",
           "url": "https://x.com/i/status/2118284715761275289",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118284680868855809/pu/img/9infD5MXovTGh__D.jpg"
-        },
-        {
-          "id": "2118267216361615701",
-          "text": "Copperhill, Tennessee, this is catastrophic and it's happening right now. The Ocoee River just hit major flood stage, only 3 feet from its all time peak, with homes and businesses underwater and being evacuated. If you're anywhere near that river, get to higher ground immediately https://t.co/zCawE2lNKw",
-          "created_at": "2026-11-05T09:00:34.000Z",
-          "url": "https://x.com/i/status/2118267216361615701",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118267178377994240/pu/img/dFhJyr_3lIjotE3j.jpg"
         }
       ]
     },
@@ -168,6 +168,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2118404389563961486",
+          "text": "⛈️ Rainfall returns to parts of the East Coast &amp; Mid-Atlantic over the next few days, while in the Pacific Northwest, a series of storm systems brings heavy rain and high elevation snow. In southern Texas, Gulf moisture will bring heavy rain &amp; thunderstorms on Sunday. https://t.co/3htS7gDlu9",
+          "created_at": "2026-11-05T18:05:39.000Z",
+          "url": "https://x.com/i/status/2118404389563961486",
+          "media_url": "https://pbs.twimg.com/media/HWYVkNiWEAAnR_X.jpg"
+        },
+        {
           "id": "2118313696342511737",
           "text": "Heavy rainfall shifts into the Eastern Seaboard https://t.co/kPv4k077nv",
           "created_at": "2026-11-05T12:05:16.000Z",
@@ -192,12 +199,6 @@
           "created_at": "2026-11-04T13:17:01.000Z",
           "url": "https://x.com/i/status/2117969365811290367",
           "media_url": "https://pbs.twimg.com/media/HWSJ6m5XsAApMyE.jpg"
-        },
-        {
-          "id": "2117810439719452781",
-          "text": "National High/Low temps for Tuesday November 03, 2026: 92 at 3 miles southeast of Linn, TX; 11 at 32 miles west-southwest of Bynum, MT, 37 miles east-southeast of Wahsatch, UT #txwx #mtwx #utwx",
-          "created_at": "2026-11-04T02:45:30.000Z",
-          "url": "https://x.com/i/status/2117810439719452781"
         }
       ]
     }
