@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06T20:42:47.110Z",
+  "updated_utc": "2026-11-06T23:43:38.605Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2118819184083608049",
+          "text": "Norfolk is having its wettest November day on record. The airport has picked up 5.5 inches of rain so far today, beating the old record of 5.02 inches from 1893. https://t.co/Jrj9xIUl7E",
+          "created_at": "2026-11-06T21:33:53.000Z",
+          "url": "https://x.com/i/status/2118819184083608049",
+          "media_url": "https://pbs.twimg.com/media/HWeO0dxX0AAK89C.jpg"
+        },
+        {
           "id": "2118685090926448986",
           "text": "Minneapolis finally froze early this morning. It hit 31, tied for the third latest first freeze there since 1872.",
           "created_at": "2026-11-06T12:41:03.000Z",
@@ -71,13 +78,6 @@
           "created_at": "2026-11-06T00:18:43.000Z",
           "url": "https://x.com/i/status/2118498274973749359",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118498246733529088/pu/img/wvgxVEQBqz1Nqw4H.jpg"
-        },
-        {
-          "id": "2118484261841822113",
-          "text": "WOW, Lake Superior threw a wave right over Jaden's car near Marquette, Michigan this evening, with a gale warning out on the lake and waves up to 16 feet.\n\nVideo: Jaden Pappenheim (@PappenheimWx) https://t.co/mj2Y1575LB",
-          "created_at": "2026-11-05T23:23:02.000Z",
-          "url": "https://x.com/i/status/2118484261841822113",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118484227805024256/pu/img/NPz16aE248f0MIKs.jpg"
         }
       ]
     },
@@ -85,6 +85,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2118831069935944181",
+          "text": "For the first time in 44 YEARS, a tropical storm has formed in the Central Pacific in November...\n\nPena becomes the 26th tropical storm to form in this year's record-breaking Pacific hurricane season, and it is expected to remain well south of Hawaii over the next several days. https://t.co/N3o8DHSnEP",
+          "created_at": "2026-11-06T22:21:07.000Z",
+          "url": "https://x.com/i/status/2118831069935944181",
+          "media_url": "https://pbs.twimg.com/media/HWeZoIoWUAAGYWV.jpg"
+        },
         {
           "id": "2118789039742501285",
           "text": "A FLANNEL WARNING is in effect for most of the country this weekend... https://t.co/u9hqE04weG",
@@ -112,12 +119,6 @@
           "created_at": "2026-11-06T13:17:05.000Z",
           "url": "https://x.com/i/status/2118694159598985329",
           "media_url": "https://pbs.twimg.com/media/HWcdHBQXAAATuHC.jpg"
-        },
-        {
-          "id": "2118458618244972587",
-          "text": "Which hits rock bottom first: Our weather or the stock market",
-          "created_at": "2026-11-05T21:41:08.000Z",
-          "url": "https://x.com/i/status/2118458618244972587"
         }
       ]
     },
