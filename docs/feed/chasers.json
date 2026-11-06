@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-06T05:47:46.893Z",
+  "updated_utc": "2026-11-06T15:01:50.068Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,19 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2118685090926448986",
+          "text": "Minneapolis finally froze early this morning. It hit 31, tied for the third latest first freeze there since 1872.",
+          "created_at": "2026-11-06T12:41:03.000Z",
+          "url": "https://x.com/i/status/2118685090926448986"
+        },
+        {
+          "id": "2118678821670985847",
+          "text": "The nicest weather in the USA today will be in and around Yuma, AZ, Oljato-Monument Valley, UT, and Fort Smith, AR. https://t.co/RiMXITxfuv",
+          "created_at": "2026-11-06T12:16:08.000Z",
+          "url": "https://x.com/i/status/2118678821670985847",
+          "media_url": "https://pbs.twimg.com/media/HWcPKOpWsAAITzc.jpg"
+        },
+        {
           "id": "2118500221835448465",
           "text": "Since we posted this, Marquette police say a man was washed off the Black Rocks at Presque Isle Park this afternoon and hasn't been found. Please stay well back from the shore while these waves are up.",
           "created_at": "2026-11-06T00:26:27.000Z",
@@ -65,20 +78,6 @@
           "created_at": "2026-11-05T23:23:02.000Z",
           "url": "https://x.com/i/status/2118484261841822113",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118484227805024256/pu/img/NPz16aE248f0MIKs.jpg"
-        },
-        {
-          "id": "2118481285370798331",
-          "text": "Kilauea is erupting again. This lava fountain started at 12:10 this afternoon Hawaii time, and these fountains usually climb 500 to 1,500 feet high within an hour or two.\n\nVideo: USGS Hawaiian Volcano Observatory https://t.co/giBaW80vuO",
-          "created_at": "2026-11-05T23:11:12.000Z",
-          "url": "https://x.com/i/status/2118481285370798331",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118481240017833985/pu/img/FyGm5mfQVE9hjzuA.jpg"
-        },
-        {
-          "id": "2118401256171401299",
-          "text": "Just outside Blue Ridge, Georgia, more than 10 inches of rain fell in under six hours last night. That's more than a once-in-a-thousand-years rain. https://t.co/xMdZ7ZW9Sn",
-          "created_at": "2026-11-05T17:53:12.000Z",
-          "url": "https://x.com/i/status/2118401256171401299",
-          "media_url": "https://pbs.twimg.com/media/HWYStsPXIAA-iLC.jpg"
         }
       ]
     },
@@ -86,6 +85,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2118705987490087079",
+          "text": "BREAKING: A NEW RADAR SITE is coming to southeast Missouri, filling one of the largest radar coverage gaps in the United States!\n\nThe radar will be built near Van Buren, Missouri, where the lowest radar beam currently passes roughly 13,000 FEET above the ground!\n\nThis $2 MILLION+ https://t.co/CNkBO5xzyA",
+          "created_at": "2026-11-06T14:04:05.000Z",
+          "url": "https://x.com/i/status/2118705987490087079",
+          "media_url": "https://pbs.twimg.com/media/HWcn3eGWYAApfAI.jpg"
+        },
+        {
+          "id": "2118694159598985329",
+          "text": "A brief tornado or two can’t be ruled out today from Florence and Raleigh to Norfolk... storms fire up late morning to midday and should weaken or move offshore by early evening. https://t.co/u45CdW7Xl7",
+          "created_at": "2026-11-06T13:17:05.000Z",
+          "url": "https://x.com/i/status/2118694159598985329",
+          "media_url": "https://pbs.twimg.com/media/HWcdHBQXAAATuHC.jpg"
+        },
         {
           "id": "2118458618244972587",
           "text": "Which hits rock bottom first: Our weather or the stock market",
@@ -105,20 +118,6 @@
           "created_at": "2026-11-05T14:52:58.000Z",
           "url": "https://x.com/i/status/2118355901899829493",
           "media_url": "https://pbs.twimg.com/media/HWXpdkUW0AAKph5.jpg"
-        },
-        {
-          "id": "2118336303884275795",
-          "text": "A brief tornado can’t be ruled out tomorrow across eastern North Carolina and southeast Virginia, from Norfolk and the Outer Banks down to Wilmington and Florence... https://t.co/fNzojtQ4Xv",
-          "created_at": "2026-11-05T13:35:06.000Z",
-          "url": "https://x.com/i/status/2118336303884275795",
-          "media_url": "https://pbs.twimg.com/media/HWXXpBqXUAE0A27.jpg"
-        },
-        {
-          "id": "2118190077759140180",
-          "text": "FLASH FLOOD EMERGENCY for Fannin and Gilmer counties in Georgia!\n\nFlash flooding resulting in mudslides and water rescues is already occurring in these areas, as 5-6\" of rain has fallen over the last several hours!\n\nDo not attempt to travel unless fleeing flooding or under an https://t.co/qf1vncaNRA",
-          "created_at": "2026-11-05T03:54:03.000Z",
-          "url": "https://x.com/i/status/2118190077759140180",
-          "media_url": "https://pbs.twimg.com/media/HWVSpk8X0AAaXlV.jpg"
         }
       ]
     },
@@ -166,36 +165,36 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
-          "id": "2118535171909558721",
-          "text": "National High/Low temps for Thursday November 05, 2026: 92 at 7 miles east-southeast of Hidalgo, TX; 4 at 5 miles west-southwest of Hartsel, CO #txwx #cowx https://t.co/EhJQPdQMfj",
-          "created_at": "2026-11-06T02:45:20.000Z",
-          "url": "https://x.com/i/status/2118535171909558721"
+          "id": "2118718930487329280",
+          "text": "#WPC_MD 1558 affecting Central North Carolina through Coastal New Jersey, #njwx #mdwx #dewx #vawx #ncwx, https://t.co/dnkaQLuTaw https://t.co/uUTvf0F3p9",
+          "created_at": "2026-11-06T14:55:31.000Z",
+          "url": "https://x.com/i/status/2118718930487329280",
+          "media_url": "https://pbs.twimg.com/media/HWczpAyXsAA8j24.jpg"
         },
         {
-          "id": "2118404389563961486",
-          "text": "⛈️ Rainfall returns to parts of the East Coast &amp; Mid-Atlantic over the next few days, while in the Pacific Northwest, a series of storm systems brings heavy rain and high elevation snow. In southern Texas, Gulf moisture will bring heavy rain &amp; thunderstorms on Sunday. https://t.co/3htS7gDlu9",
-          "created_at": "2026-11-05T18:05:39.000Z",
-          "url": "https://x.com/i/status/2118404389563961486",
-          "media_url": "https://pbs.twimg.com/media/HWYVkNiWEAAnR_X.jpg"
+          "id": "2118676103548023095",
+          "text": "Strong Pacific cyclone brings winds and rain into the Pacific Northwest Sunday morning https://t.co/kPv4k077nv",
+          "created_at": "2026-11-06T12:05:20.000Z",
+          "url": "https://x.com/i/status/2118676103548023095"
         },
         {
-          "id": "2118313696342511737",
-          "text": "Heavy rainfall shifts into the Eastern Seaboard https://t.co/kPv4k077nv",
-          "created_at": "2026-11-05T12:05:16.000Z",
-          "url": "https://x.com/i/status/2118313696342511737"
+          "id": "2118676102369460325",
+          "text": "Heavy rainfall threat gradually increases across South Texas during the weekend https://t.co/kPv4k077nv",
+          "created_at": "2026-11-06T12:05:20.000Z",
+          "url": "https://x.com/i/status/2118676102369460325"
         },
         {
-          "id": "2118189704940015777",
-          "text": "#WPC_MD 1556 affecting southern Appalachians, #ncwx #scwx #gawx #tnwx, https://t.co/qAlqvBoaeQ https://t.co/ygSdR94iJk",
-          "created_at": "2026-11-05T03:52:34.000Z",
-          "url": "https://x.com/i/status/2118189704940015777",
-          "media_url": "https://pbs.twimg.com/media/HWVSUB8WEAEZuj7.jpg"
+          "id": "2118676100658168260",
+          "text": "A Slight Risk of excessive rainfall along the Mid-Atlantic coast to southeastern New England https://t.co/kPv4k077nv",
+          "created_at": "2026-11-06T12:05:20.000Z",
+          "url": "https://x.com/i/status/2118676100658168260"
         },
         {
-          "id": "2118172772689961345",
-          "text": "National High/Low temps for Wednesday November 04, 2026: 91 at 7 miles east-southeast of Hidalgo, TX, 8 miles west of Miles City, FL; 11 at 32 miles west-southwest of Bynum, MT #txwx #flwx #mtwx",
-          "created_at": "2026-11-05T02:45:17.000Z",
-          "url": "https://x.com/i/status/2118172772689961345"
+          "id": "2118653597009265067",
+          "text": "#WPC_MD 1557 affecting portions of northern Mid-Atlantic coast to southern New England...CORRECTED, #mawx #riwx #ctwx #nywx #njwx #pawx #mdwx #dewx #vawx, https://t.co/maixKFIId1 https://t.co/nPZwXaNDlN",
+          "created_at": "2026-11-06T10:35:54.000Z",
+          "url": "https://x.com/i/status/2118653597009265067",
+          "media_url": "https://pbs.twimg.com/media/HWb4OG5XQAA6Zys.jpg"
         }
       ]
     }
