@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05T23:47:18.234Z",
+  "updated_utc": "2026-11-06T05:47:46.893Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,19 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2118500221835448465",
+          "text": "Since we posted this, Marquette police say a man was washed off the Black Rocks at Presque Isle Park this afternoon and hasn't been found. Please stay well back from the shore while these waves are up.",
+          "created_at": "2026-11-06T00:26:27.000Z",
+          "url": "https://x.com/i/status/2118500221835448465"
+        },
+        {
+          "id": "2118498274973749359",
+          "text": "Kilauea's lava fountain is a whole lot bigger now. This was 1:52 this afternoon Hawaii time, about an hour and 40 minutes after it started.\n\nVideo: USGS Hawaiian Volcano Observatory https://t.co/RtQqvj0Umy",
+          "created_at": "2026-11-06T00:18:43.000Z",
+          "url": "https://x.com/i/status/2118498274973749359",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118498246733529088/pu/img/wvgxVEQBqz1Nqw4H.jpg"
+        },
+        {
           "id": "2118484261841822113",
           "text": "WOW, Lake Superior threw a wave right over Jaden's car near Marquette, Michigan this evening, with a gale warning out on the lake and waves up to 16 feet.\n\nVideo: Jaden Pappenheim (@PappenheimWx) https://t.co/mj2Y1575LB",
           "created_at": "2026-11-05T23:23:02.000Z",
@@ -66,20 +79,6 @@
           "created_at": "2026-11-05T17:53:12.000Z",
           "url": "https://x.com/i/status/2118401256171401299",
           "media_url": "https://pbs.twimg.com/media/HWYStsPXIAA-iLC.jpg"
-        },
-        {
-          "id": "2118323645105701192",
-          "text": "Saturday night is the first freeze of the fall for most of Kentucky and a lot of Tennessee. https://t.co/MhyXbVOvdZ",
-          "created_at": "2026-11-05T12:44:48.000Z",
-          "url": "https://x.com/i/status/2118323645105701192",
-          "media_url": "https://pbs.twimg.com/media/HWXMIUwWEAARvGw.jpg"
-        },
-        {
-          "id": "2118317748702908666",
-          "text": "The river through Copperhill, Tennessee went higher this morning than it has ever been measured, cresting just over 18 feet and beating the 1990 record. This is a rescue boat crossing downtown McCaysville, Georgia, right across the state line.\n\nVideo: https://t.co/P0t5diRBp2 https://t.co/6NwPrF2Wps",
-          "created_at": "2026-11-05T12:21:22.000Z",
-          "url": "https://x.com/i/status/2118317748702908666",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2118317720731078656/pu/img/v_yQGIrkBjyIEoj6.jpg"
         }
       ]
     },
@@ -167,6 +166,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2118535171909558721",
+          "text": "National High/Low temps for Thursday November 05, 2026: 92 at 7 miles east-southeast of Hidalgo, TX; 4 at 5 miles west-southwest of Hartsel, CO #txwx #cowx https://t.co/EhJQPdQMfj",
+          "created_at": "2026-11-06T02:45:20.000Z",
+          "url": "https://x.com/i/status/2118535171909558721"
+        },
+        {
           "id": "2118404389563961486",
           "text": "⛈️ Rainfall returns to parts of the East Coast &amp; Mid-Atlantic over the next few days, while in the Pacific Northwest, a series of storm systems brings heavy rain and high elevation snow. In southern Texas, Gulf moisture will bring heavy rain &amp; thunderstorms on Sunday. https://t.co/3htS7gDlu9",
           "created_at": "2026-11-05T18:05:39.000Z",
@@ -191,13 +196,6 @@
           "text": "National High/Low temps for Wednesday November 04, 2026: 91 at 7 miles east-southeast of Hidalgo, TX, 8 miles west of Miles City, FL; 11 at 32 miles west-southwest of Bynum, MT #txwx #flwx #mtwx",
           "created_at": "2026-11-05T02:45:17.000Z",
           "url": "https://x.com/i/status/2118172772689961345"
-        },
-        {
-          "id": "2117969365811290367",
-          "text": "#WPC_MD 1555 affecting portions of the FL Gold Coast, #flwx, https://t.co/t1hRINSHxv https://t.co/fWDpePTnzt",
-          "created_at": "2026-11-04T13:17:01.000Z",
-          "url": "https://x.com/i/status/2117969365811290367",
-          "media_url": "https://pbs.twimg.com/media/HWSJ6m5XsAApMyE.jpg"
         }
       ]
     }
