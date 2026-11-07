@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-07T20:42:17.116Z",
+  "updated_utc": "2026-11-07T23:44:54.711Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -166,6 +166,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2119184019539566677",
+          "text": "Yes, there is a chance for a low pressure system to bring mixed precipitation to the Mid-Atlantic and Northeast by next weekend. But, there remains a lot of uncertainty. Keep apprised of the latest information at https://t.co/D8jZlzOsbd https://t.co/HSzLqssgI9",
+          "created_at": "2026-11-07T21:43:37.000Z",
+          "url": "https://x.com/i/status/2119184019539566677",
+          "media_url": "https://pbs.twimg.com/media/HWjaoqFWUAAE2qk.jpg"
+        },
+        {
           "id": "2119038479187268017",
           "text": "Heavy rain exits southeastern New England early this morning https://t.co/kPv4k077nv",
           "created_at": "2026-11-07T12:05:17.000Z",
@@ -189,13 +196,6 @@
           "text": "National High/Low temps for Friday November 06, 2026: 91 at 5 miles northeast of Everglades City, FL; 14 at Bridgeport, CA #flwx #cawx https://t.co/RXrLUzRrDL",
           "created_at": "2026-11-07T02:45:22.000Z",
           "url": "https://x.com/i/status/2118897567870144758"
-        },
-        {
-          "id": "2118761868307095656",
-          "text": "🌧️ A cold front is forecast to move through today and bring rainfall across much of the East Coast. A Slight Risk of Excessive Rainfall is in effect for the Boston urban area, with scattered instances of flash flooding possible. For more info visit: https://t.co/RPBzEMwsqM https://t.co/AbKvZjx0Jm",
-          "created_at": "2026-11-06T17:46:08.000Z",
-          "url": "https://x.com/i/status/2118761868307095656",
-          "media_url": "https://pbs.twimg.com/media/HWdasO9WwAA7prI.jpg"
         }
       ]
     }
