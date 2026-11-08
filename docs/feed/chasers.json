@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-08T05:45:28.708Z",
+  "updated_utc": "2026-11-08T14:44:20.967Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2119403460458156538",
+          "text": "The nicest weather in the USA today will be between Richmond, VA and Newport News, VA. https://t.co/dcFMYFlR06",
+          "created_at": "2026-11-08T12:15:36.000Z",
+          "url": "https://x.com/i/status/2119403460458156538",
+          "media_url": "https://pbs.twimg.com/media/HWmiNuzXkAA7hxf.jpg"
+        },
+        {
           "id": "2119146049386258614",
           "text": "Could it snow in the Northeast late next week? It's on the table.\n\nA shot of cold air comes in Friday and Saturday. A storm near the coast could bring the first snow of the season to upstate New York, Vermont and the mountains of Pennsylvania, with lake-effect snow off Erie and https://t.co/FKnRWzggkV",
           "created_at": "2026-11-07T19:12:44.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-11-07T12:15:08.000Z",
           "url": "https://x.com/i/status/2119040956049568082",
           "media_url": "https://pbs.twimg.com/media/HWhYhPWWgAAM2ni.jpg"
-        },
-        {
-          "id": "2118819184083608049",
-          "text": "Norfolk is having its wettest November day on record. The airport has picked up 5.5 inches of rain so far today, beating the old record of 5.02 inches from 1893. https://t.co/Jrj9xIUl7E",
-          "created_at": "2026-11-06T21:33:53.000Z",
-          "url": "https://x.com/i/status/2118819184083608049",
-          "media_url": "https://pbs.twimg.com/media/HWeO0dxX0AAK89C.jpg"
         }
       ]
     },
@@ -167,36 +167,36 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
-          "id": "2119259959766532502",
-          "text": "National High/Low temps for Saturday November 07, 2026: 92 at 4 miles east of North Shore, CA, 17 miles east of Ochopee, FL; 14 at 19 miles northeast of Kirk, OR, 4 miles northwest of Grand Lake, CO #cawx #flwx #orwx #cowx",
-          "created_at": "2026-11-08T02:45:23.000Z",
-          "url": "https://x.com/i/status/2119259959766532502"
+          "id": "2119437264723791875",
+          "text": "#WPC_MD 1561 affecting South Texas..., #txwx, https://t.co/6iZlkPl6Zq https://t.co/3Ci4PvYWNl",
+          "created_at": "2026-11-08T14:29:55.000Z",
+          "url": "https://x.com/i/status/2119437264723791875",
+          "media_url": "https://pbs.twimg.com/media/HWnA9kYWwAAT1nw.jpg"
         },
         {
-          "id": "2119184019539566677",
-          "text": "Yes, there is a chance for a low pressure system to bring mixed precipitation to the Mid-Atlantic and Northeast by next weekend. But, there remains a lot of uncertainty. Keep apprised of the latest information at https://t.co/D8jZlzOsbd https://t.co/HSzLqssgI9",
-          "created_at": "2026-11-07T21:43:37.000Z",
-          "url": "https://x.com/i/status/2119184019539566677",
-          "media_url": "https://pbs.twimg.com/media/HWjaoqFWUAAE2qk.jpg"
+          "id": "2119400861977776341",
+          "text": "Seasonably mild to warm temperatures for most of the country but morning frost/freeze across the Ohio Valley to Mid-South https://t.co/kPv4k077nv",
+          "created_at": "2026-11-08T12:05:16.000Z",
+          "url": "https://x.com/i/status/2119400861977776341"
         },
         {
-          "id": "2119038479187268017",
-          "text": "Heavy rain exits southeastern New England early this morning https://t.co/kPv4k077nv",
-          "created_at": "2026-11-07T12:05:17.000Z",
-          "url": "https://x.com/i/status/2119038479187268017"
+          "id": "2119400860841071068",
+          "text": "Periods of showers and gusty winds for the Pacific Northwest over the next few days https://t.co/kPv4k077nv",
+          "created_at": "2026-11-08T12:05:16.000Z",
+          "url": "https://x.com/i/status/2119400860841071068"
         },
         {
-          "id": "2119038477987659807",
-          "text": "Heavy rainfall threat emerging over southern New Mexico early this morning will shift into southern Texas Sunday into early Monday https://t.co/kPv4k077nv",
-          "created_at": "2026-11-07T12:05:17.000Z",
-          "url": "https://x.com/i/status/2119038477987659807"
+          "id": "2119400859389886706",
+          "text": "Heavy rainfall threat peaks across southern Texas today into Monday morning https://t.co/kPv4k077nv",
+          "created_at": "2026-11-08T12:05:16.000Z",
+          "url": "https://x.com/i/status/2119400859389886706"
         },
         {
-          "id": "2119011305050853707",
-          "text": "A mid-level disturbance will bring plentiful of rainfall over southern and central Texas this weekend. Rainfall totals of 3-5 inches are forecast with locally higher amounts possible. Scattered instances of flash flooding may occur. https://t.co/Dujue4RNq0",
-          "created_at": "2026-11-07T10:17:19.000Z",
-          "url": "https://x.com/i/status/2119011305050853707",
-          "media_url": "https://pbs.twimg.com/media/HWg9jXRXIAAbOpK.jpg"
+          "id": "2119359971519308228",
+          "text": "#WPC_MD 1560 affecting central to south-central TX, #txwx, https://t.co/ac5Arj2xtn https://t.co/sUo0WvRxNb",
+          "created_at": "2026-11-08T09:22:47.000Z",
+          "url": "https://x.com/i/status/2119359971519308228",
+          "media_url": "https://pbs.twimg.com/media/HWl6qguWoAA2YZX.jpg"
         }
       ]
     }
