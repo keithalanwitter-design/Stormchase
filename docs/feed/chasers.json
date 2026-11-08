@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-08T02:42:34.156Z",
+  "updated_utc": "2026-11-08T05:45:28.708Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2119277704155427163",
+          "text": "Earth just experienced its WARMEST OCTOBER ON RECORD, breaking the previous record set in 2023!\n\nOctober 2026 was approximately 1.75°C (3.15°F) warmer than pre-industrial levels, an extraordinary global temperature anomaly.\n\nThe planet's average temperature was 0.90°C above the https://t.co/hznfGUgtLW",
+          "created_at": "2026-11-08T03:55:53.000Z",
+          "url": "https://x.com/i/status/2119277704155427163",
+          "media_url": "https://pbs.twimg.com/media/HWkv11PXEAE6DZf.jpg"
+        },
+        {
           "id": "2119243618141573514",
           "text": "A BIG taste of WINTER is coming tonight as freezing temperatures spread across parts of 14 states!\n\nFreeze Warnings and Frost Advisories are in effect for 387 counties, stretching from Oklahoma to Virginia!\n\nTemperatures could plunge into the UPPER 20s across parts of Kentucky, https://t.co/RmEMvuss7c",
           "created_at": "2026-11-08T01:40:26.000Z",
@@ -113,13 +120,6 @@
           "created_at": "2026-11-07T15:34:05.000Z",
           "url": "https://x.com/i/status/2119091022848254365",
           "media_url": "https://pbs.twimg.com/media/HWh34CoWYAA2sbH.jpg"
-        },
-        {
-          "id": "2119058568158572568",
-          "text": "Norfolk just had its 8th wettest day EVER... 6.31 inches of rain on Friday, in records going back to 1871.\n\nWhat’s crazy is every day wetter than that came between July and October, mostly from hurricanes like Ernesto, Irene and Matthew! https://t.co/tckiA28dQL",
-          "created_at": "2026-11-07T13:25:07.000Z",
-          "url": "https://x.com/i/status/2119058568158572568",
-          "media_url": "https://pbs.twimg.com/media/HWhoiTLXgAAR8uU.jpg"
         }
       ]
     },
@@ -167,6 +167,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2119259959766532502",
+          "text": "National High/Low temps for Saturday November 07, 2026: 92 at 4 miles east of North Shore, CA, 17 miles east of Ochopee, FL; 14 at 19 miles northeast of Kirk, OR, 4 miles northwest of Grand Lake, CO #cawx #flwx #orwx #cowx",
+          "created_at": "2026-11-08T02:45:23.000Z",
+          "url": "https://x.com/i/status/2119259959766532502"
+        },
+        {
           "id": "2119184019539566677",
           "text": "Yes, there is a chance for a low pressure system to bring mixed precipitation to the Mid-Atlantic and Northeast by next weekend. But, there remains a lot of uncertainty. Keep apprised of the latest information at https://t.co/D8jZlzOsbd https://t.co/HSzLqssgI9",
           "created_at": "2026-11-07T21:43:37.000Z",
@@ -191,12 +197,6 @@
           "created_at": "2026-11-07T10:17:19.000Z",
           "url": "https://x.com/i/status/2119011305050853707",
           "media_url": "https://pbs.twimg.com/media/HWg9jXRXIAAbOpK.jpg"
-        },
-        {
-          "id": "2118897567870144758",
-          "text": "National High/Low temps for Friday November 06, 2026: 91 at 5 miles northeast of Everglades City, FL; 14 at Bridgeport, CA #flwx #cawx https://t.co/RXrLUzRrDL",
-          "created_at": "2026-11-07T02:45:22.000Z",
-          "url": "https://x.com/i/status/2118897567870144758"
         }
       ]
     }
