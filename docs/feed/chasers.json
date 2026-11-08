@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-11-07T23:44:54.711Z",
+  "updated_utc": "2026-11-08T02:42:34.156Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2119237395229151413",
+          "text": "THUNDER UP https://t.co/W04KztuD9J",
+          "created_at": "2026-11-08T01:15:43.000Z",
+          "url": "https://x.com/i/status/2119237395229151413",
+          "media_url": "https://pbs.twimg.com/media/HWkLKTvWcAAOOzc.jpg"
+        },
         {
           "id": "2119129707572818024",
           "text": "Happy Saturday from Team Dominator!\n\nWe have accelerated production of the Dominator 3 models at @willclay25 Dominator laboratory.\n\nYou can get yours at https://t.co/U1wv6bY242\n\nThese Dominator 3 models are in support of our 2027 science mission. We plan to deploy all three https://t.co/sFiqDIxMo2",
@@ -32,13 +39,6 @@
           "created_at": "2026-11-06T16:48:12.000Z",
           "url": "https://x.com/i/status/2118747288902525322",
           "media_url": "https://pbs.twimg.com/media/HWdNbdzXsAACwF3.jpg"
-        },
-        {
-          "id": "2118474371450757403",
-          "text": "Remembering the BEAVER, OKLAHOMA #tornado on June 25, 2026.\n\nMany of the 100 tornadoes intercepted in 2026 were relatively short-lived, and would “nub out” on approach\n\n#stormchasing #Dominator https://t.co/AM0YbGDsDr",
-          "created_at": "2026-11-05T22:43:44.000Z",
-          "url": "https://x.com/i/status/2118474371450757403",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2118474186414809088/img/dO-pvKcH1e10eDXR.jpg"
         }
       ]
     },
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2119243618141573514",
+          "text": "A BIG taste of WINTER is coming tonight as freezing temperatures spread across parts of 14 states!\n\nFreeze Warnings and Frost Advisories are in effect for 387 counties, stretching from Oklahoma to Virginia!\n\nTemperatures could plunge into the UPPER 20s across parts of Kentucky, https://t.co/RmEMvuss7c",
+          "created_at": "2026-11-08T01:40:26.000Z",
+          "url": "https://x.com/i/status/2119243618141573514",
+          "media_url": "https://pbs.twimg.com/media/HWkQ1wTWoAA4bv-.jpg"
+        },
+        {
           "id": "2119158471564165575",
           "text": "all i want for christmas is snow",
           "created_at": "2026-11-07T20:02:06.000Z",
@@ -113,12 +120,6 @@
           "created_at": "2026-11-07T13:25:07.000Z",
           "url": "https://x.com/i/status/2119058568158572568",
           "media_url": "https://pbs.twimg.com/media/HWhoiTLXgAAR8uU.jpg"
-        },
-        {
-          "id": "2118966808417804681",
-          "text": "Google is saying I am married…\n\nI AM NOT MARRIED FOLKS!",
-          "created_at": "2026-11-07T07:20:30.000Z",
-          "url": "https://x.com/i/status/2118966808417804681"
         }
       ]
     },
