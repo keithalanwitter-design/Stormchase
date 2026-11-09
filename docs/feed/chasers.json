@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-08T23:42:06.862Z",
+  "updated_utc": "2026-11-09T02:50:22.082Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -80,6 +80,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2119586794215796961",
+          "text": "Brownsville got more than TWICE its normal November rainfall in a single day...\n\nToday’s 3.65\" was the city’s 2nd-wettest November day since records began in 1878. \n\nOnly eight days into the month, this November already ranks as the 4th-wettest on record. https://t.co/3eQMS5iLiy",
+          "created_at": "2026-11-09T00:24:06.000Z",
+          "url": "https://x.com/i/status/2119586794215796961",
+          "media_url": "https://pbs.twimg.com/media/HWpI9HqXgAA7BTL.jpg"
+        },
+        {
           "id": "2119528422745469263",
           "text": "UP TO 8 INCHES of rain has fallen in parts of South Texas since yesterday afternoon... \n\nFlash flooding is ongoing near Kingsville, and a Flash Flood Warning covers the Hill Country until 8 PM. https://t.co/ySWNYKOlFN",
           "created_at": "2026-11-08T20:32:09.000Z",
@@ -106,13 +113,6 @@
           "created_at": "2026-11-08T14:59:08.000Z",
           "url": "https://x.com/i/status/2119444617783333012",
           "media_url": "https://pbs.twimg.com/media/HWnHpXdXgAAj3wD.jpg"
-        },
-        {
-          "id": "2119277704155427163",
-          "text": "Earth just experienced its WARMEST OCTOBER ON RECORD, breaking the previous record set in 2023!\n\nOctober 2026 was approximately 1.75°C (3.15°F) warmer than pre-industrial levels, an extraordinary global temperature anomaly.\n\nThe planet's average temperature was 0.90°C above the https://t.co/hznfGUgtLW",
-          "created_at": "2026-11-08T03:55:53.000Z",
-          "url": "https://x.com/i/status/2119277704155427163",
-          "media_url": "https://pbs.twimg.com/media/HWkv11PXEAE6DZf.jpg"
         }
       ]
     },
@@ -160,6 +160,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2119622366238061000",
+          "text": "National High/Low temps for Sunday November 08, 2026: 94 at Yorba Linda, CA; 12 at Leadville, CO #cawx #cowx https://t.co/i5jNxHWfHI",
+          "created_at": "2026-11-09T02:45:27.000Z",
+          "url": "https://x.com/i/status/2119622366238061000"
+        },
+        {
           "id": "2119523765771997682",
           "text": "#WPC_MD 1562 affecting Coastal Deep South Texas..., #txwx, https://t.co/pANhVm7Y3G https://t.co/UYejZvyKnq",
           "created_at": "2026-11-08T20:13:39.000Z",
@@ -185,12 +191,6 @@
           "text": "Seasonably mild to warm temperatures for most of the country but morning frost/freeze across the Ohio Valley to Mid-South https://t.co/kPv4k077nv",
           "created_at": "2026-11-08T12:05:16.000Z",
           "url": "https://x.com/i/status/2119400861977776341"
-        },
-        {
-          "id": "2119400860841071068",
-          "text": "Periods of showers and gusty winds for the Pacific Northwest over the next few days https://t.co/kPv4k077nv",
-          "created_at": "2026-11-08T12:05:16.000Z",
-          "url": "https://x.com/i/status/2119400860841071068"
         }
       ]
     }
