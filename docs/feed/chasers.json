@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09T02:50:22.082Z",
+  "updated_utc": "2026-11-09T05:42:46.475Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -80,6 +80,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2119628451179102388",
+          "text": "HAPPY BIRTHDAY to legendary storm chaser Bryce Shelton! 🎉\n\n@bryceshelton01 https://t.co/tNBpgTlg5v",
+          "created_at": "2026-11-09T03:09:38.000Z",
+          "url": "https://x.com/i/status/2119628451179102388",
+          "media_url": "https://pbs.twimg.com/media/HWpu1-tWkAAq5Ov.jpg"
+        },
+        {
           "id": "2119586794215796961",
           "text": "Brownsville got more than TWICE its normal November rainfall in a single day...\n\nToday’s 3.65\" was the city’s 2nd-wettest November day since records began in 1878. \n\nOnly eight days into the month, this November already ranks as the 4th-wettest on record. https://t.co/3eQMS5iLiy",
           "created_at": "2026-11-09T00:24:06.000Z",
@@ -106,13 +113,6 @@
           "created_at": "2026-11-08T16:31:05.000Z",
           "url": "https://x.com/i/status/2119467758073040988",
           "media_url": "https://pbs.twimg.com/media/HWnO9z4WwAEoIly.jpg"
-        },
-        {
-          "id": "2119444617783333012",
-          "text": "A brief tornado cannot be ruled out around the Corpus Christi, TX area today... https://t.co/yTU8Dn41z8",
-          "created_at": "2026-11-08T14:59:08.000Z",
-          "url": "https://x.com/i/status/2119444617783333012",
-          "media_url": "https://pbs.twimg.com/media/HWnHpXdXgAAj3wD.jpg"
         }
       ]
     },
