@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09T17:46:06.429Z",
+  "updated_utc": "2026-11-09T20:41:08.321Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -25,13 +25,6 @@
           "created_at": "2026-11-08T18:19:55.000Z",
           "url": "https://x.com/i/status/2119495145368539468",
           "media_url": "https://pbs.twimg.com/media/HWn1mbAWMAAwFcB.jpg"
-        },
-        {
-          "id": "2119237395229151413",
-          "text": "THUNDER UP https://t.co/W04KztuD9J",
-          "created_at": "2026-11-08T01:15:43.000Z",
-          "url": "https://x.com/i/status/2119237395229151413",
-          "media_url": "https://pbs.twimg.com/media/HWkLKTvWcAAOOzc.jpg"
         }
       ]
     },
@@ -160,6 +153,27 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2119883561733931342",
+          "text": "You may have heard there is a threat for snow in the Northeast/Mid-Atlantic late this week. Here is the latest information on that possibility. Please stay weather aware at https://t.co/D8jZlzOsbd for the latest on the storm! https://t.co/KDBSQo5fh1",
+          "created_at": "2026-11-09T20:03:21.000Z",
+          "url": "https://x.com/i/status/2119883561733931342",
+          "media_url": "https://pbs.twimg.com/media/HWtW3WzWsAAi9jR.jpg"
+        },
+        {
+          "id": "2119878901929275716",
+          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/3Nit7XrSHW",
+          "created_at": "2026-11-09T19:44:50.000Z",
+          "url": "https://x.com/i/status/2119878901929275716",
+          "media_url": "https://pbs.twimg.com/media/HWtSoH9WcAAUH6P.jpg"
+        },
+        {
+          "id": "2119855510874710099",
+          "text": "#WPC_MD 1565 affecting Edwards Plateau to portions of Texas Hill Country..., #txwx, https://t.co/AKNxMStcvX https://t.co/55yMoxie9k",
+          "created_at": "2026-11-09T18:11:53.000Z",
+          "url": "https://x.com/i/status/2119855510874710099",
+          "media_url": "https://pbs.twimg.com/media/HWs9WsjXcAAaeb5.jpg"
+        },
+        {
           "id": "2119778777735532961",
           "text": "#WPC_MD 1564 affecting South Texas..., #txwx, https://t.co/jnCmeomZjX https://t.co/K2rWvxHCBS",
           "created_at": "2026-11-09T13:06:58.000Z",
@@ -171,25 +185,6 @@
           "text": "A warming trending will overspread much of the U.S. after one more chilly night in the Southeast tonight https://t.co/kPv4k077nv",
           "created_at": "2026-11-09T12:05:16.000Z",
           "url": "https://x.com/i/status/2119763248140431379"
-        },
-        {
-          "id": "2119763246844387420",
-          "text": "Active Pacific storm track will bring periods of rain to the Pacific Northwest through the next couple of days https://t.co/kPv4k077nv",
-          "created_at": "2026-11-09T12:05:16.000Z",
-          "url": "https://x.com/i/status/2119763246844387420"
-        },
-        {
-          "id": "2119763245401612416",
-          "text": "Heavy rainfall and flash flood threat across southern Texas today before diminishing by evening https://t.co/kPv4k077nv",
-          "created_at": "2026-11-09T12:05:15.000Z",
-          "url": "https://x.com/i/status/2119763245401612416"
-        },
-        {
-          "id": "2119715860289876191",
-          "text": "Texas had a wet Sunday with rainfall totals of 6-8 inches across southern Texas and near 2-3 inches across the Hill Country. Locally heavy rainfall will continue today. A Slight Risk ERO was issued near Corpus Christi southwards to Brownsville to account for saturated soils. https://t.co/lTvwuncdLV",
-          "created_at": "2026-11-09T08:56:58.000Z",
-          "url": "https://x.com/i/status/2119715860289876191",
-          "media_url": "https://pbs.twimg.com/media/HWq-V5rXoAA0u1A.jpg"
         }
       ]
     }
