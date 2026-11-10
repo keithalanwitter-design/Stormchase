@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T14:47:57.787Z",
+  "updated_utc": "2026-11-10T17:46:09.450Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -81,6 +81,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2120185728411787690",
+          "text": "Dreaming of a white Christmas? Here are your actual odds...\n\nBased on 1991–2020 station records, Duluth has had at least an inch of snow on the ground on 97% of Christmases, and Minneapolis 80%. \n\nChicago and Denver are closer to a coin flip at about 40%, New York is down to 4%, https://t.co/tf0Oxays8m",
+          "created_at": "2026-11-10T16:04:03.000Z",
+          "url": "https://x.com/i/status/2120185728411787690",
+          "media_url": "https://pbs.twimg.com/media/HWxb86cXoAAmR1m.jpg"
+        },
+        {
           "id": "2120158311534211197",
           "text": "California’s sea level just hit its HIGHEST level ever measured at 7 NOAA tide gauges...\n\nLos Angeles, with records back to 1923, averaged 6.5 inches above its old record month (September 2015) in October.  San Francisco beat its record from the 1998 El Niño. \n\nNear-shore water https://t.co/NzOCm6OCX2",
           "created_at": "2026-11-10T14:15:06.000Z",
@@ -107,13 +114,6 @@
           "created_at": "2026-11-09T15:49:12.000Z",
           "url": "https://x.com/i/status/2119819605086523447",
           "media_url": "https://pbs.twimg.com/media/HWscsLQXwAAndqz.jpg"
-        },
-        {
-          "id": "2119793918279663796",
-          "text": "There's been a lot of talk about a potential Northeast snowstorm this week, but for most people, this is going to be a rain event...\n\nThe real snow stays in the mountains and the interior, while New York, Philly and Boston just get a chilly rain. https://t.co/MUtpQh7qZs",
-          "created_at": "2026-11-09T14:07:08.000Z",
-          "url": "https://x.com/i/status/2119793918279663796",
-          "media_url": "https://pbs.twimg.com/media/HWsFVX3XcAAthOp.jpg"
         }
       ]
     },
