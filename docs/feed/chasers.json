@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T20:49:38.751Z",
+  "updated_utc": "2026-11-10T23:47:49.748Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2120291680012095719",
+          "text": "The Northern Taurids peak tomorrow night with no moon in the way...\n\nIt’s a slow shower, about 5 meteors an hour from a dark spot, but it’s known for the occasional bright fireball. \n\nThe West and Plains have the clearest skies, while clouds and rain cover the Great Lakes, https://t.co/p26FgY7s9j",
+          "created_at": "2026-11-10T23:05:04.000Z",
+          "url": "https://x.com/i/status/2120291680012095719",
+          "media_url": "https://pbs.twimg.com/media/HWy72skXsAASzuD.jpg"
+        },
+        {
+          "id": "2120259218292740489",
+          "text": "SAVANNAH, GA has more snow this year than the Los Angeles Chargers have wins... https://t.co/OSAPToSGml",
+          "created_at": "2026-11-10T20:56:04.000Z",
+          "url": "https://x.com/i/status/2120259218292740489",
+          "media_url": "https://pbs.twimg.com/media/HWyshSSWgAEOPB8.jpg"
+        },
+        {
           "id": "2120233542093341104",
           "text": "51 years ago tonight, the Edmund Fitzgerald went down in Lake Superior with all 29 crew...\n\nShe left Superior, Wisconsin, on November 9, 1975, bound for Detroit. The next day a powerful November storm hit the lake with gusts estimated over 70 mph and waves later modeled at more https://t.co/WjcpoEVwiO",
           "created_at": "2026-11-10T19:14:03.000Z",
@@ -107,20 +121,6 @@
           "created_at": "2026-11-10T16:04:03.000Z",
           "url": "https://x.com/i/status/2120185728411787690",
           "media_url": "https://pbs.twimg.com/media/HWxb86cXoAAmR1m.jpg"
-        },
-        {
-          "id": "2120158311534211197",
-          "text": "California’s sea level just hit its HIGHEST level ever measured at 7 NOAA tide gauges...\n\nLos Angeles, with records back to 1923, averaged 6.5 inches above its old record month (September 2015) in October.  San Francisco beat its record from the 1998 El Niño. \n\nNear-shore water https://t.co/NzOCm6OCX2",
-          "created_at": "2026-11-10T14:15:06.000Z",
-          "url": "https://x.com/i/status/2120158311534211197",
-          "media_url": "https://pbs.twimg.com/media/HWxQvxwWoAAOgvo.jpg"
-        },
-        {
-          "id": "2119991366872608788",
-          "text": "i did it... again...\n\n@JordanHallWX https://t.co/pL6UIOigQ8",
-          "created_at": "2026-11-10T03:11:44.000Z",
-          "url": "https://x.com/i/status/2119991366872608788",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2119991286098698240/img/YHZlOKvxYlRpdUKG.jpg"
         }
       ]
     },
@@ -168,6 +168,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2120267901147975798",
+          "text": "A storm system will likely bring the first accumulating snow to the higher elevations of the central Appalachians and the interior Northeast late week into the weekend. In the low elevations, precipitation will mostly fall as rain. Visit https://t.co/D8jZlzOsbd for more details. https://t.co/7lye9d5At5",
+          "created_at": "2026-11-10T21:30:34.000Z",
+          "url": "https://x.com/i/status/2120267901147975798",
+          "media_url": "https://pbs.twimg.com/media/HWy0a5NXkAElP2-.jpg"
+        },
+        {
           "id": "2120125654125437424",
           "text": "Milder than normal temperatures across the U.S. will be followed by drastically colder air surging into the eastern half of the country by Wednesday night https://t.co/kPv4k077nv",
           "created_at": "2026-11-10T12:05:20.000Z",
@@ -191,13 +198,6 @@
           "text": "National High/Low temps for Monday November 09, 2026: 93 at El Monte, CA; 12 at Mammoth Lakes, CA #cawx #cawx https://t.co/WbnaaAzDLr",
           "created_at": "2026-11-10T02:45:16.000Z",
           "url": "https://x.com/i/status/2119984709811769774"
-        },
-        {
-          "id": "2119883561733931342",
-          "text": "You may have heard there is a threat for snow in the Northeast/Mid-Atlantic late this week. Here is the latest information on that possibility. Please stay weather aware at https://t.co/D8jZlzOsbd for the latest on the storm! https://t.co/KDBSQo5fh1",
-          "created_at": "2026-11-09T20:03:21.000Z",
-          "url": "https://x.com/i/status/2119883561733931342",
-          "media_url": "https://pbs.twimg.com/media/HWtW3WzWsAAi9jR.jpg"
         }
       ]
     }
