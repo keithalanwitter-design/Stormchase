@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T05:45:10.596Z",
+  "updated_utc": "2026-11-10T14:47:57.787Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -40,6 +40,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2120128277595521095",
+          "text": "The nicest weather in the USA today will be in and around Tucson, AZ and Richmond, VA. https://t.co/0YwHw8aGRE",
+          "created_at": "2026-11-10T12:15:46.000Z",
+          "url": "https://x.com/i/status/2120128277595521095",
+          "media_url": "https://pbs.twimg.com/media/HWw1brPW4AAWc0n.jpg"
+        },
+        {
           "id": "2119837477070311442",
           "text": "Saturday morning will be the coldest the South has felt since March. Nashville hits 29 for its first freeze of the fall. https://t.co/uzZTr46t5t",
           "created_at": "2026-11-09T17:00:13.000Z",
@@ -66,12 +73,6 @@
           "created_at": "2026-11-08T22:05:59.000Z",
           "url": "https://x.com/i/status/2119552038400901538",
           "media_url": "https://pbs.twimg.com/media/HWopWPOWsAEApVH.jpg"
-        },
-        {
-          "id": "2119487253403615300",
-          "text": "Flash flood warnings are up for Kleberg, Jim Wells, Duval and Cameron counties, and a flood watch runs through Monday. If you're down there, don't drive into flooded roads.",
-          "created_at": "2026-11-08T17:48:34.000Z",
-          "url": "https://x.com/i/status/2119487253403615300"
         }
       ]
     },
@@ -79,6 +80,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2120158311534211197",
+          "text": "California’s sea level just hit its HIGHEST level ever measured at 7 NOAA tide gauges...\n\nLos Angeles, with records back to 1923, averaged 6.5 inches above its old record month (September 2015) in October.  San Francisco beat its record from the 1998 El Niño. \n\nNear-shore water https://t.co/NzOCm6OCX2",
+          "created_at": "2026-11-10T14:15:06.000Z",
+          "url": "https://x.com/i/status/2120158311534211197",
+          "media_url": "https://pbs.twimg.com/media/HWxQvxwWoAAOgvo.jpg"
+        },
         {
           "id": "2119991366872608788",
           "text": "i did it... again...\n\n@JordanHallWX https://t.co/pL6UIOigQ8",
@@ -106,13 +114,6 @@
           "created_at": "2026-11-09T14:07:08.000Z",
           "url": "https://x.com/i/status/2119793918279663796",
           "media_url": "https://pbs.twimg.com/media/HWsFVX3XcAAthOp.jpg"
-        },
-        {
-          "id": "2119628451179102388",
-          "text": "HAPPY BIRTHDAY to legendary storm chaser Bryce Shelton! 🎉\n\n@bryceshelton01 https://t.co/tNBpgTlg5v",
-          "created_at": "2026-11-09T03:09:38.000Z",
-          "url": "https://x.com/i/status/2119628451179102388",
-          "media_url": "https://pbs.twimg.com/media/HWpu1-tWkAAq5Ov.jpg"
         }
       ]
     },
@@ -160,6 +161,18 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2120125654125437424",
+          "text": "Milder than normal temperatures across the U.S. will be followed by drastically colder air surging into the eastern half of the country by Wednesday night https://t.co/kPv4k077nv",
+          "created_at": "2026-11-10T12:05:20.000Z",
+          "url": "https://x.com/i/status/2120125654125437424"
+        },
+        {
+          "id": "2120125652468695140",
+          "text": "Active Pacific storm track will bring more rain and mountain snow to the Pacific Northwest over the next couple of days https://t.co/kPv4k077nv",
+          "created_at": "2026-11-10T12:05:20.000Z",
+          "url": "https://x.com/i/status/2120125652468695140"
+        },
+        {
           "id": "2120026668316434733",
           "text": "Enjoy the milder temperatures across the East because colder air is on the way 🥶. The next storm system will usher in high temperatures in the 40s and 50s, along with rain and blustery conditions. https://t.co/y33xbgbTPu",
           "created_at": "2026-11-10T05:32:00.000Z",
@@ -178,20 +191,6 @@
           "created_at": "2026-11-09T20:03:21.000Z",
           "url": "https://x.com/i/status/2119883561733931342",
           "media_url": "https://pbs.twimg.com/media/HWtW3WzWsAAi9jR.jpg"
-        },
-        {
-          "id": "2119878901929275716",
-          "text": "An updated Day 3-7 Hazards Outlook has been issued. https://t.co/VBxTZCp4sE https://t.co/3Nit7XrSHW",
-          "created_at": "2026-11-09T19:44:50.000Z",
-          "url": "https://x.com/i/status/2119878901929275716",
-          "media_url": "https://pbs.twimg.com/media/HWtSoH9WcAAUH6P.jpg"
-        },
-        {
-          "id": "2119855510874710099",
-          "text": "#WPC_MD 1565 affecting Edwards Plateau to portions of Texas Hill Country..., #txwx, https://t.co/AKNxMStcvX https://t.co/55yMoxie9k",
-          "created_at": "2026-11-09T18:11:53.000Z",
-          "url": "https://x.com/i/status/2119855510874710099",
-          "media_url": "https://pbs.twimg.com/media/HWs9WsjXcAAaeb5.jpg"
         }
       ]
     }
