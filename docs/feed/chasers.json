@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T05:45:54.279Z",
+  "updated_utc": "2026-11-11T14:50:23.669Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2120513113082454488",
+          "text": "Tonight's meteor shower is a small one, but it's known for big, slow fireballs.\n\nThe Southwest, Oklahoma, most of Texas and Arkansas look clear for it. https://t.co/fCHoVUW5ja",
+          "created_at": "2026-11-11T13:44:58.000Z",
+          "url": "https://x.com/i/status/2120513113082454488",
+          "media_url": "https://pbs.twimg.com/media/HW2TcHOXwAACaO3.jpg"
+        },
+        {
+          "id": "2120490530316411380",
+          "text": "The nicest weather in the USA today will be in and around Tucson, AZ, Roswell, NM, and Richmond, VA. https://t.co/l3GssMKUAg",
+          "created_at": "2026-11-11T12:15:13.000Z",
+          "url": "https://x.com/i/status/2120490530316411380",
+          "media_url": "https://pbs.twimg.com/media/HW1-5kUWEAAlW4T.jpg"
+        },
+        {
           "id": "2120221463714160925",
           "text": "Indiana, Kentucky, and Tennessee are holding the best tornado odds in the country tomorrow.\n\nIndianapolis, Nashville, and Louisville all fall inside that zone, and SPC has it at Level 1 for tornado risk. https://t.co/Y6zXwP1WaL",
           "created_at": "2026-11-10T18:26:03.000Z",
@@ -66,20 +80,6 @@
           "created_at": "2026-11-09T17:00:13.000Z",
           "url": "https://x.com/i/status/2119837477070311442",
           "media_url": "https://pbs.twimg.com/media/HWss8f1WwAAaTn-.jpg"
-        },
-        {
-          "id": "2119799691873272030",
-          "text": "The Northwest doesn't get a break this week: up to 12 inches of rain in the Olympics.\n\nSeattle could tie its record high Wednesday, then an atmospheric river parks right over Western Washington Friday into Saturday. https://t.co/Fso3Y4uxp3",
-          "created_at": "2026-11-09T14:30:05.000Z",
-          "url": "https://x.com/i/status/2119799691873272030",
-          "media_url": "https://pbs.twimg.com/media/HWsKlWtW8AA_XLO.jpg"
-        },
-        {
-          "id": "2119766028318019618",
-          "text": "The nicest weather in the USA today will be in and around Tucson, AZ, Blanding, UT, and Columbus, OH. https://t.co/WLZPAhD0be",
-          "created_at": "2026-11-09T12:16:19.000Z",
-          "url": "https://x.com/i/status/2119766028318019618",
-          "media_url": "https://pbs.twimg.com/media/HWrr9_ZXoAAXAt7.jpg"
         }
       ]
     },
@@ -87,6 +87,13 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2120507853521723762",
+          "text": "A brief tornado can’t be ruled out this afternoon and evening across Indiana, Kentucky and Middle Tennessee, including the Indianapolis, Louisville and Nashville areas... https://t.co/GLhr3FSunk",
+          "created_at": "2026-11-11T13:24:04.000Z",
+          "url": "https://x.com/i/status/2120507853521723762",
+          "media_url": "https://pbs.twimg.com/media/HW2OpzQXQAAq32A.jpg"
+        },
         {
           "id": "2120291680012095719",
           "text": "The Northern Taurids peak tomorrow night with no moon in the way...\n\nIt’s a slow shower, about 5 meteors an hour from a dark spot, but it’s known for the occasional bright fireball. \n\nThe West and Plains have the clearest skies, while clouds and rain cover the Great Lakes, https://t.co/p26FgY7s9j",
@@ -114,13 +121,6 @@
           "created_at": "2026-11-10T18:01:06.000Z",
           "url": "https://x.com/i/status/2120215186950762673",
           "media_url": "https://pbs.twimg.com/media/HWyEeXtWwAAplVH.jpg"
-        },
-        {
-          "id": "2120185728411787690",
-          "text": "Dreaming of a white Christmas? Here are your actual odds...\n\nBased on 1991–2020 station records, Duluth has had at least an inch of snow on the ground on 97% of Christmases, and Minneapolis 80%. \n\nChicago and Denver are closer to a coin flip at about 40%, New York is down to 4%, https://t.co/tf0Oxays8m",
-          "created_at": "2026-11-10T16:04:03.000Z",
-          "url": "https://x.com/i/status/2120185728411787690",
-          "media_url": "https://pbs.twimg.com/media/HWxb86cXoAAmR1m.jpg"
         }
       ]
     },
@@ -168,36 +168,36 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2120512248896512247",
+          "text": "#WPC_MD 1566 affecting eastern Iowa into northern/central Illinois, #ilwx #iawx, https://t.co/plDKUrKwnR https://t.co/N0ldnNoiSG",
+          "created_at": "2026-11-11T13:41:32.000Z",
+          "url": "https://x.com/i/status/2120512248896512247",
+          "media_url": "https://pbs.twimg.com/media/HW2Sp4iW8AAZqWh.jpg"
+        },
+        {
+          "id": "2120511932675322154",
+          "text": "#WPC_MD 1566 affecting eastern Iowa into northern/central Illinois, #ilwx #iawx, https://t.co/plDKUrKwnR https://t.co/EgiApbtTRU",
+          "created_at": "2026-11-11T13:40:16.000Z",
+          "url": "https://x.com/i/status/2120511932675322154",
+          "media_url": "https://pbs.twimg.com/media/HW2SXd2W8AApJsZ.jpg"
+        },
+        {
+          "id": "2120488008268816665",
+          "text": "Unseasonable warmth continues across much of the West, with a few daily record highs possible in parts of the Northwest and Great Basin https://t.co/kPv4k077nv",
+          "created_at": "2026-11-11T12:05:12.000Z",
+          "url": "https://x.com/i/status/2120488008268816665"
+        },
+        {
+          "id": "2120488006318473442",
+          "text": "An anomalous polar plunge will bring the coldest air of the season so far to much of the central and eastern U.S. beginning Wednesday night https://t.co/kPv4k077nv",
+          "created_at": "2026-11-11T12:05:12.000Z",
+          "url": "https://x.com/i/status/2120488006318473442"
+        },
+        {
           "id": "2120347150370414631",
           "text": "National High/Low temps for Tuesday November 10, 2026: 92 at Yorba Linda, CA; 12 at Fraser, CO #cawx #cowx https://t.co/La0yF7BDc6",
           "created_at": "2026-11-11T02:45:29.000Z",
           "url": "https://x.com/i/status/2120347150370414631"
-        },
-        {
-          "id": "2120267901147975798",
-          "text": "A storm system will likely bring the first accumulating snow to the higher elevations of the central Appalachians and the interior Northeast late week into the weekend. In the low elevations, precipitation will mostly fall as rain. Visit https://t.co/D8jZlzOsbd for more details. https://t.co/7lye9d5At5",
-          "created_at": "2026-11-10T21:30:34.000Z",
-          "url": "https://x.com/i/status/2120267901147975798",
-          "media_url": "https://pbs.twimg.com/media/HWy0a5NXkAElP2-.jpg"
-        },
-        {
-          "id": "2120125654125437424",
-          "text": "Milder than normal temperatures across the U.S. will be followed by drastically colder air surging into the eastern half of the country by Wednesday night https://t.co/kPv4k077nv",
-          "created_at": "2026-11-10T12:05:20.000Z",
-          "url": "https://x.com/i/status/2120125654125437424"
-        },
-        {
-          "id": "2120125652468695140",
-          "text": "Active Pacific storm track will bring more rain and mountain snow to the Pacific Northwest over the next couple of days https://t.co/kPv4k077nv",
-          "created_at": "2026-11-10T12:05:20.000Z",
-          "url": "https://x.com/i/status/2120125652468695140"
-        },
-        {
-          "id": "2120026668316434733",
-          "text": "Enjoy the milder temperatures across the East because colder air is on the way 🥶. The next storm system will usher in high temperatures in the 40s and 50s, along with rain and blustery conditions. https://t.co/y33xbgbTPu",
-          "created_at": "2026-11-10T05:32:00.000Z",
-          "url": "https://x.com/i/status/2120026668316434733",
-          "media_url": "https://pbs.twimg.com/tweet_video_thumb/HWvWupKWQAALM8o.jpg"
         }
       ]
     }
