@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T17:44:06.072Z",
+  "updated_utc": "2026-11-11T20:41:20.667Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,26 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2120610789954306208",
+          "text": "Large hail and damaging winds are possible across southern Indiana and western Kentucky the remainder of this afternoon and evening...\n\nThe severe risk was just upgraded for the area around Evansville, Louisville and southern Indiana. A cold front is pushing through, and just https://t.co/Ai7R6h6xBn",
+          "created_at": "2026-11-11T20:13:06.000Z",
+          "url": "https://x.com/i/status/2120610789954306208",
+          "media_url": "https://pbs.twimg.com/media/HW3sRixXsAI6XcM.jpg"
+        },
+        {
+          "id": "2120580355447009553",
+          "text": "Happy Veterans Day! Thank you to everyone who has served our country!",
+          "created_at": "2026-11-11T18:12:09.000Z",
+          "url": "https://x.com/i/status/2120580355447009553"
+        },
+        {
+          "id": "2120578582707622371",
+          "text": "The snowiest place on Earth for the next two weeks is Alaska, where some mountains could pick up more than 12 FEET of snow! ❄️ https://t.co/u5egWZHOV8",
+          "created_at": "2026-11-11T18:05:07.000Z",
+          "url": "https://x.com/i/status/2120578582707622371",
+          "media_url": "https://pbs.twimg.com/media/HW3O-zWWIAAmmph.jpg"
+        },
+        {
           "id": "2120547284005912810",
           "text": "Corpus Christi just had its wettest start to November on record, beating a mark that had stood since 1892...\n\nThe city has picked up 5.61\" of rain since November 1st, just edging out the old record of 5.55\" set 134 years ago. \n\nVictoria also set a record with 3.47\", topping 3.25\" https://t.co/LiGF9uy702",
           "created_at": "2026-11-11T16:00:45.000Z",
@@ -100,27 +120,6 @@
           "created_at": "2026-11-11T14:51:11.000Z",
           "url": "https://x.com/i/status/2120529779803775190",
           "media_url": "https://pbs.twimg.com/media/HW2imEbWQAA9jPB.jpg"
-        },
-        {
-          "id": "2120507853521723762",
-          "text": "A brief tornado can’t be ruled out this afternoon and evening across Indiana, Kentucky and Middle Tennessee, including the Indianapolis, Louisville and Nashville areas... https://t.co/GLhr3FSunk",
-          "created_at": "2026-11-11T13:24:04.000Z",
-          "url": "https://x.com/i/status/2120507853521723762",
-          "media_url": "https://pbs.twimg.com/media/HW2OpzQXQAAq32A.jpg"
-        },
-        {
-          "id": "2120291680012095719",
-          "text": "The Northern Taurids peak tomorrow night with no moon in the way...\n\nIt’s a slow shower, about 5 meteors an hour from a dark spot, but it’s known for the occasional bright fireball. \n\nThe West and Plains have the clearest skies, while clouds and rain cover the Great Lakes, https://t.co/p26FgY7s9j",
-          "created_at": "2026-11-10T23:05:04.000Z",
-          "url": "https://x.com/i/status/2120291680012095719",
-          "media_url": "https://pbs.twimg.com/media/HWy72skXsAASzuD.jpg"
-        },
-        {
-          "id": "2120259218292740489",
-          "text": "SAVANNAH, GA has more snow this year than the Los Angeles Chargers have wins... https://t.co/OSAPToSGml",
-          "created_at": "2026-11-10T20:56:04.000Z",
-          "url": "https://x.com/i/status/2120259218292740489",
-          "media_url": "https://pbs.twimg.com/media/HWyshSSWgAEOPB8.jpg"
         }
       ]
     },
@@ -128,6 +127,13 @@
       "handle": "StormNetWx",
       "name": "StormNet",
       "posts": [
+        {
+          "id": "2120576013763752141",
+          "text": "StormNet's AI-mesoanalysis updates every 10 minutes and uses a novel machine learning algorithm to rapidly assimilate observations from across the US. \n\nThis exclusive tool is available for all users in the StormNet app! https://t.co/DPD013sy5X",
+          "created_at": "2026-11-11T17:54:54.000Z",
+          "url": "https://x.com/i/status/2120576013763752141",
+          "media_url": "https://pbs.twimg.com/media/HW3MBqBWQAAw0St.jpg"
+        },
         {
           "id": "2119905316129415267",
           "text": "Thunderstorms are likely on Wednesday across parts of the Midwest and Southeast. Isolated hail is possible. The tornado threat is very low. \n\nSee the latest in the StormNet app! https://t.co/cqmrINFRIr",
@@ -153,13 +159,6 @@
           "created_at": "2026-11-02T16:05:47.000Z",
           "url": "https://x.com/i/status/2117287062697025613",
           "media_url": "https://pbs.twimg.com/media/HWIX4jKWUAA0bPH.jpg"
-        },
-        {
-          "id": "2117287059614543958",
-          "text": "StormNet forecast data is now easier to use! We've split the time selector into hourly and daily forecasts, and also split the interface into 'current weather' and 'severe outlook'. https://t.co/nRJwIAgk3u",
-          "created_at": "2026-11-02T16:05:46.000Z",
-          "url": "https://x.com/i/status/2117287059614543958",
-          "media_url": "https://pbs.twimg.com/media/HWIXuwWXwAASZG4.jpg"
         }
       ]
     },
