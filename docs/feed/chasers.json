@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T20:41:20.667Z",
+  "updated_utc": "2026-11-11T23:50:06.075Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2120646532940632388",
+          "text": "WOW, look at this wall cloud on the tornado-warned storm in front of Noah near Terre Haute, Indiana moments ago.\n\nVideo: Noah Miller (@NoahMillerWX) https://t.co/7qUqqb0dZZ",
+          "created_at": "2026-11-11T22:35:07.000Z",
+          "url": "https://x.com/i/status/2120646532940632388",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120646493979693056/pu/img/Bf6jux3_ZXxYqKeu.jpg"
+        },
+        {
           "id": "2120513113082454488",
           "text": "Tonight's meteor shower is a small one, but it's known for big, slow fireballs.\n\nThe Southwest, Oklahoma, most of Texas and Arkansas look clear for it. https://t.co/fCHoVUW5ja",
           "created_at": "2026-11-11T13:44:58.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-11-10T12:15:46.000Z",
           "url": "https://x.com/i/status/2120128277595521095",
           "media_url": "https://pbs.twimg.com/media/HWw1brPW4AAWc0n.jpg"
-        },
-        {
-          "id": "2119837477070311442",
-          "text": "Saturday morning will be the coldest the South has felt since March. Nashville hits 29 for its first freeze of the fall. https://t.co/uzZTr46t5t",
-          "created_at": "2026-11-09T17:00:13.000Z",
-          "url": "https://x.com/i/status/2119837477070311442",
-          "media_url": "https://pbs.twimg.com/media/HWss8f1WwAAaTn-.jpg"
         }
       ]
     },
@@ -87,6 +87,26 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2120661981317230846",
+          "text": "this aint ai, trust, my arms are really that buff\n\nthats what happens when you're 8'7",
+          "created_at": "2026-11-11T23:36:30.000Z",
+          "url": "https://x.com/i/status/2120661981317230846"
+        },
+        {
+          "id": "2120661722965090551",
+          "text": "my first tornado was in my dreams: https://t.co/nHyxKO9Lgr https://t.co/bW1to1a0qz",
+          "created_at": "2026-11-11T23:35:29.000Z",
+          "url": "https://x.com/i/status/2120661722965090551",
+          "media_url": "https://pbs.twimg.com/media/HW4aQMJWQAA36ND.jpg"
+        },
+        {
+          "id": "2120646526552752172",
+          "text": "TORNADO WARNING for Saline City, Indiana!\n\nSeek shelter if you are in this warning! https://t.co/k0NUlc4vBF",
+          "created_at": "2026-11-11T22:35:06.000Z",
+          "url": "https://x.com/i/status/2120646526552752172",
+          "media_url": "https://pbs.twimg.com/media/HW4MxtWW0AAU9Xo.jpg"
+        },
         {
           "id": "2120610789954306208",
           "text": "Large hail and damaging winds are possible across southern Indiana and western Kentucky the remainder of this afternoon and evening...\n\nThe severe risk was just upgraded for the area around Evansville, Louisville and southern Indiana. A cold front is pushing through, and just https://t.co/Ai7R6h6xBn",
@@ -99,27 +119,6 @@
           "text": "Happy Veterans Day! Thank you to everyone who has served our country!",
           "created_at": "2026-11-11T18:12:09.000Z",
           "url": "https://x.com/i/status/2120580355447009553"
-        },
-        {
-          "id": "2120578582707622371",
-          "text": "The snowiest place on Earth for the next two weeks is Alaska, where some mountains could pick up more than 12 FEET of snow! ❄️ https://t.co/u5egWZHOV8",
-          "created_at": "2026-11-11T18:05:07.000Z",
-          "url": "https://x.com/i/status/2120578582707622371",
-          "media_url": "https://pbs.twimg.com/media/HW3O-zWWIAAmmph.jpg"
-        },
-        {
-          "id": "2120547284005912810",
-          "text": "Corpus Christi just had its wettest start to November on record, beating a mark that had stood since 1892...\n\nThe city has picked up 5.61\" of rain since November 1st, just edging out the old record of 5.55\" set 134 years ago. \n\nVictoria also set a record with 3.47\", topping 3.25\" https://t.co/LiGF9uy702",
-          "created_at": "2026-11-11T16:00:45.000Z",
-          "url": "https://x.com/i/status/2120547284005912810",
-          "media_url": "https://pbs.twimg.com/media/HW2yhAaXsAAwGT3.jpg"
-        },
-        {
-          "id": "2120529779803775190",
-          "text": "The first freeze of the season is FINALLY on its way for Chicago, Detroit, Omaha, Kansas City and more by this weekend...\n\nAll 10 of these cities are running late on their first freeze. Chicago is forecast to drop to 29° Friday night, and only 15 of its 154 years on record have https://t.co/FmPJB7W7jo",
-          "created_at": "2026-11-11T14:51:11.000Z",
-          "url": "https://x.com/i/status/2120529779803775190",
-          "media_url": "https://pbs.twimg.com/media/HW2imEbWQAA9jPB.jpg"
         }
       ]
     },
