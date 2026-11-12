@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12T05:46:54.568Z",
+  "updated_utc": "2026-11-12T14:47:36.711Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,20 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2120872786025398337",
+          "text": "The first freeze of the fall reaches the Deep South this weekend.\n\nBirmingham and Charlotte haven't hit 32 all season. Saturday night, both are forecast to get there. https://t.co/AmpW6lLqL6",
+          "created_at": "2026-11-12T13:34:10.000Z",
+          "url": "https://x.com/i/status/2120872786025398337",
+          "media_url": "https://pbs.twimg.com/media/HW7aj1nWwAEy2re.jpg"
+        },
+        {
+          "id": "2120852953498042716",
+          "text": "The nicest weather in the USA today will be in and around Dallas, TX, Tucson, AZ, and Garden City, KS, with that beautiful dry stretch running clear across the southern and central High Plains into the Desert Southwest. https://t.co/EK3ZrDxhjc",
+          "created_at": "2026-11-12T12:15:22.000Z",
+          "url": "https://x.com/i/status/2120852953498042716",
+          "media_url": "https://pbs.twimg.com/media/HW7IhXkXcAA3as_.jpg"
+        },
+        {
           "id": "2120646532940632388",
           "text": "WOW, look at this wall cloud on the tornado-warned storm in front of Noah near Terre Haute, Indiana moments ago.\n\nVideo: Noah Miller (@NoahMillerWX) https://t.co/7qUqqb0dZZ",
           "created_at": "2026-11-11T22:35:07.000Z",
@@ -66,20 +80,6 @@
           "created_at": "2026-11-11T12:15:13.000Z",
           "url": "https://x.com/i/status/2120490530316411380",
           "media_url": "https://pbs.twimg.com/media/HW1-5kUWEAAlW4T.jpg"
-        },
-        {
-          "id": "2120221463714160925",
-          "text": "Indiana, Kentucky, and Tennessee are holding the best tornado odds in the country tomorrow.\n\nIndianapolis, Nashville, and Louisville all fall inside that zone, and SPC has it at Level 1 for tornado risk. https://t.co/Y6zXwP1WaL",
-          "created_at": "2026-11-10T18:26:03.000Z",
-          "url": "https://x.com/i/status/2120221463714160925",
-          "media_url": "https://pbs.twimg.com/media/HWyKL2xXEAAkJGf.jpg"
-        },
-        {
-          "id": "2120128277595521095",
-          "text": "The nicest weather in the USA today will be in and around Tucson, AZ and Richmond, VA. https://t.co/0YwHw8aGRE",
-          "created_at": "2026-11-10T12:15:46.000Z",
-          "url": "https://x.com/i/status/2120128277595521095",
-          "media_url": "https://pbs.twimg.com/media/HWw1brPW4AAWc0n.jpg"
         }
       ]
     },
@@ -88,24 +88,25 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2120879566902145499",
+          "text": "A brief tornado can’t be ruled out this afternoon from eastern Pennsylvania across New Jersey, including the Philadelphia area. https://t.co/GVyuQx0Vl0",
+          "created_at": "2026-11-12T14:01:07.000Z",
+          "url": "https://x.com/i/status/2120879566902145499",
+          "media_url": "https://pbs.twimg.com/media/HW7gufnWkAADzre.jpg"
+        },
+        {
+          "id": "2120769798951104884",
+          "text": "We haven't had a CONFIRMED TORNADO in New Jersey in November or December since 1994...\n\nThat could change today.\n\n@WxFront https://t.co/u5HxZsoJsy",
+          "created_at": "2026-11-12T06:44:56.000Z",
+          "url": "https://x.com/i/status/2120769798951104884",
+          "media_url": "https://pbs.twimg.com/media/HW584EiXEAAd8yc.jpg"
+        },
+        {
           "id": "2120666907229511889",
           "text": "The Taurid meteor shower peaks tonight, and there’s no moonlight in the way...\n\nIt’s a quiet shower at around 5 meteors an hour, but the Taurids are known for slow, bright fireballs. \n\nSkies look clearest from California to Texas and across much of the South. Clouds however will https://t.co/OPUQPdDHQZ",
           "created_at": "2026-11-11T23:56:05.000Z",
           "url": "https://x.com/i/status/2120666907229511889",
           "media_url": "https://pbs.twimg.com/media/HW4fT9UXIAA9kaN.jpg"
-        },
-        {
-          "id": "2120661981317230846",
-          "text": "this aint ai, trust, my arms are really that buff\n\nthats what happens when you're 8'7",
-          "created_at": "2026-11-11T23:36:30.000Z",
-          "url": "https://x.com/i/status/2120661981317230846"
-        },
-        {
-          "id": "2120661722965090551",
-          "text": "my first tornado was in my dreams: https://t.co/nHyxKO9Lgr https://t.co/bW1to1a0qz",
-          "created_at": "2026-11-11T23:35:29.000Z",
-          "url": "https://x.com/i/status/2120661722965090551",
-          "media_url": "https://pbs.twimg.com/media/HW4aQMJWQAA36ND.jpg"
         },
         {
           "id": "2120646526552752172",
@@ -167,6 +168,24 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2120850428988461350",
+          "text": "Pacific storm system to bring heavy rain, strong winds, and blizzard conditions to the Sierra Nevada on Friday https://t.co/kPv4k077nv",
+          "created_at": "2026-11-12T12:05:20.000Z",
+          "url": "https://x.com/i/status/2120850428988461350"
+        },
+        {
+          "id": "2120850427574968659",
+          "text": "Polar air will surge into the eastern half of the nation behind the large cyclone, with heavy lake-effect snow in Michigan's Upper Peninsula https://t.co/kPv4k077nv",
+          "created_at": "2026-11-12T12:05:20.000Z",
+          "url": "https://x.com/i/status/2120850427574968659"
+        },
+        {
+          "id": "2120850425574265267",
+          "text": "Strengthening coastal storm to bring a soaking rain to the Northeast Thursday into Friday, with accumulating snow likely in the higher elevations of New York and northern New England https://t.co/kPv4k077nv",
+          "created_at": "2026-11-12T12:05:19.000Z",
+          "url": "https://x.com/i/status/2120850425574265267"
+        },
+        {
           "id": "2120713558451187754",
           "text": "The Sierra Nevada mountain ranges will see some heavy snow Friday into Saturday with 6-12 inches forecast above 6000 ft. and as high as 2 feet in the highest peaks. Winter Storm Severity Index is showing Major impacts as heavy, wet snow will make travel difficult in the passes. https://t.co/6Lm0GaszeA",
           "created_at": "2026-11-12T03:01:27.000Z",
@@ -178,26 +197,6 @@
           "text": "National High/Low temps for Wednesday November 11, 2026: 91 at Lake Elsinore, CA; 9 at 4 miles northwest of Grand Lake, CO #cawx #cowx https://t.co/8WjyC0RdDG",
           "created_at": "2026-11-12T02:45:24.000Z",
           "url": "https://x.com/i/status/2120709519143567802"
-        },
-        {
-          "id": "2120512248896512247",
-          "text": "#WPC_MD 1566 affecting eastern Iowa into northern/central Illinois, #ilwx #iawx, https://t.co/plDKUrKwnR https://t.co/N0ldnNoiSG",
-          "created_at": "2026-11-11T13:41:32.000Z",
-          "url": "https://x.com/i/status/2120512248896512247",
-          "media_url": "https://pbs.twimg.com/media/HW2Sp4iW8AAZqWh.jpg"
-        },
-        {
-          "id": "2120511932675322154",
-          "text": "#WPC_MD 1566 affecting eastern Iowa into northern/central Illinois, #ilwx #iawx, https://t.co/plDKUrKwnR https://t.co/EgiApbtTRU",
-          "created_at": "2026-11-11T13:40:16.000Z",
-          "url": "https://x.com/i/status/2120511932675322154",
-          "media_url": "https://pbs.twimg.com/media/HW2SXd2W8AApJsZ.jpg"
-        },
-        {
-          "id": "2120488008268816665",
-          "text": "Unseasonable warmth continues across much of the West, with a few daily record highs possible in parts of the Northwest and Great Basin https://t.co/kPv4k077nv",
-          "created_at": "2026-11-11T12:05:12.000Z",
-          "url": "https://x.com/i/status/2120488008268816665"
         }
       ]
     }
