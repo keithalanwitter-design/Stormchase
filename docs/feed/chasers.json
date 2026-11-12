@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-11-12T20:43:50.416Z",
+  "updated_utc": "2026-11-12T23:51:12.221Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2120986914199052481",
+          "text": "CONFIRMED #TORNADO NOW north of Chesterfield, New Jersey https://t.co/JH97dT5w7L",
+          "created_at": "2026-11-12T21:07:41.000Z",
+          "url": "https://x.com/i/status/2120986914199052481",
+          "media_url": "https://pbs.twimg.com/media/HW9CWwxXAAAF5-w.jpg"
+        },
         {
           "id": "2120945878156378552",
           "text": "A tornado warning has been issued for northern Delaware including Wilmington for this monster supercell with a strong mesocyclone. https://t.co/eXX4L1Y9nN",
@@ -32,13 +39,6 @@
           "created_at": "2026-11-10T18:47:34.000Z",
           "url": "https://x.com/i/status/2120226877516271757",
           "media_url": "https://pbs.twimg.com/amplify_video_thumb/2120226620367687681/img/aqBIWQD9PLgbJjuE.jpg"
-        },
-        {
-          "id": "2120003919724073055",
-          "text": "The Dominator 3 model factory has been expanded to increase our Dominator reproduction\n\nThank you for supporting our science mission!\n\nYou can get your own Dominator 3 at https://t.co/U1wv6bXueu\n@WillClay25 https://t.co/xsl3OK1pTj",
-          "created_at": "2026-11-10T04:01:36.000Z",
-          "url": "https://x.com/i/status/2120003919724073055",
-          "media_url": "https://pbs.twimg.com/media/HWvEVFpX0AA0Vqn.jpg"
         }
       ]
     },
@@ -46,6 +46,18 @@
       "handle": "ryanhallyall",
       "name": "Ryan Hall, Y’all",
       "posts": [
+        {
+          "id": "2121025060047561077",
+          "text": "https://t.co/P5noLDfYOk",
+          "created_at": "2026-11-12T23:39:15.000Z",
+          "url": "https://x.com/i/status/2121025060047561077"
+        },
+        {
+          "id": "2121024124315119643",
+          "text": "Will there be school tomorrow?\n\nSnow Day Radar gives every public school district in the Lower 48 its chance of a snow day, a delay or a virtual day, updated every hour. Free, and now on iPhone.\n\nPikeville Independent is the first district posting its own calls on it.",
+          "created_at": "2026-11-12T23:35:32.000Z",
+          "url": "https://x.com/i/status/2121024124315119643"
+        },
         {
           "id": "2120948259992502764",
           "text": "A tornado warning in New York City. This is Rockaway Beach in Queens, with the storm headed for JFK. Video courtesy of https://t.co/AzLeCCsxu6 https://t.co/byoJVXY5TR",
@@ -66,20 +78,6 @@
           "created_at": "2026-11-12T17:46:05.000Z",
           "url": "https://x.com/i/status/2120936182162805122",
           "media_url": "https://pbs.twimg.com/media/HW8UN9oWUAAIXLL.jpg"
-        },
-        {
-          "id": "2120895649495306351",
-          "text": "Waves over 40 feet are building in the Pacific, and they reach the California coast Friday night.\n\nNear San Francisco, some breakers could hit 50 feet. Stay off the rocks and the jetties. https://t.co/uYrp74blXP",
-          "created_at": "2026-11-12T15:05:01.000Z",
-          "url": "https://x.com/i/status/2120895649495306351",
-          "media_url": "https://pbs.twimg.com/media/HW7vWnyXcAA15UV.jpg"
-        },
-        {
-          "id": "2120872786025398337",
-          "text": "The first freeze of the fall reaches the Deep South this weekend.\n\nBirmingham and Charlotte haven't hit 32 all season. Saturday night, both are forecast to get there. https://t.co/AmpW6lLqL6",
-          "created_at": "2026-11-12T13:34:10.000Z",
-          "url": "https://x.com/i/status/2120872786025398337",
-          "media_url": "https://pbs.twimg.com/media/HW7aj1nWwAEy2re.jpg"
         }
       ]
     },
@@ -87,6 +85,27 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2121012138152001597",
+          "text": "Lake-effect snow could drop 3 to 5 inches on Chicago’s south suburbs tonight into Friday morning...\n\nThe band sets up just south of the city and into northwest Indiana, while areas right along the lake only see a dusting. \n\nElsewhere, mountain towns from West Virginia to Vermont https://t.co/4GFRMyWZSj",
+          "created_at": "2026-11-12T22:47:54.000Z",
+          "url": "https://x.com/i/status/2121012138152001597",
+          "media_url": "https://pbs.twimg.com/media/HW9ZTH-XQAACcyf.jpg"
+        },
+        {
+          "id": "2120988984058786011",
+          "text": "TORNADO CONFIRMED moments ago near Bordentown, New Jeresy!\n\nThis tornado was spotted lofting debris on a New Jersey Traffic Camera. Multiple cars parked under a toll-booth (which you should NOT do) while the tornado passed. https://t.co/p2BpkHqPl0",
+          "created_at": "2026-11-12T21:15:54.000Z",
+          "url": "https://x.com/i/status/2120988984058786011",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120988941876600832/pu/img/YLBZaEx51Ba3wYJn.jpg"
+        },
+        {
+          "id": "2120987271142789470",
+          "text": "CONFIRMED TORNADO WARNING for Allentown, New Jersey!\n\nSeek shelter immediately if you are in this warning! https://t.co/i9nqTNWWMD",
+          "created_at": "2026-11-12T21:09:06.000Z",
+          "url": "https://x.com/i/status/2120987271142789470",
+          "media_url": "https://pbs.twimg.com/media/HW9Crj-XsAI82k3.jpg"
+        },
         {
           "id": "2120965824357789944",
           "text": "RARE TORNADO in Wilmington, Delaware, just moments ago!\n\nThe last time a tornado happened this late in the year in Delaware was 1989. https://t.co/JwBaZEZgNf",
@@ -100,20 +119,6 @@
           "created_at": "2026-11-12T19:04:00.000Z",
           "url": "https://x.com/i/status/2120955791012221219",
           "media_url": "https://pbs.twimg.com/media/HW8mDXTXUAAfWY3.jpg"
-        },
-        {
-          "id": "2120944306680648021",
-          "text": "John F. Kennedy Airport is under a RARE TORNADO WARNING!\n\nTake shelter NOW if you're in this warning! Flight delays are very likely.\n\n@WxFront https://t.co/cZkAcuHHVE",
-          "created_at": "2026-11-12T18:18:22.000Z",
-          "url": "https://x.com/i/status/2120944306680648021",
-          "media_url": "https://pbs.twimg.com/media/HW8bauzXoAACgYO.jpg"
-        },
-        {
-          "id": "2120938968220897653",
-          "text": "A TORNADO WATCH is in effect for Philly and much of New Jersey until 7 PM, the first one here in November since 2020... https://t.co/4LoUjuZCDy",
-          "created_at": "2026-11-12T17:57:09.000Z",
-          "url": "https://x.com/i/status/2120938968220897653",
-          "media_url": "https://pbs.twimg.com/media/HW8Wv6YXgAAUvih.jpg"
         }
       ]
     },
@@ -161,6 +166,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2120981528968933804",
+          "text": "A reasonably large atmospheric river made landfall today across areas of Northern California and into the Pacific Northwest. A second event is expected to bring more precipitation to the U.S. West Coast, along with the likelihood of snowfall into the Sierra Nevada's. https://t.co/vcs7srz0dJ",
+          "created_at": "2026-11-12T20:46:17.000Z",
+          "url": "https://x.com/i/status/2120981528968933804",
+          "media_url": "https://pbs.twimg.com/media/HW86G6iXcAAAI5M.jpg"
+        },
+        {
           "id": "2120923006063071580",
           "text": "#WPC_MD 1567 affecting eastern Pennsylvania, New Jersey, southern New York State, #nywx #ctwx #njwx #pawx #dewx #mdwx, https://t.co/6AIHQBx3Xx https://t.co/nzfblvFjFk",
           "created_at": "2026-11-12T16:53:44.000Z",
@@ -184,13 +196,6 @@
           "text": "Strengthening coastal storm to bring a soaking rain to the Northeast Thursday into Friday, with accumulating snow likely in the higher elevations of New York and northern New England https://t.co/kPv4k077nv",
           "created_at": "2026-11-12T12:05:19.000Z",
           "url": "https://x.com/i/status/2120850425574265267"
-        },
-        {
-          "id": "2120713558451187754",
-          "text": "The Sierra Nevada mountain ranges will see some heavy snow Friday into Saturday with 6-12 inches forecast above 6000 ft. and as high as 2 feet in the highest peaks. Winter Storm Severity Index is showing Major impacts as heavy, wet snow will make travel difficult in the passes. https://t.co/6Lm0GaszeA",
-          "created_at": "2026-11-12T03:01:27.000Z",
-          "url": "https://x.com/i/status/2120713558451187754",
-          "media_url": "https://pbs.twimg.com/media/HW5JvjcWoAAEF1j.jpg"
         }
       ]
     }
