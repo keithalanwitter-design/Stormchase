@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T23:50:06.075Z",
+  "updated_utc": "2026-11-12T02:50:26.839Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -88,6 +88,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2120666907229511889",
+          "text": "The Taurid meteor shower peaks tonight, and there’s no moonlight in the way...\n\nIt’s a quiet shower at around 5 meteors an hour, but the Taurids are known for slow, bright fireballs. \n\nSkies look clearest from California to Texas and across much of the South. Clouds however will https://t.co/OPUQPdDHQZ",
+          "created_at": "2026-11-11T23:56:05.000Z",
+          "url": "https://x.com/i/status/2120666907229511889",
+          "media_url": "https://pbs.twimg.com/media/HW4fT9UXIAA9kaN.jpg"
+        },
+        {
           "id": "2120661981317230846",
           "text": "this aint ai, trust, my arms are really that buff\n\nthats what happens when you're 8'7",
           "created_at": "2026-11-11T23:36:30.000Z",
@@ -113,12 +120,6 @@
           "created_at": "2026-11-11T20:13:06.000Z",
           "url": "https://x.com/i/status/2120610789954306208",
           "media_url": "https://pbs.twimg.com/media/HW3sRixXsAI6XcM.jpg"
-        },
-        {
-          "id": "2120580355447009553",
-          "text": "Happy Veterans Day! Thank you to everyone who has served our country!",
-          "created_at": "2026-11-11T18:12:09.000Z",
-          "url": "https://x.com/i/status/2120580355447009553"
         }
       ]
     },
@@ -166,6 +167,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2120709519143567802",
+          "text": "National High/Low temps for Wednesday November 11, 2026: 91 at Lake Elsinore, CA; 9 at 4 miles northwest of Grand Lake, CO #cawx #cowx https://t.co/8WjyC0RdDG",
+          "created_at": "2026-11-12T02:45:24.000Z",
+          "url": "https://x.com/i/status/2120709519143567802"
+        },
+        {
           "id": "2120512248896512247",
           "text": "#WPC_MD 1566 affecting eastern Iowa into northern/central Illinois, #ilwx #iawx, https://t.co/plDKUrKwnR https://t.co/N0ldnNoiSG",
           "created_at": "2026-11-11T13:41:32.000Z",
@@ -190,12 +197,6 @@
           "text": "An anomalous polar plunge will bring the coldest air of the season so far to much of the central and eastern U.S. beginning Wednesday night https://t.co/kPv4k077nv",
           "created_at": "2026-11-11T12:05:12.000Z",
           "url": "https://x.com/i/status/2120488006318473442"
-        },
-        {
-          "id": "2120347150370414631",
-          "text": "National High/Low temps for Tuesday November 10, 2026: 92 at Yorba Linda, CA; 12 at Fraser, CO #cawx #cowx https://t.co/La0yF7BDc6",
-          "created_at": "2026-11-11T02:45:29.000Z",
-          "url": "https://x.com/i/status/2120347150370414631"
         }
       ]
     }
