@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12T14:47:36.711Z",
+  "updated_utc": "2026-11-12T17:44:28.979Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -47,6 +47,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2120895649495306351",
+          "text": "Waves over 40 feet are building in the Pacific, and they reach the California coast Friday night.\n\nNear San Francisco, some breakers could hit 50 feet. Stay off the rocks and the jetties. https://t.co/uYrp74blXP",
+          "created_at": "2026-11-12T15:05:01.000Z",
+          "url": "https://x.com/i/status/2120895649495306351",
+          "media_url": "https://pbs.twimg.com/media/HW7vWnyXcAA15UV.jpg"
+        },
+        {
           "id": "2120872786025398337",
           "text": "The first freeze of the fall reaches the Deep South this weekend.\n\nBirmingham and Charlotte haven't hit 32 all season. Saturday night, both are forecast to get there. https://t.co/AmpW6lLqL6",
           "created_at": "2026-11-12T13:34:10.000Z",
@@ -73,13 +80,6 @@
           "created_at": "2026-11-11T13:44:58.000Z",
           "url": "https://x.com/i/status/2120513113082454488",
           "media_url": "https://pbs.twimg.com/media/HW2TcHOXwAACaO3.jpg"
-        },
-        {
-          "id": "2120490530316411380",
-          "text": "The nicest weather in the USA today will be in and around Tucson, AZ, Roswell, NM, and Richmond, VA. https://t.co/l3GssMKUAg",
-          "created_at": "2026-11-11T12:15:13.000Z",
-          "url": "https://x.com/i/status/2120490530316411380",
-          "media_url": "https://pbs.twimg.com/media/HW1-5kUWEAAlW4T.jpg"
         }
       ]
     },
@@ -87,6 +87,20 @@
       "handle": "MaxVelocityWX",
       "name": "Max Velocity",
       "posts": [
+        {
+          "id": "2120917566377898017",
+          "text": "BREAKING: Tornadoes in New Jersey in mid-November are almost unheard of, with the last one this late in 1989, but a few are now possible this afternoon from Philadelphia to the Jersey Shore. https://t.co/Fand0wKZBG",
+          "created_at": "2026-11-12T16:32:07.000Z",
+          "url": "https://x.com/i/status/2120917566377898017",
+          "media_url": "https://pbs.twimg.com/media/HW8DSLcW8AAeD8K.jpg"
+        },
+        {
+          "id": "2120908672276578736",
+          "text": "The odds of a record-breaking El Nino dropped this month...\n\nLast month’s NOAA update gave about an 83% chance this El Nino would top every one since 1950 by the end of the year. Today’s update lowered that to around 60%. \n\nThe reason is that NOAA’s forecast for how strong it https://t.co/etqhwcCbMV",
+          "created_at": "2026-11-12T15:56:46.000Z",
+          "url": "https://x.com/i/status/2120908672276578736",
+          "media_url": "https://pbs.twimg.com/media/HW77MZcWIAA3oNN.jpg"
+        },
         {
           "id": "2120879566902145499",
           "text": "A brief tornado can’t be ruled out this afternoon from eastern Pennsylvania across New Jersey, including the Philadelphia area. https://t.co/GVyuQx0Vl0",
@@ -107,20 +121,6 @@
           "created_at": "2026-11-11T23:56:05.000Z",
           "url": "https://x.com/i/status/2120666907229511889",
           "media_url": "https://pbs.twimg.com/media/HW4fT9UXIAA9kaN.jpg"
-        },
-        {
-          "id": "2120646526552752172",
-          "text": "TORNADO WARNING for Saline City, Indiana!\n\nSeek shelter if you are in this warning! https://t.co/k0NUlc4vBF",
-          "created_at": "2026-11-11T22:35:06.000Z",
-          "url": "https://x.com/i/status/2120646526552752172",
-          "media_url": "https://pbs.twimg.com/media/HW4MxtWW0AAU9Xo.jpg"
-        },
-        {
-          "id": "2120610789954306208",
-          "text": "Large hail and damaging winds are possible across southern Indiana and western Kentucky the remainder of this afternoon and evening...\n\nThe severe risk was just upgraded for the area around Evansville, Louisville and southern Indiana. A cold front is pushing through, and just https://t.co/Ai7R6h6xBn",
-          "created_at": "2026-11-11T20:13:06.000Z",
-          "url": "https://x.com/i/status/2120610789954306208",
-          "media_url": "https://pbs.twimg.com/media/HW3sRixXsAI6XcM.jpg"
         }
       ]
     },
@@ -128,6 +128,13 @@
       "handle": "StormNetWx",
       "name": "StormNet",
       "posts": [
+        {
+          "id": "2120921905175707956",
+          "text": "Current MRMS+, radar forecast, and lightning forecast for this afternoon in the Mid Atlantic and New England.\n\nStrong thunderstorms, heavy rain, and even snow are likely across these regions today. https://t.co/ZhTpQg0aMn",
+          "created_at": "2026-11-12T16:49:21.000Z",
+          "url": "https://x.com/i/status/2120921905175707956",
+          "media_url": "https://pbs.twimg.com/tweet_video_thumb/HW8HDTUW8AE7_8X.jpg"
+        },
         {
           "id": "2120576013763752141",
           "text": "StormNet's AI-mesoanalysis updates every 10 minutes and uses a novel machine learning algorithm to rapidly assimilate observations from across the US. \n\nThis exclusive tool is available for all users in the StormNet app! https://t.co/DPD013sy5X",
@@ -153,13 +160,6 @@
           "text": "Our research efforts continue and we have a ton of projects in the works for the next few months.\n\nThe premium subscription which we are adding soon will help support our research efforts while we keep the most critical info (short range data &amp; daily forecasts) free.",
           "created_at": "2026-11-02T16:05:48.000Z",
           "url": "https://x.com/i/status/2117287066384150664"
-        },
-        {
-          "id": "2117287062697025613",
-          "text": "There are several other new features and enhancements as well that are now live on the website and on the mobile app (iOS and Android).\n\nRead more here https://t.co/vF3i4IjXqW https://t.co/ANbfkkqwDf",
-          "created_at": "2026-11-02T16:05:47.000Z",
-          "url": "https://x.com/i/status/2117287062697025613",
-          "media_url": "https://pbs.twimg.com/media/HWIX4jKWUAA0bPH.jpg"
         }
       ]
     },
@@ -167,6 +167,13 @@
       "handle": "NWSWPC",
       "name": "NWS Weather Prediction Center",
       "posts": [
+        {
+          "id": "2120923006063071580",
+          "text": "#WPC_MD 1567 affecting eastern Pennsylvania, New Jersey, southern New York State, #nywx #ctwx #njwx #pawx #dewx #mdwx, https://t.co/6AIHQBx3Xx https://t.co/nzfblvFjFk",
+          "created_at": "2026-11-12T16:53:44.000Z",
+          "url": "https://x.com/i/status/2120923006063071580",
+          "media_url": "https://pbs.twimg.com/media/HW8IPF6WcAAru4C.jpg"
+        },
         {
           "id": "2120850428988461350",
           "text": "Pacific storm system to bring heavy rain, strong winds, and blizzard conditions to the Sierra Nevada on Friday https://t.co/kPv4k077nv",
@@ -191,12 +198,6 @@
           "created_at": "2026-11-12T03:01:27.000Z",
           "url": "https://x.com/i/status/2120713558451187754",
           "media_url": "https://pbs.twimg.com/media/HW5JvjcWoAAEF1j.jpg"
-        },
-        {
-          "id": "2120709519143567802",
-          "text": "National High/Low temps for Wednesday November 11, 2026: 91 at Lake Elsinore, CA; 9 at 4 miles northwest of Grand Lake, CO #cawx #cowx https://t.co/8WjyC0RdDG",
-          "created_at": "2026-11-12T02:45:24.000Z",
-          "url": "https://x.com/i/status/2120709519143567802"
         }
       ]
     }
