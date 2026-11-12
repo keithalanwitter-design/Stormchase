@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-11-12T17:44:28.979Z",
+  "updated_utc": "2026-11-12T20:43:50.416Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2120945878156378552",
+          "text": "A tornado warning has been issued for northern Delaware including Wilmington for this monster supercell with a strong mesocyclone. https://t.co/eXX4L1Y9nN",
+          "created_at": "2026-11-12T18:24:37.000Z",
+          "url": "https://x.com/i/status/2120945878156378552",
+          "media_url": "https://pbs.twimg.com/media/HW8dCREXwAAvRHM.jpg"
+        },
         {
           "id": "2120380224189915179",
           "text": "Check out this FIRENADO test of the Dominator 3 model using a jet engine by @willclay25 \n\nYou can still get your own Dominator 3 at https://t.co/U1wv6bY242 https://t.co/Reuk94C8bc",
@@ -32,13 +39,6 @@
           "created_at": "2026-11-10T04:01:36.000Z",
           "url": "https://x.com/i/status/2120003919724073055",
           "media_url": "https://pbs.twimg.com/media/HWvEVFpX0AA0Vqn.jpg"
-        },
-        {
-          "id": "2119940077002314074",
-          "text": "PDS beautiful sunset alert once again in Oklahoma! https://t.co/aH84o61Ym6",
-          "created_at": "2026-11-09T23:47:55.000Z",
-          "url": "https://x.com/i/status/2119940077002314074",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2119939771292164096/img/hQDCuj-X6EPdCb0X.jpg"
         }
       ]
     },
@@ -46,6 +46,27 @@
       "handle": "ryanhallyall",
       "name": "Ryan Hall, Y’all",
       "posts": [
+        {
+          "id": "2120948259992502764",
+          "text": "A tornado warning in New York City. This is Rockaway Beach in Queens, with the storm headed for JFK. Video courtesy of https://t.co/AzLeCCsxu6 https://t.co/byoJVXY5TR",
+          "created_at": "2026-11-12T18:34:05.000Z",
+          "url": "https://x.com/i/status/2120948259992502764",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120948194636881920/pu/img/Kg4CB1fIty558mmQ.jpg"
+        },
+        {
+          "id": "2120940504837747149",
+          "text": "A tornado watch for Philadelphia. In November. Storms are already firing just west of the city, and the watch runs until 7 PM Eastern. https://t.co/AKfhnMYzqe",
+          "created_at": "2026-11-12T18:03:16.000Z",
+          "url": "https://x.com/i/status/2120940504837747149",
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120940478883381248/pu/img/PS2mBwTx5vkDYkmY.jpg"
+        },
+        {
+          "id": "2120936182162805122",
+          "text": "Earth just had its most above-normal month ever recorded. Not just the warmest October. Every month, back to 1850. https://t.co/hDVnRa9Sce",
+          "created_at": "2026-11-12T17:46:05.000Z",
+          "url": "https://x.com/i/status/2120936182162805122",
+          "media_url": "https://pbs.twimg.com/media/HW8UN9oWUAAIXLL.jpg"
+        },
         {
           "id": "2120895649495306351",
           "text": "Waves over 40 feet are building in the Pacific, and they reach the California coast Friday night.\n\nNear San Francisco, some breakers could hit 50 feet. Stay off the rocks and the jetties. https://t.co/uYrp74blXP",
@@ -59,27 +80,6 @@
           "created_at": "2026-11-12T13:34:10.000Z",
           "url": "https://x.com/i/status/2120872786025398337",
           "media_url": "https://pbs.twimg.com/media/HW7aj1nWwAEy2re.jpg"
-        },
-        {
-          "id": "2120852953498042716",
-          "text": "The nicest weather in the USA today will be in and around Dallas, TX, Tucson, AZ, and Garden City, KS, with that beautiful dry stretch running clear across the southern and central High Plains into the Desert Southwest. https://t.co/EK3ZrDxhjc",
-          "created_at": "2026-11-12T12:15:22.000Z",
-          "url": "https://x.com/i/status/2120852953498042716",
-          "media_url": "https://pbs.twimg.com/media/HW7IhXkXcAA3as_.jpg"
-        },
-        {
-          "id": "2120646532940632388",
-          "text": "WOW, look at this wall cloud on the tornado-warned storm in front of Noah near Terre Haute, Indiana moments ago.\n\nVideo: Noah Miller (@NoahMillerWX) https://t.co/7qUqqb0dZZ",
-          "created_at": "2026-11-11T22:35:07.000Z",
-          "url": "https://x.com/i/status/2120646532940632388",
-          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120646493979693056/pu/img/Bf6jux3_ZXxYqKeu.jpg"
-        },
-        {
-          "id": "2120513113082454488",
-          "text": "Tonight's meteor shower is a small one, but it's known for big, slow fireballs.\n\nThe Southwest, Oklahoma, most of Texas and Arkansas look clear for it. https://t.co/fCHoVUW5ja",
-          "created_at": "2026-11-11T13:44:58.000Z",
-          "url": "https://x.com/i/status/2120513113082454488",
-          "media_url": "https://pbs.twimg.com/media/HW2TcHOXwAACaO3.jpg"
         }
       ]
     },
@@ -88,39 +88,32 @@
       "name": "Max Velocity",
       "posts": [
         {
-          "id": "2120917566377898017",
-          "text": "BREAKING: Tornadoes in New Jersey in mid-November are almost unheard of, with the last one this late in 1989, but a few are now possible this afternoon from Philadelphia to the Jersey Shore. https://t.co/Fand0wKZBG",
-          "created_at": "2026-11-12T16:32:07.000Z",
-          "url": "https://x.com/i/status/2120917566377898017",
-          "media_url": "https://pbs.twimg.com/media/HW8DSLcW8AAeD8K.jpg"
+          "id": "2120965824357789944",
+          "text": "RARE TORNADO in Wilmington, Delaware, just moments ago!\n\nThe last time a tornado happened this late in the year in Delaware was 1989. https://t.co/JwBaZEZgNf",
+          "created_at": "2026-11-12T19:43:52.000Z",
+          "url": "https://x.com/i/status/2120965824357789944",
+          "media_url": "https://pbs.twimg.com/media/HW8vLXvWsAAXzRl.jpg"
         },
         {
-          "id": "2120908672276578736",
-          "text": "The odds of a record-breaking El Nino dropped this month...\n\nLast month’s NOAA update gave about an 83% chance this El Nino would top every one since 1950 by the end of the year. Today’s update lowered that to around 60%. \n\nThe reason is that NOAA’s forecast for how strong it https://t.co/etqhwcCbMV",
-          "created_at": "2026-11-12T15:56:46.000Z",
-          "url": "https://x.com/i/status/2120908672276578736",
-          "media_url": "https://pbs.twimg.com/media/HW77MZcWIAA3oNN.jpg"
+          "id": "2120955791012221219",
+          "text": "UNWARNED TORNADO MOMENTS AGO in Wilmington, Delaware!\n\nThis may still be down. Take shelter! https://t.co/Ett2ZjtJ2e",
+          "created_at": "2026-11-12T19:04:00.000Z",
+          "url": "https://x.com/i/status/2120955791012221219",
+          "media_url": "https://pbs.twimg.com/media/HW8mDXTXUAAfWY3.jpg"
         },
         {
-          "id": "2120879566902145499",
-          "text": "A brief tornado can’t be ruled out this afternoon from eastern Pennsylvania across New Jersey, including the Philadelphia area. https://t.co/GVyuQx0Vl0",
-          "created_at": "2026-11-12T14:01:07.000Z",
-          "url": "https://x.com/i/status/2120879566902145499",
-          "media_url": "https://pbs.twimg.com/media/HW7gufnWkAADzre.jpg"
+          "id": "2120944306680648021",
+          "text": "John F. Kennedy Airport is under a RARE TORNADO WARNING!\n\nTake shelter NOW if you're in this warning! Flight delays are very likely.\n\n@WxFront https://t.co/cZkAcuHHVE",
+          "created_at": "2026-11-12T18:18:22.000Z",
+          "url": "https://x.com/i/status/2120944306680648021",
+          "media_url": "https://pbs.twimg.com/media/HW8bauzXoAACgYO.jpg"
         },
         {
-          "id": "2120769798951104884",
-          "text": "We haven't had a CONFIRMED TORNADO in New Jersey in November or December since 1994...\n\nThat could change today.\n\n@WxFront https://t.co/u5HxZsoJsy",
-          "created_at": "2026-11-12T06:44:56.000Z",
-          "url": "https://x.com/i/status/2120769798951104884",
-          "media_url": "https://pbs.twimg.com/media/HW584EiXEAAd8yc.jpg"
-        },
-        {
-          "id": "2120666907229511889",
-          "text": "The Taurid meteor shower peaks tonight, and there’s no moonlight in the way...\n\nIt’s a quiet shower at around 5 meteors an hour, but the Taurids are known for slow, bright fireballs. \n\nSkies look clearest from California to Texas and across much of the South. Clouds however will https://t.co/OPUQPdDHQZ",
-          "created_at": "2026-11-11T23:56:05.000Z",
-          "url": "https://x.com/i/status/2120666907229511889",
-          "media_url": "https://pbs.twimg.com/media/HW4fT9UXIAA9kaN.jpg"
+          "id": "2120938968220897653",
+          "text": "A TORNADO WATCH is in effect for Philly and much of New Jersey until 7 PM, the first one here in November since 2020... https://t.co/4LoUjuZCDy",
+          "created_at": "2026-11-12T17:57:09.000Z",
+          "url": "https://x.com/i/status/2120938968220897653",
+          "media_url": "https://pbs.twimg.com/media/HW8Wv6YXgAAUvih.jpg"
         }
       ]
     },
