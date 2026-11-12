@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-12T02:50:26.839Z",
+  "updated_utc": "2026-11-12T05:46:54.568Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -167,6 +167,13 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2120713558451187754",
+          "text": "The Sierra Nevada mountain ranges will see some heavy snow Friday into Saturday with 6-12 inches forecast above 6000 ft. and as high as 2 feet in the highest peaks. Winter Storm Severity Index is showing Major impacts as heavy, wet snow will make travel difficult in the passes. https://t.co/6Lm0GaszeA",
+          "created_at": "2026-11-12T03:01:27.000Z",
+          "url": "https://x.com/i/status/2120713558451187754",
+          "media_url": "https://pbs.twimg.com/media/HW5JvjcWoAAEF1j.jpg"
+        },
+        {
           "id": "2120709519143567802",
           "text": "National High/Low temps for Wednesday November 11, 2026: 91 at Lake Elsinore, CA; 9 at 4 miles northwest of Grand Lake, CO #cawx #cowx https://t.co/8WjyC0RdDG",
           "created_at": "2026-11-12T02:45:24.000Z",
@@ -191,12 +198,6 @@
           "text": "Unseasonable warmth continues across much of the West, with a few daily record highs possible in parts of the Northwest and Great Basin https://t.co/kPv4k077nv",
           "created_at": "2026-11-11T12:05:12.000Z",
           "url": "https://x.com/i/status/2120488008268816665"
-        },
-        {
-          "id": "2120488006318473442",
-          "text": "An anomalous polar plunge will bring the coldest air of the season so far to much of the central and eastern U.S. beginning Wednesday night https://t.co/kPv4k077nv",
-          "created_at": "2026-11-11T12:05:12.000Z",
-          "url": "https://x.com/i/status/2120488006318473442"
         }
       ]
     }
