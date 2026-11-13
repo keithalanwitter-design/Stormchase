@@ -1,10 +1,17 @@
 {
-  "updated_utc": "2026-11-12T23:51:12.221Z",
+  "updated_utc": "2026-11-13T02:47:16.407Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2121065501719920837",
+          "text": "Lightning strikes the #Dominator 3 after #tornado intercept \n\n#stormchasing https://t.co/XHFX8KkKjn",
+          "created_at": "2026-11-13T02:19:57.000Z",
+          "url": "https://x.com/i/status/2121065501719920837",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2121065450867929088/img/5gYVg2o0vNDuQZl9.jpg"
+        },
         {
           "id": "2120986914199052481",
           "text": "CONFIRMED #TORNADO NOW north of Chesterfield, New Jersey https://t.co/JH97dT5w7L",
@@ -32,13 +39,6 @@
           "created_at": "2026-11-10T20:25:54.000Z",
           "url": "https://x.com/i/status/2120251624904114684",
           "media_url": "https://pbs.twimg.com/media/HWylnW0WMAAUqfT.jpg"
-        },
-        {
-          "id": "2120226877516271757",
-          "text": "WELCOME TO THE BEAR’S CAGE!\n\nWatch this surprise #tornado intercept near Hubbell, Nebraska with insane CG lightning from the vault of this mothership supercell\n\n#stormchasing #Dominator https://t.co/Boy4OASbxe",
-          "created_at": "2026-11-10T18:47:34.000Z",
-          "url": "https://x.com/i/status/2120226877516271757",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2120226620367687681/img/aqBIWQD9PLgbJjuE.jpg"
         }
       ]
     },
@@ -86,6 +86,20 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2121059240282304609",
+          "text": "Waves as tall as a 4-story building are headed for the California coast this weekend...\n\nA huge storm with hurricane-force winds out in the North Pacific is building seas close to 50 feet. That energy travels hundreds of miles toward the coast as a swell, with waves about 18 https://t.co/sneJdJvfDy",
+          "created_at": "2026-11-13T01:55:04.000Z",
+          "url": "https://x.com/i/status/2121059240282304609",
+          "media_url": "https://pbs.twimg.com/media/HW-EIqbWcAA2nqe.jpg"
+        },
+        {
+          "id": "2121038340824658044",
+          "text": "Chicago and NW Indiana could have quite the snow event tonight into tomorrow *if* the temperatures cool down enough! 👀 \n\nThe NWS is forecasting 3- 6\" in places like NW Indiana and just South of Chicago, but many high-res computer models have as much as 12\" falling near Chicago. https://t.co/UpBsZaH4DN",
+          "created_at": "2026-11-13T00:32:02.000Z",
+          "url": "https://x.com/i/status/2121038340824658044",
+          "media_url": "https://pbs.twimg.com/media/HW9xIY9XgAAfV1u.jpg"
+        },
+        {
           "id": "2121012138152001597",
           "text": "Lake-effect snow could drop 3 to 5 inches on Chicago’s south suburbs tonight into Friday morning...\n\nThe band sets up just south of the city and into northwest Indiana, while areas right along the lake only see a dusting. \n\nElsewhere, mountain towns from West Virginia to Vermont https://t.co/4GFRMyWZSj",
           "created_at": "2026-11-12T22:47:54.000Z",
@@ -105,20 +119,6 @@
           "created_at": "2026-11-12T21:09:06.000Z",
           "url": "https://x.com/i/status/2120987271142789470",
           "media_url": "https://pbs.twimg.com/media/HW9Crj-XsAI82k3.jpg"
-        },
-        {
-          "id": "2120965824357789944",
-          "text": "RARE TORNADO in Wilmington, Delaware, just moments ago!\n\nThe last time a tornado happened this late in the year in Delaware was 1989. https://t.co/JwBaZEZgNf",
-          "created_at": "2026-11-12T19:43:52.000Z",
-          "url": "https://x.com/i/status/2120965824357789944",
-          "media_url": "https://pbs.twimg.com/media/HW8vLXvWsAAXzRl.jpg"
-        },
-        {
-          "id": "2120955791012221219",
-          "text": "UNWARNED TORNADO MOMENTS AGO in Wilmington, Delaware!\n\nThis may still be down. Take shelter! https://t.co/Ett2ZjtJ2e",
-          "created_at": "2026-11-12T19:04:00.000Z",
-          "url": "https://x.com/i/status/2120955791012221219",
-          "media_url": "https://pbs.twimg.com/media/HW8mDXTXUAAfWY3.jpg"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2121071886780026950",
+          "text": "National High/Low temps for Thursday November 12, 2026: 89 at 13 miles west-southwest of Florida City, FL; 11 at Peter Sinks, UT #flwx #utwx https://t.co/2xzmFndMgK",
+          "created_at": "2026-11-13T02:45:20.000Z",
+          "url": "https://x.com/i/status/2121071886780026950"
+        },
+        {
           "id": "2120981528968933804",
           "text": "A reasonably large atmospheric river made landfall today across areas of Northern California and into the Pacific Northwest. A second event is expected to bring more precipitation to the U.S. West Coast, along with the likelihood of snowfall into the Sierra Nevada's. https://t.co/vcs7srz0dJ",
           "created_at": "2026-11-12T20:46:17.000Z",
@@ -190,12 +196,6 @@
           "text": "Polar air will surge into the eastern half of the nation behind the large cyclone, with heavy lake-effect snow in Michigan's Upper Peninsula https://t.co/kPv4k077nv",
           "created_at": "2026-11-12T12:05:20.000Z",
           "url": "https://x.com/i/status/2120850427574968659"
-        },
-        {
-          "id": "2120850425574265267",
-          "text": "Strengthening coastal storm to bring a soaking rain to the Northeast Thursday into Friday, with accumulating snow likely in the higher elevations of New York and northern New England https://t.co/kPv4k077nv",
-          "created_at": "2026-11-12T12:05:19.000Z",
-          "url": "https://x.com/i/status/2120850425574265267"
         }
       ]
     }
