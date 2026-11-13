@@ -1,10 +1,30 @@
 {
-  "updated_utc": "2026-11-13T02:47:16.407Z",
+  "updated_utc": "2026-11-13T05:47:28.119Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
       "name": "Reed Timmer, PhD",
       "posts": [
+        {
+          "id": "2121083976924471651",
+          "text": "Incredible angle of the Wilmington, Delaware #tornado today. I believe this was a water spout for at least part of its lifecycle https://t.co/lf5Ho7MHHP",
+          "created_at": "2026-11-13T03:33:22.000Z",
+          "url": "https://x.com/i/status/2121083976924471651",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2121075903300075520/img/H-J40kzR4whOtbOY.jpg"
+        },
+        {
+          "id": "2121081841243353110",
+          "text": "This shows a jet-like subvortex beneath a dynamic pipe - you can see it at the beginning of the video",
+          "created_at": "2026-11-13T03:24:53.000Z",
+          "url": "https://x.com/i/status/2121081841243353110"
+        },
+        {
+          "id": "2121080860094935393",
+          "text": "Mini Andover tornado today in New Jersey if this is accurate https://t.co/kPVHFDGNo4",
+          "created_at": "2026-11-13T03:20:59.000Z",
+          "url": "https://x.com/i/status/2121080860094935393",
+          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2120959882006237184/img/IHSU8QkVZsY5pYD5.jpg"
+        },
         {
           "id": "2121065501719920837",
           "text": "Lightning strikes the #Dominator 3 after #tornado intercept \n\n#stormchasing https://t.co/XHFX8KkKjn",
@@ -18,27 +38,6 @@
           "created_at": "2026-11-12T21:07:41.000Z",
           "url": "https://x.com/i/status/2120986914199052481",
           "media_url": "https://pbs.twimg.com/media/HW9CWwxXAAAF5-w.jpg"
-        },
-        {
-          "id": "2120945878156378552",
-          "text": "A tornado warning has been issued for northern Delaware including Wilmington for this monster supercell with a strong mesocyclone. https://t.co/eXX4L1Y9nN",
-          "created_at": "2026-11-12T18:24:37.000Z",
-          "url": "https://x.com/i/status/2120945878156378552",
-          "media_url": "https://pbs.twimg.com/media/HW8dCREXwAAvRHM.jpg"
-        },
-        {
-          "id": "2120380224189915179",
-          "text": "Check out this FIRENADO test of the Dominator 3 model using a jet engine by @willclay25 \n\nYou can still get your own Dominator 3 at https://t.co/U1wv6bY242 https://t.co/Reuk94C8bc",
-          "created_at": "2026-11-11T04:56:54.000Z",
-          "url": "https://x.com/i/status/2120380224189915179",
-          "media_url": "https://pbs.twimg.com/amplify_video_thumb/2120380130690215936/img/HSZOl7OdODu3t6jW.jpg"
-        },
-        {
-          "id": "2120251624904114684",
-          "text": "NEVER STOP CHASING, the movie, is up for an Oscar nomination in the documentary category!\n\nThe digital release on Apple TV is planned for November 14 which is right around the corner.\n\nThank you for your support of our movie https://t.co/IqrdlNgh2U",
-          "created_at": "2026-11-10T20:25:54.000Z",
-          "url": "https://x.com/i/status/2120251624904114684",
-          "media_url": "https://pbs.twimg.com/media/HWylnW0WMAAUqfT.jpg"
         }
       ]
     },
@@ -86,6 +85,13 @@
       "name": "Max Velocity",
       "posts": [
         {
+          "id": "2121085172388966565",
+          "text": "👋 WELCOME TO OUR TEAM: Gunner Wagner\n\nWe're excited to officially welcome Gunner Wagner, also known as \"Jumbo Slice,\" to the Max Velocity team as our Community Outreach Coordinator!\n\nIn his role, Gunner assists with camera operations during our severe weather livestreams, https://t.co/JvCgAVPdiy",
+          "created_at": "2026-11-13T03:38:07.000Z",
+          "url": "https://x.com/i/status/2121085172388966565",
+          "media_url": "https://pbs.twimg.com/media/HW-bqvhXoAERmEI.jpg"
+        },
+        {
           "id": "2121059240282304609",
           "text": "Waves as tall as a 4-story building are headed for the California coast this weekend...\n\nA huge storm with hurricane-force winds out in the North Pacific is building seas close to 50 feet. That energy travels hundreds of miles toward the coast as a swell, with waves about 18 https://t.co/sneJdJvfDy",
           "created_at": "2026-11-13T01:55:04.000Z",
@@ -112,13 +118,6 @@
           "created_at": "2026-11-12T21:15:54.000Z",
           "url": "https://x.com/i/status/2120988984058786011",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120988941876600832/pu/img/YLBZaEx51Ba3wYJn.jpg"
-        },
-        {
-          "id": "2120987271142789470",
-          "text": "CONFIRMED TORNADO WARNING for Allentown, New Jersey!\n\nSeek shelter immediately if you are in this warning! https://t.co/i9nqTNWWMD",
-          "created_at": "2026-11-12T21:09:06.000Z",
-          "url": "https://x.com/i/status/2120987271142789470",
-          "media_url": "https://pbs.twimg.com/media/HW9Crj-XsAI82k3.jpg"
         }
       ]
     },
