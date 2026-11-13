@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13T05:47:28.119Z",
+  "updated_utc": "2026-11-13T14:44:58.688Z",
   "accounts": [
     {
       "handle": "ReedTimmerUSA",
@@ -46,6 +46,13 @@
       "name": "Ryan Hall, Y’all",
       "posts": [
         {
+          "id": "2121215468362989811",
+          "text": "The nicest weather in the USA today will be in and around San Antonio, TX, Cypress, TX, and Victoria, TX. https://t.co/1SDIzGd4kL",
+          "created_at": "2026-11-13T12:15:52.000Z",
+          "url": "https://x.com/i/status/2121215468362989811",
+          "media_url": "https://pbs.twimg.com/media/HXASOguWkAAaNkI.jpg"
+        },
+        {
           "id": "2121025060047561077",
           "text": "https://t.co/P5noLDfYOk",
           "created_at": "2026-11-12T23:39:15.000Z",
@@ -70,13 +77,6 @@
           "created_at": "2026-11-12T18:03:16.000Z",
           "url": "https://x.com/i/status/2120940504837747149",
           "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120940478883381248/pu/img/PS2mBwTx5vkDYkmY.jpg"
-        },
-        {
-          "id": "2120936182162805122",
-          "text": "Earth just had its most above-normal month ever recorded. Not just the warmest October. Every month, back to 1850. https://t.co/hDVnRa9Sce",
-          "created_at": "2026-11-12T17:46:05.000Z",
-          "url": "https://x.com/i/status/2120936182162805122",
-          "media_url": "https://pbs.twimg.com/media/HW8UN9oWUAAIXLL.jpg"
         }
       ]
     },
@@ -165,6 +165,24 @@
       "name": "NWS Weather Prediction Center",
       "posts": [
         {
+          "id": "2121212834247778384",
+          "text": "Chances for moderate to heavy snow across the Sierra through Saturday https://t.co/kPv4k077nv",
+          "created_at": "2026-11-13T12:05:24.000Z",
+          "url": "https://x.com/i/status/2121212834247778384"
+        },
+        {
+          "id": "2121212832674910539",
+          "text": "Showers and thunderstorms will develop across the Four Corners into the southern High Plains and Texas through Saturday https://t.co/kPv4k077nv",
+          "created_at": "2026-11-13T12:05:24.000Z",
+          "url": "https://x.com/i/status/2121212832674910539"
+        },
+        {
+          "id": "2121212831232074231",
+          "text": "Localized flooding concerns across Northwest Washington on Saturday https://t.co/kPv4k077nv",
+          "created_at": "2026-11-13T12:05:23.000Z",
+          "url": "https://x.com/i/status/2121212831232074231"
+        },
+        {
           "id": "2121071886780026950",
           "text": "National High/Low temps for Thursday November 12, 2026: 89 at 13 miles west-southwest of Florida City, FL; 11 at Peter Sinks, UT #flwx #utwx https://t.co/2xzmFndMgK",
           "created_at": "2026-11-13T02:45:20.000Z",
@@ -176,25 +194,6 @@
           "created_at": "2026-11-12T20:46:17.000Z",
           "url": "https://x.com/i/status/2120981528968933804",
           "media_url": "https://pbs.twimg.com/media/HW86G6iXcAAAI5M.jpg"
-        },
-        {
-          "id": "2120923006063071580",
-          "text": "#WPC_MD 1567 affecting eastern Pennsylvania, New Jersey, southern New York State, #nywx #ctwx #njwx #pawx #dewx #mdwx, https://t.co/6AIHQBx3Xx https://t.co/nzfblvFjFk",
-          "created_at": "2026-11-12T16:53:44.000Z",
-          "url": "https://x.com/i/status/2120923006063071580",
-          "media_url": "https://pbs.twimg.com/media/HW8IPF6WcAAru4C.jpg"
-        },
-        {
-          "id": "2120850428988461350",
-          "text": "Pacific storm system to bring heavy rain, strong winds, and blizzard conditions to the Sierra Nevada on Friday https://t.co/kPv4k077nv",
-          "created_at": "2026-11-12T12:05:20.000Z",
-          "url": "https://x.com/i/status/2120850428988461350"
-        },
-        {
-          "id": "2120850427574968659",
-          "text": "Polar air will surge into the eastern half of the nation behind the large cyclone, with heavy lake-effect snow in Michigan's Upper Peninsula https://t.co/kPv4k077nv",
-          "created_at": "2026-11-12T12:05:20.000Z",
-          "url": "https://x.com/i/status/2120850427574968659"
         }
       ]
     }
